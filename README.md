@@ -390,7 +390,13 @@
 - **链接**：[[arXiv:2312.09242](https://arxiv.org/abs/2312.09242)] [Code]
 - **说明**：✏️
 
-#### [65] Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models
+#### [65] Splatter Image: Ultra-Fast Single-View 3D Reconstruction
+- **作者**：Stanislaw Szymanowicz, Christian Rupprecht, Andrea Vedaldi
+- **单位**：University of Oxford (VGG)
+- **链接**：[[arXiv:2312.13150](https://arxiv.org/abs/2312.13150)] [[Code](https://github.com/szymanowiczs/splatter-image)]
+- **说明**：✏️
+
+#### [66] Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models
 - **作者**：Huan Ling, Seung Wook Kim, Antonio Torralba, Sanja Fidler, Karsten Kreis
 - **单位**：NVIDIA ⟐ Vector Institute ⟐ University of Toronto ⟐ MIT
 - **链接**：[[arXiv:2312.13763](https://arxiv.org/abs/2312.13763)] [Code]
