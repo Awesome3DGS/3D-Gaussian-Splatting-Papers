@@ -10,7 +10,7 @@
 - **作者**：Jonathon Luiten, Georgios Kopanas, Bastian Leibe, Deva Ramanan
 - **单位**：Carnegie Mellon University ⟐ RWTH Aachen University ⟐ Inria & Universite C´ ote d’Azur
 - **链接**：[[arXiv:2308.09713](https://arxiv.org/abs/2308.09713)] [Code](https://github.com/JonathonLuiten/Dynamic3DGaussians)]
-- **说明**：✏️
+- **说明**：✍️ 提出一种建模动态场景的3DGS方法，可以应用的各种密集6-DOF跟踪相关的下游任务，包括第一视角视图合成、动态组合场景合成和4D视频编辑等。
 
 #### [2] Flexible Techniques for Differentiable Rendering with 3D Gaussians
 - **作者**：Leonid Keselman, Martial Hebert
