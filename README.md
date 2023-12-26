@@ -10,7 +10,7 @@
 - **作者**：Jonathon Luiten, Georgios Kopanas, Bastian Leibe, Deva Ramanan
 - **单位**：Carnegie Mellon University ⟐ RWTH Aachen University ⟐ Inria & Universite C´ ote d’Azur
 - **链接**：[[arXiv:2308.09713](https://arxiv.org/abs/2308.09713)] [Code](https://github.com/JonathonLuiten/Dynamic3DGaussians)]
-- **说明**：✍️ 提出一种建模动态场景的3DGS方法，可以应用的各种密集6-DOF跟踪相关的下游任务，包括第一视角视图合成、动态组合场景合成和4D视频编辑等。
+- **说明**：✍️ 可能是CVPR2024投稿，提出一种建模动态场景的3DGS方法，可以应用的各种密集6-DOF跟踪相关的下游任务，包括第一视角视图合成、动态组合场景合成和4D视频编辑等。
 
 #### [2] Flexible Techniques for Differentiable Rendering with 3D Gaussians
 - **作者**：Leonid Keselman, Martial Hebert
@@ -45,8 +45,8 @@
 #### [7] Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting
 - **作者**：Zeyu Yang, Hongye Yang, Zijie Pan, Xiatian Zhu, Li Zhang
 - **单位**：Fudan University ⟐ University of Surrey
-- **链接**：[[arXiv:2310.10642](https://arxiv.org/abs/2310.10642)] [[Code](https://github.com/fudan-zvg/4d-gaussian-splatting)]
-- **说明**：✏️
+- **链接**：[[arXiv:2310.10642](https://arxiv.org/abs/2310.10642)] [[OpenReview](https://openreview.net/forum?id=WhgB5sispV)] [[Code](https://github.com/fudan-zvg/4d-gaussian-splatting)]
+- **说明**：ICLR2024 投稿， OpenReview Ratings: 8, 6, 6
 
 #### [8] Dynamic Gaussian Splatting from Markerless Motion Capture can Reconstruct Infants Movements
 - **作者**：R. James Cotton, Colleen Peyton
@@ -312,91 +312,103 @@
 - **链接**：[[arXiv:2312.03203](https://arxiv.org/abs/2312.03203)] [Code]
 - **说明**：✏️
 
-#### [52] Relightable Gaussian Codec Avatars
+#### [52] Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle
+- **作者**：Youtian Lin, Zuozhuo Dai, Siyu Zhu, Yao Yao
+- **单位**：Nanjing University ⟐ Alibaba Group ⟐ Fudan University
+- **链接**：[[arXiv:2312.03431](https://arxiv.org/abs/2312.03431)] [Code]
+- **说明**：✏️
+
+#### [53] Relightable Gaussian Codec Avatars
 - **作者**：Shunsuke Saito, Gabriel Schwartz, Tomas Simon, Junxuan Li, Giljoo Nam
 - **单位**：Codec Avatars Lab, Meta
 - **链接**：[[arXiv:2312.03704](https://arxiv.org/abs/2312.03704)] [Code]
 - **说明**：✏️
 
-#### [53] MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar
+#### [54] MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar
 - **作者**：Yufan Chen, Lizhen Wang, Qijing Li, Hongjiang Xiao, Shengping Zhang, Hongxun Yao, Yebin Liu
 - **单位**：Harbin Institute of Technology ⟐ Tsinghua University ⟐ Communication University of China
 - **链接**：[[arXiv:2312.04558](https://arxiv.org/abs/2312.04558)] [[Code](https://github.com/yufan1012/MonoGaussianAvatar)]
 - **说明**：✏️
 
-#### [54] EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS
+#### [55] EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS
 - **作者**：Sharath Girish, Kamal Gupta, Abhinav Shrivastava
 - **单位**：University of Maryland
 - **链接**：[[arXiv:2312.04564](https://arxiv.org/abs/2312.04564)] [[Code](https://github.com/Sharath-girish/efficientgaussian)]
 - **说明**：✏️
 
-#### [55] Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting
+#### [56] Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting
 - **作者**：Xiaofeng Yang, Yiwen Chen, Cheng Chen, Chi Zhang, Yi Xu, Xulei Yang, Fayao Liu, Guosheng Lin
 - **单位**：Nanyang Technological University ⟐ OPPO US Research Center ⟐ A*STAR
 - **链接**：[[arXiv:2312.04820](https://arxiv.org/abs/2312.04820)] [Code]
 - **说明**：✏️
 
-#### [56] GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization
+#### [57] GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization
 - **作者**：Yahao Shi, Yanmin Wu, Chenming Wu, Xing Liu, Chen Zhao, Haocheng Feng, Jingtuo Liu, Liangjun Zhang, Jian Zhang, Bin Zhou, Errui Ding, Jingdong Wang
 - **单位**：Beihang University ⟐ Peking University ⟐ Baidu VIS
 - **链接**：[[arXiv:2312.05133](https://arxiv.org/abs/2312.05133)] [Code]
 - **说明**：✏️
 
-#### [57] ASH: Animatable Gaussian Splats for Efficient and Photoreal Human Rendering
+#### [58] ASH: Animatable Gaussian Splats for Efficient and Photoreal Human Rendering
 - **作者**：Haokai Pang, Heming Zhu, Adam Kortylewski, Christian Theobalt, Marc Habermann
 - **单位**：Max Planck Institute for Informatics ⟐ ETH Zurich ⟐  Universitat Freiburg ⟐ Saarbrucken Research Center for Visual Computing, Interaction and AI
 - **链接**：[[arXiv:2312.05941](https://arxiv.org/abs/2312.05941)] [Code]
 - **说明**：✏️
 
-#### [58] Gaussian Splatting SLAM
+#### [59] Gaussian Splatting SLAM
 - **作者**：Hidenobu Matsuki, Riku Murai, Paul H.J. Kelly, Andrew J. Davison
 - **单位**：Imperial College London
 - **链接**：[[arXiv:2312.06741](https://arxiv.org/abs/2312.06741)] [Code]
 - **说明**：✏️
 
-#### [59] COLMAP-Free 3D Gaussian Splatting
+#### [60] COLMAP-Free 3D Gaussian Splatting
 - **作者**：Yang Fu, Sifei Liu, Amey Kulkarni, Jan Kautz, Alexei A. Efros, Xiaolong Wang
 - **单位**：UC San Deigo ⟐ NVIDIA ⟐ 3UC Berkeley
 - **链接**：[[arXiv:2312.07504](https://arxiv.org/abs/2312.07504)] [Code]
 - **说明**：✏️
 
-#### [60] DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes
+#### [61] DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes
 - **作者**：Xiaoyu Zhou, Zhiwei Lin, Xiaojun Shan, Yongtao Wang, Deqing Sun, Ming-Hsuan Yang
 - **单位**：Peking University ⟐ Google Research ⟐ University of California, Merced
 - **链接**：[[arXiv:2312.07920](https://arxiv.org/abs/2312.07920)] [Code]
 - **说明**：✏️
 
-#### [61] iComMa: Inverting 3D Gaussians Splatting for Camera Pose Estimation via Comparing and Matching
+#### [62] iComMa: Inverting 3D Gaussians Splatting for Camera Pose Estimation via Comparing and Matching
 - **作者**：Yuan Sun, Xuan Wang, Yunfan Zhang, Jie Zhang, Caigui Jiang, Yu Guo, Fei Wang
 - **单位**：Xi’an Jiaotong University ⟐ Ant Group
 - **链接**：[[arXiv:2312.09031](https://arxiv.org/abs/2312.09031)] [Code]
 - **说明**：✏️
 
-#### [62] Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers
+#### [63] Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers
 - **作者**：Zi-Xin Zou, Zhipeng Yu, Yuan-Chen Guo, Yangguang Li, Ding Liang, Yan-Pei Cao, Song-Hai Zhang
 - **单位**：Tsinghua University ⟐ VAST
 - **链接**：[[arXiv:2312.09147](https://arxiv.org/abs/2312.09147)] [Code]
 - **说明**：✏️
 
-#### [63] 3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting
+#### [64] 3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting
 - **作者**：Zhiyin Qian, Shaofei Wang, Marko Mihajlovic, Andreas Geiger, Siyu Tang
 - **单位**：ETH Zürich ⟐ University of Tübingen ⟐ Tübingen AI Center
 - **链接**：[[arXiv:2312.09228](https://arxiv.org/abs/2312.09228)] [[Code](https://github.com/mikeqzy/3dgs-avatar-release)]
 - **说明**：✏️
 
-#### [64] Text2Immersion: Generative Immersive Scene with 3D Gaussians
+#### [65] Text2Immersion: Generative Immersive Scene with 3D Gaussians
 - **作者**：Hao Ouyang, Kathryn Heal, Stephen Lombardi, Tiancheng Sun
 - **单位**：HKUST ⟐ Google
 - **链接**：[[arXiv:2312.09242](https://arxiv.org/abs/2312.09242)] [Code]
 - **说明**：✏️
 
-#### [65] Splatter Image: Ultra-Fast Single-View 3D Reconstruction
+#### [66] GauFRe: Gaussian Deformation Fields for Real-time Dynamic Novel View Synthesis
+- **作者**：Yiqing Liang, Numair Khan, Zhengqin Li, Thu Nguyen-Phuoc, Douglas Lanman, James Tompkin, Lei Xiao
+- **单位**：Meta ⟐ Brown University
+- **链接**：[[arXiv:2312.11458](https://arxiv.org/abs/2312.11458)] [[Supp](https://lynl7130.github.io/gaufre/static/pdfs/suppl.pdf)] [Code]
+- **说明**：✏️
+
+#### [67] Splatter Image: Ultra-Fast Single-View 3D Reconstruction
 - **作者**：Stanislaw Szymanowicz, Christian Rupprecht, Andrea Vedaldi
 - **单位**：University of Oxford (VGG)
 - **链接**：[[arXiv:2312.13150](https://arxiv.org/abs/2312.13150)] [[Code](https://github.com/szymanowiczs/splatter-image)]
 - **说明**：✏️
 
-#### [66] Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models
+#### [68] Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models
 - **作者**：Huan Ling, Seung Wook Kim, Antonio Torralba, Sanja Fidler, Karsten Kreis
 - **单位**：NVIDIA ⟐ Vector Institute ⟐ University of Toronto ⟐ MIT
 - **链接**：[[arXiv:2312.13763](https://arxiv.org/abs/2312.13763)] [Code]
