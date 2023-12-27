@@ -413,3 +413,9 @@
 - **单位**：NVIDIA ⟐ Vector Institute ⟐ University of Toronto ⟐ MIT
 - **链接**：[[arXiv:2312.13763](https://arxiv.org/abs/2312.13763)] [Code]
 - **说明**：✏️
+
+#### [69] LangSplat: 3D Language Gaussian Splatting
+- **作者**：Minghan Qin, Wanhua Li, Jiawei Zhou, Haoqian Wang, Hanspeter Pfister
+- **单位**：Tsinghua University ⟐ Harvard University
+- **链接**：[[arXiv:2312.16084](https://arxiv.org/abs/2312.16084)] [[Code](https://github.com/minghanqin/LangSplat)]
+- **说明**：✏️
