@@ -414,7 +414,13 @@
 - **链接**：[[arXiv:2312.13763](https://arxiv.org/abs/2312.13763)] [Code]
 - **说明**：✏️
 
-#### [69] LangSplat: 3D Language Gaussian Splatting
+#### [69] SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes
+- **作者**：Yi-Hua Huang, Yang-Tian Sun, Ziyi Yang, Xiaoyang Lyu, Yan-Pei Cao, Xiaojuan Qi
+- **单位**：The University of Hong Kong ⟐ VAST ⟐ Zhejiang University
+- **链接**：[[arXiv:2312.14937](https://arxiv.org/abs/2312.14937)] [Code]
+- **说明**：✏️
+
+#### [70] LangSplat: 3D Language Gaussian Splatting
 - **作者**：Minghan Qin, Wanhua Li, Jiawei Zhou, Haoqian Wang, Hanspeter Pfister
 - **单位**：Tsinghua University ⟐ Harvard University
 - **链接**：[[arXiv:2312.16084](https://arxiv.org/abs/2312.16084)] [[Code](https://github.com/minghanqin/LangSplat)]
