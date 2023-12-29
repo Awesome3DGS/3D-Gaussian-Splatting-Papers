@@ -425,3 +425,9 @@
 - **单位**：Tsinghua University ⟐ Harvard University
 - **链接**：[[arXiv:2312.16084](https://arxiv.org/abs/2312.16084)] [[Code](https://github.com/minghanqin/LangSplat)]
 - **说明**：✏️
+
+#### [71] DreamGaussian4D: Generative 4D Gaussian Splatting
+- **作者**：Jiawei Ren, Liang Pan, Jiaxiang Tang, Chi Zhang, Ang Cao, Gang Zeng, Ziwei Liu
+- **单位**：Nanyang Technological University ⟐ Shanghai AI Laboratory ⟐ Peking University ⟐ University of Michigan
+- **链接**：[[arXiv:2312.17142](https://arxiv.org/abs/2312.17142)] [[Code](https://github.com/jiawei-ren/dreamgaussian4d)]
+- **说明**：✏️
