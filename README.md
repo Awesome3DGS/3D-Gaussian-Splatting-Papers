@@ -486,9 +486,14 @@
 - **链接**：[[arXiv:2312.17142](https://arxiv.org/abs/2312.17142)] [[Code](https://github.com/jiawei-ren/dreamgaussian4d)]
 - **说明**：✏️
 
-
 #### [81] 4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency
 - **作者**：Yuyang Yin, Dejia Xu, Zhangyang Wang, Yao Zhao, Yunchao Wei
 - **单位**：Beijing Jiaotong University ⟐ University of Texas at Austin
 - **链接**：[[arXiv:2312.17225](https://arxiv.org/abs/2312.17225)] [[Code](https://github.com/VITA-Group/4DGen)]
+- **说明**：✏️
+
+#### [82] Deblurring 3D Gaussian Splatting
+- **作者**：Byeonghyeon Lee, Howoong Lee, Xiangyu Sun, Usman Ali, Eunbyung Park
+- **单位**：Sungkyunkwan University ⟐ Hanhwa Vision
+- **链接**：[[arXiv:2401.00834](https://arxiv.org/abs/2401.00834)] [[Code](https://github.com/benhenryL/Deblurring-3D-Gaussian-Splatting)]
 - **说明**：✏️
