@@ -497,3 +497,9 @@
 - **🏫 单位**：Sungkyunkwan University ⟐ Hanhwa Vision
 - **🔗 链接**：[[arXiv:2401.00834](https://arxiv.org/abs/2401.00834)] [[Code](https://github.com/benhenryL/Deblurring-3D-Gaussian-Splatting)]
 - **📝 说明**：✏️
+
+#### [83] Street Gaussians for Modeling Dynamic Urban Scenes
+- **🧑‍🔬 作者**：Yunzhi Yan, Haotong Lin, Chenxu Zhou, Weijie Wang, Haiyang Sun, Kun Zhan, Xianpeng Lang, Xiaowei Zhou, Sida Peng
+- **🏫 单位**：Zhejiang University ⟐ Li Auto
+- **🔗 链接**：[[arXiv:2401.01339](https://arxiv.org/abs/2401.01339)] [[Code](https://github.com/zju3dv/street_gaussians)]
+- **📝 说明**：✏️
