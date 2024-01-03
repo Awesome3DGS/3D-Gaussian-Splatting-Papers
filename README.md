@@ -1,5 +1,17 @@
 # 3D Gaussian Splatting Papers
 
+**⚡ 快捷链接**: [[10](#10-splatarmor-articulated-gaussian-splatting-for-animatable-humans-from-monocular-rgb-videos)]
+               [[20](#20-gaussianeditor-swift-and-controllable-3d-editing-with-gaussian-splatting)]
+               [[30](#31-cg3d-compositional-generation-for-text-to-3d-via-gaussian-splatting)]
+               [[40](#40-gaussian-grouping-segment-and-edit-anything-in-3d-scenes)]
+               [[50](#50-headgas-real-time-animatable-head-avatars-via-3d-gaussian-splatting)]
+               [[60](#60-gaussian-splatting-slam)]
+               [[70](#70-splatter-image-ultra-fast-single-view-3d-reconstruction)]
+               [[80](80-dreamgaussian4d-generative-4d-gaussian-splatting)]
+               [[最新](#83-street-gaussians-for-modeling-dynamic-urban-scenes)] 
+ 
+---
+
 #### [0] 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 - **🧑‍🔬 作者**：Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler, George Drettakis
 - **🏫 单位**：Université Côte d’Azurl ⟐ Max-Planck-Institut für Informatik
