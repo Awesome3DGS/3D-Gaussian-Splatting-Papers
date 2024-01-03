@@ -3,13 +3,13 @@
 #### [0] 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 - **🧑‍🔬 作者**：Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler, George Drettakis
 - **🏫 单位**：Université Côte d’Azurl ⟐ Max-Planck-Institut für Informatik
-- **🔗 链接**：[[arXiv:2308.04079](https://arxiv.org/abs/2308.04079)] [[ACM TOG](https://dl.acm.org/doi/10.1145/3592433)] [[Code](https://github.com/graphdeco-inria/gaussian-splatting)]
+- **🔗 链接**：[[中英摘要](./abs/2308.04079.md)][[arXiv:2308.04079](https://arxiv.org/abs/2308.04079)] [[ACM TOG](https://dl.acm.org/doi/10.1145/3592433)] [[Code](https://github.com/graphdeco-inria/gaussian-splatting)]
 - **📝 说明**：🚀 开山之作，必读；🏆 SIGGRAPH 2023 Best Paper
 
 #### [1] Dynamic 3d gaussians: Tracking by persistent dynamic view synthesis
 - **🧑‍🔬 作者**：Jonathon Luiten, Georgios Kopanas, Bastian Leibe, Deva Ramanan
 - **🏫 单位**：Carnegie Mellon University ⟐ RWTH Aachen University ⟐ Inria & Universite C´ ote d’Azur
-- **🔗 链接**：[[arXiv:2308.09713](https://arxiv.org/abs/2308.09713)] [Code](https://github.com/JonathonLuiten/Dynamic3DGaussians)]
+- **🔗 链接**：[[中英摘要](./abs/2308.09713.md)] [[arXiv:2308.09713](https://arxiv.org/abs/2308.09713)] [Code](https://github.com/JonathonLuiten/Dynamic3DGaussians)]
 - **📝 说明**：✍️ 可能是CVPR2024投稿，提出一种建模动态场景的3DGS方法，可以应用的各种密集6-DOF跟踪相关的下游任务，包括第一视角视图合成、动态组合场景合成和4D视频编辑等。
 
 #### [2] Flexible Techniques for Differentiable Rendering with 3D Gaussians
