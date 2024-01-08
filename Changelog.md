@@ -1,5 +1,11 @@
 # Changelog
 
+### 2024/01/08
+
+Add "Compressed 3D Gaussian Splatting for Accelerated Novel View Synthesis"
+
+Add "Characterizing Satellite Geometry via Accelerated 3D Gaussian Splatting"
+
 ### 2024/01/05
 
 Add "Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting"

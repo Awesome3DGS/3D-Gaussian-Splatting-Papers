@@ -599,3 +599,14 @@
 - **🔗 链接**：[[中英摘要](./abs/2401.02281.md)] [[arXiv:2401.02281](https://arxiv.org/abs/2401.02281)] [[Code](https://github.com/meyerls/PEGASUS)]
 - **📝 说明**：✏️
 
+#### [97] Compressed 3D Gaussian Splatting for Accelerated Novel View Synthesis
+- **🧑‍🔬 作者**：Simon Niedermayr, Josef Stumpfegger, Rüdiger Westermann
+- **🏫 单位**：Technical University of Munich
+- **🔗 链接**：[[中英摘要](./abs/2401.02436.md)] [[arXiv:2401.02436](https://arxiv.org/abs/2401.02436)] [Code]
+- **📝 说明**：✏️
+
+#### [98] Characterizing Satellite Geometry via Accelerated 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Van Minh Nguyen, Emma Sandidge, Trupti Mahendrakar, Ryan T. White
+- **🏫 单位**：Florida Institute of Technology
+- **🔗 链接**：[[中英摘要](./abs/2401.02588.md)] [[arXiv:2401.02588](https://arxiv.org/abs/2401.02588)] [Code]
+- **📝 说明**：✏️
