@@ -17,6 +17,14 @@
 
 ---
 
+#### [S0] A Survey on 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Guikun Chen, Wenguan Wang
+- **🏫 单位**：Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2401.03890.md)] [[arXiv:2401.03890](https://arxiv.org/abs/2401.03890)]
+- **📝 说明**：🔥 首篇综述
+
+---
+
 #### [0] 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 - **🧑‍🔬 作者**：Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler, George Drettakis
 - **🏫 单位**：Université Côte d’Azurl ⟐ Max-Planck-Institut für Informatik
@@ -609,4 +617,10 @@
 - **🧑‍🔬 作者**：Van Minh Nguyen, Emma Sandidge, Trupti Mahendrakar, Ryan T. White
 - **🏫 单位**：Florida Institute of Technology
 - **🔗 链接**：[[中英摘要](./abs/2401.02588.md)] [[arXiv:2401.02588](https://arxiv.org/abs/2401.02588)] [Code]
+- **📝 说明**：✏️
+
+#### [99] AGG: Amortized Generative 3D Gaussians for Single Image to 3D
+- **🧑‍🔬 作者**：Dejia Xu, Ye Yuan, Morteza Mardani, Sifei Liu, Jiaming Song, Zhangyang Wang, Arash Vahdat
+- **🏫 单位**：The University of Texas at Austin ⟐ NVIDIA
+- **🔗 链接**：[[中英摘要](./abs/2401.04099.md)] [[arXiv:2401.04099](https://arxiv.org/abs/2401.04099)] [Code]
 - **📝 说明**：✏️

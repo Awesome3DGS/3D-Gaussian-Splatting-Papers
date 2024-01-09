@@ -1,5 +1,11 @@
 # Changelog
 
+### 2024/01/09
+
+Add "A Survey on 3D Gaussian Splatting"
+
+Add "AGG: Amortized Generative 3D Gaussians for Single Image to 3D"
+
 ### 2024/01/08
 
 Add "Compressed 3D Gaussian Splatting for Accelerated Novel View Synthesis"
