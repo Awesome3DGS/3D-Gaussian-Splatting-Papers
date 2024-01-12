@@ -1,5 +1,13 @@
 # Changelog
 
+### 2024/01/12
+
+Add "TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering"
+
+Add "CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians"
+
+Add "DISTWAR: Fast Differentiable Rendering on Raster-based Rendering Pipelines"
+
 ### 2024/01/09
 
 Add "A Survey on 3D Gaussian Splatting"

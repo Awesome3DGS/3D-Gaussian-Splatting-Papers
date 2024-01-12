@@ -14,6 +14,7 @@
                  [[70](#70-triplane-meets-gaussian-splatting-fast-and-generalizable-single-view-3d-reconstruction-with-transformers)]
                  [[80](#80-compact-3d-scene-representation-via-self-organizing-gaussian-grids)]
                  [[90](#90-spacetime-gaussian-feature-splatting-for-real-time-dynamic-view-synthesis)]
+                 [[100](#100-distwar-fast-differentiable-rendering-on-raster-based-rendering-pipelines)]
 
 ---
 
@@ -623,4 +624,22 @@
 - **🧑‍🔬 作者**：Dejia Xu, Ye Yuan, Morteza Mardani, Sifei Liu, Jiaming Song, Zhangyang Wang, Arash Vahdat
 - **🏫 单位**：The University of Texas at Austin ⟐ NVIDIA
 - **🔗 链接**：[[中英摘要](./abs/2401.04099.md)] [[arXiv:2401.04099](https://arxiv.org/abs/2401.04099)] [Code]
+- **📝 说明**：✏️
+
+#### [100] DISTWAR: Fast Differentiable Rendering on Raster-based Rendering Pipelines
+- **🧑‍🔬 作者**：Sankeerth Durvasula, Adrian Zhao, Fan Chen, Ruofan Liang, Pawan Kumar Sanjaya, Nandita Vijaykumar
+- **🏫 单位**：University of Toronto
+- **🔗 链接**：[[中英摘要](./abs/2401.05345.md)] [[arXiv:2401.05345](https://arxiv.org/abs/2401.05345)] [Code]
+- **📝 说明**：✏️
+
+#### [101] CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians
+- **🧑‍🔬 作者**：Bin Dou, Tianyu Zhang, Yongjia Ma, Zhaohui Wang, Zejian Yuan
+- **🏫 单位**：Xi’an Jiaotong University
+- **🔗 链接**：[[中英摘要](./abs/2401.05925.md)] [[arXiv:2401.05925](https://arxiv.org/abs/2401.05925)] [Code]
+- **📝 说明**：✏️
+
+#### [102] TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering
+- **🧑‍🔬 作者**：Linus Franke, Darius Rückert, Laura Fink, Marc Stamminger
+- **🏫 单位**：Friedrich-Alexander-Universität Erlangen-Nürnberg
+- **🔗 链接**：[[中英摘要](./abs/2401.06003.md)] [[arXiv:2401.06003](https://arxiv.org/abs/2401.06003)] [[Code](https://github.com/lfranke/trips)]
 - **📝 说明**：✏️
