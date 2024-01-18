@@ -643,3 +643,10 @@
 - **🏫 单位**：Friedrich-Alexander-Universität Erlangen-Nürnberg
 - **🔗 链接**：[[中英摘要](./abs/2401.06003.md)] [[arXiv:2401.06003](https://arxiv.org/abs/2401.06003)] [[Code](https://github.com/lfranke/trips)]
 - **📝 说明**：✏️
+
+#### [103] Fast Dynamic 3D Object Generation from a Single-view Video
+- **🧑‍🔬 作者**：Zijie Pan, Zeyu Yang, Xiatian Zhu, Li Zhang
+- **🏫 单位**：Fudan University ⟐ University of Surrey
+- **🔗 链接**：[[中英摘要](./abs/2401.08742.md)] [[arXiv:2401.08742](https://arxiv.org/abs/2401.08742)] [[Code](https://github.com/fudan-zvg/Efficient4D)]
+- **📝 说明**：✏️
+

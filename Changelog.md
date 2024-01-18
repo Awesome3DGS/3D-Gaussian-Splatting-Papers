@@ -1,5 +1,9 @@
 # Changelog
 
+### 2024/01/18
+
+Add "Fast Dynamic 3D Object Generation from a Single-view Video"
+
 ### 2024/01/12
 
 Add "TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering"
