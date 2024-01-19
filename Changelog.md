@@ -1,5 +1,9 @@
 # Changelog
 
+### 2024/01/19
+
+Add "GaussianBody: Clothed Human Reconstruction via 3d Gaussian Splatting"
+
 ### 2024/01/18
 
 Add "Fast Dynamic 3D Object Generation from a Single-view Video"
