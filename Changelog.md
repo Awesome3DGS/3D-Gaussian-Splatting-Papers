@@ -1,5 +1,9 @@
 # Changelog
 
+### 2024/01/23
+
+Add "Deformable Endoscopic Tissues Reconstruction with Gaussian Splatting"
+
 ### 2024/01/19
 
 Add "GaussianBody: Clothed Human Reconstruction via 3d Gaussian Splatting"

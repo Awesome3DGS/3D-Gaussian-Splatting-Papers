@@ -646,3 +646,8 @@
 - **🔗 链接**：[[中英摘要](./abs/2401.09720.md)] [[arXiv:2401.09720](https://arxiv.org/abs/2401.09720)] [Code]
 - **📝 说明**：✏️
 
+#### [103] Deformable Endoscopic Tissues Reconstruction with Gaussian Splatting
+- **🧑‍🔬 作者**：Lingting Zhu, Zhao Wang, Zhenchao Jin, Guying Lin, Lequan Yu
+- **🏫 单位**： The University of Hong Kong ⟐  The Chinese University of Hong Kong
+- **🔗 链接**：[[中英摘要](./abs/2401.11535.md)] [[arXiv:2401.11535](https://arxiv.org/abs/2401.11535)] [[Code](https://github.com/HKU-MedAI/EndoGS)]
+- **📝 说明**：✏️
