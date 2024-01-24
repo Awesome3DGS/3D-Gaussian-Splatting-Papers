@@ -648,6 +648,18 @@
 
 #### [103] Deformable Endoscopic Tissues Reconstruction with Gaussian Splatting
 - **🧑‍🔬 作者**：Lingting Zhu, Zhao Wang, Zhenchao Jin, Guying Lin, Lequan Yu
-- **🏫 单位**： The University of Hong Kong ⟐  The Chinese University of Hong Kong
+- **🏫 单位**：The University of Hong Kong ⟐  The Chinese University of Hong Kong
 - **🔗 链接**：[[中英摘要](./abs/2401.11535.md)] [[arXiv:2401.11535](https://arxiv.org/abs/2401.11535)] [[Code](https://github.com/HKU-MedAI/EndoGS)]
+- **📝 说明**：✏️
+
+#### [104] EndoGaussian: Gaussian Splatting for Deformable Surgical Scene Reconstruction
+- **🧑‍🔬 作者**：Yifan Liu, Chenxin Li, Chen Yang, Yixuan Yuan
+- **🏫 单位**：Chinese University of Hong Kong
+- **🔗 链接**：[[中英摘要](./abs/2401.12561.md)] [[arXiv:2401.12561](https://arxiv.org/abs/2401.12561)] [[Code](https://github.com/yifliu3/EndoGaussian)]
+- **📝 说明**：✏️
+
+#### [105] PSAvatar: A Point-based Morphable Shape Model for Real-Time Head Avatar Creation with 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Zhongyuan Zhao, Zhenyu Bao, Qing Li, Guoping Qiu, Kanglin Liu
+- **🏫 单位**：Pengcheng Laboratory ⟐ Peking University ⟐ University of Nottingham ⟐ Shenzhen University
+- **🔗 链接**：[[中英摘要](./abs/2401.12900.md)] [[arXiv:2401.12900](https://arxiv.org/abs/2401.12900)] [Code]
 - **📝 说明**：✏️

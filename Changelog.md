@@ -1,5 +1,11 @@
 # Changelog
 
+### 2024/01/24
+
+Add "EndoGaussian: Gaussian Splatting for Deformable Surgical Scene Reconstruction"
+
+Add "PSAvatar: A Point-based Morphable Shape Model for Real-Time Head Avatar Creation with 3D Gaussian Splatting"
+
 ### 2024/01/23
 
 Add "Deformable Endoscopic Tissues Reconstruction with Gaussian Splatting"
