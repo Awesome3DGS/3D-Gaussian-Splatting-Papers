@@ -1,5 +1,13 @@
 # Changelog
 
+### 2024/01/30
+
+Add "LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering"
+
+Add "Gaussian Splashing: Dynamic Fluid Synthesis with Gaussian Splatting"
+
+Add "Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting"
+
 ### 2024/01/24
 
 Add "EndoGaussian: Gaussian Splatting for Deformable Surgical Scene Reconstruction"
