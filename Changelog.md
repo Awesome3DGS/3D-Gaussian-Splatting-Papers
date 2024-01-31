@@ -1,5 +1,9 @@
 # Changelog
 
+### 2024/01/31
+
+Add "VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality"
+
 ### 2024/01/30
 
 Add "LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering"

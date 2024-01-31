@@ -681,3 +681,9 @@
 - **🏫 单位**：The Chinese University of Hong Kong ⟐  Shun Hing Institute of Advanced Engineering, CUHK ⟐ Shenzhen Research Institute, CUHK
 - **🔗 链接**：[[中英摘要](./abs/2401.16416.md)] [[arXiv:2401.16416](https://arxiv.org/abs/2401.16416)] [Code]
 - **📝 说明**：✏️
+
+#### [109] VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality
+- **🧑‍🔬 作者**：Ying Jiang, Chang Yu, Tianyi Xie, Xuan Li, Yutao Feng, Huamin Wang, Minchen Li, Henry Lau, Feng Gao, Yin Yang, Chenfanfu Jiang
+- **🏫 单位**：UCLA ⟐ HKU ⟐ Utah ⟐ ZJU ⟐ Style3D Research ⟐ CMU ⟐ Amazon
+- **🔗 链接**：[[中英摘要](./abs/2401.16663.md)] [[arXiv:2401.16663](https://arxiv.org/abs/2401.16663)] [Code]
+- **📝 说明**：✏️
