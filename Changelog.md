@@ -1,5 +1,15 @@
 # Changelog
 
+### 2024/02/03
+
+Add "Segment Anything in 3D Gaussians"
+
+Add "StopThePop: Sorted Gaussian Splatting for View-Consistent Real-time Rendering"
+
+Add "GS++: Error Analyzing and Optimal Gaussian Splatting"
+
+Add "360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming"
+
 ### 2024/01/31
 
 Add "VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality"

@@ -14,7 +14,8 @@
                  [[70](#70-text2immersion-generative-immersive-scene-with-3d-gaussians)]
                  [[80](#80-gaussian-splatting-with-nerf-based-color-and-opacity)]
                  [[90](#90-4dgen-grounded-4d-content-generation-with-spatial-temporal-consistency)]
-                 [[100](#100-trips-trilinear-point-splatting-for-real-time-radiance-field-rendering)]（最新）
+                 [[100](#100-trips-trilinear-point-splatting-for-real-time-radiance-field-rendering)]
+                 [[110](#110-segment-anything-in-3d-gaussians)]（最新）
 
 **📚 会议期刊**: [[ICLR2024](./ICLR2024.md)] (2 篇)
 
@@ -686,4 +687,29 @@
 - **🧑‍🔬 作者**：Ying Jiang, Chang Yu, Tianyi Xie, Xuan Li, Yutao Feng, Huamin Wang, Minchen Li, Henry Lau, Feng Gao, Yin Yang, Chenfanfu Jiang
 - **🏫 单位**：UCLA ⟐ HKU ⟐ Utah ⟐ ZJU ⟐ Style3D Research ⟐ CMU ⟐ Amazon
 - **🔗 链接**：[[中英摘要](./abs/2401.16663.md)] [[arXiv:2401.16663](https://arxiv.org/abs/2401.16663)] [Code]
+- **📝 说明**：✏️
+
+#### [110] Segment Anything in 3D Gaussians
+- **🧑‍🔬 作者**：Xu Hu, Yuxi Wang, Lue Fan, Junsong Fan, Junran Peng, Zhen Lei, Qing Li, Zhaoxiang Zhang
+- **🏫 单位**：The Hong Kong Polytechnic University ⟐ Center for Artificial Intelligence and Robotics, HKISI, CAS ⟐
+Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese Academy of Sciences ⟐ Chongyue Technology
+- **🔗 链接**：[[中英摘要](./abs/2401.17857.md)] [[arXiv:2401.17857](https://arxiv.org/abs/2401.17857)] [Code]
+- **📝 说明**：✏️
+
+#### [111] StopThePop: Sorted Gaussian Splatting for View-Consistent Real-time Rendering
+- **🧑‍🔬 作者**：Lukas Radl, Michael Steiner, Mathias Parger, Alexander Weinrauch, Bernhard Kerbl, Markus Steinberger
+- **🏫 单位**：Graz University of Technology ⟐ TU Wien, Austria ⟐ Huawei Technologies, Austria
+- **🔗 链接**：[[中英摘要](./abs/2402.00525.md)] [[arXiv:2402.00525](https://arxiv.org/abs/2402.00525)] [Code]
+- **📝 说明**：✏️
+
+#### [112] GS++: Error Analyzing and Optimal Gaussian Splatting
+- **🧑‍🔬 作者**：Letian Huang, Jiayang Bai, Jie Guo, Yanwen Guo
+- **🏫 单位**：Nanjing University
+- **🔗 链接**：[[中英摘要](./abs/2402.00752.md)] [[arXiv:2402.00752](https://arxiv.org/abs/2402.00752)] [Code]
+- **📝 说明**：✏️
+
+#### [113] 360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming
+- **🧑‍🔬 作者**：Jiayang Bai, Letian Huang, Jie Guo, Wen Gong, Yuanqi Li, Yanwen Guo
+- **🏫 单位**：Nanjing University
+- **🔗 链接**：[[中英摘要](./abs/2402.00763.md)] [[arXiv:2402.00763](https://arxiv.org/abs/2402.00763)] [Code]
 - **📝 说明**：✏️
