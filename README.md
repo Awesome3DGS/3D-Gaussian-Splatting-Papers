@@ -713,3 +713,9 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：Nanjing University
 - **🔗 链接**：[[中英摘要](./abs/2402.00763.md)] [[arXiv:2402.00763](https://arxiv.org/abs/2402.00763)] [Code]
 - **📝 说明**：✏️
+
+#### [114] GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting
+- **🧑‍🔬 作者**：Joanna Waczyńska, Piotr Borycki, Sławomir Tadeja, Jacek Tabor, Przemysław Spurek
+- **🏫 单位**：Jagiellonian University ⟐ University of Cambridge
+- **🔗 链接**：[[中英摘要](./abs/2402.01459.md)] [[arXiv:2402.01459](https://arxiv.org/abs/2402.01459)] [Code]
+- **📝 说明**：✏️

@@ -1,5 +1,9 @@
 # Changelog
 
+### 2024/02/05
+
+Add "GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting"
+
 ### 2024/02/03
 
 Add "Segment Anything in 3D Gaussians"
