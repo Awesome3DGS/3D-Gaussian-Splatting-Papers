@@ -702,7 +702,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🔗 链接**：[[中英摘要](./abs/2402.00525.md)] [[arXiv:2402.00525](https://arxiv.org/abs/2402.00525)] [Code]
 - **📝 说明**：✏️
 
-#### [112] GS++: Error Analyzing and Optimal Gaussian Splatting
+#### [112] Optimal Projection for 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Letian Huang, Jiayang Bai, Jie Guo, Yanwen Guo
 - **🏫 单位**：Nanjing University
 - **🔗 链接**：[[中英摘要](./abs/2402.00752.md)] [[arXiv:2402.00752](https://arxiv.org/abs/2402.00752)] [Code]
