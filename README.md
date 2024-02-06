@@ -719,3 +719,16 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：Jagiellonian University ⟐ University of Cambridge
 - **🔗 链接**：[[中英摘要](./abs/2402.01459.md)] [[arXiv:2402.01459](https://arxiv.org/abs/2402.01459)] [Code]
 - **📝 说明**：✏️
+
+#### [115] SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM
+- **🧑‍🔬 作者**：Mingrui Li, Shuhong Liu, Heng Zhou
+- **🏫 单位**：Dalian University of Technology ⟐ The University of Tokyo ⟐ Columbia University
+- **🔗 链接**：[[中英摘要](./abs/2402.03246.md)] [[arXiv:2402.03246](https://arxiv.org/abs/2402.03246)] [Code]
+- **📝 说明**：✏️
+
+#### [116] 4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes
+- **🧑‍🔬 作者**：Yuanxing Duan, Fangyin Wei, Qiyu Dai, Yuhang He, Wenzheng Chen, Baoquan Chen
+- **🏫 单位**：Peking University ⟐ Princeton University ⟐ NVIDIA ⟐ National Key Lab of General AI, China
+- **🔗 链接**：[[中英摘要](./abs/2402.03307.md)] [[arXiv:2402.03307](https://arxiv.org/abs/2402.03307)] [Code]
+- **📝 说明**：✏️
+

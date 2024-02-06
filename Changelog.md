@@ -1,5 +1,11 @@
 # Changelog
 
+### 2024/02/06
+
+Add "SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM"
+
+Add "4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes"
+
 ### 2024/02/05
 
 Add "GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting"
