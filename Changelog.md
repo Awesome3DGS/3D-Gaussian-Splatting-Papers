@@ -1,5 +1,9 @@
 # Changelog
 
+### 2024/02/07
+
+Add "Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos"
+
 ### 2024/02/06
 
 Add "SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM"

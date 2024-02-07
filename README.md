@@ -732,3 +732,8 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🔗 链接**：[[中英摘要](./abs/2402.03307.md)] [[arXiv:2402.03307](https://arxiv.org/abs/2402.03307)] [Code]
 - **📝 说明**：✏️
 
+#### [117] Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos
+- **🧑‍🔬 作者**：Alfredo Rivero, ShahRukh Athar, Zhixin Shu, Dimitris Samaras
+- **🏫 单位**：Stony Brook University ⟐ Adobe Research
+- **🔗 链接**：[[中英摘要](./abs/2402.03723.md)] [[arXiv:2402.03723](https://arxiv.org/abs/2402.03723)] [Code]
+- **📝 说明**：✏️
