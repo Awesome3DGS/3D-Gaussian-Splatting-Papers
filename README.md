@@ -737,3 +737,15 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：Stony Brook University ⟐ Adobe Research
 - **🔗 链接**：[[中英摘要](./abs/2402.03723.md)] [[arXiv:2402.03723](https://arxiv.org/abs/2402.03723)] [Code]
 - **📝 说明**：✏️
+
+#### [118] Mesh-based Gaussian Splatting for Real-time Large-scale Deformation
+- **🧑‍🔬 作者**：Lin Gao, Jie Yang, Bo-Tao Zhang, Jia-Mu Sun, Yu-Jie Yuan, Hongbo Fu, Yu-Kun Lai
+- **🏫 单位**：University of Chinese Academy of Sciences ⟐  City University of Hong Kong ⟐ Cardiff University
+- **🔗 链接**：[[中英摘要](./abs/2402.04796.md)] [[arXiv:2402.04796](https://arxiv.org/abs/2402.04796)] [Code]
+- **📝 说明**：✏️
+
+#### [119] LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation
+- **🧑‍🔬 作者**：Jiaxiang Tang, Zhaoxi Chen, Xiaokang Chen, Tengfei Wang, Gang Zeng, Ziwei Liu
+- **🏫 单位**：Peking University ⟐ Nanyang Technological University ⟐ Shanghai AI Lab
+- **🔗 链接**：[[中英摘要](./abs/2402.05054.md)] [[arXiv:2402.05054](https://arxiv.org/abs/2402.05054)] [[Code](https://github.com/3DTopia/LGM)]
+- **📝 说明**：✏️

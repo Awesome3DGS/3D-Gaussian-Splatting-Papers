@@ -1,5 +1,11 @@
 # Changelog
 
+### 2024/02/08
+
+Add "Mesh-based Gaussian Splatting for Real-time Large-scale Deformation"
+
+Add "LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation"
+
 ### 2024/02/07
 
 Add "Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos"
