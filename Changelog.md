@@ -1,5 +1,11 @@
 # Changelog
 
+### 2024/02/12
+
+Add "HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting"
+
+Add "GS-CLIP: Gaussian Splatting for Contrastive Language-Image-3D Pretraining from Real-World Data"
+
 ### 2024/02/08
 
 Add "Mesh-based Gaussian Splatting for Real-time Large-scale Deformation"

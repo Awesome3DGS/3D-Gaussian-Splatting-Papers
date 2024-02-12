@@ -15,7 +15,9 @@
                  [[80](#80-gaussian-splatting-with-nerf-based-color-and-opacity)]
                  [[90](#90-4dgen-grounded-4d-content-generation-with-spatial-temporal-consistency)]
                  [[100](#100-trips-trilinear-point-splatting-for-real-time-radiance-field-rendering)]
-                 [[110](#110-segment-anything-in-3d-gaussians)]（最新）
+                 [[110](#110-segment-anything-in-3d-gaussians)]
+                 [[120](#120-headstudio-text-to-animatable-head-avatars-with-3d-gaussian-splatting)]（最新）
+
 
 **📚 会议期刊**: [[ICLR2024](./ICLR2024.md)] (2 篇)
 
@@ -748,4 +750,16 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Jiaxiang Tang, Zhaoxi Chen, Xiaokang Chen, Tengfei Wang, Gang Zeng, Ziwei Liu
 - **🏫 单位**：Peking University ⟐ Nanyang Technological University ⟐ Shanghai AI Lab
 - **🔗 链接**：[[中英摘要](./abs/2402.05054.md)] [[arXiv:2402.05054](https://arxiv.org/abs/2402.05054)] [[Code](https://github.com/3DTopia/LGM)]
+- **📝 说明**：✏️
+
+#### [120] HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Zhenglin Zhou, Fan Ma, Hehe Fan, Yi Yang
+- **🏫 单位**：Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2402.06149.md)] [[arXiv:2402.06149](https://arxiv.org/abs/2402.06149)] [[Code](https://github.com/ZhenglinZhou/HeadStudio)]
+- **📝 说明**：✏️
+
+#### [121] GS-CLIP: Gaussian Splatting for Contrastive Language-Image-3D Pretraining from Real-World Data
+- **🧑‍🔬 作者**：Haoyuan Li, Yanpeng Zhou, Yihan Zeng, Hang Xu, Xiaodan Liang
+- **🏫 单位**：Shenzhen campus of Sun Yat-sen University ⟐ Huawei Noah’s Ark Lab
+- **🔗 链接**：[[中英摘要](./abs/2402.06198.md)] [[arXiv:2402.06198](https://arxiv.org/abs/2402.06198)] [Code]
 - **📝 说明**：✏️
