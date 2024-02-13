@@ -1,5 +1,11 @@
 # Changelog
 
+### 2024/02/13
+
+Add "3D Gaussian as a New Vision Era: A Survey"
+
+Add "GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting"
+
 ### 2024/02/12
 
 Add "HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting"

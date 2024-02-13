@@ -29,6 +29,12 @@
 - **🔗 链接**：[[中英摘要](./abs/2401.03890.md)] [[arXiv:2401.03890](https://arxiv.org/abs/2401.03890)]
 - **📝 说明**：🔥 首篇综述
 
+#### [S1] 3D Gaussian as a New Vision Era: A Survey
+- **🧑‍🔬 作者**：Ben Fei, Jingyi Xu, Rui Zhang, Qingyuan Zhou, Weidong Yang, Ying He
+- **🏫 单位**：Fudan University ⟐ Nanyang Technological University
+- **🔗 链接**：[[中英摘要](./abs/2402.07181.md)] [[arXiv:2402.07181](https://arxiv.org/abs/2402.07181)]
+- **📝 说明**：👍 相对比较全面，推荐精读
+
 ---
 
 #### [0] 3D Gaussian Splatting for Real-Time Radiance Field Rendering
@@ -762,4 +768,10 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Haoyuan Li, Yanpeng Zhou, Yihan Zeng, Hang Xu, Xiaodan Liang
 - **🏫 单位**：Shenzhen campus of Sun Yat-sen University ⟐ Huawei Noah’s Ark Lab
 - **🔗 链接**：[[中英摘要](./abs/2402.06198.md)] [[arXiv:2402.06198](https://arxiv.org/abs/2402.06198)] [Code]
+- **📝 说明**：✏️
+
+#### [122] GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting
+- **🧑‍🔬 作者**：Xiaoyu Zhou, Xingjian Ran, Yajiao Xiong, Jinlin He, Zhiwei Lin, Yongtao Wang, Deqing Sun, Ming-Hsuan Yang
+- **🏫 单位**：Peking University ⟐ Google Research ⟐ University of California, Merced
+- **🔗 链接**：[[中英摘要](./abs/2402.07207.md)] [[arXiv:2402.07207](https://arxiv.org/abs/2402.07207)] [[Code](https://github.com/VDIGPKU/GALA3D)]
 - **📝 说明**：✏️
