@@ -775,3 +775,9 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：Peking University ⟐ Google Research ⟐ University of California, Merced
 - **🔗 链接**：[[中英摘要](./abs/2402.07207.md)] [[arXiv:2402.07207](https://arxiv.org/abs/2402.07207)] [[Code](https://github.com/VDIGPKU/GALA3D)]
 - **📝 说明**：✏️
+
+#### [123] GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering
+- **🧑‍🔬 作者**：Abdullah Hamdi, Luke Melas-Kyriazi, Guocheng Qian, Jinjie Mai, Ruoshi Liu, Carl Vondrick, Bernard Ghanem, Andrea Vedaldi
+- **🏫 单位**：VGG, University of Oxford ⟐ KAUST ⟐ Columbia University ⟐ Snap Inc.
+- **🔗 链接**：[[中英摘要](./abs/2402.10128.md)] [[arXiv:2402.10128](https://arxiv.org/abs/2402.10128)] [[Code](https://github.com/ajhamdi/ges-splatting)]
+- **📝 说明**：✏️

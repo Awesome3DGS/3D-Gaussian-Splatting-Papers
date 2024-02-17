@@ -1,5 +1,9 @@
 # Changelog
 
+### 2024/02/17
+
+Add "GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering"
+
 ### 2024/02/13
 
 Add "3D Gaussian as a New Vision Era: A Survey"
