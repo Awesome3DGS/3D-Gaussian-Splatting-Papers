@@ -781,3 +781,15 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：VGG, University of Oxford ⟐ KAUST ⟐ Columbia University ⟐ Snap Inc.
 - **🔗 链接**：[[中英摘要](./abs/2402.10128.md)] [[arXiv:2402.10128](https://arxiv.org/abs/2402.10128)] [[Code](https://github.com/ajhamdi/ges-splatting)]
 - **📝 说明**：✏️
+
+#### [124] GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting
+- **🧑‍🔬 作者**：Chen Yang, Sikuang Li, Jiemin Fang, Ruofan Liang, Lingxi Xie, Xiaopeng Zhang, Wei Shen, Qi Tian
+- **🏫 单位**：Shanghai Jiao Tong University ⟐ Huawei ⟐ University of Toronto
+- **🔗 链接**：[[中英摘要](./abs/2402.10259.md)] [[arXiv:2402.10259](https://arxiv.org/abs/2402.10259)] [[Code](https://github.com/GaussianObject/GaussianObject)]
+- **📝 说明**：✏️
+
+#### [125] GaussianHair: Hair Modeling and Rendering with Light-aware Gaussians
+- **🧑‍🔬 作者**：Haimin Luo, Min Ouyang, Zijun Zhao, Suyi Jiang, Longwen Zhang, Qixuan Zhang, Wei Yang, Lan Xu, Jingyi Yu
+- **🏫 单位**：ShanghaiTech University ⟐ Huazhong University of Science and Technology ⟐ Deemos Technology ⟐ LumiAni Technology
+- **🔗 链接**：[[中英摘要](./abs/2402.10483.md)] [[arXiv:2402.10483](https://arxiv.org/abs/2402.10483)] [Code]
+- **📝 说明**：✏️

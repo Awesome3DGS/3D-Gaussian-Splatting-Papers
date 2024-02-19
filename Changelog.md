@@ -1,5 +1,11 @@
 # Changelog
 
+### 2024/02/19
+
+Add "GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting"
+
+Add "GaussianHair: Hair Modeling and Rendering with Light-aware Gaussians"
+
 ### 2024/02/17
 
 Add "GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering"
