@@ -1,5 +1,11 @@
 # Changelog
 
+### 2024/02/23
+
+Add "Identifying Unnecessary 3D Gaussians using Clustering for Fast Rendering of 3D Gaussian Splatting"
+
+Add "GaussianPro: 3D Gaussian Splatting with Progressive Propagation"
+
 ### 2024/02/19
 
 Add "GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting"

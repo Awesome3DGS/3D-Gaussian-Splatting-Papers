@@ -793,3 +793,15 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：ShanghaiTech University ⟐ Huazhong University of Science and Technology ⟐ Deemos Technology ⟐ LumiAni Technology
 - **🔗 链接**：[[中英摘要](./abs/2402.10483.md)] [[arXiv:2402.10483](https://arxiv.org/abs/2402.10483)] [Code]
 - **📝 说明**：✏️
+
+#### [126] Identifying Unnecessary 3D Gaussians using Clustering for Fast Rendering of 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Joongho Jo, Hyeongwon Kim, Jongsun Park
+- **🏫 单位**：Korea University
+- **🔗 链接**：[[中英摘要](./abs/2402.13827.md)] [[arXiv:2402.13827](https://arxiv.org/abs/2402.13827)] [Code]
+- **📝 说明**：✏️
+
+#### [127] GaussianPro: 3D Gaussian Splatting with Progressive Propagation
+- **🧑‍🔬 作者**：Kai Cheng, Xiaoxiao Long, Kaizhi Yang, Yao Yao, Wei Yin, Yuexin Ma, Wenping Wang, Xuejin Chen
+- **🏫 单位**：University of Science and Technology of China ⟐ The University of Hong Kong ⟐ Nanjing University ⟐ The University of Adelaide ⟐ ShanghaiTech University ⟐ Texas A&M University
+- **🔗 链接**：[[中英摘要](./abs/2402.14650.md)] [[arXiv:2402.14650](https://arxiv.org/abs/2402.14650)] [Code]
+- **📝 说明**：✏️
