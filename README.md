@@ -59,25 +59,25 @@
 - **🧑‍🔬 作者**：Ziyi Yang, Xinyu Gao, Wen Zhou, Shaohui Jiao, Yuqing Zhang, Xiaogang Jin
 - **🏫 单位**： Zhejiang University ⟐ ByteDance Inc.
 - **🔗 链接**：[[中英摘要](./abs/2309.13101.md)] [[arXiv:2309.13101](https://arxiv.org/abs/2309.13101)] [[Code](https://github.com/ingra14m/Deformable-3D-Gaussians)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to CVPR 2024
 
 #### [4] Text-to-3D using Gaussian Splatting
 - **🧑‍🔬 作者**：Zilong Chen, Feng Wang, Huaping Liu
 - **🏫 单位**：Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2309.16585.md)] [[arXiv:2309.16585](https://arxiv.org/abs/2309.16585)] [[Code](https://github.com/gsgen3d/gsgen)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to CVPR 2024
 
 #### [5] 4d gaussian splatting for real-time dynamic scene rendering
 - **🧑‍🔬 作者**：Guanjun Wu, Taoran Yi, Jiemin Fang, Lingxi Xie, Xiaopeng Zhang, Wei Wei, Wenyu Liu, Qi Tian, Xinggang Wang
 - **🏫 单位**：Huazhong University of Science and Technology ⟐ Huawei Inc.
 - **🔗 链接**：[[中英摘要](./abs/2310.08528.md)] [[arXiv:2310.08528](https://arxiv.org/abs/2310.08528)] [[Code](https://github.com/hustvl/4DGaussians)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to CVPR 2024
 
 #### [6] GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models
 - **🧑‍🔬 作者**：Taoran Yi, Jiemin Fang, Junjie Wang, Guanjun Wu, Lingxi Xie, Xiaopeng Zhang, Wenyu Liu, Qi Tian, Xinggang Wang
 - **🏫 单位**：Huazhong University of Science and Technology ⟐ Huawei Inc.
 - **🔗 链接**：[[中英摘要](./abs/2310.08529.md)] [[arXiv:2310.08529](https://arxiv.org/abs/2310.08529)] [[Code](https://github.com/hustvl/GaussianDreamer)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to CVPR 2024
 
 #### [7] Dynamic Gaussian Splatting from Markerless Motion Capture can Reconstruct Infants Movements
 - **🧑‍🔬 作者**：R. James Cotton, Colleen Peyton
@@ -119,7 +119,7 @@
 - **🧑‍🔬 作者**：Antoine Guédon, Vincent Lepetit
 - **🏫 单位**：Univ Gustave Eiffel
 - **🔗 链接**：[[中英摘要](./abs/2311.12775.md)] [[arXiv:2311.12775](https://arxiv.org/abs/2311.12775)] [[Code](https://github.com/Anttwo/SuGaR)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to CVPR 2024
 
 #### [14] An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic Scenes
 - **🧑‍🔬 作者**：Kai Katsumata, Duc Minh Vo, Hideki Nakayama
@@ -155,13 +155,13 @@
 - **🧑‍🔬 作者**：Yiwen Chen, Zilong Chen, Chi Zhang, Feng Wang, Xiaofeng Yang, Yikai Wang, Zhongang Cai, Lei Yang, Huaping Liu, Guosheng Lin
 - **🏫 单位**：Nanyang Technological University ⟐ Tsinghua University ⟐ SenseTime Research
 - **🔗 链接**：[[中英摘要](./abs/2311.14521.md)] [[arXiv:2311.14521](https://arxiv.org/abs/2311.14521)] [[Code](https://github.com/buaacyw/GaussianEditor)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to CVPR 2024
 
 #### [20] GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions
 - **🧑‍🔬 作者**：Jiemin Fang, Junjie Wang, Xiaopeng Zhang, Lingxi Xie, Qi Tian
 - **🏫 单位**：Huawei Inc.
 - **🔗 链接**：[[中英摘要](./abs/2311.16037.md)] [[arXiv:2311.16037](https://arxiv.org/abs/2311.16037)] [Code]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to CVPR 2024
 
 #### [21] Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing
 - **🧑‍🔬 作者**：Jian Gao, Chun Gu, Youtian Lin, Hao Zhu, Xun Cao, Li Zhang, Yao Yao
@@ -197,7 +197,7 @@
 - **🧑‍🔬 作者**：Zehao Yu, Anpei Chen, Binbin Huang, Torsten Sattler, Andreas Geiger
 - **🏫 单位**： University of Tubingen ⟐ Tubingen AI Center ⟐ ShanghaiTech University ⟐ Czech Technical University in Prague
 - **🔗 链接**：[[中英摘要](./abs/2311.16493.md)] [[arXiv:2311.16493](https://arxiv.org/abs/2311.16493)] [[Code](https://github.com/autonomousvision/mip-splatting)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to CVPR 2024
 
 #### [27] HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting
 - **🧑‍🔬 作者**：Xian Liu, Xiaohang Zhan, Jiaxiang Tang, Ying Shan, Gang Zeng, Dahua Lin, Xihui Liu, Ziwei Liu
@@ -227,7 +227,7 @@
 - **🧑‍🔬 作者**：Rameen Abdal, Wang Yifan, Zifan Shi, Yinghao Xu, Ryan Po, Zhengfei Kuang, Qifeng Chen, Dit-Yan Yeung, Gordon Wetzstein
 - **🏫 单位**：Stanford University ⟐ HKUST
 - **🔗 链接**：[[中英摘要](./abs/2311.17857.md)] [[arXiv:2311.17857](https://arxiv.org/abs/2311.17857)] [[Code](https://github.com/computational-imaging/GSM)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to CVPR 2024
 
 #### [32] CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting
 - **🧑‍🔬 作者**：Alexander Vilesov, Pradyumna Chari, Achuta Kadambi
@@ -269,7 +269,7 @@
 - **🧑‍🔬 作者**：Tao Lu, Mulin Yu, Linning Xu, Yuanbo Xiangli, Limin Wang, Dahua Lin, Bo Dai
 - **🏫 单位**：Shanghai Artificial Intelligence Laboratory ⟐ The Chinese University of Hong Kong ⟐ Nanjing University ⟐ Cornell University
 - **🔗 链接**：[[中英摘要](./abs/2312.00109.md)] [[arXiv:2312.00109](https://arxiv.org/abs/2312.00109)] [[Code](https://github.com/city-super/Scaffold-GS)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to CVPR 2024
 
 #### [39] DynMF: Neural Motion Factorization for Real-time Dynamic View Synthesis with 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Agelos Kratimenos, Jiahui Lei, Kostas Daniilidis
@@ -329,7 +329,7 @@
 - **🧑‍🔬 作者**：Shenhan Qian, Tobias Kirschstein, Liam Schoneveld, Davide Davoli, Simon Giebenhain, Matthias Nießner
 - **🏫 单位**：Technical University of Munich ⟐ Woven by Toyota ⟐ Toyota Motor Europe NV/SA
 - **🔗 链接**：[[中英摘要](./abs/2312.02069.md)] [[arXiv:2312.02069](https://arxiv.org/abs/2312.02069)] [Code]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to CVPR 2024
 
 #### [49] SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM
 - **🧑‍🔬 作者**：Nikhil Keetha, Jay Karhade, Krishna Murthy Jatavallabhula, Gengshan Yang, Sebastian Scherer, Deva Ramanan, Jonathon Luiten
@@ -341,7 +341,7 @@
 - **🧑‍🔬 作者**：Liangxiao Hu, Hongwen Zhang, Yuxiang Zhang, Boyao Zhou, Boning Liu, Shengping Zhang, Liqiang Nie
 - **🏫 单位**：Harbin Institute of Technology ⟐ Beijing Normal University ⟐  Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2312.02134.md)] [[arXiv:2312.02134](https://arxiv.org/abs/2312.02134)] [[Code](https://github.com/huliangxiao/GaussianAvatar)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to CVPR 2024
 
 #### [51] MANUS: Markerless Hand-Object Grasp Capture using Articulated 3D Gaussians
 - **🧑‍🔬 作者**：Chandradeep Pokhariya, Ishaan N Shah, Angela Xing, Zekun Li, Kefan Chen, Avinash Sharma, Srinath Sridhar
@@ -353,7 +353,7 @@
 - **🧑‍🔬 作者**：Shunyuan Zheng, Boyao Zhou, Ruizhi Shao, Boning Liu, Shengping Zhang, Liqiang Nie, Yebin Liu
 - **🏫 单位**：Harbin Institute of Technology ⟐ Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2312.02155.md)] [[arXiv:2312.02155](https://arxiv.org/abs/2312.02155)] [[Code](https://github.com/ShunyuanZheng/GPS-Gaussian)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to CVPR 2024
 
 #### [53] HeadGaS: Real-Time Animatable Head Avatars via 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Helisa Dhamo, Yinyu Nie, Arthur Moreau, Jifei Song, Richard Shaw, Yiren Zhou, Eduardo Pérez-Pellitero
@@ -527,13 +527,13 @@
 - **🧑‍🔬 作者**：Huan Ling, Seung Wook Kim, Antonio Torralba, Sanja Fidler, Karsten Kreis
 - **🏫 单位**：NVIDIA ⟐ Vector Institute ⟐ University of Toronto ⟐ MIT
 - **🔗 链接**：[[中英摘要](./abs/2312.13763.md)] [[arXiv:2312.13763](https://arxiv.org/abs/2312.13763)] [Code]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to CVPR 2024
 
 #### [82] SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes
 - **🧑‍🔬 作者**：Yi-Hua Huang, Yang-Tian Sun, Ziyi Yang, Xiaoyang Lyu, Yan-Pei Cao, Xiaojuan Qi
 - **🏫 单位**：The University of Hong Kong ⟐ VAST ⟐ Zhejiang University
 - **🔗 链接**：[[中英摘要](./abs/2312.14937.md)] [[arXiv:2312.14937](https://arxiv.org/abs/2312.14937)] [Code]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to CVPR 2024
 
 #### [83] Deformable 3D Gaussian Splatting for Animatable Human Avatars
 - **🧑‍🔬 作者**：HyunJun Jung, Nikolas Brasch, Jifei Song, Eduardo Perez-Pellitero, Yiren Zhou, Zhihao Li, Nassir Navab, Benjamin Busam
@@ -569,7 +569,7 @@
 - **🧑‍🔬 作者**：Zhan Li, Zhang Chen, Zhong Li, Yi Xu
 - **🏫 单位**：OPPO US Research Center ⟐ Portland State University
 - **🔗 链接**：[[中英摘要](./abs/2312.16812.md)] [[arXiv:2312.16812](https://arxiv.org/abs/2312.16812)] [[Code](https://github.com/oppo-us-research/SpacetimeGaussians)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to CVPR 2024
 
 #### [89] DreamGaussian4D: Generative 4D Gaussian Splatting
 - **🧑‍🔬 作者**：Jiawei Ren, Liang Pan, Jiaxiang Tang, Chi Zhang, Ang Cao, Gang Zeng, Ziwei Liu
