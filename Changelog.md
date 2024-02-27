@@ -1,5 +1,11 @@
 # Changelog
 
+### 2024/02/27
+
+Add "Spec-Gaussian: Anisotropic View-Dependent Appearance for 3D Gaussian Splatting"
+
+Add "GEA: Reconstructing Expressive 3D Gaussian Avatar from Monocular Video"
+
 ### 2024/02/23
 
 Add "Identifying Unnecessary 3D Gaussians using Clustering for Fast Rendering of 3D Gaussian Splatting"

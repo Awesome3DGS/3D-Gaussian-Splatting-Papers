@@ -805,3 +805,15 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：University of Science and Technology of China ⟐ The University of Hong Kong ⟐ Nanjing University ⟐ The University of Adelaide ⟐ ShanghaiTech University ⟐ Texas A&M University
 - **🔗 链接**：[[中英摘要](./abs/2402.14650.md)] [[arXiv:2402.14650](https://arxiv.org/abs/2402.14650)] [Code]
 - **📝 说明**：✏️
+
+#### [128] Spec-Gaussian: Anisotropic View-Dependent Appearance for 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Ziyi Yang, Xinyu Gao, Yangtian Sun, Yihua Huang, Xiaoyang Lyu, Wen Zhou, Shaohui Jiao, Xiaojuan Qi, Xiaogang Jin
+- **🏫 单位**：Zhejiang University ⟐ The University of Hong Kong ⟐ ByteDance Inc.
+- **🔗 链接**：[[中英摘要](./abs/2402.15870.md)] [[arXiv:2402.15870](https://arxiv.org/abs/2402.15870)] [Code]
+- **📝 说明**：✏️
+
+#### [129] GEA: Reconstructing Expressive 3D Gaussian Avatar from Monocular Video
+- **🧑‍🔬 作者**：Xinqi Liu, Chenming Wu, Xing Liu, Jialun Liu, Jinbo Wu, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang
+- **🏫 单位**：Baidu Inc.
+- **🔗 链接**：[[中英摘要](./abs/2402.16607.md)] [[arXiv:2402.16607](https://arxiv.org/abs/2402.16607)] [Code]
+- **📝 说明**：✏️
