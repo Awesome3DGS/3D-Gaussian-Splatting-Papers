@@ -1,5 +1,9 @@
 # Changelog
 
+### 2024/02/28
+
+Add "VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction"
+
 ### 2024/02/27
 
 Add "Spec-Gaussian: Anisotropic View-Dependent Appearance for 3D Gaussian Splatting"

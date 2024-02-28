@@ -817,3 +817,9 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：Baidu Inc.
 - **🔗 链接**：[[中英摘要](./abs/2402.16607.md)] [[arXiv:2402.16607](https://arxiv.org/abs/2402.16607)] [Code]
 - **📝 说明**：✏️
+
+#### [130] VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction
+- **🧑‍🔬 作者**：Jiaqi Lin, Zhihao Li, Xiao Tang, Jianzhuang Liu, Shiyong Liu, Jiayue Liu, Yangdi Lu, Xiaofei Wu, Songcen Xu, Youliang Yan, Wenming Yang
+- **🏫 单位**：Tsinghua University ⟐ Huawei Noah's Ark Lab ⟐ Chinese Academy of Sciences
+- **🔗 链接**：[[中英摘要](./abs/2402.17427.md)] [[arXiv:2402.17427](https://arxiv.org/abs/2402.17427)] [Code]
+- **📝 说明**：🏆 Accepted to CVPR 2024
