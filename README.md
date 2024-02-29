@@ -136,8 +136,8 @@
 #### [16] Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images
 - **🧑‍🔬 作者**：Jaeyoung Chung, Jeongtaek Oh, Kyoung Mu Lee
 - **🏫 单位**：Seoul National University
-- **🔗 链接**：[[中英摘要](./abs/2311.13398.md)] [[arXiv:2311.13398](https://arxiv.org/abs/2311.13398)] [Code]
-- **📝 说明**：✏️
+- **🔗 链接**：[[中英摘要](./abs/2311.13398.md)] [[arXiv:2311.13398](https://arxiv.org/abs/2311.13398)] [[Code](https://github.com/robot0321/DepthRegularizedGS)]
+- **📝 说明**：Empty code repo
 
 #### [17] Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions
 - **🧑‍🔬 作者**：Keyang Ye, Tianjia Shao, Kun Zhou
@@ -244,7 +244,7 @@
 #### [34] GaussianShader: 3D Gaussian Splatting with Shading Functions for Reflective Surfaces
 - **🧑‍🔬 作者**：Yingwenqi Jiang, Jiadong Tu, Yuan Liu, Xifeng Gao, Xiaoxiao Long, Wenping Wang, Yuexin Ma
 - **🏫 单位**：ShanghaiTech University ⟐ The University of Hong Kong ⟐ Tencent America ⟐ Texas A&M University
-- **🔗 链接**：[[中英摘要](./abs/2311.17977.md)] [[arXiv:2311.17977](https://arxiv.org/abs/2311.17977)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2311.17977.md)] [[arXiv:2311.17977](https://arxiv.org/abs/2311.17977)] [[Code](https://github.com/Asparagus15/GaussianShader)]
 - **📝 说明**：✏️
 
 #### [35] Compact3D: Compressing Gaussian Splat Radiance Field Models with Vector Quantization
@@ -328,7 +328,7 @@
 #### [48] GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians
 - **🧑‍🔬 作者**：Shenhan Qian, Tobias Kirschstein, Liam Schoneveld, Davide Davoli, Simon Giebenhain, Matthias Nießner
 - **🏫 单位**：Technical University of Munich ⟐ Woven by Toyota ⟐ Toyota Motor Europe NV/SA
-- **🔗 链接**：[[中英摘要](./abs/2312.02069.md)] [[arXiv:2312.02069](https://arxiv.org/abs/2312.02069)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2312.02069.md)] [[arXiv:2312.02069](https://arxiv.org/abs/2312.02069)] [[Code](https://github.com/ShenhanQian/GaussianAvatars)]
 - **📝 说明**：🏆 Accepted to CVPR 2024
 
 #### [49] SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM
@@ -370,7 +370,7 @@
 #### [55] Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields
 - **🧑‍🔬 作者**：Shijie Zhou, Haoran Chang, Sicheng Jiang, Zhiwen Fan, Zehao Zhu, Dejia Xu, Pradyumna Chari, Suya You, Zhangyang Wang, Achuta Kadambi
 - **🏫 单位**：University of California, Los Angeles ⟐ University of Texas at Austin ⟐ DEVCOM Army Research Laboratory
-- **🔗 链接**：[[中英摘要](./abs/2312.03203.md)] [[arXiv:2312.03203](https://arxiv.org/abs/2312.03203)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2312.03203.md)] [[arXiv:2312.03203](https://arxiv.org/abs/2312.03203)] [[Code](https://github.com/ShijieZhou-UCLA/feature-3dgs)]
 - **📝 说明**：✏️
 
 #### [56] Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle
@@ -388,7 +388,7 @@
 #### [58] Relightable Gaussian Codec Avatars
 - **🧑‍🔬 作者**：Shunsuke Saito, Gabriel Schwartz, Tomas Simon, Junxuan Li, Giljoo Nam
 - **🏫 单位**：Codec Avatars Lab, Meta
-- **🔗 链接**：[[中英摘要](./abs/2312.03704.md)] [[arXiv:2312.03704](https://arxiv.org/abs/2312.03704)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2312.03704.md)] [[arXiv:2312.03704](https://arxiv.org/abs/2312.03704)] [[Code](https://github.com/shunsukesaito/rgca)]
 - **📝 说明**：✏️
 
 #### [59] MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar
@@ -448,7 +448,7 @@
 #### [68] Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers
 - **🧑‍🔬 作者**：Zi-Xin Zou, Zhipeng Yu, Yuan-Chen Guo, Yangguang Li, Ding Liang, Yan-Pei Cao, Song-Hai Zhang
 - **🏫 单位**：Tsinghua University ⟐ VAST
-- **🔗 链接**：[[中英摘要](./abs/2312.09147.md)] [[arXiv:2312.09147](https://arxiv.org/abs/2312.09147)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2312.09147.md)] [[arXiv:2312.09147](https://arxiv.org/abs/2312.09147)] [[Code](https://github.com/VAST-AI-Research/TriplaneGaussian)]
 - **📝 说明**：✏️
 
 #### [69] 3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting
@@ -532,7 +532,7 @@
 #### [82] SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes
 - **🧑‍🔬 作者**：Yi-Hua Huang, Yang-Tian Sun, Ziyi Yang, Xiaoyang Lyu, Yan-Pei Cao, Xiaojuan Qi
 - **🏫 单位**：The University of Hong Kong ⟐ VAST ⟐ Zhejiang University
-- **🔗 链接**：[[中英摘要](./abs/2312.14937.md)] [[arXiv:2312.14937](https://arxiv.org/abs/2312.14937)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2312.14937.md)] [[arXiv:2312.14937](https://arxiv.org/abs/2312.14937)] [[Code](https://github.com/yihua7/SC-GS)]
 - **📝 说明**：🏆 Accepted to CVPR 2024
 
 #### [83] Deformable 3D Gaussian Splatting for Animatable Human Avatars
@@ -610,7 +610,7 @@
 #### [95] Compressed 3D Gaussian Splatting for Accelerated Novel View Synthesis
 - **🧑‍🔬 作者**：Simon Niedermayr, Josef Stumpfegger, Rüdiger Westermann
 - **🏫 单位**：Technical University of Munich
-- **🔗 链接**：[[中英摘要](./abs/2401.02436.md)] [[arXiv:2401.02436](https://arxiv.org/abs/2401.02436)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2401.02436.md)] [[arXiv:2401.02436](https://arxiv.org/abs/2401.02436)] [[Code](https://github.com/KeKsBoTer/c3dgs)]
 - **📝 说明**：✏️
 
 #### [96] Characterizing Satellite Geometry via Accelerated 3D Gaussian Splatting
@@ -701,7 +701,7 @@
 - **🧑‍🔬 作者**：Xu Hu, Yuxi Wang, Lue Fan, Junsong Fan, Junran Peng, Zhen Lei, Qing Li, Zhaoxiang Zhang
 - **🏫 单位**：The Hong Kong Polytechnic University ⟐ Center for Artificial Intelligence and Robotics, HKISI, CAS ⟐
 Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese Academy of Sciences ⟐ Chongyue Technology
-- **🔗 链接**：[[中英摘要](./abs/2401.17857.md)] [[arXiv:2401.17857](https://arxiv.org/abs/2401.17857)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2401.17857.md)] [[arXiv:2401.17857](https://arxiv.org/abs/2401.17857)] [[Code](https://github.com/Jumpat/SegAnyGAussians)]
 - **📝 说明**：✏️
 
 #### [111] StopThePop: Sorted Gaussian Splatting for View-Consistent Real-time Rendering
@@ -725,7 +725,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 #### [114] GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting
 - **🧑‍🔬 作者**：Joanna Waczyńska, Piotr Borycki, Sławomir Tadeja, Jacek Tabor, Przemysław Spurek
 - **🏫 单位**：Jagiellonian University ⟐ University of Cambridge
-- **🔗 链接**：[[中英摘要](./abs/2402.01459.md)] [[arXiv:2402.01459](https://arxiv.org/abs/2402.01459)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2402.01459.md)] [[arXiv:2402.01459](https://arxiv.org/abs/2402.01459)] [[Code](https://github.com/waczjoan/gaussian-mesh-splatting)]
 - **📝 说明**：✏️
 
 #### [115] SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM
