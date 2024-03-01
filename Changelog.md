@@ -1,5 +1,9 @@
 # Changelog
 
+### 2024/03/01
+
+Add "3D Gaussian Model for Animation and Texturing"
+
 ### 2024/02/28
 
 Add "VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction"

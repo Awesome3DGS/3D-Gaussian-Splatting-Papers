@@ -823,3 +823,9 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：Tsinghua University ⟐ Huawei Noah's Ark Lab ⟐ Chinese Academy of Sciences
 - **🔗 链接**：[[中英摘要](./abs/2402.17427.md)] [[arXiv:2402.17427](https://arxiv.org/abs/2402.17427)] [Code]
 - **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [131] 3D Gaussian Model for Animation and Texturing
+- **🧑‍🔬 作者**：Xiangzhi Eric Wang, Zackary P. T. Sin
+- **🏫 单位**：The Hong Kong Polytechnic University
+- **🔗 链接**：[[中英摘要](./abs/2402.19441.md)] [[arXiv:2402.19441](https://arxiv.org/abs/2402.19441)] [Code]
+- **📝 说明**：✏️
