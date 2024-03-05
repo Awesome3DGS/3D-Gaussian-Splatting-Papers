@@ -58,7 +58,7 @@
 - **🧑‍🔬 作者**：R. James Cotton, Colleen Peyton
 - **🏫 单位**：Shirley Ryan AbilityLab ⟐ Northwestern University
 - **🔗 链接**：[[中英摘要](./abs/2310.19441.md)] [[arXiv:2310.19441](https://arxiv.org/abs/2310.19441)] [Code]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to WACV 2024 Workshop
 
 #### [4] Drivable 3D Gaussian Avatars
 - **🧑‍🔬 作者**：Wojciech Zielonka, Timur Bagautdinov, Shunsuke Saito, Michael Zollhöfer, Justus Thies, Javier Romero
@@ -88,7 +88,7 @@
 #### [8] An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic Scenes
 - **🧑‍🔬 作者**：Kai Katsumata, Duc Minh Vo, Hideki Nakayama
 - **🏫 单位**：The University of Tokyo
-- **🔗 链接**：[[中英摘要](./abs/2311.12897.md)] [[arXiv:2311.12897](https://arxiv.org/abs/2311.12897)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2311.12897.md)] [[arXiv:2311.12897](https://arxiv.org/abs/2311.12897)] [[Code](https://github.com/raven38/EfficientDynamic3DGaussian)]
 - **📝 说明**：✏️
 
 #### [9] LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes
@@ -328,7 +328,7 @@
 #### [48] DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes
 - **🧑‍🔬 作者**：Xiaoyu Zhou, Zhiwei Lin, Xiaojun Shan, Yongtao Wang, Deqing Sun, Ming-Hsuan Yang
 - **🏫 单位**：Peking University ⟐ Google Research ⟐ University of California, Merced
-- **🔗 链接**：[[中英摘要](./abs/2312.07920.md)] [[arXiv:2312.07920](https://arxiv.org/abs/2312.07920)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2312.07920.md)] [[arXiv:2312.07920](https://arxiv.org/abs/2312.07920)] [[Code](https://github.com/VDIGPKU/DrivingGaussian)]
 - **📝 说明**：✏️
 
 #### [49] iComMa: Inverting 3D Gaussians Splatting for Camera Pose Estimation via Comparing and Matching
