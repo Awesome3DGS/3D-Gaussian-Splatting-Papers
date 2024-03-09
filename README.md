@@ -547,3 +547,15 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：The Hong Kong Polytechnic University
 - **🔗 链接**：[[中英摘要](./abs/2402.19441.md)] [[arXiv:2402.19441](https://arxiv.org/abs/2402.19441)] [Code]
 - **📝 说明**：✏️
+
+#### [85] Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps
+- **🧑‍🔬 作者**：Timothy Chen, Ola Shorinwa, Weijia Zeng, Joseph Bruno, Philip Dames, Mac Schwager
+- **🏫 单位**：Stanford University ⟐ University of California San Diego ⟐ Temple University
+- **🔗 链接**：[[中英摘要](./abs/2403.02751.md)] [[arXiv:2403.02751](https://arxiv.org/abs/2403.02751)] [Code]
+- **📝 说明**：✏️
+
+#### [86] Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis
+- **🧑‍🔬 作者**：Yuanhao Cai, Yixun Liang, Jiahao Wang, Angtian Wang, Yulun Zhang, Xiaokang Yang, Zongwei Zhou, Alan Yuille
+- **🏫 单位**：Johns Hopkins University ⟐ HKUST(GZ) ⟐ Shanghai Jiao Tong University
+- **🔗 链接**：[[中英摘要](./abs/2403.04116.md)] [[arXiv:2403.04116](https://arxiv.org/abs/2403.04116)] [[Code](https://github.com/caiyuanhao1998/X-Gaussian)]
+- **📝 说明**：✏️

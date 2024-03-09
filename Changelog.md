@@ -1,5 +1,11 @@
 # Changelog
 
+### 2024/03/09
+
+Add "Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps"
+
+Add "Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis"
+
 ### 2024/03/01
 
 Add "3D Gaussian Model for Animation and Texturing"
