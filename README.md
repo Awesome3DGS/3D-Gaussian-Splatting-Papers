@@ -559,3 +559,15 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：Johns Hopkins University ⟐ HKUST(GZ) ⟐ Shanghai Jiao Tong University
 - **🔗 链接**：[[中英摘要](./abs/2403.04116.md)] [[arXiv:2403.04116](https://arxiv.org/abs/2403.04116)] [[Code](https://github.com/caiyuanhao1998/X-Gaussian)]
 - **📝 说明**：✏️
+
+#### [87] BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling
+- **🧑‍🔬 作者**：Cheng Peng, Yutao Tang, Yifan Zhou, Nengyu Wang, Xijun Liu, Deming Li, Rama Chellappa
+- **🏫 单位**：Johns Hopkins University
+- **🔗 链接**：[[中英摘要](./abs/2403.04926.md)] [[arXiv:2403.04926](https://arxiv.org/abs/2403.04926)] [[Code](https://github.com/snldmt/BAGS)]
+- **📝 说明**：✏️
+
+#### [88] GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting
+- **🧑‍🔬 作者**：Francesco Palandra, Andrea Sanchietti, Daniele Baieri, Emanuele Rodolà
+- **🏫 单位**：Sapienza University of Rome
+- **🔗 链接**：[[中英摘要](./abs/2403.05154.md)] [[arXiv:2403.05154](https://arxiv.org/abs/2403.05154)] [Code]
+- **📝 说明**：✏️

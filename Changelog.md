@@ -1,5 +1,11 @@
 # Changelog
 
+### 2024/03/11
+
+Add "BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling"
+
+Add "GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting"
+
 ### 2024/03/09
 
 Add "Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps"
