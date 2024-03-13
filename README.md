@@ -12,7 +12,8 @@
                  [[50](#50-characterizing-satellite-geometry-via-accelerated-3d-gaussian-splatting)]
                  [[60](#60-liv-gaussmap-lidar-inertial-visual-fusion-for-real-time-3d-radiance-field-map-rendering)]
                  [[70](#70-4d-gaussian-splatting-towards-efficient-novel-view-synthesis-for-dynamic-scenes)]
-                 [[80](#80-identifying-unnecessary-3d-gaussians-using-clustering-for-fast-rendering-of-3d-gaussian-splatting)]（最新）
+                 [[80](#80-identifying-unnecessary-3d-gaussians-using-clustering-for-fast-rendering-of-3d-gaussian-splatting)]
+                 [[90](#90-stylegaussian-instant-3d-style-transfer-with-gaussian-splatting)]（最新）
 
 
 **📚 会议期刊**: [[ICLR2024](./ICLR2024.md)] (2 篇)
@@ -570,4 +571,16 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Francesco Palandra, Andrea Sanchietti, Daniele Baieri, Emanuele Rodolà
 - **🏫 单位**：Sapienza University of Rome
 - **🔗 链接**：[[中英摘要](./abs/2403.05154.md)] [[arXiv:2403.05154](https://arxiv.org/abs/2403.05154)] [Code]
+- **📝 说明**：✏️
+
+#### [89] SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM
+- **🧑‍🔬 作者**：Siting Zhu, Renjie Qin, Guangming Wang, Jiuming Liu, Hesheng Wang
+- **🏫 单位**：Shanghai Jiao Tong University ⟐ University of Cambridge
+- **🔗 链接**：[[中英摘要](./abs/2403.07494.md)] [[arXiv:2403.07494](https://arxiv.org/abs/2403.07494)] [Code]
+- **📝 说明**：✏️
+
+#### [90] StyleGaussian: Instant 3D Style Transfer with Gaussian Splatting
+- **🧑‍🔬 作者**：Kunhao Liu, Fangneng Zhan, Muyu Xu, Christian Theobalt, Ling Shao, Shijian Lu
+- **🏫 单位**：Nanyang Technological University ⟐ Max Planck Institute for Informatics ⟐ UCAS-Terminus AI Lab
+- **🔗 链接**：[[中英摘要](./abs/2403.07807.md)] [[arXiv:2403.07807](https://arxiv.org/abs/2403.07807)] [[Code](https://github.com/Kunhao-Liu/StyleGaussian)]
 - **📝 说明**：✏️

@@ -1,5 +1,11 @@
 # Changelog
 
+### 2024/03/13
+
+Add "SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM"
+
+Add "StyleGaussian: Instant 3D Style Transfer with Gaussian Splatting"
+
 ### 2024/03/11
 
 Add "BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling"
