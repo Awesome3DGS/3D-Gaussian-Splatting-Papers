@@ -1,5 +1,13 @@
 # Changelog
 
+### 2024/03/14
+
+Add "ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation"
+
+Add "Gaussian Splatting in Style"
+
+Add "GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing"
+
 ### 2024/03/13
 
 Add "SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM"

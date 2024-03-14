@@ -584,3 +584,21 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：Nanyang Technological University ⟐ Max Planck Institute for Informatics ⟐ UCAS-Terminus AI Lab
 - **🔗 链接**：[[中英摘要](./abs/2403.07807.md)] [[arXiv:2403.07807](https://arxiv.org/abs/2403.07807)] [[Code](https://github.com/Kunhao-Liu/StyleGaussian)]
 - **📝 说明**：✏️
+
+#### [91] ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation
+- **🧑‍🔬 作者**：Guanxing Lu, Shiyi Zhang, Ziwei Wang, Changliu Liu, Jiwen Lu, Yansong Tang
+- **🏫 单位**：Tsinghua Shenzhen International Graduate School ⟐ Carnegie Mellon University ⟐ Tsinghua University
+- **🔗 链接**：[[中英摘要](./abs/2403.08321.md)] [[arXiv:2403.08321](https://arxiv.org/abs/2403.08321)] [Code]
+- **📝 说明**：✏️
+
+#### [92] Gaussian Splatting in Style
+- **🧑‍🔬 作者**：Abhishek Saroha, Mariia Gladkova, Cecilia Curreli, Tarun Yenamandra, Daniel Cremers
+- **🏫 单位**：Technical University of Munich
+- **🔗 链接**：[[中英摘要](./abs/2403.08498.md)] [[arXiv:2403.08498](https://arxiv.org/abs/2403.08498)] [Code]
+- **📝 说明**：✏️
+
+#### [93] GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing
+- **🧑‍🔬 作者**：Jing Wu, Jia-Wang Bian, Xinghui Li, Guangrun Wang, Ian Reid, Philip Torr, Victor Adrian Prisacariu
+- **🏫 单位**：University of Oxford ⟐ Mohamed bin Zayed University of Artificial Intelligence
+- **🔗 链接**：[[中英摘要](./abs/2403.08733.md)] [[arXiv:2403.08733](https://arxiv.org/abs/2403.08733)] [Code]
+- **📝 说明**：✏️
