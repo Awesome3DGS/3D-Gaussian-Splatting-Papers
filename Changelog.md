@@ -1,5 +1,17 @@
 # Changelog
 
+### 2024/03/15
+
+Add "A New Split Algorithm for 3D Gaussian Splatting"
+
+Add "Hyper-3DG: Text-to-3D Gaussian Generation via Hypergraph"
+
+Add "Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting"
+
+Add "Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians"
+
+Add "GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping"
+
 ### 2024/03/14
 
 Add "ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation"

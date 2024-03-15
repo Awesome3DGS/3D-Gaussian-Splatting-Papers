@@ -602,3 +602,33 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：University of Oxford ⟐ Mohamed bin Zayed University of Artificial Intelligence
 - **🔗 链接**：[[中英摘要](./abs/2403.08733.md)] [[arXiv:2403.08733](https://arxiv.org/abs/2403.08733)] [Code]
 - **📝 说明**：✏️
+
+#### [94] A New Split Algorithm for 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Qiyuan Feng, Gengchen Cao, Haoxiang Chen, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu
+- **🏫 单位**：Tsinghua University ⟐ Cardiff University
+- **🔗 链接**：[[中英摘要](./abs/2403.09143.md)] [[arXiv:2403.09143](https://arxiv.org/abs/2403.09143)] [Code]
+- **📝 说明**：✏️
+
+#### [95] Hyper-3DG: Text-to-3D Gaussian Generation via Hypergraph
+- **🧑‍🔬 作者**：Donglin Di, Jiahui Yang, Chaofan Luo, Zhou Xue, Wei Chen, Xun Yang, Yue Gao
+- **🏫 单位**：Space AI, Li Auto ⟐ Tsinghua University ⟐ University of Science and Technology of China ⟐ Harbin Institute of Technology
+- **🔗 链接**：[[中英摘要](./abs/2403.09236.md)] [[arXiv:2403.09236](https://arxiv.org/abs/2403.09236)] [[Code](https://github.com/yjhboy/Hyper3DG)]
+- **📝 说明**：✏️
+
+#### [96] Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Jaewoo Jung, Jisang Han, Honggyu An, Jiwon Kang, Seonghoon Park, Seungryong Kim
+- **🏫 单位**：Korea University
+- **🔗 链接**：[[中英摘要](./abs/2403.09413.md)] [[arXiv:2403.09413](https://arxiv.org/abs/2403.09413)] [[Code](https://github.com/KU-CVLAB/RAIN-GS)]
+- **📝 说明**：✏️
+
+#### [97] Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians
+- **🧑‍🔬 作者**：Licheng Zhong, Hong-Xing Yu, Jiajun Wu, Yunzhu Li
+- **🏫 单位**：Stanford University ⟐ University of Illinois Urbana-Champaign
+- **🔗 链接**：[[中英摘要](./abs/2403.09434.md)] [[arXiv:2403.09434](https://arxiv.org/abs/2403.09434)] [[Code](https://github.com/Colmar-zlicheng/Spring-Gaus)]
+- **📝 说明**：Code link 404
+
+#### [98] GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping
+- **🧑‍🔬 作者**：Yuhang Zheng, Xiangyu Chen, Yupeng Zheng, Songen Gu, Runyi Yang, Bu Jin, Pengfei Li, Chengliang Zhong, Zengmao Wang, Lina Liu, Chao Yang, Dawei Wang, Zhen Chen, Xiaoxiao Long, Meiqing Wang
+- **🏫 单位**： Beihang University ⟐ Chinese Academy of Sciences ⟐ Tsinghua University ⟐ Imperial College London ⟐ China Mobile Research Institute ⟐ Wuhan University ⟐ Shanghai AI Laboratory ⟐ University of Hong Kong
+- **🔗 链接**：[[中英摘要](./abs/2403.09637.md)] [[arXiv:2403.09637](https://arxiv.org/abs/2403.09637)] [[Code](https://github.com/MrSecant/GaussianGrasper)]
+- **📝 说明**：✏️
