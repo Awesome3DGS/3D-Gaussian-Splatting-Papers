@@ -1,5 +1,19 @@
 # Changelog
 
+### 2024/03/18
+
+Add "Touch-GS: Visual-Tactile Supervised 3D Gaussian Splatting"
+
+Add "Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting"
+
+Add "Texture-GS: Disentangling the Geometry and Texture for 3D Gaussian Splatting Editing"
+
+Add "GGRt: Towards Generalizable 3D Gaussians without Pose Priors in Real-Time"
+
+Add "FDGaussian: Fast Gaussian Splatting from Single Image via Geometric-aware Diffusion Model"
+
+Add "SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians"
+
 ### 2024/03/15
 
 Add "A New Split Algorithm for 3D Gaussian Splatting"

@@ -13,7 +13,8 @@
                  [[60](#60-liv-gaussmap-lidar-inertial-visual-fusion-for-real-time-3d-radiance-field-map-rendering)]
                  [[70](#70-4d-gaussian-splatting-towards-efficient-novel-view-synthesis-for-dynamic-scenes)]
                  [[80](#80-identifying-unnecessary-3d-gaussians-using-clustering-for-fast-rendering-of-3d-gaussian-splatting)]
-                 [[90](#90-stylegaussian-instant-3d-style-transfer-with-gaussian-splatting)]（最新）
+                 [[90](#90-stylegaussian-instant-3d-style-transfer-with-gaussian-splatting)]
+                 [[100](#100-controllable-text-to-3d-generation-via-surface-aligned-gaussian-splatting)]（最新）
 
 
 **📚 会议期刊**: [[ICLR2024](./ICLR2024.md)] (2 篇)
@@ -631,4 +632,40 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Yuhang Zheng, Xiangyu Chen, Yupeng Zheng, Songen Gu, Runyi Yang, Bu Jin, Pengfei Li, Chengliang Zhong, Zengmao Wang, Lina Liu, Chao Yang, Dawei Wang, Zhen Chen, Xiaoxiao Long, Meiqing Wang
 - **🏫 单位**： Beihang University ⟐ Chinese Academy of Sciences ⟐ Tsinghua University ⟐ Imperial College London ⟐ China Mobile Research Institute ⟐ Wuhan University ⟐ Shanghai AI Laboratory ⟐ University of Hong Kong
 - **🔗 链接**：[[中英摘要](./abs/2403.09637.md)] [[arXiv:2403.09637](https://arxiv.org/abs/2403.09637)] [[Code](https://github.com/MrSecant/GaussianGrasper)]
+- **📝 说明**：✏️
+
+#### [99] Touch-GS: Visual-Tactile Supervised 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Aiden Swann, Matthew Strong, Won Kyung Do, Gadiel Sznaier Camps, Mac Schwager, Monroe Kennedy III
+- **🏫 单位**：Stanford University
+- **🔗 链接**：[[中英摘要](./abs/2403.09875.md)] [[arXiv:2403.09875](https://arxiv.org/abs/2403.09875)] [Code]
+- **📝 说明**：✏️
+
+#### [100] Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting
+- **🧑‍🔬 作者**：Zhiqi Li, Yiming Chen, Lingzhe Zhao, Peidong Liu
+- **🏫 单位**：Zhejiang University ⟐ Westlake University ⟐ Tongji University
+- **🔗 链接**：[[中英摘要](./abs/2403.09981.md)] [[arXiv:2403.09981](https://arxiv.org/abs/2403.09981)] [[Code](https://github.com/WU-CVGL/MVControl-threestudio)]
+- **📝 说明**：✏️
+
+#### [101] Texture-GS: Disentangling the Geometry and Texture for 3D Gaussian Splatting Editing
+- **🧑‍🔬 作者**：Tian-Xing Xu, Wenbo Hu, Yu-Kun Lai, Ying Shan, Song-Hai Zhang
+- **🏫 单位**：Tsinghua University ⟐ Tencent AI Lab ⟐ Cardiff University
+- **🔗 链接**：[[中英摘要](./abs/2403.10050.md)] [[arXiv:2403.10050](https://arxiv.org/abs/2403.10050)] [Code]
+- **📝 说明**：✏️
+
+#### [102] GGRt: Towards Generalizable 3D Gaussians without Pose Priors in Real-Time
+- **🧑‍🔬 作者**：Hao Li, Yuanyuan Gao, Dingwen Zhang, Chenming Wu, Yalun Dai, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang, Junwei Han
+- **🏫 单位**：Northwestern Polytechnical University ⟐ Baidu Inc. ⟐ Nanyang Technological University
+- **🔗 链接**：[[中英摘要](./abs/2403.10147.md)] [[arXiv:2403.10147](https://arxiv.org/abs/2403.10147)] [Code]
+- **📝 说明**：✏️
+
+#### [103] FDGaussian: Fast Gaussian Splatting from Single Image via Geometric-aware Diffusion Model
+- **🧑‍🔬 作者**：Qijun Feng, Zhen Xing, Zuxuan Wu, Yu-Gang Jiang
+- **🏫 单位**：Fudan University
+- **🔗 链接**：[[中英摘要](./abs/2403.10242.md)] [[arXiv:2403.10242](https://arxiv.org/abs/2403.10242)] [Code]
+- **📝 说明**：✏️
+
+#### [104] SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians
+- **🧑‍🔬 作者**：Hiba Dahmani, Moussab Bennehar, Nathan Piasco, Luis Roldao, Dzmitry Tsishkou
+- **🏫 单位**：Noah’s Ark, Huawei Paris Research Center
+- **🔗 链接**：[[中英摘要](./abs/2403.10427.md)] [[arXiv:2403.10427](https://arxiv.org/abs/2403.10427)] [Code]
 - **📝 说明**：✏️
