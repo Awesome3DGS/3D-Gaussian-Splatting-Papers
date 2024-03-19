@@ -1,5 +1,45 @@
 # Changelog
 
+### 2024/03/19
+
+Add "Recent Advances in 3D Gaussian Splatting"
+
+Add "GS-Pose: Cascaded Framework for Generalizable Segmentation-based 6D Object Pose Estimation"
+
+Add "DarkGS: Learning Neural Illumination and 3D Gaussians Relighting for Robotic Exploration in the Dark"
+
+Add "Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration"
+
+Add "Compact 3D Gaussian Splatting For Dense Visual SLAM"
+
+Add "BrightDreamer: Generic 3D Gaussian Generative Framework for Fast Text-to-3D Synthesis"
+
+Add "GeoGaussian: Geometry-aware Gaussian Splatting for Scene Rendering"
+
+Add "3DGS-ReLoc: 3D Gaussian Splatting for Map Representation and Visual ReLocalization"
+
+Add "BAGS: Building Animatable Gaussian Splatting from a Monocular Video with Diffusion Priors"
+
+Add "Motion-aware 3D Gaussian Splatting for Efficient Dynamic Scene Reconstruction"
+
+Add "Bridging 3D Gaussian and Mesh for Freeview Video Rendering"
+
+Add "Fed3DGS: Scalable 3D Gaussian Splatting with Federated Learning"
+
+Add "3DGS-Calib: 3D Gaussian Splatting for Multimodal SpatioTemporal Calibration"
+
+Add "UV Gaussians: Joint Learning of Mesh Deformation and Gaussian Textures for Human Avatar Modeling"
+
+Add "GaussNav: Gaussian Splatting for Visual Navigation"
+
+Add "NEDS-SLAM: A Novel Neural Explicit Dense Semantic SLAM Framework using 3D Gaussian Splatting"
+
+Add "BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting"
+
+Add "View-Consistent 3D Editing with Gaussian Splatting"
+
+Add "VideoMV: Consistent Multi-View Generation Based on Large Video Generative Model"
+
 ### 2024/03/18
 
 Add "Touch-GS: Visual-Tactile Supervised 3D Gaussian Splatting"
