@@ -785,3 +785,27 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：Alibaba Group ⟐ CUHKSZ ⟐ Fudan University ⟐ Peking University ⟐ The University of Texas at Austin
 - **🔗 链接**：[[中英摘要](./abs/2403.12010.md)] [[arXiv:2403.12010](https://arxiv.org/abs/2403.12010)] [[Code](https://github.com/alibaba/VideoMV)]
 - **📝 说明**：✏️
+
+#### [123] GaussianFlow: Splatting Gaussian Dynamics for 4D Content Creation
+- **🧑‍🔬 作者**：Quankai Gao, Qiangeng Xu, Zhe Cao, Ben Mildenhall, Wenchao Ma, Le Chen, Danhang Tang, Ulrich Neumann
+- **🏫 单位**：University of Southern California ⟐ Google ⟐ Pennsylvania State University ⟐ Max Planck Institute for Intelligent Systems
+- **🔗 链接**：[[中英摘要](./abs/2403.12365.md)] [[arXiv:2403.12365](https://arxiv.org/abs/2403.12365)] [[Code](https://github.com/Zerg-Overmind/GaussianFlow)]
+- **📝 说明**：✏️
+
+#### [124] High-Fidelity SLAM Using Gaussian Splatting with Rendering-Guided Densification and Regularized Optimization
+- **🧑‍🔬 作者**：Shuo Sun, Malcolm Mielle, Achim J. Lilienthal, Martin Magnusson
+- **🏫 单位**：Orebro University ⟐ Technical University of Munich
+- **🔗 链接**：[[中英摘要](./abs/2403.12535.md)] [[arXiv:2403.12535](https://arxiv.org/abs/2403.12535)] [Code]
+- **📝 说明**：✏️  Submitted to IROS24
+
+#### [125] RGBD GS-ICP SLAM
+- **🧑‍🔬 作者**：Seongbo Ha, Jiung Yeon, Hyeonwoo Yu
+- **🏫 单位**：Sungkyunkwan University
+- **🔗 链接**：[[中英摘要](./abs/2403.12550.md)] [[arXiv:2403.12550](https://arxiv.org/abs/2403.12550)] [Code]
+- **📝 说明**：✏️
+
+#### [126] GVGEN: Text-to-3D Generation with Volumetric Representation
+- **🧑‍🔬 作者**：Xianglong He, Junyi Chen, Sida Peng, Di Huang, Yangguang Li, Xiaoshui Huang, Chun Yuan, Wanli Ouyang, Tong He
+- **🏫 单位**：Shanghai AI Lab ⟐ Tsinghua Shenzhen International Graduate School ⟐ Shanghai Jiao Tong University ⟐ Zhejiang University ⟐ VAST
+- **🔗 链接**：[[中英摘要](./abs/2403.12957.md)] [[arXiv:2403.12957](https://arxiv.org/abs/2403.12957)] [Code]
+- **📝 说明**：✏️

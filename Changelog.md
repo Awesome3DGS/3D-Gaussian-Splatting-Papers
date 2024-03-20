@@ -1,5 +1,15 @@
 # Changelog
 
+### 2024/03/20
+
+Add "GaussianFlow: Splatting Gaussian Dynamics for 4D Content Creation"
+
+Add "High-Fidelity SLAM Using Gaussian Splatting with Rendering-Guided Densification and Regularized Optimization"
+
+Add "RGBD GS-ICP SLAM"
+
+Add "GVGEN: Text-to-3D Generation with Volumetric Representation"
+
 ### 2024/03/19
 
 Add "Recent Advances in 3D Gaussian Splatting"
