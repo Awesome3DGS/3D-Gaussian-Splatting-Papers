@@ -1,5 +1,13 @@
 # Changelog
 
+### 2024/03/23
+
+Add "Gaussian Splatting on the Move: Blur and Rolling Shutter Compensation for Natural Camera Motion"
+
+Add "RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS"
+
+Add "Mini-Splatting: Representing Scenes with a Constrained Number of Gaussian"
+
 ### 2024/03/22
 
 Add "Isotropic Gaussian Splatting for Real-Time Radiance Field Rendering"
