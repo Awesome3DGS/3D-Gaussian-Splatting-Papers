@@ -1,5 +1,17 @@
 # Changelog
 
+### 2024/03/22
+
+Add "Isotropic Gaussian Splatting for Real-Time Radiance Field Rendering"
+
+Add "Hash-grid Assisted Context for 3D Gaussian Splatting Compression"
+
+Add "Gaussian Frosting: Editable Complex Radiance Fields with Real-Time Rendering"
+
+Add "GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation"
+
+Add "MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images"
+
 ### 2024/03/20
 
 Add "GaussianFlow: Splatting Gaussian Dynamics for 4D Content Creation"

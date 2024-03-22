@@ -16,7 +16,8 @@
                  [[90](#90-stylegaussian-instant-3d-style-transfer-with-gaussian-splatting)]
                  [[100](#100-controllable-text-to-3d-generation-via-surface-aligned-gaussian-splatting)]
                  [[110](#110-geogaussian-geometry-aware-gaussian-splatting-for-scene-rendering)]
-                 [[120](#120-bad-gaussians-bundle-adjusted-deblur-gaussian-splatting)]（最新）
+                 [[120](#120-bad-gaussians-bundle-adjusted-deblur-gaussian-splatting)]
+                 [[130](#130-grm-large-gaussian-reconstruction-model-for-efficient-3d-reconstruction-and-generation)]（最新）
 
 
 **📚 会议期刊**: [[ICLR2024](./ICLR2024.md)] (2 篇)
@@ -808,4 +809,34 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Xianglong He, Junyi Chen, Sida Peng, Di Huang, Yangguang Li, Xiaoshui Huang, Chun Yuan, Wanli Ouyang, Tong He
 - **🏫 单位**：Shanghai AI Lab ⟐ Tsinghua Shenzhen International Graduate School ⟐ Shanghai Jiao Tong University ⟐ Zhejiang University ⟐ VAST
 - **🔗 链接**：[[中英摘要](./abs/2403.12957.md)] [[arXiv:2403.12957](https://arxiv.org/abs/2403.12957)] [Code]
+- **📝 说明**：✏️
+
+#### [127] Isotropic Gaussian Splatting for Real-Time Radiance Field Rendering
+- **🧑‍🔬 作者**：Yuanhao Gong, Lantao Yu, Guanghui Yue
+- **🏫 单位**：Shenzhen University ⟐ Guangdong Key Laboratory of Intelligent Information Processing ⟐ Adobe Inc.
+- **🔗 链接**：[[中英摘要](./abs/2403.14244.md)] [[arXiv:2403.14244](https://arxiv.org/abs/2403.14244)] [Code]
+- **📝 说明**：✏️
+
+#### [128] HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression
+- **🧑‍🔬 作者**：Yihang Chen, Qianyi Wu, Jianfei Cai, Mehrtash Harandi, Weiyao Lin
+- **🏫 单位**：Shanghai Jiao Tong University ⟐ Monash University
+- **🔗 链接**：[[中英摘要](./abs/2403.14530.md)] [[arXiv:2403.14530](https://arxiv.org/abs/2403.14530)] [[Code](https://github.com/YihangChen-ee/HAC)]
+- **📝 说明**：✏️
+
+#### [129] Gaussian Frosting: Editable Complex Radiance Fields with Real-Time Rendering
+- **🧑‍🔬 作者**：Antoine Guédon, Vincent Lepetit
+- **🏫 单位**：Univ Gustave Eiffel
+- **🔗 链接**：[[中英摘要](./abs/2403.14554.md)] [[arXiv:2403.14554](https://arxiv.org/abs/2403.14554)] [Code]
+- **📝 说明**：✏️
+
+#### [130] GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation
+- **🧑‍🔬 作者**：Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein
+- **🏫 单位**：Stanford University ⟐ The Hong Kong University of Science and Technology ⟐ Shanghai AI Laboratory ⟐ Zhejiang University ⟐ Ant Group
+- **🔗 链接**：[[中英摘要](./abs/2403.14621.md)] [[arXiv:2403.14621](https://arxiv.org/abs/2403.14621)] [[Code](https://github.com/justimyhxu/GRM)]
+- **📝 说明**：✏️
+
+#### [131] MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images
+- **🧑‍🔬 作者**：Yuedong Chen, Haofei Xu, Chuanxia Zheng, Bohan Zhuang, Marc Pollefeys, Andreas Geiger, Tat-Jen Cham, Jianfei Cai
+- **🏫 单位**：Monash University ⟐ ETH Zurich ⟐ University of Tübingen ⟐ University of Oxford ⟐ Microsoft ⟐ Nanyang Technological University
+- **🔗 链接**：[[中英摘要](./abs/2403.14627.md)] [[arXiv:2403.14627](https://arxiv.org/abs/2403.14627)] [[Code](https://github.com/donydchen/mvsplat)]
 - **📝 说明**：✏️
