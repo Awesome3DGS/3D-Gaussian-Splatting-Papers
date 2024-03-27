@@ -1,5 +1,31 @@
 # Changelog
 
+### 2024/03/27
+
+Add "STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians"
+
+Add "EndoGSLAM: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting"
+
+Add "Pixel-GS: Density Control with Pixel-aware Gradient for 3D Gaussian Splatting"
+
+Add "Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting"
+
+Add "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections"
+
+Add "CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field"
+
+Add "latentSplat: Autoencoding Variational Gaussians for Fast Generalizable 3D Reconstruction"
+
+Add "GSDF: 3DGS Meets SDF for Improved Rendering and Reconstruction"
+
+Add "DreamPolisher: Towards High-Quality Text-to-3D Generation via Geometric Diffusion"
+
+Add "DN-Splatter: Depth and Normal Priors for Gaussian Splatting and Meshing"
+
+Add "2D Gaussian Splatting for Geometrically Accurate Radiance Fields"
+
+Add "Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians"
+
 ### 2024/03/23
 
 Add "Gaussian Splatting on the Move: Blur and Rolling Shutter Compensation for Natural Camera Motion"

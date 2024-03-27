@@ -17,7 +17,8 @@
                  [[100](#100-ggrt-towards-generalizable-3d-gaussians-without-pose-priors-in-real-time)]
                  [[110](#110-bags-building-animatable-gaussian-splatting-from-a-monocular-video-with-diffusion-priors)]
                  [[120](#120-videomv-consistent-multi-view-generation-based-on-large-video-generative-model)]
-                 [[130](#130-gaussian-frosting-editable-complex-radiance-fields-with-real-time-rendering)]（最新）
+                 [[130](#130-gaussian-frosting-editable-complex-radiance-fields-with-real-time-rendering)]
+                 [[140](#140-gsdf-3dgs-meets-sdf-for-improved-rendering-and-reconstruction)]（最新）
 
 
 **📚 会议期刊**: [[ICLR2024](./ICLR2024.md)] (2 篇)
@@ -845,4 +846,76 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Yuedong Chen, Haofei Xu, Chuanxia Zheng, Bohan Zhuang, Marc Pollefeys, Andreas Geiger, Tat-Jen Cham, Jianfei Cai
 - **🏫 单位**：Monash University ⟐ ETH Zurich ⟐ University of Tübingen ⟐ University of Oxford ⟐ Microsoft ⟐ Nanyang Technological University
 - **🔗 链接**：[[中英摘要](./abs/2403.14627.md)] [[arXiv:2403.14627](https://arxiv.org/abs/2403.14627)] [[Code](https://github.com/donydchen/mvsplat)]
+- **📝 说明**：✏️
+
+#### [133] STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians
+- **🧑‍🔬 作者**：Yifei Zeng, Yanqin Jiang, Siyu Zhu, Yuanxun Lu, Youtian Lin, Hao Zhu, Weiming Hu, Xun Cao, Yao Yao
+- **🏫 单位**：Nanjing University ⟐ Institution of Automation, Chinese Academy of Science ⟐ Fudan University
+- **🔗 链接**：[[中英摘要](./abs/2403.14939.md)] [[arXiv:2403.14939](https://arxiv.org/abs/2403.14939)] [[Code](https://github.com/zeng-yifei/STAG4D)]
+- **📝 说明**：✏️
+
+#### [134] EndoGSLAM: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting
+- **🧑‍🔬 作者**：Kailing Wang, Chen Yang, Yuehao Wang, Sikuang Li, Yan Wang, Qi Dou, Xiaokang Yang, Wei Shen
+- **🏫 单位**： Shanghai Jiao Tong University ⟐ The Chinese University of Hong Kong ⟐ East China Normal University
+- **🔗 链接**：[[中英摘要](./abs/2403.15124.md)] [[arXiv:2403.15124](https://arxiv.org/abs/2403.15124)] [[Code](https://github.com/endogslam/EndoGSLAM)]:
+- **📝 说明**：✏️
+
+#### [135] Pixel-GS: Density Control with Pixel-aware Gradient for 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Zheng Zhang, Wenbo Hu, Yixing Lao, Tong He, Hengshuang Zhao
+- **🏫 单位**：The University of Hong Kong ⟐ Tencent AI Lab ⟐ Shanghai AI Lab
+- **🔗 链接**：[[中英摘要](./abs/2403.15530.md)] [[arXiv:2403.15530](https://arxiv.org/abs/2403.15530)] [[Code](https://github.com/zhengzhang01/Pixel-GS)]
+- **📝 说明**：✏️
+
+#### [136] Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Jun Guo, Xiaojian Ma, Yue Fan, Huaping Liu, Qing Li
+- **🏫 单位**：BIGAI ⟐ Tsinghua University
+- **🔗 链接**：[[中英摘要](./abs/2403.15624.md)] [[arXiv:2403.15624](https://arxiv.org/abs/2403.15624)] [Code]
+- **📝 说明**：✏️
+
+#### [137] Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections
+- **🧑‍🔬 作者**：Dongbin Zhang, Chuming Wang, Weitao Wang, Peihao Li, Minghan Qin, Haoqian Wang
+- **🏫 单位**：Tsinghua University
+- **🔗 链接**：[[中英摘要](./abs/2403.15704.md)] [[arXiv:2403.15704](https://arxiv.org/abs/2403.15704)] [Code]
+- **📝 说明**：✏️
+
+#### [138] CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field
+- **🧑‍🔬 作者**：Jiarui Hu, Xianhao Chen, Boyin Feng, Guanglin Li, Liangjing Yang, Hujun Bao, Guofeng Zhang, Zhaopeng Cui
+- **🏫 单位**：Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2403.16095.md)] [[arXiv:2403.16095](https://arxiv.org/abs/2403.16095)] [[Code](https://github.com/hjr37/CG-SLAM)]
+- **📝 说明**：✏️
+
+#### [139] latentSplat: Autoencoding Variational Gaussians for Fast Generalizable 3D Reconstruction
+- **🧑‍🔬 作者**：Christopher Wewer, Kevin Raj, Eddy Ilg, Bernt Schiele, Jan Eric Lenssen
+- **🏫 单位**：Max Planck Institute for Informatics ⟐ Saarland University
+- **🔗 链接**：[[中英摘要](./abs/2403.16292.md)] [[arXiv:2403.16292](https://arxiv.org/abs/2403.16292)] [Code]
+- **📝 说明**：✏️
+
+#### [140] GSDF: 3DGS Meets SDF for Improved Rendering and Reconstruction
+- **🧑‍🔬 作者**：Mulin Yu, Tao Lu, Linning Xu, Lihan Jiang, Yuanbo Xiangli, Bo Dai
+- **🏫 单位**：Shanghai Artificial Intelligence Laboratory ⟐ The Chinese University of Hong Kong ⟐ University of Science and Technology of China ⟐ Cornell University
+- **🔗 链接**：[[中英摘要](./abs/2403.16964.md)] [[arXiv:2403.16964](https://arxiv.org/abs/2403.16964)] [[Code](https://github.com/city-super/GSDF)]
+- **📝 说明**：✏️
+
+#### [141] DreamPolisher: Towards High-Quality Text-to-3D Generation via Geometric Diffusion
+- **🧑‍🔬 作者**：Yuanze Lin, Ronald Clark, Philip Torr
+- **🏫 单位**：University of Oxford
+- **🔗 链接**：[[中英摘要](./abs/2403.17237.md)] [[arXiv:2403.17237](https://arxiv.org/abs/2403.17237)] [[Code](https://github.com/yuanze-lin/DreamPolisher)]
+- **📝 说明**：✏️
+
+#### [142] DN-Splatter: Depth and Normal Priors for Gaussian Splatting and Meshing
+- **🧑‍🔬 作者**：Matias Turkulainen, Xuqian Ren, Iaroslav Melekhov, Otto Seiskari, Esa Rahtu, Juho Kannala
+- **🏫 单位**：ETH Zurich ⟐ Tampere University ⟐ Aalto University ⟐ Spectacular AI
+- **🔗 链接**：[[中英摘要](./abs/2403.17822.md)] [[arXiv:2403.17822](https://arxiv.org/abs/2403.17822)] [[Code](https://github.com/maturk/dn-splatter)]
+- **📝 说明**：✏️
+
+#### [143] 2D Gaussian Splatting for Geometrically Accurate Radiance Fields
+- **🧑‍🔬 作者**：Binbin Huang, Zehao Yu, Anpei Chen, Andreas Geiger, Shenghua Gao
+- **🏫 单位**：ShanghaiTech University ⟐ University of Tübingen
+- **🔗 链接**：[[中英摘要](./abs/2403.17888.md)] [[arXiv:2403.17888](https://arxiv.org/abs/2403.17888)] [Code]
+- **📝 说明**：✏️
+
+#### [144] Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians
+- **🧑‍🔬 作者**：Kerui Ren, Lihan Jiang, Tao Lu, Mulin Yu, Linning Xu, Zhangkai Ni, Bo Dai
+- **🏫 单位**：Shanghai Artificial Intelligence Laboratory ⟐ Tongji University ⟐ University of Science and Technology of China ⟐ The Chinese University of Hong Kong
+- **🔗 链接**：[[中英摘要](./abs/2403.17898.md)] [[arXiv:2403.17898](https://arxiv.org/abs/2403.17898)] [[Code](https://github.com/city-super/Octree-GS)]
 - **📝 说明**：✏️
