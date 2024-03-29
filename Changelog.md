@@ -1,5 +1,21 @@
 # Changelog
 
+### 2024/03/29
+
+Add "Modeling uncertainty for Gaussian Splatting"
+
+Add "SplatFace: Gaussian Splat Face Reconstruction Leveraging an Optimizable Surface"
+
+Add "Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction"
+
+Add "CoherentGS: Sparse Novel View Synthesis with Coherent 3D Gaussians"
+
+Add "SA-GS: Scale-Adaptive Gaussian Splatting for Training-Free Anti-Aliasing"
+
+Add "GauStudio: A Modular Framework for 3D Gaussian Splatting and Beyond"
+
+Add "GaussianCube: Structuring Gaussian Splatting using Optimal Transport for 3D Generative Modeling"
+
 ### 2024/03/27
 
 Add "STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians"
