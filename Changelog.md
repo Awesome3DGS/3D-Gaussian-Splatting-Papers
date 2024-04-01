@@ -1,5 +1,17 @@
 # Changelog
 
+### 2024/04/01
+
+Add "HO-Gaussian: Hybrid Optimization of 3D Gaussian Splatting for Urban Scenes"
+
+Add "SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior"
+
+Add "HGS-Mapping: Online Dense Mapping Using Hybrid Gaussian Representation in Urban Scenes"
+
+Add "Snap-it, Tap-it, Splat-it: Tactile-Informed 3D Gaussian Splatting for Reconstructing Challenging Surfaces"
+
+Add "InstantSplat: Unbounded Sparse-view Pose-free Gaussian Splatting in 40 Seconds"
+
 ### 2024/03/29
 
 Add "Modeling uncertainty for Gaussian Splatting"

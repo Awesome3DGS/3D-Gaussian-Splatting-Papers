@@ -962,3 +962,33 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：University of Science and Technology of China ⟐ Tsinghua University ⟐ Microsoft Research Asia
 - **🔗 链接**：[[中英摘要](./abs/2403.19655.md)] [[arXiv:2403.19655](https://arxiv.org/abs/2403.19655)] [Code]
 - **📝 说明**：✏️
+
+#### [152] HO-Gaussian: Hybrid Optimization of 3D Gaussian Splatting for Urban Scenes
+- **🧑‍🔬 作者**：Zhuopeng Li, Yilin Zhang, Chenming Wu, Jianke Zhu, Liangjun Zhang
+- **🏫 单位**：Zhejiang University ⟐ Baidu Research
+- **🔗 链接**：[[中英摘要](./abs/2403.20032.md)] [[arXiv:2403.20032](https://arxiv.org/abs/2403.20032)] [Code]
+- **📝 说明**：✏️
+
+#### [153] SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior
+- **🧑‍🔬 作者**：Zhongrui Yu, Haoran Wang, Jinze Yang, Hanzhang Wang, Zeke Xie, Yunfeng Cai, Jiale Cao, Zhong Ji, Mingming Sun
+- **🏫 单位**：ETH Zürich ⟐ Baidu Research ⟐ University of Chinese Academy of Sciences ⟐ Harbin Institute of Technology ⟐ Tianjin University
+- **🔗 链接**：[[中英摘要](./abs/2403.20079.md)] [[arXiv:2403.20079](https://arxiv.org/abs/2403.20079)] [Code]
+- **📝 说明**：✏️
+
+#### [154] HGS-Mapping: Online Dense Mapping Using Hybrid Gaussian Representation in Urban Scenes
+- **🧑‍🔬 作者**：Ke Wu, Kaizhao Zhang, Zhiwei Zhang, Shanshuai Yuan, Muer Tie, Julong Wei, Zijun Xu, Jieru Zhao, Zhongxue Gan, Wenchao Ding
+- **🏫 单位**：Fudan University ⟐ Harbin Institute of Technology ⟐ Shanghai Jiao Tong University
+- **🔗 链接**：[[中英摘要](./abs/2403.20159.md)] [[arXiv:2403.20159](https://arxiv.org/abs/2403.20159)] [Code]
+- **📝 说明**：✏️
+
+#### [155] Snap-it, Tap-it, Splat-it: Tactile-Informed 3D Gaussian Splatting for Reconstructing Challenging Surfaces
+- **🧑‍🔬 作者**：Mauro Comi, Alessio Tonioni, Max Yang, Jonathan Tremblay, Valts Blukis, Yijiong Lin, Nathan F. Lepora, Laurence Aitchison
+- **🏫 单位**：University of Bristol ⟐ Google Zurich ⟐ NVIDIA
+- **🔗 链接**：[[中英摘要](./abs/2403.20275.md)] [[arXiv:2403.20275](https://arxiv.org/abs/2403.20275)] [Code]
+- **📝 说明**：✏️
+
+#### [156] InstantSplat: Unbounded Sparse-view Pose-free Gaussian Splatting in 40 Seconds
+- **🧑‍🔬 作者**：Zhiwen Fan, Wenyan Cong, Kairun Wen, Kevin Wang, Jian Zhang, Xinghao Ding, Danfei Xu, Boris Ivanovic, Marco Pavone, Georgios Pavlakos, Zhangyang Wang, Yue Wang
+- **🏫 单位**：University of Texas at Austin ⟐ Nvidia Research ⟐ Xiamen University ⟐ Georgia Institute of Technology ⟐ Stanford University ⟐ University of Southern California
+- **🔗 链接**：[[中英摘要](./abs/2403.20309.md)] [[arXiv:2403.20309](https://arxiv.org/abs/2403.20309)] [Code]
+- **📝 说明**：✏️
