@@ -1,5 +1,27 @@
 # Changelog
 
+### 2024/04/06
+
+Add "3DGSR: Implicit Surface Reconstruction with 3D Gaussian Splatting"
+
+Add "MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements"
+
+Add "CityGaussian: Real-time High-quality Large-Scale Scene Rendering with Gaussians"
+
+Add "Mirror-3DGS: Incorporating Mirror Reflections into 3D Gaussian Splatting"
+
+Add "Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing"
+
+Add "Surface Reconstruction from Gaussian Splatting via Novel Stereo Views"
+
+Add "TCLC-GS: Tightly Coupled LiDAR-Camera Gaussian Splatting for Surrounding Autonomous Driving Scenes"
+
+Add "GaSpCT: Gaussian Splatting for Novel CT Projection View Synthesis"
+
+Add "OmniGS: Omnidirectional Gaussian Splatting for Fast Radiance Field Reconstruction using Omnidirectional Images"
+
+Add "Per-Gaussian Embedding-Based Deformation for Deformable 3D Gaussian Splatting"
+
 ### 2024/04/01
 
 Add "HO-Gaussian: Hybrid Optimization of 3D Gaussian Splatting for Urban Scenes"

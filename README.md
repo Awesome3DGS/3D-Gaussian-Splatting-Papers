@@ -19,7 +19,8 @@
                  [[120](#120-videomv-consistent-multi-view-generation-based-on-large-video-generative-model)]
                  [[130](#130-gaussian-frosting-editable-complex-radiance-fields-with-real-time-rendering)]
                  [[140](#140-gsdf-3dgs-meets-sdf-for-improved-rendering-and-reconstruction)]
-                 [[150](#150-gaustudio-a-modular-framework-for-3d-gaussian-splatting-and-beyond)]（最新）
+                 [[150](#150-gaustudio-a-modular-framework-for-3d-gaussian-splatting-and-beyond)]
+                 [[160](#160-mirror-3dgs-incorporating-mirror-reflections-into-3d-gaussian-splatting)]（最新）
 
 
 **📚 会议期刊**: [[ICLR2024](./ICLR2024.md)] (2 篇)
@@ -991,4 +992,64 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Zhiwen Fan, Wenyan Cong, Kairun Wen, Kevin Wang, Jian Zhang, Xinghao Ding, Danfei Xu, Boris Ivanovic, Marco Pavone, Georgios Pavlakos, Zhangyang Wang, Yue Wang
 - **🏫 单位**：University of Texas at Austin ⟐ Nvidia Research ⟐ Xiamen University ⟐ Georgia Institute of Technology ⟐ Stanford University ⟐ University of Southern California
 - **🔗 链接**：[[中英摘要](./abs/2403.20309.md)] [[arXiv:2403.20309](https://arxiv.org/abs/2403.20309)] [Code]
+- **📝 说明**：✏️
+
+#### [157] 3DGSR: Implicit Surface Reconstruction with 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Xiaoyang Lyu, Yang-Tian Sun, Yi-Hua Huang, Xiuzhe Wu, Ziyi Yang, Yilun Chen, Jiangmiao Pang, Xiaojuan Qi
+- **🏫 单位**：The University of Hong Kong ⟐ Zhejiang University ⟐ Shanghai AI Lab
+- **🔗 链接**：[[中英摘要](./abs/2404.00409.md)] [[arXiv:2404.00409](https://arxiv.org/abs/2404.00409)] [Code]
+- **📝 说明**：✏️
+
+#### [158] MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements
+- **🧑‍🔬 作者**：Lisong C. Sun, Neel P. Bhatt, Jonathan C. Liu, Zhiwen Fan, Zhangyang Wang, Todd E. Humphreys, Ufuk Topcu
+- **🏫 单位**：University of Texas at Austin
+- **🔗 链接**：[[中英摘要](./abs/2404.00923.md)] [[arXiv:2404.00923](https://arxiv.org/abs/2404.00923)] [Code]
+- **📝 说明**：✏️
+
+#### [159] CityGaussian: Real-time High-quality Large-Scale Scene Rendering with Gaussians
+- **🧑‍🔬 作者**：Yang Liu, He Guan, Chuanchen Luo, Lue Fan, Junran Peng, Zhaoxiang Zhang
+- **🏫 单位**：Chinese Academy of Sciences ⟐ University of Chinese Academy of Sciences ⟐ Centre for Artificial Intelligence and Robotics ⟐ State Key Laboratory of Multimodal Artificial Intelligence Systems
+- **🔗 链接**：[[中英摘要](./abs/2404.01133.md)] [[arXiv:2404.01133](https://arxiv.org/abs/2404.01133)] [Code]
+- **📝 说明**：✏️
+
+#### [160] Mirror-3DGS: Incorporating Mirror Reflections into 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Jiarui Meng, Haijie Li, Yanmin Wu, Qiankun Gao, Shuzhou Yang, Jian Zhang, Siwei Ma
+- **🏫 单位**：Peking Universiy
+- **🔗 链接**：[[中英摘要](./abs/2404.01168.md)] [[arXiv:2404.01168](https://arxiv.org/abs/2404.01168)] [Code]
+- **📝 说明**：✏️
+
+#### [161] Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing
+- **🧑‍🔬 作者**：Ri-Zhao Qiu, Ge Yang, Weijia Zeng, Xiaolong Wang
+- **🏫 单位**：University of California San Diego ⟐ Massachusetts Institute of Technology ⟐ Institute for Artificial Intelligence and Fundamental Interactions
+- **🔗 链接**：[[中英摘要](./abs/2404.01223.md)] [[arXiv:2404.01223](https://arxiv.org/abs/2404.01223)] [[Code](https://github.com/vuer-ai/feature_splatting)]
+- **📝 说明**：✏️
+
+#### [162] Surface Reconstruction from Gaussian Splatting via Novel Stereo Views
+- **🧑‍🔬 作者**：Yaniv Wolf, Amit Bracha, Ron Kimmel
+- **🏫 单位**：Israel Institute of Technology
+- **🔗 链接**：[[中英摘要](./abs/2404.01810.md)] [[arXiv:2404.01810](https://arxiv.org/abs/2404.01810)] [Code]
+- **📝 说明**：✏️
+
+#### [163] TCLC-GS: Tightly Coupled LiDAR-Camera Gaussian Splatting for Surrounding Autonomous Driving Scenes
+- **🧑‍🔬 作者**：Cheng Zhao, Su Sun, Ruoyu Wang, Yuliang Guo, Jun-Jun Wan, Zhou Huang, Xinyu Huang, Yingjie Victor Chen, Liu Ren
+- **🏫 单位**：Bosch Research North America ⟐ Purdue University ⟐ XC Cross Domain Computing
+- **🔗 链接**：[[中英摘要](./abs/2404.02410.md)] [[arXiv:2404.02410](https://arxiv.org/abs/2404.02410)] [Code]
+- **📝 说明**：✏️
+
+#### [164] GaSpCT: Gaussian Splatting for Novel CT Projection View Synthesis
+- **🧑‍🔬 作者**：Emmanouil Nikolakakis, Utkarsh Gupta, Jonathan Vengosh, Justin Bui, Razvan Marinescu
+- **🏫 单位**：University of California
+- **🔗 链接**：[[中英摘要](./abs/2404.03126.md)] [[arXiv:2404.03126](https://arxiv.org/abs/2404.03126)] [Code]
+- **📝 说明**：✏️
+
+#### [165] OmniGS: Omnidirectional Gaussian Splatting for Fast Radiance Field Reconstruction using Omnidirectional Images
+- **🧑‍🔬 作者**：Longwei Li, Huajian Huang, Sai-Kit Yeung, Hui Cheng
+- **🏫 单位**：Sun Yat-Sen University
+- **🔗 链接**：[[中英摘要](./abs/2404.03202.md)] [[arXiv:2404.03202](https://arxiv.org/abs/2404.03202)] [Code]
+- **📝 说明**：✏️
+
+#### [166] Per-Gaussian Embedding-Based Deformation for Deformable 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Jeongmin Bae, Seoha Kim, Youngsik Yun, Hahyun Lee, Gun Bang, Youngjung Uh
+- **🏫 单位**：Yonsei University ⟐ Electronics and Telecommunications Research Institute
+- **🔗 链接**：[[中英摘要](./abs/2404.03613.md)] [[arXiv:2404.03613](https://arxiv.org/abs/2404.03613)] [[Code](https://github.com/JeongminB/E-D3DGS)]
 - **📝 说明**：✏️
