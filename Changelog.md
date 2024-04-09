@@ -1,5 +1,15 @@
 # Changelog
 
+### 2024/04/09
+
+Add "Robust Gaussian Splatting"
+
+Add "Z-Splat: Z-Axis Gaussian Splatting for Camera-Sonar Fusion"
+
+Add "GauU-Scene V2: Expanse Lidar Image Dataset Shows Unreliable Geometric Reconstruction Using Gaussian Splatting and NeRF"
+
+Add "StylizedGS: Controllable Stylization for 3D Gaussian Splatting"
+
 ### 2024/04/06
 
 Add "3DGSR: Implicit Surface Reconstruction with 3D Gaussian Splatting"

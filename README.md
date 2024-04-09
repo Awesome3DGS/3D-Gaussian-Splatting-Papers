@@ -20,7 +20,9 @@
                  [[130](#130-gaussian-frosting-editable-complex-radiance-fields-with-real-time-rendering)]
                  [[140](#140-gsdf-3dgs-meets-sdf-for-improved-rendering-and-reconstruction)]
                  [[150](#150-gaustudio-a-modular-framework-for-3d-gaussian-splatting-and-beyond)]
-                 [[160](#160-mirror-3dgs-incorporating-mirror-reflections-into-3d-gaussian-splatting)]（最新）
+                 [[160](#160-mirror-3dgs-incorporating-mirror-reflections-into-3d-gaussian-splatting)]
+                 [[170](#170-stylizedgs-controllable-stylization-for-3d-gaussian-splatting)]（最新）
+
 
 
 **📚 会议期刊**: [[ICLR2024](./ICLR2024.md)] (2 篇)
@@ -1052,4 +1054,28 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Jeongmin Bae, Seoha Kim, Youngsik Yun, Hahyun Lee, Gun Bang, Youngjung Uh
 - **🏫 单位**：Yonsei University ⟐ Electronics and Telecommunications Research Institute
 - **🔗 链接**：[[中英摘要](./abs/2404.03613.md)] [[arXiv:2404.03613](https://arxiv.org/abs/2404.03613)] [[Code](https://github.com/JeongminB/E-D3DGS)]
+- **📝 说明**：✏️
+
+#### [167] Robust Gaussian Splatting
+- **🧑‍🔬 作者**：François Darmon, Lorenzo Porzi, Samuel Rota-Bulò, Peter Kontschieder
+- **🏫 单位**：Meta Reality Labs Zurich
+- **🔗 链接**：[[中英摘要](./abs/2404.04211.md)] [[arXiv:2404.04211](https://arxiv.org/abs/2404.04211)] [Code]
+- **📝 说明**：✏️
+
+#### [168] Z-Splat: Z-Axis Gaussian Splatting for Camera-Sonar Fusion
+- **🧑‍🔬 作者**：Ziyuan Qu, Omkar Vengurlekar, Mohamad Qadri, Kevin Zhang, Michael Kaess, Christopher Metzler, Suren Jayasuriya, Adithya Pediredla
+- **🏫 单位**：Dartmouth College ⟐ Arizona State University ⟐ Carnegie Mellon University ⟐ University of Maryland
+- **🔗 链接**：[[中英摘要](./abs/2404.04687.md)] [[arXiv:2404.04687](https://arxiv.org/abs/2404.04687)] [Code]
+- **📝 说明**：✏️
+
+#### [169] GauU-Scene V2: Expanse Lidar Image Dataset Shows Unreliable Geometric Reconstruction Using Gaussian Splatting and NeRF
+- **🧑‍🔬 作者**：Butian Xiong, Nanjun Zheng, Zhen Li
+- **🏫 单位**：The Chinese University of Hong Kong, Shenzhen
+- **🔗 链接**：[[中英摘要](./abs/2404.04880.md)] [[arXiv:2404.04880](https://arxiv.org/abs/2404.04880)] [[Code](https://github.com/saliteta/lidar_SfM_alignment)]
+- **📝 说明**：✏️
+
+#### [170] StylizedGS: Controllable Stylization for 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Dingxi Zhang, Zhuoxun Chen, Yu-Jie Yuan, Fang-Lue Zhang, Zhenliang He, Shiguang Shan, Lin Gao
+- **🏫 单位**：The University of Chinese Academy of Sciences
+- **🔗 链接**：[[中英摘要](./abs/2404.05220.md)] [[arXiv:2404.05220](https://arxiv.org/abs/2404.05220)] [Code]
 - **📝 说明**：✏️
