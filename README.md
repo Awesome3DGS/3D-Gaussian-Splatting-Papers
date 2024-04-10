@@ -21,7 +21,7 @@
                  [[140](#140-gsdf-3dgs-meets-sdf-for-improved-rendering-and-reconstruction)]
                  [[150](#150-gaustudio-a-modular-framework-for-3d-gaussian-splatting-and-beyond)]
                  [[160](#160-mirror-3dgs-incorporating-mirror-reflections-into-3d-gaussian-splatting)]
-                 [[170](#170-stylizedgs-controllable-stylization-for-3d-gaussian-splatting)]（最新）
+                 [[170](#170-dual-camera-smooth-zoom-on-mobile-phones)]（最新）
 
 
 
@@ -1074,8 +1074,26 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🔗 链接**：[[中英摘要](./abs/2404.04880.md)] [[arXiv:2404.04880](https://arxiv.org/abs/2404.04880)] [[Code](https://github.com/saliteta/lidar_SfM_alignment)]
 - **📝 说明**：✏️
 
-#### [170] StylizedGS: Controllable Stylization for 3D Gaussian Splatting
+#### [170] Dual-Camera Smooth Zoom on Mobile Phones
+- **🧑‍🔬 作者**：Renlong Wu, Zhilu Zhang, Yu Yang, Wangmeng Zuo
+- **🏫 单位**：Harbin Institute of Technology
+- **🔗 链接**：[[中英摘要](./abs/2404.04908.md)] [[arXiv:2404.04908](https://arxiv.org/abs/2404.04908)] [Code]
+- **📝 说明**：✏️
+
+#### [171] StylizedGS: Controllable Stylization for 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Dingxi Zhang, Zhuoxun Chen, Yu-Jie Yuan, Fang-Lue Zhang, Zhenliang He, Shiguang Shan, Lin Gao
 - **🏫 单位**：The University of Chinese Academy of Sciences
 - **🔗 链接**：[[中英摘要](./abs/2404.05220.md)] [[arXiv:2404.05220](https://arxiv.org/abs/2404.05220)] [Code]
+- **📝 说明**：✏️
+
+#### [173] Revising Densification in Gaussian Splatting
+- **🧑‍🔬 作者**：Samuel Rota Bulò, Lorenzo Porzi, Peter Kontschieder
+- **🏫 单位**：Meta Reality Labs Zurich
+- **🔗 链接**：[[中英摘要](./abs/2404.06109.md)] [[arXiv:2404.06109](https://arxiv.org/abs/2404.06109)] [Code]
+- **📝 说明**：✏️
+
+#### [174] Gaussian Pancakes: Geometrically-Regularized 3D Gaussian Splatting for Realistic Endoscopic Reconstruction
+- **🧑‍🔬 作者**：Sierra Bonilla, Shuai Zhang, Dimitrios Psychogyios, Danail Stoyanov, Francisco Vasconcelos, Sophia Bano
+- **🏫 单位**：University College London
+- **🔗 链接**：[[中英摘要](./abs/2404.06128.md)] [[arXiv:2404.06128](https://arxiv.org/abs/2404.06128)] [Code](https://github.com/smbonilla/GaussianPancakes)
 - **📝 说明**：✏️

@@ -1,5 +1,13 @@
 # Changelog
 
+### 2024/04/10
+
+Add "Dual-Camera Smooth Zoom on Mobile Phones"
+
+Add "Revising Densification in Gaussian Splatting"
+
+Add "Gaussian Pancakes: Geometrically-Regularized 3D Gaussian Splatting for Realistic Endoscopic Reconstruction"
+
 ### 2024/04/09
 
 Add "Robust Gaussian Splatting"
