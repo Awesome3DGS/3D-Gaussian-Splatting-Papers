@@ -1,5 +1,15 @@
 # Changelog
 
+### 2024/04/11
+
+Add "DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting"
+
+Add "Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting"
+
+Add "RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion"
+
+Add "Reinforcement Learning with Generalizable Gaussian Splatting"
+
 ### 2024/04/10
 
 Add "Dual-Camera Smooth Zoom on Mobile Phones"

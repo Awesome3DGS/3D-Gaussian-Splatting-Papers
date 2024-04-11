@@ -1086,14 +1086,38 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🔗 链接**：[[中英摘要](./abs/2404.05220.md)] [[arXiv:2404.05220](https://arxiv.org/abs/2404.05220)] [Code]
 - **📝 说明**：✏️
 
-#### [173] Revising Densification in Gaussian Splatting
+#### [172] Revising Densification in Gaussian Splatting
 - **🧑‍🔬 作者**：Samuel Rota Bulò, Lorenzo Porzi, Peter Kontschieder
 - **🏫 单位**：Meta Reality Labs Zurich
 - **🔗 链接**：[[中英摘要](./abs/2404.06109.md)] [[arXiv:2404.06109](https://arxiv.org/abs/2404.06109)] [Code]
 - **📝 说明**：✏️
 
-#### [174] Gaussian Pancakes: Geometrically-Regularized 3D Gaussian Splatting for Realistic Endoscopic Reconstruction
+#### [173] Gaussian Pancakes: Geometrically-Regularized 3D Gaussian Splatting for Realistic Endoscopic Reconstruction
 - **🧑‍🔬 作者**：Sierra Bonilla, Shuai Zhang, Dimitrios Psychogyios, Danail Stoyanov, Francisco Vasconcelos, Sophia Bano
 - **🏫 单位**：University College London
 - **🔗 链接**：[[中英摘要](./abs/2404.06128.md)] [[arXiv:2404.06128](https://arxiv.org/abs/2404.06128)] [Code](https://github.com/smbonilla/GaussianPancakes)
+- **📝 说明**：✏️
+
+#### [174] DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting
+- **🧑‍🔬 作者**：Shijie Zhou, Zhiwen Fan, Dejia Xu, Haoran Chang, Pradyumna Chari, Tejas Bharadwaj, Suya You, Zhangyang Wang, Achuta Kadambi
+- **🏫 单位**：University of California, Los Angeles ⟐ University of Texas at Austin ⟐ DEVCOM Army Research Laboratory
+- **🔗 链接**：[[中英摘要](./abs/2404.06903.md)] [[arXiv:2404.06903](https://arxiv.org/abs/2404.06903)] [Code]
+- **📝 说明**：✏️
+
+#### [175] Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Xiaolei Lang, Laijian Li, Hang Zhang, Feng Xiong, Mu Xu, Yong Liu, Xingxing Zuo, Jiajun Lv
+- **🏫 单位**：Zhejiang University ⟐  AMAP ⟐ Technical University of Munich
+- **🔗 链接**：[[中英摘要](./abs/2404.06926.md)] [[arXiv:2404.06926](https://arxiv.org/abs/2404.06926)] [Code]
+- **📝 说明**：✏️
+
+#### [176] RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion
+- **🧑‍🔬 作者**：Jaidev Shriram, Alex Trevithick, Lingjie Liu, Ravi Ramamoorthi
+- **🏫 单位**：University of California, San Diego ⟐  AMAP ⟐ University of Pennsylvania
+- **🔗 链接**：[[中英摘要](./abs/2404.07199.md)] [[arXiv:2404.07199](https://arxiv.org/abs/2404.07199)] [Code]
+- **📝 说明**：✏️
+
+#### [177] Reinforcement Learning with Generalizable Gaussian Splatting
+- **🧑‍🔬 作者**：Jiaxu Wang, Qiang Zhang, Jingkai Sun, Jiahang Cao, Yecheng Shao, Renjing Xu
+- **🏫 单位**：The Hong Kong University of Science and Technology (Guangzhou), China ⟐  Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2404.07950.md)] [[arXiv:2404.07950](https://arxiv.org/abs/2404.07950)] [Code]
 - **📝 说明**：✏️
