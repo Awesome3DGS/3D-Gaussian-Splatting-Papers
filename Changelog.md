@@ -1,5 +1,9 @@
 # Changelog
 
+### 2024/04/15
+
+Add "OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering"
+
 ### 2024/04/11
 
 Add "DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting"

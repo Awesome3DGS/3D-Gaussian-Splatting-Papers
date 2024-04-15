@@ -1121,3 +1121,9 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：The Hong Kong University of Science and Technology (Guangzhou), China ⟐  Zhejiang University
 - **🔗 链接**：[[中英摘要](./abs/2404.07950.md)] [[arXiv:2404.07950](https://arxiv.org/abs/2404.07950)] [Code]
 - **📝 说明**：✏️
+
+#### [178] OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering
+- **🧑‍🔬 作者**：Jingrui Ye, Zongkai Zhang, Yujiao Jiang, Qingmin Liao, Wenming Yang, Zongqing Lu
+- **🏫 单位**：Tsinghua Shenzhen International Graduate School, Tsinghua University
+- **🔗 链接**：[[中英摘要](./abs/2404.08449.md)] [[arXiv:2404.08449](https://arxiv.org/abs/2404.08449)] [Code]
+- **📝 说明**：✏️
