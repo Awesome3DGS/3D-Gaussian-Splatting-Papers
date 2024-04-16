@@ -1127,3 +1127,45 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：Tsinghua Shenzhen International Graduate School, Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2404.08449.md)] [[arXiv:2404.08449](https://arxiv.org/abs/2404.08449)] [Code]
 - **📝 说明**：✏️
+
+#### [179] LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field
+- **🧑‍🔬 作者**：Jiyang Li, Lechao Cheng, Zhangye Wang, Tingting Mu, Jingxuan He
+- **🏫 单位**：Zhejiang University HangZhou, China ⟐ Hefei University of Technology Hefei, China ⟐ University of Manchester Manchester, United Kingdom
+- **🔗 链接**：[[中英摘要](./abs/2404.08966.md)] [[arXiv:2404.08966](https://arxiv.org/abs/2404.08966)] [Code]
+- **📝 说明**：✏️
+
+#### [180] EGGS: Edge Guided Gaussian Splatting for Radiance Fields
+- **🧑‍🔬 作者**：Yuanhao Gong
+- **🏫 单位**：Electronics and Information Engineering, Shenzhen University, China
+- **🔗 链接**：[[中英摘要](./abs/2404.09105.md)] [[arXiv:2404.09105](https://arxiv.org/abs/2404.09105)] [Code]
+- **📝 说明**：✏️
+
+#### [181] DreamScape: 3D Scene Creation via Gaussian Splatting joint Correlation Modeling
+- **🧑‍🔬 作者**：Xuening Yuan, Hongyu Yang, Yueming Zhao, Di Huang
+- **🏫 单位**：Beihang University Beijing, China
+- **🔗 链接**：[[中英摘要](./abs/2404.09227.md)] [[arXiv:2404.09227](https://arxiv.org/abs/2404.09227)] [Code]
+- **📝 说明**：✏️
+
+#### [182] DeferredGS: Decoupled and Editable Gaussian Splatting with Deferred Shading
+- **🧑‍🔬 作者**：Tong Wu, Jia-Mu Sun, Yu-Kun Lai, Yuewen Ma, Leif Kobbelt, Lin Gao
+- **🏫 单位**：Institute of Computing Technology
+- **🔗 链接**：[[中英摘要](./abs/2404.09412.md)] [[arXiv:2404.09412](https://arxiv.org/abs/2404.09412)] [Code]
+- **📝 说明**：✏️
+
+#### [183] CompGS: Efficient 3D Scene Representation via Compressed Gaussian Splatting
+- **🧑‍🔬 作者**：Xiangrui Liu, Xinju Wu, Pingping Zhang, Shiqi Wang, Zhu Li, Sam Kwong
+- **🏫 单位**：City University of Hong Kong ⟐ University of Missouri-Kansas City ⟐ Lingnan University
+- **🔗 链接**：[[中英摘要](./abs/2404.09458.md)] [[arXiv:2404.09458](https://arxiv.org/abs/2404.09458)] [Code]
+- **📝 说明**：✏️
+
+#### [184] 3D Gaussian Splatting as Markov Chain Monte Carlo
+- **🧑‍🔬 作者**：Shakiba Kheradmand, Daniel Rebain, Gopal Sharma, Weiwei Sun, Jeff Tseng, Hossam Isack, Abhishek Kar, Andrea Tagliasacchi, Kwang Moo Yi
+- **🏫 单位**：University of British Columbia ⟐ Google Research ⟐ Google DeepMind ⟐ Simon Fraser University ⟐ University of Toronto
+- **🔗 链接**：[[中英摘要](./abs/2404.09591.md)] [[arXiv:2404.09591](https://arxiv.org/abs/2404.09591)] [Code]
+- **📝 说明**：✏️
+
+#### [185] LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives
+- **🧑‍🔬 作者**：Jiadi Cui, Junming Cao, Yuhui Zhong, Liao Wang, Fuqiang Zhao, Penghao Wang, Yifan Chen, Zhipeng He, Lan Xu, Yujiao Shi, Yingliang Zhang, Jingyi Yu
+- **🏫 单位**：ShanghaiTech University ⟐ DGene ⟐ Stereye ⟐ NeuDim
+- **🔗 链接**：[[中英摘要](./abs/2404.09748.md)] [[arXiv:2404.09748](https://arxiv.org/abs/2404.09748)] [Code]
+- **📝 说明**：✏️

@@ -1,5 +1,21 @@
 # Changelog
 
+### 2024/04/16
+
+Add "LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field"
+
+Add "EGGS: Edge Guided Gaussian Splatting for Radiance Fields"
+
+Add "DreamScape: 3D Scene Creation via Gaussian Splatting joint Correlation Modeling"
+
+Add "DeferredGS: Decoupled and Editable Gaussian Splatting with Deferred Shading"
+
+Add "CompGS: Efficient 3D Scene Representation via Compressed Gaussian Splatting"
+
+Add "3D Gaussian Splatting as Markov Chain Monte Carlo"
+
+Add "LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives"
+
 ### 2024/04/15
 
 Add "OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering"
