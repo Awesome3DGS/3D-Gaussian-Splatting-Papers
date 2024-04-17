@@ -21,7 +21,8 @@
                  [[140](#140-gsdf-3dgs-meets-sdf-for-improved-rendering-and-reconstruction)]
                  [[150](#150-gaustudio-a-modular-framework-for-3d-gaussian-splatting-and-beyond)]
                  [[160](#160-mirror-3dgs-incorporating-mirror-reflections-into-3d-gaussian-splatting)]
-                 [[170](#170-dual-camera-smooth-zoom-on-mobile-phones)]（最新）
+                 [[170](#170-dual-camera-smooth-zoom-on-mobile-phones)]
+                 [[180](#180-eggs-edge-guided-gaussian-splatting-for-radiance-fields)]（最新）
 
 
 
@@ -1168,4 +1169,28 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Jiadi Cui, Junming Cao, Yuhui Zhong, Liao Wang, Fuqiang Zhao, Penghao Wang, Yifan Chen, Zhipeng He, Lan Xu, Yujiao Shi, Yingliang Zhang, Jingyi Yu
 - **🏫 单位**：ShanghaiTech University ⟐ DGene ⟐ Stereye ⟐ NeuDim
 - **🔗 链接**：[[中英摘要](./abs/2404.09748.md)] [[arXiv:2404.09748](https://arxiv.org/abs/2404.09748)] [Code]
+- **📝 说明**：✏️
+
+#### [186] SRGS: Super-Resolution 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Xiang Feng, Yongbo He, Yubo Wang, Yan Yang, Zhenzhong Kuang, Yu Jun, Jianping Fan, Jiajun ding
+- **🏫 单位**：Hangzhou Dianzi University
+- **🔗 链接**：[[中英摘要](./abs/2404.10318.md)] [[arXiv:2404.10318](https://arxiv.org/abs/2404.10318)] [Code]
+- **📝 说明**：✏️
+
+#### [187] AbsGS: Recovering Fine Details for 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Zongxin Ye, Wenyu Li, Sidun Liu, Peng Qiao, Yong Dou
+- **🏫 单位**：National University of Defense Technology Changsha, China
+- **🔗 链接**：[[中英摘要](./abs/2404.10484.md)] [[arXiv:2404.10484](https://arxiv.org/abs/2404.10484)] [[Code](https://github.com/TY424/AbsGS)]
+- **📝 说明**：✏️
+
+#### [188] Gaussian Splatting Decoder for 3D-aware Generative Adversarial Networks
+- **🧑‍🔬 作者**：Florian Barthel, Arian Beckmann, Wieland Morgenstern, Anna Hilsmann, Peter Eisert
+- **🏫 单位**：Fraunhofer Heinrich Hertz Institute, HHI ⟐ Humboldt University of Berlin
+- **🔗 链接**：[[中英摘要](./abs/2404.10625.md)] [[arXiv:2404.10625](https://arxiv.org/abs/2404.10625)] [Code]
+- **📝 说明**：✏️
+
+#### [189] Gaussian Opacity Fields: Efficient and Compact Surface Reconstruction in Unbounded Scenes
+- **🧑‍🔬 作者**：Zehao Yu, Torsten Sattler, Andreas Geiger
+- **🏫 单位**：University of Tübingen, Tübingen AI Center, Germany ⟐ Czech Technical University in Prague, Czech Republic
+- **🔗 链接**：[[中英摘要](./abs/2404.10772.md)] [[arXiv:2404.10772](https://arxiv.org/abs/2404.10772)] [[Code](https://github.com/autonomousvision/gaussian-opacity-fields)]
 - **📝 说明**：✏️

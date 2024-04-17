@@ -1,5 +1,15 @@
 # Changelog
 
+### 2024/04/17
+
+Add "SRGS: Super-Resolution 3D Gaussian Splatting"
+
+Add "AbsGS: Recovering Fine Details for 3D Gaussian Splatting"
+
+Add "Gaussian Splatting Decoder for 3D-aware Generative Adversarial Networks"
+
+Add "Gaussian Opacity Fields: Efficient and Compact Surface Reconstruction in Unbounded Scenes"
+
 ### 2024/04/16
 
 Add "LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field"
