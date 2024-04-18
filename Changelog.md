@@ -1,5 +1,11 @@
 # Changelog
 
+### 2024/04/18
+
+Add "DeblurGS: Gaussian Splatting for Camera Motion Blur"
+
+Add "InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior"
+
 ### 2024/04/17
 
 Add "SRGS: Super-Resolution 3D Gaussian Splatting"

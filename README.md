@@ -6,13 +6,9 @@
 
 
 **⚡ 快捷链接**: [[10](#10-animatable-3d-gaussians-for-high-fidelity-synthesis-of-human-motions)]
-                 [[20](#20-md-splatting-learning-metric-deformation-from-4d-gaussians-in-highly-deformable-scenes)]
                  [[30](#30-icomma-inverting-3d-gaussians-splatting-for-camera-pose-estimation-via-comparing-and-matching)]
-                 [[40](#40-sparse-view-ct-reconstruction-with-3d-gaussian-volumetric-representation)]
                  [[50](#50-distwar-fast-differentiable-rendering-on-raster-based-rendering-pipelines)]
-                 [[60](#60-endo-4dgs-distilling-depth-ranking-for-endoscopic-monocular-scene-reconstruction-with-4d-gaussian-splatting)]
                  [[70](#70-mesh-based-gaussian-splatting-for-real-time-large-scale-deformation)]
-                 [[80](#80-spec-gaussian-anisotropic-view-dependent-appearance-for-3d-gaussian-splatting)]
                  [[90](#90-gaussian-splatting-in-style)]
                  [[100](#100-ggrt-towards-generalizable-3d-gaussians-without-pose-priors-in-real-time)]
                  [[110](#110-bags-building-animatable-gaussian-splatting-from-a-monocular-video-with-diffusion-priors)]
@@ -22,7 +18,8 @@
                  [[150](#150-gaustudio-a-modular-framework-for-3d-gaussian-splatting-and-beyond)]
                  [[160](#160-mirror-3dgs-incorporating-mirror-reflections-into-3d-gaussian-splatting)]
                  [[170](#170-dual-camera-smooth-zoom-on-mobile-phones)]
-                 [[180](#180-eggs-edge-guided-gaussian-splatting-for-radiance-fields)]（最新）
+                 [[180](#180-eggs-edge-guided-gaussian-splatting-for-radiance-fields)]
+                 [[190](#190-deblurgs-gaussian-splatting-for-camera-motion-blur)]（最新）
 
 
 
@@ -1193,4 +1190,16 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Zehao Yu, Torsten Sattler, Andreas Geiger
 - **🏫 单位**：University of Tübingen, Tübingen AI Center, Germany ⟐ Czech Technical University in Prague, Czech Republic
 - **🔗 链接**：[[中英摘要](./abs/2404.10772.md)] [[arXiv:2404.10772](https://arxiv.org/abs/2404.10772)] [[Code](https://github.com/autonomousvision/gaussian-opacity-fields)]
+- **📝 说明**：✏️
+
+#### [190] DeblurGS: Gaussian Splatting for Camera Motion Blur
+- **🧑‍🔬 作者**：Jeongtaek Oh, Jaeyoung Chung, Dongwoo Lee, Kyoung Mu Lee
+- **🏫 单位**：Seoul National University ⟐ Seoul National University
+- **🔗 链接**：[[中英摘要](./abs/2404.11358.md)] [[arXiv:2404.11358](https://arxiv.org/abs/2404.11358)] [Code]
+- **📝 说明**：✏️
+
+#### [191] InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior
+- **🧑‍🔬 作者**：Zhiheng Liu, Hao Ouyang, Qiuyu Wang, Ka Leong Cheng, Jie Xiao, Kai Zhu, Nan Xue, Yu Liu, Yujun Shen, Yang Cao
+- **🏫 单位**：University of Science and Technology of China ⟐ The Hong Kong University of Science and Technology ⟐ Ant Group ⟐ Alibaba Group
+- **🔗 链接**：[[中英摘要](./abs/2404.11613.md)] [[arXiv:2404.11613](https://arxiv.org/abs/2404.11613)] [[Code](https://github.com/ali-vilab/infusion)]
 - **📝 说明**：✏️
