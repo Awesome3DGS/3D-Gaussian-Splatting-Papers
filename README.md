@@ -1203,3 +1203,9 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：University of Science and Technology of China ⟐ The Hong Kong University of Science and Technology ⟐ Ant Group ⟐ Alibaba Group
 - **🔗 链接**：[[中英摘要](./abs/2404.11613.md)] [[arXiv:2404.11613](https://arxiv.org/abs/2404.11613)] [[Code](https://github.com/ali-vilab/infusion)]
 - **📝 说明**：✏️
+
+#### [192] Dynamic Gaussians Mesh: Consistent Mesh Reconstruction from Monocular Videos
+- **🧑‍🔬 作者**：Isabella Liu, Hao Su, Xiaolong Wang
+- **🏫 单位**：University of California, San Diego
+- **🔗 链接**：[[中英摘要](./abs/2404.12379.md)] [[arXiv:2404.12379](https://arxiv.org/abs/2404.12379)] [[Code](https://github.com/Isabella98Liu/DG-Mesh)]
+- **📝 说明**：✏️

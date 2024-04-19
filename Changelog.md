@@ -1,5 +1,9 @@
 # Changelog
 
+### 2024/04/19
+
+Add "Dynamic Gaussians Mesh: Consistent Mesh Reconstruction from Monocular Videos"
+
 ### 2024/04/18
 
 Add "DeblurGS: Gaussian Splatting for Camera Motion Blur"
