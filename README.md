@@ -1209,3 +1209,21 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：University of California, San Diego
 - **🔗 链接**：[[中英摘要](./abs/2404.12379.md)] [[arXiv:2404.12379](https://arxiv.org/abs/2404.12379)] [[Code](https://github.com/Isabella98Liu/DG-Mesh)]
 - **📝 说明**：✏️
+
+#### [193] Does Gaussian Splatting need SFM Initialization?
+- **🧑‍🔬 作者**：Yalda Foroutan, Daniel Rebain, Kwang Moo Yi, Andrea Tagliasacchi
+- **🏫 单位**：Simon Fraser University ⟐ University of British Columbia ⟐ University of Toronto ⟐ Google DeepMind
+- **🔗 链接**：[[中英摘要](./abs/2404.12547.md)] [[arXiv:2404.12547](https://arxiv.org/abs/2404.12547)] [Code]
+- **📝 说明**：✏️
+
+#### [194] EfficientGS: Streamlining Gaussian Splatting for Large-Scale High-Resolution Scene Representation
+- **🧑‍🔬 作者**：Wenkai Liu, Tao Guan, Bin Zhu, Lili Ju, Zikai Song, Dan Li, Yuesong Wang, Wei Yang
+- **🏫 单位**：Huazhong University of Science and Technology ⟐ Wuhan Farsee2 Technology Co., Ltd. ⟐ University of South Carolina
+- **🔗 链接**：[[中英摘要](./abs/2404.12777.md)] [[arXiv:2404.12777](https://arxiv.org/abs/2404.12777)] [Code]
+- **📝 说明**：✏️
+
+#### [195] Contrastive Gaussian Clustering: Weakly Supervised 3D Scene Segmentation
+- **🧑‍🔬 作者**：Myrna C. Silva, Mahtab Dahaghin, Matteo Toso, Alessio Del Bue
+- **🏫 单位**：Pattern Analysis and Computer Vision (PAVIS), Istituto Italiano di Tecnologia (IIT) Genoa, Italy
+- **🔗 链接**：[[中英摘要](./abs/2404.12784.md)] [[arXiv:2404.12784](https://arxiv.org/abs/2404.12784)] [Code]
+- **📝 说明**：✏️

@@ -1,5 +1,13 @@
 # Changelog
 
+### 2024/04/22
+
+Add "Does Gaussian Splatting need SFM Initialization?"
+
+Add "EfficientGS: Streamlining Gaussian Splatting for Large-Scale High-Resolution Scene Representation"
+
+Add "Contrastive Gaussian Clustering: Weakly Supervised 3D Scene Segmentation"
+
 ### 2024/04/19
 
 Add "Dynamic Gaussians Mesh: Consistent Mesh Reconstruction from Monocular Videos"
