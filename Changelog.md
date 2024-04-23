@@ -1,5 +1,15 @@
 # Changelog
 
+### 2024/04/23
+
+Add "GScream: Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal"
+
+Add "GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting"
+
+Add "CLIP-GS: CLIP-Informed Gaussian Splatting for Real-time and View-consistent 3D Semantic Understanding"
+
+Add "Guess The Unseen: Dynamic 3D Scene Reconstruction from Partial 2D Glimpses"
+
 ### 2024/04/22
 
 Add "Does Gaussian Splatting need SFM Initialization?"

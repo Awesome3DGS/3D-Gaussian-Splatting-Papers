@@ -1227,3 +1227,27 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：Pattern Analysis and Computer Vision (PAVIS), Istituto Italiano di Tecnologia (IIT) Genoa, Italy
 - **🔗 链接**：[[中英摘要](./abs/2404.12784.md)] [[arXiv:2404.12784](https://arxiv.org/abs/2404.12784)] [Code]
 - **📝 说明**：✏️
+
+#### [196] GScream: Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal
+- **🧑‍🔬 作者**：Yuxin Wang, Qianyi Wu, Guofeng Zhang, Dan Xu
+- **🏫 单位**：HKUST ⟐ Monash University ⟐ Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2404.13679.md)] [[arXiv:2404.13679](https://arxiv.org/abs/2404.13679)] [Code]
+- **📝 说明**：✏️
+
+#### [197] GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, Zhonghua Jiang, Zhiwen Chen, Shengyu Zhang, Jimin Xu, Fei Wu, Chengfei Lv, Gang Yu
+- **🏫 单位**：Alibaba Group ⟐ Zhejiang University ⟐ Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2404.14037.md)] [[arXiv:2404.14037](https://arxiv.org/abs/2404.14037)] [Code]
+- **📝 说明**：✏️
+
+#### [198] CLIP-GS: CLIP-Informed Gaussian Splatting for Real-time and View-consistent 3D Semantic Understanding
+- **🧑‍🔬 作者**：Guibiao Liao, Jiankun Li, Zhenyu Bao, Xiaoqing Ye, Jingdong Wang, Qing Li, Kanglin Liu
+- **🏫 单位**：Peking University ⟐ Baidu Inc. ⟐ Peng Cheng Laboratory
+- **🔗 链接**：[[中英摘要](./abs/2404.14249.md)] [[arXiv:2404.14249](https://arxiv.org/abs/2404.14249)] [Code]
+- **📝 说明**：✏️
+
+#### [199] Guess The Unseen: Dynamic 3D Scene Reconstruction from Partial 2D Glimpses
+- **🧑‍🔬 作者**：Inhee Lee, Byungjun Kim, Hanbyul Joo
+- **🏫 单位**：Seoul National University
+- **🔗 链接**：[[中英摘要](./abs/2404.14410.md)] [[arXiv:2404.14410](https://arxiv.org/abs/2404.14410)] [Code]
+- **📝 说明**：✏️
