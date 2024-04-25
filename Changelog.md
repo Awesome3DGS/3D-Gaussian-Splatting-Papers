@@ -1,5 +1,13 @@
 # Changelog
 
+### 2024/04/25
+
+Add "TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting"
+
+Add "OMEGAS: Object Mesh Extraction from Large Scenes Guided by Gaussian Segmentation"
+
+Add "GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting"
+
 ### 2024/04/23
 
 Add "GScream: Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal"

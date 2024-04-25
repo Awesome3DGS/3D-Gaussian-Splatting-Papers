@@ -19,7 +19,9 @@
                  [[160](#160-mirror-3dgs-incorporating-mirror-reflections-into-3d-gaussian-splatting)]
                  [[170](#170-dual-camera-smooth-zoom-on-mobile-phones)]
                  [[180](#180-eggs-edge-guided-gaussian-splatting-for-radiance-fields)]
-                 [[190](#190-deblurgs-gaussian-splatting-for-camera-motion-blur)]（最新）
+                 [[190](#190-deblurgs-gaussian-splatting-for-camera-motion-blur)]
+                 [[200](#200-talkinggaussian-structure-persistent-3d-talking-head-synthesis-via-gaussian-splatting)]（最新）
+
 
 
 
@@ -1250,4 +1252,22 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Inhee Lee, Byungjun Kim, Hanbyul Joo
 - **🏫 单位**：Seoul National University
 - **🔗 链接**：[[中英摘要](./abs/2404.14410.md)] [[arXiv:2404.14410](https://arxiv.org/abs/2404.14410)] [Code]
+- **📝 说明**：✏️
+
+#### [200] TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting
+- **🧑‍🔬 作者**：Jiahe Li, Jiawei Zhang, Xiao Bai, Jin Zheng, Xin Ning, Jun Zhou, Lin Gu
+- **🏫 单位**：Beihang University ⟐ Chinese Academy of Sciences ⟐ Griffith University ⟐ RIKEN AIP ⟐ The University of Tokyo
+- **🔗 链接**：[[中英摘要](./abs/2404.15264.md)] [[arXiv:2404.15264](https://arxiv.org/abs/2404.15264)] [Code]
+- **📝 说明**：✏️
+
+#### [201] OMEGAS: Object Mesh Extraction from Large Scenes Guided by Gaussian Segmentation
+- **🧑‍🔬 作者**：Lizhi Wang, Feng Zhou, Jianqin Yin
+- **🏫 单位**：Beijing University of Posts and Telecommunications
+- **🔗 链接**：[[中英摘要](./abs/2404.15891.md)] [[arXiv:2404.15891](https://arxiv.org/abs/2404.15891)] [Code]
+- **📝 说明**：✏️
+
+#### [202] GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Kyusun Cho, Joungbin Lee, Heeji Yoon, Yeobin Hong, Jaehoon Ko, Sangjun Ahn, Seungryong Kim
+- **🏫 单位**：Korea University ⟐ NCSOFT
+- **🔗 链接**：[[中英摘要](./abs/2404.16012.md)] [[arXiv:2404.16012](https://arxiv.org/abs/2404.16012)] [[Code](https://github.com/KU-CVLAB/GaussianTalker)]
 - **📝 说明**：✏️
