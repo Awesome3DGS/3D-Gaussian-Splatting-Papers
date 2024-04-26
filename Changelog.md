@@ -1,5 +1,9 @@
 # Changelog
 
+### 2024/04/26
+
+Add "DIG3D: Marrying Gaussian Splatting with Deformable Transformer for Single Image 3D Reconstruction"
+
 ### 2024/04/25
 
 Add "TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting"

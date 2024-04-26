@@ -1271,3 +1271,9 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：Korea University ⟐ NCSOFT
 - **🔗 链接**：[[中英摘要](./abs/2404.16012.md)] [[arXiv:2404.16012](https://arxiv.org/abs/2404.16012)] [[Code](https://github.com/KU-CVLAB/GaussianTalker)]
 - **📝 说明**：✏️
+
+#### [203] DIG3D: Marrying Gaussian Splatting with Deformable Transformer for Single Image 3D Reconstruction
+- **🧑‍🔬 作者**：Jiamin Wu, Kenkun Liu, Han Gao, Xiaoke Jiang, Lei Zhang
+- **🏫 单位**：Hong Kong University of Science and Technology ⟐ International Digital Economy Academy (IDEA) ⟐ The Chinese University of Hong Kong, Shenzhen
+- **🔗 链接**：[[中英摘要](./abs/2404.16323.md)] [[arXiv:2404.16323](https://arxiv.org/abs/2404.16323)] [Code]
+- **📝 说明**：✏️
