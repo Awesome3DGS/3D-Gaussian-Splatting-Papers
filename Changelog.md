@@ -1,5 +1,17 @@
 # Changelog
 
+### 2024/04/30
+
+Add "SLAM for Indoor Mapping of Wide Area Construction Environments"
+
+Add "Reconstructing Satellites in 3D from Amateur Telescope Images"
+
+Add "3D Gaussian Splatting with Deferred Reflection"
+
+Add "Bootstrap 3D Reconstructed Scenes from 3D Gaussian Splatting"
+
+Add "DGE: Direct Gaussian 3D Editing by Consistent Multi-view Editing"
+
 ### 2024/04/26
 
 Add "DIG3D: Marrying Gaussian Splatting with Deformable Transformer for Single Image 3D Reconstruction"

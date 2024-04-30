@@ -1277,3 +1277,33 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：Hong Kong University of Science and Technology ⟐ International Digital Economy Academy (IDEA) ⟐ The Chinese University of Hong Kong, Shenzhen
 - **🔗 链接**：[[中英摘要](./abs/2404.16323.md)] [[arXiv:2404.16323](https://arxiv.org/abs/2404.16323)] [Code]
 - **📝 说明**：✏️
+
+#### [204] SLAM for Indoor Mapping of Wide Area Construction Environments
+- **🧑‍🔬 作者**：Vincent Ress, Wei Zhang, David Skuddis, Norbert Haala, Uwe Soergel
+- **🏫 单位**：Institute for Photogrammetry and Geoinformatics, University of Stuttgart, Germany
+- **🔗 链接**：[[中英摘要](./abs/2404.17215.md)] [[arXiv:2404.17215](https://arxiv.org/abs/2404.17215)] [Code]
+- **📝 说明**：✏️
+
+#### [205] Reconstructing Satellites in 3D from Amateur Telescope Images
+- **🧑‍🔬 作者**：Zhiming Chang, Boyang Liu, Yifei Xia, Youming Guo, Boxin Shi, He Sun
+- **🏫 单位**：Simon Fraser University ⟐ University of British Columbia ⟐ University of Toronto ⟐ Google DeepMind
+- **🔗 链接**：[[中英摘要](./abs/2404.18394.md)] [[arXiv:2404.18394](https://arxiv.org/abs/2404.18394)] [Code]
+- **📝 说明**：✏️
+
+#### [206] 3D Gaussian Splatting with Deferred Reflection
+- **🧑‍🔬 作者**：Keyang Ye, Qiming Hou, Kun Zhou
+- **🏫 单位**：State Key Lab of CAD&CG, Zhejiang University, Hangzhou, China
+- **🔗 链接**：[[中英摘要](./abs/2404.18454.md)] [[arXiv:2404.18454](https://arxiv.org/abs/2404.18454)] [Code]
+- **📝 说明**：✏️
+
+#### [207] Bootstrap 3D Reconstructed Scenes from 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Yifei Gao, Jie Ou, Lei Wang, Jun Cheng
+- **🏫 单位**：University of Electronic Science and Technology of China ⟐ Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences ⟐ Sichuan Yuanzhigu Technology Co., Ltd
+- **🔗 链接**：[[中英摘要](./abs/2404.18669.md)] [[arXiv:2404.18669](https://arxiv.org/abs/2404.18669)] [Code]
+- **📝 说明**：✏️
+
+#### [208] DGE: Direct Gaussian 3D Editing by Consistent Multi-view Editing
+- **🧑‍🔬 作者**：Minghao Chen, Iro Laina, Andrea Vedaldi
+- **🏫 单位**：Visual Geometry Group, University of Oxford
+- **🔗 链接**：[[中英摘要](./abs/2404.18929.md)] [[arXiv:2404.18929](https://arxiv.org/abs/2404.18929)] [[Code](https://github.com/silent-chen/DGE)]
+- **📝 说明**：✏️
