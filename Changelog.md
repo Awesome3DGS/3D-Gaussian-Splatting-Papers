@@ -1,5 +1,23 @@
 # Changelog
 
+### 2024/05/02
+
+Add "MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing"
+
+Add "GSTalker: Real-time Audio-Driven Talking Face Generation via Deformable Gaussian Splatting"
+
+Add "SAGS: Structure-Aware 3D Gaussian Splatting"
+
+Add "3D Gaussian Blendshapes for Head Avatar Animation"
+
+Add "MicroDreamer: Zero-shot 3D Generation in ∼20 Seconds by Score-based Iterative Reconstruction"
+
+Add "GS-LRM: Large Reconstruction Model for 3D Gaussian Splatting"
+
+Add "RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting"
+
+Add "Spectrally Pruned Gaussian Fields with Neural Compensation"
+
 ### 2024/04/30
 
 Add "SLAM for Indoor Mapping of Wide Area Construction Environments"

@@ -1307,3 +1307,51 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：Visual Geometry Group, University of Oxford
 - **🔗 链接**：[[中英摘要](./abs/2404.18929.md)] [[arXiv:2404.18929](https://arxiv.org/abs/2404.18929)] [[Code](https://github.com/silent-chen/DGE)]
 - **📝 说明**：✏️
+
+#### [209] MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing
+- **🧑‍🔬 作者**：Cong Wang, Di Kang, He-Yi Sun, Shen-Han Qian, Zi-Xuan Wang, Linchao Bao, Song-Hai Zhang
+- **🏫 单位**：Tsinghua University ⟐ Tencent AI Lab ⟐ Technical University of Munich ⟐ Carnegie Mellon University ⟐ University of Birmingham
+- **🔗 链接**：[[中英摘要](./abs/2404.19026.md)] [[arXiv:2404.19026](https://arxiv.org/abs/2404.19026)] [Code]
+- **📝 说明**：✏️
+
+#### [210] GSTalker: Real-time Audio-Driven Talking Face Generation via Deformable Gaussian Splatting
+- **🧑‍🔬 作者**：Bo Chen, Shoukang Hu, Qi Chen, Chenpeng Du, Ran Yi, Yanmin Qian, Xie Chen
+- **🏫 单位**：Shanghai Jiaotong University ⟐ Nanyang Technological University
+- **🔗 链接**：[[中英摘要](./abs/2404.19040.md)] [[arXiv:2404.19040](https://arxiv.org/abs/2404.19040)] [Code]
+- **📝 说明**：✏️
+
+#### [211] SAGS: Structure-Aware 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Evangelos Ververas, Rolandos Alexandros Potamias, Jifei Song, Jiankang Deng, Stefanos Zafeiriou
+- **🏫 单位**：Imperial College London ⟐ Huawei Noah’s Ark Lab
+- **🔗 链接**：[[中英摘要](./abs/2404.19149.md)] [[arXiv:2404.19149](https://arxiv.org/abs/2404.19149)] [Code]
+- **📝 说明**：✏️
+
+#### [212] 3D Gaussian Blendshapes for Head Avatar Animation
+- **🧑‍🔬 作者**：Shengjie Ma, Yanlin Weng, Tianjia Shao, Kun Zhou
+- **🏫 单位**：Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2404.19398.md)] [[arXiv:2404.19398](https://arxiv.org/abs/2404.19398)] [Code]
+- **📝 说明**：✏️
+
+#### [213] MicroDreamer: Zero-shot 3D Generation in ∼20 Seconds by Score-based Iterative Reconstruction
+- **🧑‍🔬 作者**：Luxi Chen, Zhengyi Wang, Chongxuan Li, Tingting Gao, Hang Su, Jun Zhu
+- **🏫 单位**：Renmin University of China ⟐ Tsinghua University ⟐ Kuaishou Technology
+- **🔗 链接**：[[中英摘要](./abs/2404.19525.md)] [[arXiv:2404.19525](https://arxiv.org/abs/2404.19525)] [[Code](https://github.com/ML-GSAI/MicroDreamer)]
+- **📝 说明**：✏️
+
+#### [214] GS-LRM: Large Reconstruction Model for 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Kai Zhang, Sai Bi, Hao Tan, Yuanbo Xiangli, Nanxuan Zhao, Kalyan Sunkavalli, Zexiang Xu
+- **🏫 单位**：Adobe Research ⟐ Cornell University
+- **🔗 链接**：[[中英摘要](./abs/2404.19702.md)] [[arXiv:2404.19702](https://arxiv.org/abs/2404.19702)] [Code]
+- **📝 说明**：✏️
+
+#### [215] RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting
+- **🧑‍🔬 作者**：Zhexi Peng, Tianjia Shao, Yong Liu, Jingke Zhou, Yin Yang, Jingdong Wang, Kun Zhou
+- **🏫 单位**：Zhejiang University ⟐ University of Utah ⟐ Baidu Research
+- **🔗 链接**：[[中英摘要](./abs/2404.19706.md)] [[arXiv:2404.19706](https://arxiv.org/abs/2404.19706)] [Code]
+- **📝 说明**：✏️
+
+#### [216] Spectrally Pruned Gaussian Fields with Neural Compensation
+- **🧑‍🔬 作者**：Runyi Yang, Zhenxin Zhu, Zhou Jiang, Baijun Ye, Xiaoxue Chen, Yifei Zhang, Yuantao Chen, Jian Zhao, Hao Zhao
+- **🏫 单位**：Tsinghua University ⟐ Imperial College London ⟐ Beihang University ⟐ Beijing Institute of Technology ⟐ UCAS ⟐ CUHK ⟐ China Telecom
+- **🔗 链接**：[[中英摘要](./abs/2405.00676.md)] [[arXiv:2405.00676](https://arxiv.org/abs/2405.00676)] [Code]
+- **📝 说明**：✏️
