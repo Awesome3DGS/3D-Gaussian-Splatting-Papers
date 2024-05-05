@@ -1,5 +1,9 @@
 # Changelog
 
+### 2024/05/05
+
+Add "Efficient Data-driven Scene Simulation using Robotic Surgery Videos via Physics-embedded 3D Gaussians"
+
 ### 2024/05/02
 
 Add "MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing"

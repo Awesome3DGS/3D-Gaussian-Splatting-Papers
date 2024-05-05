@@ -11,7 +11,6 @@
                  [[70](#70-mesh-based-gaussian-splatting-for-real-time-large-scale-deformation)]
                  [[90](#90-gaussian-splatting-in-style)]
                  [[100](#100-ggrt-towards-generalizable-3d-gaussians-without-pose-priors-in-real-time)]
-                 [[110](#110-bags-building-animatable-gaussian-splatting-from-a-monocular-video-with-diffusion-priors)]
                  [[120](#120-videomv-consistent-multi-view-generation-based-on-large-video-generative-model)]
                  [[130](#130-gaussian-frosting-editable-complex-radiance-fields-with-real-time-rendering)]
                  [[140](#140-gsdf-3dgs-meets-sdf-for-improved-rendering-and-reconstruction)]
@@ -20,7 +19,8 @@
                  [[170](#170-dual-camera-smooth-zoom-on-mobile-phones)]
                  [[180](#180-eggs-edge-guided-gaussian-splatting-for-radiance-fields)]
                  [[190](#190-deblurgs-gaussian-splatting-for-camera-motion-blur)]
-                 [[200](#200-talkinggaussian-structure-persistent-3d-talking-head-synthesis-via-gaussian-splatting)]（最新）
+                 [[200](#200-talkinggaussian-structure-persistent-3d-talking-head-synthesis-via-gaussian-splatting)]
+                 [[210](#210-gstalker-real-time-audio-driven-talking-face-generation-via-deformable-gaussian-splatting)]（最新）
 
 
 
@@ -1354,4 +1354,10 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Runyi Yang, Zhenxin Zhu, Zhou Jiang, Baijun Ye, Xiaoxue Chen, Yifei Zhang, Yuantao Chen, Jian Zhao, Hao Zhao
 - **🏫 单位**：Tsinghua University ⟐ Imperial College London ⟐ Beihang University ⟐ Beijing Institute of Technology ⟐ UCAS ⟐ CUHK ⟐ China Telecom
 - **🔗 链接**：[[中英摘要](./abs/2405.00676.md)] [[arXiv:2405.00676](https://arxiv.org/abs/2405.00676)] [Code]
+- **📝 说明**：✏️
+
+#### [217] Efficient Data-driven Scene Simulation using Robotic Surgery Videos via Physics-embedded 3D Gaussians
+- **🧑‍🔬 作者**：Zhenya Yang, Kai Chen, Yonghao Long, Qi Dou
+- **🏫 单位**：The Chinese University of Hong Kong
+- **🔗 链接**：[[中英摘要](./abs/2405.00956.md)] [[arXiv:2405.00956](https://arxiv.org/abs/2405.00956)] [Code]
 - **📝 说明**：✏️
