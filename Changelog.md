@@ -1,5 +1,15 @@
 # Changelog
 
+### 2024/05/07
+
+Add "HoloGS: Instant Depth-based 3D Gaussian Splatting with Microsoft HoloLens 2"
+
+Add "DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos"
+
+Add "Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review"
+
+Add "A Construct-Optimize Approach to Sparse View Synthesis without Camera Pose"
+
 ### 2024/05/05
 
 Add "Efficient Data-driven Scene Simulation using Robotic Surgery Videos via Physics-embedded 3D Gaussians"

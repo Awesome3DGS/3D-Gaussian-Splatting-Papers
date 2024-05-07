@@ -20,13 +20,14 @@
                  [[180](#180-eggs-edge-guided-gaussian-splatting-for-radiance-fields)]
                  [[190](#190-deblurgs-gaussian-splatting-for-camera-motion-blur)]
                  [[200](#200-talkinggaussian-structure-persistent-3d-talking-head-synthesis-via-gaussian-splatting)]
-                 [[210](#210-gstalker-real-time-audio-driven-talking-face-generation-via-deformable-gaussian-splatting)]（最新）
+                 [[220](#220-a-construct-optimize-approach-to-sparse-view-synthesis-without-camera-pose)]（最新）
 
 
 
 
 **📚 会议期刊**: [[ICLR2024](./ICLR2024.md)] (2 篇)
                  [[CVPR2024](./CVPR2024.md)] (61 篇)
+                 [SIGGRAPH2024]
 
 ---
 
@@ -47,6 +48,12 @@
 - **🏫 单位**：Chinese Academy of Sciences ⟐ VAST ⟐  University of California
 - **🔗 链接**：[[中英摘要](./abs/2403.11134.md)] [[arXiv:2403.11134](https://arxiv.org/abs/2403.11134)]
 - **📝 说明**：🔥 第三篇综述，涵盖了更多最新进展
+
+#### [S3] Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review
+- **🧑‍🔬 作者**：Anurag Dalal, Daniel Hagen, Kjell G. Robbersmyr, Kristian Muri Knausgård
+- **🏫 单位**：University of Agder
+- **🔗 链接**：[[中英摘要](./abs/2405.03417.md)] [[arXiv:2405.03417](https://arxiv.org/abs/2405.03417)]
+- **📝 说明**：🔥 第四篇综述
 
 ---
 
@@ -1360,4 +1367,22 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Zhenya Yang, Kai Chen, Yonghao Long, Qi Dou
 - **🏫 单位**：The Chinese University of Hong Kong
 - **🔗 链接**：[[中英摘要](./abs/2405.00956.md)] [[arXiv:2405.00956](https://arxiv.org/abs/2405.00956)] [Code]
+- **📝 说明**：✏️
+
+#### [218] HoloGS: Instant Depth-based 3D Gaussian Splatting with Microsoft HoloLens 2
+- **🧑‍🔬 作者**：Miriam Jäger, Theodor Kapler, Michael Feßenbecker, Felix Birkelbach, Markus Hillemann, Boris Jutzi
+- **🏫 单位**：Institute of Photogrammetry and Remote Sensing (IPF), Karlsruhe Institute of Technology (KIT)
+- **🔗 链接**：[[中英摘要](./abs/2405.02005.md)] [[arXiv:2405.02005](https://arxiv.org/abs/2405.02005)] [Code]
+- **📝 说明**：✏️
+
+#### [219] DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos
+- **🧑‍🔬 作者**：Wen-Hsuan Chu, Lei Ke, Katerina Fragkiadaki
+- **🏫 单位**：Carnegie Mellon University
+- **🔗 链接**：[[中英摘要](./abs/2405.02280.md)] [[arXiv:2405.02280](https://arxiv.org/abs/2405.02280)] [[Code](https://github.com/dreamscene4d/dreamscene4d)]
+- **📝 说明**：✏️
+
+#### [220] A Construct-Optimize Approach to Sparse View Synthesis without Camera Pose
+- **🧑‍🔬 作者**：Kaiwen Jiang, Yang Fu, Mukund Varma T, Yash Belhe, Xiaolong Wang, Hao Su, Ravi Ramamoorthi
+- **🏫 单位**：University of California
+- **🔗 链接**：[[中英摘要](./abs/2405.03659.md)] [[arXiv:2405.03659](https://arxiv.org/abs/2405.03659)] [Code]
 - **📝 说明**：✏️
