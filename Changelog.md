@@ -1,5 +1,9 @@
 # Changelog
 
+### 2024/05/08
+
+Add "Splat-MOVER: Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting"
+
 ### 2024/05/07
 
 Add "HoloGS: Instant Depth-based 3D Gaussian Splatting with Microsoft HoloLens 2"

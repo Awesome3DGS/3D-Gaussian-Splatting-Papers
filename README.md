@@ -1386,3 +1386,9 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：University of California
 - **🔗 链接**：[[中英摘要](./abs/2405.03659.md)] [[arXiv:2405.03659](https://arxiv.org/abs/2405.03659)] [Code]
 - **📝 说明**：✏️
+
+#### [221] Splat-MOVER: Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting
+- **🧑‍🔬 作者**：Ola Shorinwa, Johnathan Tucker, Aliyah Smith, Aiden Swann, Timothy Chen, Roya Firoozi, Monroe Kennedy III, Mac Schwager
+- **🏫 单位**：Stanford University
+- **🔗 链接**：[[中英摘要](./abs/2405.04378.md)] [[arXiv:2405.04378](https://arxiv.org/abs/2405.04378)] [Code]
+- **📝 说明**：✏️
