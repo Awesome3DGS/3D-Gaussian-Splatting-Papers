@@ -1,5 +1,15 @@
 # Changelog
 
+### 2024/05/10
+
+Add "GDGS: Gradient Domain Gaussian Splatting for Sparse Representation of Radiance Fields"
+
+Add "NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap"
+
+Add "FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting"
+
+Add "DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation"
+
 ### 2024/05/08
 
 Add "Splat-MOVER: Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting"

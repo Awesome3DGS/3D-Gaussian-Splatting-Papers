@@ -1392,3 +1392,27 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：Stanford University
 - **🔗 链接**：[[中英摘要](./abs/2405.04378.md)] [[arXiv:2405.04378](https://arxiv.org/abs/2405.04378)] [Code]
 - **📝 说明**：✏️
+
+#### [222] GDGS: Gradient Domain Gaussian Splatting for Sparse Representation of Radiance Fields
+- **🧑‍🔬 作者**：Yuanhao Gong
+- **🏫 单位**：Electronics and Information Engineering, Shenzhen University, China
+- **🔗 链接**：[[中英摘要](./abs/2405.05446.md)] [[arXiv:2405.05446](https://arxiv.org/abs/2405.05446)] [Code]
+- **📝 说明**：✏️
+
+#### [223] NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap
+- **🧑‍🔬 作者**：Mingrui Li, Jingwei Huang, Lei Sun, Aaron Xuxiang Tian, Tianchen Deng, Hongyu Wang
+- **🏫 单位**：Dalian University of Technology ⟐ University of Electronic Science and Technology of China ⟐ University of Pennsylvania
+- **🔗 链接**：[[中英摘要](./abs/2405.05702.md)] [[arXiv:2405.05702](https://arxiv.org/abs/2405.05702)] [Code]
+- **📝 说明**：✏️
+
+#### [224] FastScene: Text-Driven Fast 3D Indoor Scene Generation via Panoramic Gaussian Splatting
+- **🧑‍🔬 作者**：Yikun Ma, Dandan Zhan, Zhi Jin
+- **🏫 单位**：Sun Yat-sen University ⟐ Guangdong Provincial Key Laboratory of Fire Science and Intelligent Emergency Technology
+- **🔗 链接**：[[中英摘要](./abs/2405.05768.md)] [[arXiv:2405.05768](https://arxiv.org/abs/2405.05768)] [Code]
+- **📝 说明**：✏️
+
+#### [225] DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation
+- **🧑‍🔬 作者**：Sitian Shen, Jing Xu, Yuheng Yuan, Xingyi Yang, Qiuhong Shen, Xinchao Wang
+- **🏫 单位**：Beijing Institute of Technology
+- **🔗 链接**：[[中英摘要](./abs/2405.05800.md)] [[arXiv:2405.05800](https://arxiv.org/abs/2405.05800)] [Code]
+- **📝 说明**：✏️
