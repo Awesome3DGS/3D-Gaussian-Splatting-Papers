@@ -12,7 +12,6 @@
                  [[90](#90-gaussian-splatting-in-style)]
                  [[100](#100-ggrt-towards-generalizable-3d-gaussians-without-pose-priors-in-real-time)]
                  [[120](#120-videomv-consistent-multi-view-generation-based-on-large-video-generative-model)]
-                 [[130](#130-gaussian-frosting-editable-complex-radiance-fields-with-real-time-rendering)]
                  [[140](#140-gsdf-3dgs-meets-sdf-for-improved-rendering-and-reconstruction)]
                  [[150](#150-gaustudio-a-modular-framework-for-3d-gaussian-splatting-and-beyond)]
                  [[160](#160-mirror-3dgs-incorporating-mirror-reflections-into-3d-gaussian-splatting)]
@@ -20,7 +19,8 @@
                  [[180](#180-eggs-edge-guided-gaussian-splatting-for-radiance-fields)]
                  [[190](#190-deblurgs-gaussian-splatting-for-camera-motion-blur)]
                  [[200](#200-talkinggaussian-structure-persistent-3d-talking-head-synthesis-via-gaussian-splatting)]
-                 [[220](#220-a-construct-optimize-approach-to-sparse-view-synthesis-without-camera-pose)]（最新）
+                 [[220](#220-a-construct-optimize-approach-to-sparse-view-synthesis-without-camera-pose)]
+                 [[230](#230-gaussianvton-3d-human-virtual-try-on-via-multi-stage-gaussian-splatting-editing-with-image-prompting)]（最新）
 
 
 
@@ -1416,3 +1416,45 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：Beijing Institute of Technology
 - **🔗 链接**：[[中英摘要](./abs/2405.05800.md)] [[arXiv:2405.05800](https://arxiv.org/abs/2405.05800)] [Code]
 - **📝 说明**：✏️
+
+#### [226] I3DGS: Improve 3D Gaussian Splatting from Multiple Dimension
+- **🧑‍🔬 作者**：Jinwei Lin
+- **🏫 单位**：Monash University, Clayton Victoria, Australia
+- **🔗 链接**：[[中英摘要](./abs/2405.06408.md)] [[arXiv:2405.06408](https://arxiv.org/abs/2405.06408)] [Code]
+- **📝 说明**：✏️
+
+#### [227] OneTo3D: One Image to Re-editable Dynamic 3D Model and Video Generation
+- **🧑‍🔬 作者**：Jinwei Lin
+- **🏫 单位**：Monash University, Clayton Victoria, Australia
+- **🔗 链接**：[[中英摘要](./abs/2405.06547.md)] [[arXiv:2405.06547](https://arxiv.org/abs/2405.06547)] [[Code](https://github.com/lin-jinwei/OneTo3D)]
+- **📝 说明**：✏️
+
+#### [228] Direct Learning of Mesh and Appearance via 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Ancheng Lin, Jun Li
+- **🏫 单位**：School of Computer Science, Australian Artificial Intelligence Institute (AAII) ⟐  University of Technology Sydney, Sydney, NSW 2007, Australia
+- **🔗 链接**：[[中英摘要](./abs/2405.06945.md)] [[arXiv:2405.06945](https://arxiv.org/abs/2405.06945)] [Code]
+- **📝 说明**：✏️
+
+#### [229] LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer
+- **🧑‍🔬 作者**：Siyou Lin, Zhe Li, Zhaoqi Su, Zerong Zheng, Hongwen Zhang, Yebin Liu
+- **🏫 单位**：Tsinghua University ⟐ NNKosmos Technology ⟐ Beijing Normal University
+- **🔗 链接**：[[中英摘要](./abs/2405.07319.md)] [[arXiv:2405.07319](https://arxiv.org/abs/2405.07319)] [Code]
+- **📝 说明**：🏆 Accepted to SIGGRAPH 2024
+
+#### [230] GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting
+- **🧑‍🔬 作者**：Haodong Chen, Yongle Huang, Haojian Huang, Xiangsheng Ge, Dian Shao
+- **🏫 单位**：Northwestern Polytechnical University ⟐  The University of Hong Kong
+- **🔗 链接**：[[中英摘要](./abs/2405.07472.md)] [[arXiv:2405.07472](https://arxiv.org/abs/2405.07472)] [Code]
+- **📝 说明**：✏️
+
+#### [231] GS-Planner: A Gaussian-Splatting-based Planning Framework for Active High-Fidelity Reconstruction
+- **🧑‍🔬 作者**：Rui Jin, Yuman Gao, Haojian Lu, Fei Gao
+- **🏫 单位**：Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2405.10142.md)] [[arXiv:2405.10142](https://arxiv.org/abs/2405.10142)] [Code]
+- **📝 说明**：✏️
+
+#### [232] ART3D: 3D Gaussian Splatting for Text-Guided Artistic Scenes Generation
+- **🧑‍🔬 作者**：Pengzhi Li, Chengshuai Tang, Qinxuan Huang, Zhiheng Li
+- **🏫 单位**：Tsinghua Shenzhen International Graduate School ⟐ Tsinghua-Berkeley Shenzhen Institute
+- **🔗 链接**：[[中英摘要](./abs/2405.10508.md)] [[arXiv:2405.10508](https://arxiv.org/abs/2405.10508)] [Code]
+- **📝 说明**：🏆 Accepted at CVPR 2024 Workshop on AI3DG

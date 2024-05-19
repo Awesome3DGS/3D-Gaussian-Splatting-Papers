@@ -1,5 +1,21 @@
 # Changelog
 
+### 2024/05/19
+
+Add "I3DGS: Improve 3D Gaussian Splatting from Multiple Dimension"
+
+Add "OneTo3D: One Image to Re-editable Dynamic 3D Model and Video Generation"
+
+Add "Direct Learning of Mesh and Appearance via 3D Gaussian Splatting"
+
+Add "LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer"
+
+Add "GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting"
+
+Add "GS-Planner: A Gaussian-Splatting-based Planning Framework for Active High-Fidelity Reconstruction"
+
+Add "ART3D: 3D Gaussian Splatting for Text-Guided Artistic Scenes Generation"
+
 ### 2024/05/10
 
 Add "GDGS: Gradient Domain Gaussian Splatting for Sparse Representation of Radiance Fields"
