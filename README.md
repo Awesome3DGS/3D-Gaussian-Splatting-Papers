@@ -1458,3 +1458,45 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：Tsinghua Shenzhen International Graduate School ⟐ Tsinghua-Berkeley Shenzhen Institute
 - **🔗 链接**：[[中英摘要](./abs/2405.10508.md)] [[arXiv:2405.10508](https://arxiv.org/abs/2405.10508)] [Code]
 - **📝 说明**：🏆 Accepted at CVPR 2024 Workshop on AI3DG
+
+#### [233] Photorealistic 3D Urban Scene Reconstruction and Point Cloud Extraction using Google Earth Imagery and Gaussian Splatting
+- **🧑‍🔬 作者**：Kyle Gao, Dening Lu, Hongjie He, Linlin Xu, Jonathan Li
+- **🏫 单位**：Department of Systems Design Engineering, University of Waterloo
+- **🔗 链接**：[[中英摘要](./abs/2405.11021.md)] [[arXiv:2405.11021](https://arxiv.org/abs/2405.11021)] [Code]
+- **📝 说明**：
+
+#### [234] MotionGS : Compact Gaussian Splatting SLAM by Motion Filter
+- **🧑‍🔬 作者**：Xinli Guo, Peng Han, Weidong Zhang, Hongtian Chen
+- **🏫 单位**：Shang Hai Jiao Tong University, China
+- **🔗 链接**：[[中英摘要](./abs/2405.11129.md)] [[arXiv:2405.11129](https://arxiv.org/abs/2405.11129)] [Code]
+- **📝 说明**：
+
+#### [235] MirrorGaussian: Reflecting 3D Gaussians for Reconstructing Mirror Reflections
+- **🧑‍🔬 作者**：Jiayue Liu, Xiao Tang, Freeman Cheng, Roy Yang, Zhihao Li, Jianzhuang Liu, Yi Huang, Jiaqi Lin, Shiyong Liu, Xiaofei Wu, Songcen Xu, Chun Yuan
+- **🏫 单位**：Tsinghua University ⟐ Huawei Noah’s Ark Lab ⟐ University of Toronto ⟐ University of Chinese Academy of Sciences
+- **🔗 链接**：[[中英摘要](./abs/2405.11921.md)] [[arXiv:2405.11921](https://arxiv.org/abs/2405.11921)] [Code]
+- **📝 说明**：
+
+#### [236] GGAvatar: Geometric Adjustment of Gaussian Head Avatar
+- **🧑‍🔬 作者**：Xinyang Li, Jiaxin Wang, Yixin Xuan, Gongxin Yao, Yu Pan
+- **🏫 单位**：Zhejiang University ⟐ Hangzhou Dianzi University
+- **🔗 链接**：[[中英摘要](./abs/2405.11993.md)] [[arXiv:2405.11993](https://arxiv.org/abs/2405.11993)] [Code]
+- **📝 说明**：
+
+#### [237] Gaussian Head & Shoulders: High Fidelity Neural Upper Body Avatars with Anchor Gaussian Guided Texture Warping
+- **🧑‍🔬 作者**：Tianhao Wu, Jing Yang, Zhilin Guo, Jingyi Wan, Fangcheng Zhong, Cengiz Oztireli
+- **🏫 单位**：University of Cambridge, United Kingdom
+- **🔗 链接**：[[中英摘要](./abs/2405.12069.md)] [[arXiv:2405.12069](https://arxiv.org/abs/2405.12069)] [Code]
+- **📝 说明**：
+
+#### [238] CoR-GS: Sparse-View 3D Gaussian Splatting via Co-Regularization
+- **🧑‍🔬 作者**：Jiawei Zhang, Jiahe Li, Xiaohan Yu, Lei Huang, Lin Gu, Jin Zheng, Xiao Bai
+- **🏫 单位**：Beihang University ⟐  Macquarie University ⟐ RIKEN AIP ⟐ The University of Tokyo
+- **🔗 链接**：[[中英摘要](./abs/2405.12110.md)] [[arXiv:2405.12110](https://arxiv.org/abs/2405.12110)] [Code]
+- **📝 说明**：
+
+#### [239] Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo
+- **🧑‍🔬 作者**：Tianqi Liu, Guangcong Wang, Shoukang Hu, Liao Shen, Xinyi Ye, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu
+- **🏫 单位**：Huazhong University of Science and Technology ⟐  Nanyang Technological University ⟐  Great Bay University ⟐ Shanghai AI Laboratory
+- **🔗 链接**：[[中英摘要](./abs/2405.12218.md)] [[arXiv:2405.12218](https://arxiv.org/abs/2405.12218)] [Code]
+- **📝 说明**：

@@ -1,5 +1,21 @@
 # Changelog
 
+### 2024/05/21
+
+Add "Photorealistic 3D Urban Scene Reconstruction and Point Cloud Extraction using Google Earth Imagery and Gaussian Splatting"
+
+Add "MotionGS : Compact Gaussian Splatting SLAM by Motion Filter"
+
+Add "MirrorGaussian: Reflecting 3D Gaussians for Reconstructing Mirror Reflections"
+
+Add "GGAvatar: Geometric Adjustment of Gaussian Head Avatar"
+
+Add "Gaussian Head & Shoulders: High Fidelity Neural Upper Body Avatars with Anchor Gaussian Guided Texture Warping"
+
+Add "CoR-GS: Sparse-View 3D Gaussian Splatting via Co-Regularization"
+
+Add "Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo"
+
 ### 2024/05/19
 
 Add "I3DGS: Improve 3D Gaussian Splatting from Multiple Dimension"
