@@ -1,5 +1,17 @@
 # Changelog
 
+### 2024/05/22
+
+Add "AtomGS: Atomizing Gaussian Splatting for High-Fidelity Radiance Field"
+
+Add "GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details"
+
+Add "Gaussian Control with Hierarchical Semantic Graphs in 3D Human Recovery"
+
+Add "LAGA: Layered 3D Avatar Generation and Customization via Gaussian Splatting"
+
+Add "MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video"
+
 ### 2024/05/21
 
 Add "Photorealistic 3D Urban Scene Reconstruction and Point Cloud Extraction using Google Earth Imagery and Gaussian Splatting"

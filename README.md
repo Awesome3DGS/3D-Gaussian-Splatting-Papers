@@ -13,14 +13,15 @@
                  [[100](#100-ggrt-towards-generalizable-3d-gaussians-without-pose-priors-in-real-time)]
                  [[120](#120-videomv-consistent-multi-view-generation-based-on-large-video-generative-model)]
                  [[140](#140-gsdf-3dgs-meets-sdf-for-improved-rendering-and-reconstruction)]
-                 [[150](#150-gaustudio-a-modular-framework-for-3d-gaussian-splatting-and-beyond)]
                  [[160](#160-mirror-3dgs-incorporating-mirror-reflections-into-3d-gaussian-splatting)]
                  [[170](#170-dual-camera-smooth-zoom-on-mobile-phones)]
                  [[180](#180-eggs-edge-guided-gaussian-splatting-for-radiance-fields)]
                  [[190](#190-deblurgs-gaussian-splatting-for-camera-motion-blur)]
                  [[200](#200-talkinggaussian-structure-persistent-3d-talking-head-synthesis-via-gaussian-splatting)]
                  [[220](#220-a-construct-optimize-approach-to-sparse-view-synthesis-without-camera-pose)]
-                 [[230](#230-gaussianvton-3d-human-virtual-try-on-via-multi-stage-gaussian-splatting-editing-with-image-prompting)]（最新）
+                 [[230](#230-gaussianvton-3d-human-virtual-try-on-via-multi-stage-gaussian-splatting-editing-with-image-prompting)]
+                 [[240](#240-atomgs-atomizing-gaussian-splatting-for-high-fidelity-radiance-field)]（最新）
+
 
 
 
@@ -1499,4 +1500,34 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Tianqi Liu, Guangcong Wang, Shoukang Hu, Liao Shen, Xinyi Ye, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu
 - **🏫 单位**：Huazhong University of Science and Technology ⟐  Nanyang Technological University ⟐  Great Bay University ⟐ Shanghai AI Laboratory
 - **🔗 链接**：[[中英摘要](./abs/2405.12218.md)] [[arXiv:2405.12218](https://arxiv.org/abs/2405.12218)] [Code]
+- **📝 说明**：
+
+#### [240] AtomGS: Atomizing Gaussian Splatting for High-Fidelity Radiance Field
+- **🧑‍🔬 作者**：Rong Liu, Rui Xu, Yue Hu, Meida Chen, Andrew Feng
+- **🏫 单位**：University of Southern California
+- **🔗 链接**：[[中英摘要](./abs/2405.12369.md)] [[arXiv:2405.12369](https://arxiv.org/abs/2405.12369)] [[Code](https://github.com/RongLiu-Leo/AtomGS)]
+- **📝 说明**：
+
+#### [241] GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details
+- **🧑‍🔬 作者**：Boqian Li, Xuan Li, Ying Jiang, Tianyi Xie, Feng Gao, Huamin Wang, Yin Yang, Chenfanfu Jiang
+- **🏫 单位**：UCLA ⟐ Utah ⟐ HKU ⟐ Amazon ⟐ Style3D Research
+- **🔗 链接**：[[中英摘要](./abs/2405.12420.md)] [[arXiv:2405.12420](https://arxiv.org/abs/2405.12420)] [Code]
+- **📝 说明**：
+
+#### [242] Gaussian Control with Hierarchical Semantic Graphs in 3D Human Recovery
+- **🧑‍🔬 作者**：Hongsheng Wang, Weiyue Zhang, Sihao Liu, Xinrui Zhou, Shengyu Zhang, Fei Wu, Feng Lin
+- **🏫 单位**：Zhejiang University ⟐ Zhejiang Lab, China
+- **🔗 链接**：[[中英摘要](./abs/2405.12477.md)] [[arXiv:2405.12477](https://arxiv.org/abs/2405.12477)] [[Code](https://github.com/3DHumanRehab/SemanticGraph-Gaussian)]
+- **📝 说明**：
+
+#### [243] LAGA: Layered 3D Avatar Generation and Customization via Gaussian Splatting
+- **🧑‍🔬 作者**：Jia Gong, Shenyu Ji, Lin Geng Foo, Kang Chen, Hossein Rahmani, Jun Liu
+- **🏫 单位**：Singapore University of Technology and Design ⟐ Netease ⟐ Lancaster University
+- **🔗 链接**：[[中英摘要](./abs/2405.12663.md)] [[arXiv:2405.12663](https://arxiv.org/abs/2405.12663)] [[Code](https://github.com/richzhang/webpage-template)]
+- **📝 说明**：
+
+#### [244] MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video
+- **🧑‍🔬 作者**：Hongsheng Wang, Xiang Cai, Xi Sun, Jinhong Yue, Shengyu Zhang, Feng Lin, Fei Wu
+- **🏫 单位**：Zhejiang University ⟐ Zhejiang Lab, China
+- **🔗 链接**：[[中英摘要](./abs/2405.12806.md)] [[arXiv:2405.12806](https://arxiv.org/abs/2405.12806)] [[Code](https://github.com/3DHumanRehab/MOSS)]
 - **📝 说明**：
