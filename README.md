@@ -14,13 +14,14 @@
                  [[120](#120-videomv-consistent-multi-view-generation-based-on-large-video-generative-model)]
                  [[140](#140-gsdf-3dgs-meets-sdf-for-improved-rendering-and-reconstruction)]
                  [[160](#160-mirror-3dgs-incorporating-mirror-reflections-into-3d-gaussian-splatting)]
-                 [[170](#170-dual-camera-smooth-zoom-on-mobile-phones)]
                  [[180](#180-eggs-edge-guided-gaussian-splatting-for-radiance-fields)]
                  [[190](#190-deblurgs-gaussian-splatting-for-camera-motion-blur)]
                  [[200](#200-talkinggaussian-structure-persistent-3d-talking-head-synthesis-via-gaussian-splatting)]
                  [[220](#220-a-construct-optimize-approach-to-sparse-view-synthesis-without-camera-pose)]
                  [[230](#230-gaussianvton-3d-human-virtual-try-on-via-multi-stage-gaussian-splatting-editing-with-image-prompting)]
-                 [[240](#240-atomgs-atomizing-gaussian-splatting-for-high-fidelity-radiance-field)]（最新）
+                 [[240](#240-atomgs-atomizing-gaussian-splatting-for-high-fidelity-radiance-field)]
+                 [[250](#250-rogs-large-scale-road-surface-reconstruction-based-on-2d-gaussian-splatting
+                 )]（最新）
 
 
 
@@ -1530,4 +1531,52 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Hongsheng Wang, Xiang Cai, Xi Sun, Jinhong Yue, Shengyu Zhang, Feng Lin, Fei Wu
 - **🏫 单位**：Zhejiang University ⟐ Zhejiang Lab, China
 - **🔗 链接**：[[中英摘要](./abs/2405.12806.md)] [[arXiv:2405.12806](https://arxiv.org/abs/2405.12806)] [[Code](https://github.com/3DHumanRehab/MOSS)]
+- **📝 说明**：
+
+#### [245] Gaussian Time Machine: A Real-Time Rendering Methodology for Time-Variant Appearances
+- **🧑‍🔬 作者**：Licheng Shen, Ho Ngai Chow, Lingyun Wang, Tong Zhang, Mengqiu Wang, Yuxing Han
+- **🏫 单位**：Tsinghua Shenzhen International Graduate School, Tsinghua University ⟐ Zero-Zero Lab ⟐ Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2405.13694.md)] [[arXiv:2405.13694](https://arxiv.org/abs/2405.13694)] [Code]
+- **📝 说明**：
+
+#### [246] Monocular Gaussian SLAM with Language Extended Loop Closure
+- **🧑‍🔬 作者**：Tian Lan, Qinwei Lin, Haoqian Wang
+- **🏫 单位**：Tsinghua University
+- **🔗 链接**：[[中英摘要](./abs/2405.13748.md)] [[arXiv:2405.13748](https://arxiv.org/abs/2405.13748)] [Code]
+- **📝 说明**：
+
+#### [247] DoGaussian: Distributed-Oriented Gaussian Splatting for Large-Scale 3D Reconstruction Via Gaussian Consensus
+- **🧑‍🔬 作者**：Yu Chen, Gim Hee Lee
+- **🏫 单位**：National University of Singapore
+- **🔗 链接**：[[中英摘要](./abs/2405.13943.md)] [[arXiv:2405.13943](https://arxiv.org/abs/2405.13943)] [Code]
+- **📝 说明**：
+
+#### [248] NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation
+- **🧑‍🔬 作者**：Chaokang Jiang, Dalong Du, Jiuming Liu, Siting Zhu, Zhenqiang Liu, Zhuang Ma, Zhujin Liang, Jie Zhou
+- **🏫 单位**：PhiGent Robotics ⟐ Shanghai Jiaotong University ⟐ Tsinghua University
+- **🔗 链接**：[[中英摘要](./abs/2405.14241.md)] [[arXiv:2405.14241](https://arxiv.org/abs/2405.14241)] [[Code](https://github.com/jiangchaokang/NeuroGauss4D-PCI)]
+- **📝 说明**：
+
+#### [249] D-MiSo: Editing Dynamic 3D Scenes using Multi-Gaussians Soup
+- **🧑‍🔬 作者**：Joanna Waczyńska, Piotr Borycki, Joanna Kaleta, Sławomir Tadeja, Przemysław Spurek
+- **🏫 单位**：Jagiellonian University ⟐ Warsaw University of Technology ⟐ University of Cambridge
+- **🔗 链接**：[[中英摘要](./abs/2405.14276.md)] [[arXiv:2405.14276](https://arxiv.org/abs/2405.14276)] [Code]
+- **📝 说明**：
+
+#### [250] RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting
+- **🧑‍🔬 作者**：Zhiheng Feng, Wenhua Wu, Hesheng Wang
+- **🏫 单位**：Shanghai Jiao Tong University
+- **🔗 链接**：[[中英摘要](./abs/2405.14342.md)] [[arXiv:2405.14342](https://arxiv.org/abs/2405.14342)] [Code]
+- **📝 说明**：
+
+#### [251] TIGER: Text-Instructed 3D Gaussian Retrieval and Coherent Editing
+- **🧑‍🔬 作者**：Teng Xu, Jiamin Chen, Peng Chen, Youjia Zhang, Junqing Yu, Wei Yang
+- **🏫 单位**：Huazhong University of Science and Technology
+- **🔗 链接**：[[中英摘要](./abs/2405.14455.md)] [[arXiv:2405.14455](https://arxiv.org/abs/2405.14455)] [Code]
+- **📝 说明**：
+
+#### [252] MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes
+- **🧑‍🔬 作者**：Ruiyuan Gao, Kai Chen, Zhihao Li, Lanqing Hong, Zhenguo Li, Qiang Xu
+- **🏫 单位**：The Chinese University of Hong Kong ⟐ Hong Kong University of Science and Technology ⟐ Huawei Noah’s Ark Lab
+- **🔗 链接**：[[中英摘要](./abs/2405.14475.md)] [[arXiv:2405.14475](https://arxiv.org/abs/2405.14475)] [Code]
 - **📝 说明**：

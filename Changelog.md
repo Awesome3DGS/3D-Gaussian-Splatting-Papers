@@ -1,5 +1,23 @@
 # Changelog
 
+### 2024/05/24
+
+Add "Gaussian Time Machine: A Real-Time Rendering Methodology for Time-Variant Appearances"
+
+Add "Monocular Gaussian SLAM with Language Extended Loop Closure"
+
+Add "DoGaussian: Distributed-Oriented Gaussian Splatting for Large-Scale 3D Reconstruction Via Gaussian Consensus"
+
+Add "NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation"
+
+Add "D-MiSo: Editing Dynamic 3D Scenes using Multi-Gaussians Soup"
+
+Add "RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting"
+
+Add "TIGER: Text-Instructed 3D Gaussian Retrieval and Coherent Editing"
+
+Add "MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes"
+
 ### 2024/05/22
 
 Add "AtomGS: Atomizing Gaussian Splatting for High-Fidelity Radiance Field"
