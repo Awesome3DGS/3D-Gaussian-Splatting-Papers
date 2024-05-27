@@ -1580,3 +1580,39 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：The Chinese University of Hong Kong ⟐ Hong Kong University of Science and Technology ⟐ Huawei Noah’s Ark Lab
 - **🔗 链接**：[[中英摘要](./abs/2405.14475.md)] [[arXiv:2405.14475](https://arxiv.org/abs/2405.14475)] [Code]
 - **📝 说明**：
+
+#### [253] EvGGS: A Collaborative Learning Framework for Event-based Generalizable Gaussian Splatting
+- **🧑‍🔬 作者**：Jiaxu Wang, Junhao He, Ziyi Zhang, Mingyuan Sun, Jingkai Sun, Renjing Xu
+- **🏫 单位**：Hong Kong University of Science and Technology, Guangzhou ⟐ Northeastern University, China
+- **🔗 链接**：[[中英摘要](./abs/2405.14959.md)] [[arXiv:2405.14959](https://arxiv.org/abs/2405.14959)] [Code]
+- **📝 说明**：🏆 Accepted to ICML 2024
+
+#### [254] GS-Hider: Hiding Messages into 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Xuanyu Zhang, Jiarui Meng, Runyi Li, Zhipei Xu, Yongbing Zhang, Jian Zhang
+- **🏫 单位**：Peking University ⟐ Harbin Institute of Technology (Shenzhen)
+- **🔗 链接**：[[中英摘要](./abs/2405.15118.md)] [[arXiv:2405.15118](https://arxiv.org/abs/2405.15118)] [Code]
+- **📝 说明**：
+
+#### [255] HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting
+- **🧑‍🔬 作者**：Yuanhao Cai, Zihao Xiao, Yixun Liang, Yulun Zhang, Xiaokang Yang, Yaoyao Liu, Alan Yuille
+- **🏫 单位**：Johns Hopkins University ⟐ HKUST (GZ) ⟐ Tsinghua University ⟐ Shanghai Jiao Tong University
+- **🔗 链接**：[[中英摘要](./abs/2405.15125.md)] [[arXiv:2405.15125](https://arxiv.org/abs/2405.15125)] [[Code](https://github.com/caiyuanhao1998/HDR-GS)]
+- **📝 说明**：
+
+#### [256] DisC-GS: Discontinuity-aware Gaussian Splatting
+- **🧑‍🔬 作者**：Haoxuan Qu, Zhuoling Li, Hossein Rahmani, Yujun Cai, Jun Liu
+- **🏫 单位**：Singapore University of Technology and Design ⟐ Central South University ⟐ Lancaster University ⟐ Nanyang Technological University
+- **🔗 链接**：[[中英摘要](./abs/2405.15196.md)] [[arXiv:2405.15196](https://arxiv.org/abs/2405.15196)] [Code]
+- **📝 说明**：
+
+#### [257] GSDeformer: Direct Cage-based Deformation for 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Jiajun Huang, Hongchuan Yu
+- **🏫 单位**：Bournemouth University
+- **🔗 链接**：[[中英摘要](./abs/2405.15491.md)] [[arXiv:2405.15491](https://arxiv.org/abs/2405.15491)] [Code]
+- **📝 说明**：
+
+#### [258] Feature Splatting for Better Novel View Synthesis with Low Overlap
+- **🧑‍🔬 作者**：T. Berriel Martins, Javier Civera
+- **🏫 单位**：University of Zaragoza
+- **🔗 链接**：[[中英摘要](./abs/2405.15518.md)] [[arXiv:2405.15518](https://arxiv.org/abs/2405.15518)] [Code]
+- **📝 说明**：

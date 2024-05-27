@@ -1,5 +1,19 @@
 # Changelog
 
+### 2024/05/27
+
+Add "EvGGS: A Collaborative Learning Framework for Event-based Generalizable Gaussian Splatting"
+
+Add "GS-Hider: Hiding Messages into 3D Gaussian Splatting"
+
+Add "HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting"
+
+Add "DisC-GS: Discontinuity-aware Gaussian Splatting"
+
+Add "GSDeformer: Direct Cage-based Deformation for 3D Gaussian Splatting"
+
+Add "Feature Splatting for Better Novel View Synthesis with Low Overlap"
+
 ### 2024/05/24
 
 Add "Gaussian Time Machine: A Real-Time Rendering Methodology for Time-Variant Appearances"
