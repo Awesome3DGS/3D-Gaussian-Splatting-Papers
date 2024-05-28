@@ -1,5 +1,25 @@
 # Changelog
 
+### 2024/05/28
+
+Add "Sp2360: Sparse-view 360 Scene Reconstruction using Cascaded 2D Diffusion Priors"
+
+Add "Splat-SLAM: Globally Optimized RGB-only SLAM with 3D Gaussians"
+
+Add "PyGS: Large-scale Scene Representation with Pyramidal 3D Gaussian Splatting"
+
+Add "Sync4D: Video Guided Controllable Dynamics for Physics-Based 4D Generation"
+
+Add "SA-GS: Semantic-Aware Gaussian Splatting for Large Scene Reconstruction with Geometry Constrain"
+
+Add "F-3DGS: Factorized Coordinates and Representations for 3D Gaussian Splatting"
+
+Add "Memorize What Matters: Emergent Scene Decomposition from Multitraverse"
+
+Add "DOF-GS: Adjustable Depth-of-Field 3D Gaussian Splatting for Refocusing,Defocus Rendering and Blur Removal"
+
+Add "GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction"
+
 ### 2024/05/27
 
 Add "EvGGS: A Collaborative Learning Framework for Event-based Generalizable Gaussian Splatting"
