@@ -35,7 +35,7 @@ new articles will be displayed in reverse chronological order, and older article
 
 
 **📚 会议期刊**: [[ICLR2024](./ICLR2024.md)] (2 篇)
-                 [[CVPR2024](./CVPR2024.md)] (61 篇)
+                 [[CVPR2024](./CVPR2024.md)] (60 篇)
                  [SIGGRAPH2024]
 
 ---
