@@ -1600,3 +1600,105 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：Tsinghua University ⟐ University of California, Berkeley ⟐ PhiGent Robotics
 - **🔗 链接**：[[中英摘要](./abs/2405.17429.md)] [[arXiv:2405.17429](https://arxiv.org/abs/2405.17429)] [[Code](https://github.com/huang-yh/GaussianFormer)]
 - **📝 说明**：
+
+#### [255] GOI: Find 3D Gaussians of Interest with an Optimizable Open-vocabulary Semantic-space Hyperplane
+- **🧑‍🔬 作者**：Yansong Qu, Shaohui Dai, Xinyang Li, Jianghang Lin, Liujuan Cao, Shengchuan Zhang, Rongrong Ji
+- **🏫 单位**：Xiamen University
+- **🔗 链接**：[[中英摘要](./abs/2405.17596.md)] [[arXiv:2405.17596](https://arxiv.org/abs/2405.17596)] [Code]
+- **📝 说明**：
+
+#### [256] DC-Gaussian: Improving 3D Gaussian Splatting for Reflective Dash Cam Videos
+- **🧑‍🔬 作者**：Linhan Wang, Kai Cheng, Shuo Lei, Shengkun Wang, Wei Yin, Chenyang Lei, Xiaoxiao Long, Chang-Tien Lu
+- **🏫 单位**：Virginia Tech ⟐ Hong Kong University ⟐ USTC ⟐ University of Adelaide ⟐ CAIR ⟐ Sony Research
+- **🔗 链接**：[[中英摘要](./abs/2405.17705.md)] [[arXiv:2405.17705](https://arxiv.org/abs/2405.17705)] [[Code](https://github.com/linhanwang/DC-Gaussian)]
+- **📝 说明**：
+
+#### [257] SafeguardGS: 3D Gaussian Primitive Pruning While Avoiding Catastrophic Scene Destruction
+- **🧑‍🔬 作者**：Yongjae Lee, Zhaoliang Zhang, Deliang Fan
+- **🏫 单位**：Johns Hopkins University
+- **🔗 链接**：[[中英摘要](./abs/2405.17793.md)] [[arXiv:2405.17793](https://arxiv.org/abs/2405.17793)] [Code]
+- **📝 说明**：
+
+#### [258] Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh
+- **🧑‍🔬 作者**：Xiangjun Gao, Xiaoyu Li, Yiyu Zhuang, Qi Zhang, Wenbo Hu, Chaopeng Zhang, Yao Yao, Ying Shan, Long Quan
+- **🏫 单位**：The Hong Kong University of Science and Technology ⟐ Tencent AI Lab ⟐ Nanjing University
+- **🔗 链接**：[[中英摘要](./abs/2405.17811.md)] [[arXiv:2405.17811](https://arxiv.org/abs/2405.17811)] [[Code](https://github.com/gaoxiangjun/Mani-GS)]
+- **📝 说明**：
+
+#### [259] Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting
+- **🧑‍🔬 作者**：Shuojue Yang, Qian Li, Daiyun Shen, Bingchen Gong, Qi Dou, Yueming Jin
+- **🏫 单位**： National University of Singapore ⟐ Tsinghua University ⟐ The Chinese University of Hong Kong
+- **🔗 链接**：[[中英摘要](./abs/2405.17835.md)] [[arXiv:2405.17835](https://arxiv.org/abs/2405.17835)] [[Code](https://github.com/jinlab-imvr/Deform3DGS)]
+- **📝 说明**：🏆 Accepted to MICCAI 2024
+
+#### [260] HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction
+- **🧑‍🔬 作者**：Haoyu Zhao, Xingyue Zhao, Lingting Zhu, Weixi Zheng, Yongchao Xu
+- **🏫 单位**：WuHan University ⟐ Xi’an Jiaotong University ⟐ The University of Hong Kong
+- **🔗 链接**：[[中英摘要](./abs/2405.17872.md)] [[arXiv:2405.17872](https://arxiv.org/abs/2405.17872)] [Code]
+- **📝 说明**：
+
+#### [261] A Refined 3D Gaussian Representation for High-Quality Dynamic Scene Reconstruction
+- **🧑‍🔬 作者**：Bin Zhang, Bi Zeng, Zexin Peng
+- **🏫 单位**：Guangdong University of Technology
+- **🔗 链接**：[[中英摘要](./abs/2405.17891.md)] [[arXiv:2405.17891](https://arxiv.org/abs/2405.17891)] [Code]
+- **📝 说明**：
+
+#### [262] FreeSplat: Generalizable 3D Gaussian Splatting Towards Free-View Synthesis of Indoor Scenes
+- **🧑‍🔬 作者**：Yunsong Wang, Tianxin Huang, Hanlin Chen, Gim Hee Lee
+- **🏫 单位**：National University of Singapore
+- **🔗 链接**：[[中英摘要](./abs/2405.17958.md)] [[arXiv:2405.17958](https://arxiv.org/abs/2405.17958)] [[Code](https://github.com/wangys16/FreeSplat)]
+- **📝 说明**：
+
+#### [263] RT-GS2: Real-Time Generalizable Semantic Segmentation for 3D Gaussian Representations of Radiance Fields
+- **🧑‍🔬 作者**：Mihnea-Bogdan Jurca, Remco Royen, Ion Giosan, Adrian Munteanu
+- **🏫 单位**：Vrije Universiteit Brussel ⟐ Technical University of Cluj-Napoca
+- **🔗 链接**：[[中英摘要](./abs/2405.18033.md)] [[arXiv:2405.18033](https://arxiv.org/abs/2405.18033)] [Code]
+- **📝 说明**：
+
+#### [264] EG4D: Explicit Generation of 4D Object without Score Distillation
+- **🧑‍🔬 作者**：Qi Sun, Zhiyang Guo, Ziyu Wan, Jing Nathan Yan, Shengming Yin, Wengang Zhou, Jing Liao, Houqiang Li
+- **🏫 单位**：USTC ⟐ City University of Hong Kong ⟐ Cornell University
+- **🔗 链接**：[[中英摘要](./abs/2405.18132.md)] [[arXiv:2405.18132](https://arxiv.org/abs/2405.18132)] [[Code](https://github.com/jasongzy/EG4D)]
+- **📝 说明**：
+
+#### [265] A Grid-Free Fluid Solver based on Gaussian Spatial Representation
+- **🧑‍🔬 作者**：Jingrui Xing, Bin Wang, Mengyu Chu, Baoquan Chen
+- **🏫 单位**：Peking University ⟐ Beijing Institute for General Artificial Intelligence
+- **🔗 链接**：[[中英摘要](./abs/2405.18133.md)] [[arXiv:2405.18133](https://arxiv.org/abs/2405.18133)] [Code]
+- **📝 说明**：
+
+#### [266] NegGS: Negative Gaussian Splatting
+- **🧑‍🔬 作者**：Artur Kasymov, Bartosz Czekaj, Marcin Mazur, Przemysław Spurek
+- **🏫 单位**：Jagiellonian University
+- **🔗 链接**：[[中英摘要](./abs/2405.18163.md)] [[arXiv:2405.18163](https://arxiv.org/abs/2405.18163)] [Code]
+- **📝 说明**：
+
+#### [267] 3D StreetUnveiler with Semantic-Aware 2DGS
+- **🧑‍🔬 作者**：Jingwei Xu, Yikai Wang, Yiqun Zhao, Yanwei Fu, Shenghua Gao
+- **🏫 单位**：ShanghaiTech University ⟐ Fudan University
+- **🔗 链接**：[[中英摘要](./abs/2405.18416.md)] [[arXiv:2405.18416](https://arxiv.org/abs/2405.18416)] [[Code](https://github.com/DavidXu-JJ/StreetUnveiler)]
+- **📝 说明**：
+
+#### [268] 3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting
+- **🧑‍🔬 作者**：Qihang Zhang, Yinghao Xu, Chaoyang Wang, Hsin-Ying Lee, Gordon Wetzstein, Bolei Zhou, Ceyuan Yang
+- **🏫 单位**：The Chinese University of Hong Kong ⟐ Stanford University ⟐ Snap Inc. ⟐ University of California Los Angeles ⟐ ByteDance
+- **🔗 链接**：[[中英摘要](./abs/2405.18424.md)] [[arXiv:2405.18424](https://arxiv.org/abs/2405.18424)] [[Code](https://github.com/zqh0253/3DitScene)]
+- **📝 说明**：
+
+#### [269] GFlow: Recovering 4D World from Monocular Video
+- **🧑‍🔬 作者**：Shizun Wang, Xingyi Yang, Qiuhong Shen, Zhenxiang Jiang, Xinchao Wang
+- **🏫 单位**：National University of Singapore
+- **🔗 链接**：[[中英摘要](./abs/2405.18426.md)] [[arXiv:2405.18426](https://arxiv.org/abs/2405.18426)] [Code]
+- **📝 说明**：
+
+#### [270] LP-3DGS: Learning to Prune 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Zhaoliang Zhang, Tianchen Song, Yongjae Lee, Li Yang, Cheng Peng, Rama Chellappa, Deliang Fan
+- **🏫 单位**：Johns Hopkins University ⟐ University of North Carolina at Charlotte
+- **🔗 链接**：[[中英摘要](./abs/2405.18784.md)] [[arXiv:2405.18784](https://arxiv.org/abs/2405.18784)] [Code]
+- **📝 说明**：
+
+#### [271] E3Gen: Efficient, Expressive and Editable Avatars Generation
+- **🧑‍🔬 作者**：Weitian Zhang, Yichao Yan, Yunhui Liu, Xingdong Sheng, Xiaokang Yang
+- **🏫 单位**：Shanghai Jiao Tong University ⟐ Lenovo Research
+- **🔗 链接**：[[中英摘要](./abs/2405.19203.md)] [[arXiv:2405.19203](https://arxiv.org/abs/2405.19203)] [[Code](https://github.com/olivia23333/E3Gen)]
+- **📝 说明**：

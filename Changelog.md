@@ -1,5 +1,41 @@
 # Changelog
 
+### 2024/05/30
+
+Add "GOI: Find 3D Gaussians of Interest with an Optimizable Open-vocabulary Semantic-space Hyperplane"
+
+Add "DC-Gaussian: Improving 3D Gaussian Splatting for Reflective Dash Cam Videos"
+
+Add "SafeguardGS: 3D Gaussian Primitive Pruning While Avoiding Catastrophic Scene Destruction"
+
+Add "Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh"
+
+Add "Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting"
+
+Add "HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction"
+
+Add "A Refined 3D Gaussian Representation for High-Quality Dynamic Scene Reconstruction"
+
+Add "FreeSplat: Generalizable 3D Gaussian Splatting Towards Free-View Synthesis of Indoor Scenes"
+
+Add "RT-GS2: Real-Time Generalizable Semantic Segmentation for 3D Gaussian Representations of Radiance Fields"
+
+Add "EG4D: Explicit Generation of 4D Object without Score Distillation"
+
+Add "A Grid-Free Fluid Solver based on Gaussian Spatial Representation"
+
+Add "NegGS: Negative Gaussian Splatting"
+
+Add "3D StreetUnveiler with Semantic-Aware 2DGS"
+
+Add "3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting"
+
+Add "GFlow: Recovering 4D World from Monocular Video"
+
+Add "LP-3DGS: Learning to Prune 3D Gaussian Splatting"
+
+Add "E3Gen: Efficient, Expressive and Editable Avatars Generation"
+
 ### 2024/05/28
 
 Add "Sp2360: Sparse-view 360 Scene Reconstruction using Cascaded 2D Diffusion Priors"
