@@ -23,3 +23,9 @@
 - **🏫 单位**：Tsinghua University ⟐ NNKosmos Technology ⟐ Beijing Normal University
 - **🔗 链接**：[[中英摘要](./abs/2405.07319.md)] [[arXiv:2405.07319](https://arxiv.org/abs/2405.07319)] [Code]
 - **📝 说明**：🏆 Accepted to SIGGRAPH 2024
+
+#### [5] GaussianPrediction: Dynamic 3D Gaussian Prediction for Motion Extrapolation and Free View Synthesis
+- **🧑‍🔬 作者**：Boming Zhao, Yuan Li, Ziyu Sun, Lin Zeng, Yujun Shen, Rui Ma, Yinda Zhang, Hujun Bao, Zhaopeng Cui
+- **🏫 单位**：Zhejiang University ⟐ Jilin University ⟐ Ant Group ⟐ Google Inc.
+- **🔗 链接**：[[中英摘要](./abs/2405.19745.md)] [[arXiv:2405.19745](https://arxiv.org/abs/2405.19745)] [[Code](https://github.com/BoMingZhao/GaussianPrediction)]
+- **📝 说明**：🏆 Accepted to SIGGRAPH 2024
