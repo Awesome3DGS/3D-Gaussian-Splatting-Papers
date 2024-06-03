@@ -1763,3 +1763,27 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：UC Berkeley ⟐ Peking University ⟐ Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2405.20323.md)] [[arXiv:2405.20323](https://arxiv.org/abs/2405.20323)] [[Code](https://github.com/nnanhuang/S3Gaussian/)]
 - **📝 说明**：
+
+#### [282] Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation
+- **🧑‍🔬 作者**：Shuzhou Yang, Yu Wang, Haijie Li, Jiarui Meng, Xiandong Meng, Jian Zhang
+- **🏫 单位**：Peking University ⟐ PengCheng Laboratory
+- **🔗 链接**：[[中英摘要](./abs/2405.20669.md)] [[arXiv:2405.20669](https://arxiv.org/abs/2405.20669)] [[Code](https://github.com/Ysz2022/Fourier123)]
+- **📝 说明**：
+
+#### [283] R2-Gaussian: Rectifying Radiative Gaussian Splatting for Tomographic Reconstruction
+- **🧑‍🔬 作者**：Ruyi Zha, Tao Jun Lin, Yuanhao Cai, Jiwen Cao, Yanhao Zhang, Hongdong Li
+- **🏫 单位**：Australian National University ⟐ Johns Hopkins University ⟐ University of Technology Sydney
+- **🔗 链接**：[[中英摘要](./abs/2405.20693.md)] [[arXiv:2405.20693](https://arxiv.org/abs/2405.20693)] [Code]
+- **📝 说明**：
+
+#### [284] ContextGS: Compact 3D Gaussian Splatting with Anchor Level Context Model
+- **🧑‍🔬 作者**：Yufei Wang, Zhihao Li, Lanqing Guo, Wenhan Yang, Alex C. Kot, Bihan Wen
+- **🏫 单位**：Nanyang Technological University ⟐ PengCheng Laboratory
+- **🔗 链接**：[[中英摘要](./abs/2405.20721.md)] [[arXiv:2405.20721](https://arxiv.org/abs/2405.20721)] [[Code](https://github.com/wyf0912/ContextGS)]
+- **📝 说明**：
+
+#### [285] GS-Phong: Meta-Learned 3D Gaussians for Relightable Novel View Synthesis
+- **🧑‍🔬 作者**：Yumeng He, Yunbo Wang, Xiaokang Yang
+- **🏫 单位**：Shanghai Jiao Tong University
+- **🔗 链接**：[[中英摘要](./abs/2405.20791.md)] [[arXiv:2405.20791](https://arxiv.org/abs/2405.20791)] [Code]
+- **📝 说明**：

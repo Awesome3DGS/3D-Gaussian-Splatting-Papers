@@ -1,5 +1,39 @@
 # Changelog
 
+### 2024/06/03
+
+Add "Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation"
+
+Add "R2-Gaussian: Rectifying Radiative Gaussian Splatting for Tomographic Reconstruction"
+
+Add "ContextGS: Compact 3D Gaussian Splatting with Anchor Level Context Model"
+
+Add "GS-Phong: Meta-Learned 3D Gaussians for Relightable Novel View Synthesis"
+
+### 2024/05/31
+
+Add "DGD: Dynamic 3D Gaussians Distillation"
+
+Add "NPGA: Neural Parametric Gaussian Avatars"
+
+Add "TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM"
+
+Add "Uncertainty-guided Optimal Transport in Depth Supervised Sparse-View 3D Gaussian"
+
+Add "GaussianRoom: Improving 3D Gaussian Splatting with SDF Guidance and Monocular Cues for Indoor Scene Reconstruction"
+
+Add "GaussianPrediction: Dynamic 3D Gaussian Prediction for Motion Extrapolation and Free View Synthesis"
+
+Add "PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting"
+
+Add "Object-centric Reconstruction and Tracking of Dynamic Unknown Objects using 3D Gaussian Splatting"
+
+Add "EvaGaussians: Event Stream Assisted Gaussian Splatting from Blurry Images"
+
+Add "A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction"
+
+Add "S3Gaussian: Self-Supervised Street Gaussians for Autonomous Driving"
+
 ### 2024/05/30
 
 Add "GOI: Find 3D Gaussians of Interest with an Optimizable Open-vocabulary Semantic-space Hyperplane"
