@@ -1,5 +1,21 @@
 # Changelog
 
+### 2024/06/04
+
+Add "MoDGS: Dynamic Gaussian Splatting from Causually-captured Monocular Videos"
+
+Add "Topo4D: Topology-Preserving Gaussian Splatting for High-Fidelity 4D Head Capture"
+
+Add "SuperGaussian: Repurposing Video Models for 3D Super Resolution"
+
+Add "Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting"
+
+Add "RaDe-GS: Rasterizing Depth in Gaussian Splatting"
+
+Add "DreamPhysics: Learning Physical Properties of Dynamic 3D Gaussians with Video Diffusion Priors"
+
+Add "Reconstructing and Simulating Dynamic 3D Objects with Mesh-adsorbed Gaussian Splatting"
+
 ### 2024/06/03
 
 Add "Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation"

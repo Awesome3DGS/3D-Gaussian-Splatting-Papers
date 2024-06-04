@@ -1787,3 +1787,45 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🏫 单位**：Shanghai Jiao Tong University
 - **🔗 链接**：[[中英摘要](./abs/2405.20791.md)] [[arXiv:2405.20791](https://arxiv.org/abs/2405.20791)] [Code]
 - **📝 说明**：
+
+#### [286] MoDGS: Dynamic Gaussian Splatting from Causually-captured Monocular Videos
+- **🧑‍🔬 作者**：Qingming Liu, Yuan Liu, Jiepeng Wang, Xianqiang Lv, Peng Wang, Wenping Wang, Junhui Hou
+- **🏫 单位**：City University of Hong kong ⟐ The University of Hong kong ⟐ Texas A&M University, U.S.A
+- **🔗 链接**：[[中英摘要](./abs/2406.00434.md)] [[arXiv:2406.00434](https://arxiv.org/abs/2406.00434)] [Code]
+- **📝 说明**：
+
+#### [287] Topo4D: Topology-Preserving Gaussian Splatting for High-Fidelity 4D Head Capture
+- **🧑‍🔬 作者**：X. Li, Y. Cheng, X. Ren, H. Jia, D. Xu, W. Zhu, Y. Yan
+- **🏫 单位**：Shanghai Jiao Tong University ⟐ Huawei Cloud Computing Technologies Co., Ltd
+- **🔗 链接**：[[中英摘要](./abs/2406.00440.md)] [[arXiv:2406.00440](https://arxiv.org/abs/2406.00440)] [Code]
+- **📝 说明**：
+
+#### [288] SuperGaussian: Repurposing Video Models for 3D Super Resolution
+- **🧑‍🔬 作者**：Yuan Shen, Duygu Ceylan, Paul Guerrero, Zexiang Xu, Niloy J. Mitra, Shenlong Wang, Anna Früstück
+- **🏫 单位**：University of Illinois at Urbana-Champaign ⟐ Adobe Research ⟐ University College London
+- **🔗 链接**：[[中英摘要](./abs/2406.00609.md)] [[arXiv:2406.00609](https://arxiv.org/abs/2406.00609)] [Code]
+- **📝 说明**：
+
+#### [289] Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting
+- **🧑‍🔬 作者**：Fang Li, Hao Zhang, Narendra Ahuja
+- **🏫 单位**：University of Illinois at Urbana-Champaign
+- **🔗 链接**：[[中英摘要](./abs/2406.01042.md)] [[arXiv:2406.01042](https://arxiv.org/abs/2406.01042)] [[Code](https://github.com/fangli333/SC-4DGS)]
+- **📝 说明**：
+
+#### [290] RaDe-GS: Rasterizing Depth in Gaussian Splatting
+- **🧑‍🔬 作者**：Baowen Zhang, Chuan Fang, Rakesh Shrestha, Yixun Liang, Xiaoxiao Long, Ping Tan
+- **🏫 单位**：Hong Kong University of Science and Technology ⟐ Simon Fraser University
+- **🔗 链接**：[[中英摘要](./abs/2406.01467.md)] [[arXiv:2406.01467](https://arxiv.org/abs/2406.01467)] [Code]
+- **📝 说明**：
+
+#### [291] DreamPhysics: Learning Physical Properties of Dynamic 3D Gaussians with Video Diffusion Priors
+- **🧑‍🔬 作者**：Tianyu Huang, Yihan Zeng, Hui Li, Wangmeng Zuo, Rynson W. H. Lau
+- **🏫 单位**：City University of Hong Kong ⟐ Harbin Institute of Technology ⟐ Huawei Noah’s Ark Lab
+- **🔗 链接**：[[中英摘要](./abs/2406.01476.md)] [[arXiv:2406.01476](https://arxiv.org/abs/2406.01476)] [[Code](https://github.com/tyhuang0428/DreamPhysics)]
+- **📝 说明**：
+
+#### [292] Reconstructing and Simulating Dynamic 3D Objects with Mesh-adsorbed Gaussian Splatting
+- **🧑‍🔬 作者**：Shaojie Ma, Yawei Luo, Yi Yang
+- **🏫 单位**：Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2406.01593.md)] [[arXiv:2406.01593](https://arxiv.org/abs/2406.01593)] [[Code](https://github.com/wcwac/MaGS)]
+- **📝 说明**：
