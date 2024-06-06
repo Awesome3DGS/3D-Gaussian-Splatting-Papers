@@ -16,7 +16,7 @@ def correct_markdown_numbering_simple(markdown_text):
     str: The markdown text with corrected numbering.
     """
     lines = markdown_text.split("\n")
-    counter = 0
+    counter = 1
     pattern = re.compile(r"####\s*\[\d*\]")
     for i in range(len(lines)):
         if pattern.match(lines[i]):
