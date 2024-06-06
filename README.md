@@ -57,44 +57,121 @@ in reverse chronological order.
 
 ---
 
-#### [1] Reconstructing and Simulating Dynamic 3D Objects with Mesh-adsorbed Gaussian Splatting
+#### [1] Dynamic 3D Gaussian Fields for Urban Areas
+- **🧑‍🔬 作者**：Tobias Fischer, Jonas Kulhanek, Samuel Rota Bulò, Lorenzo Porzi, Marc Pollefeys, Peter Kontschieder
+- **🏫 单位**：ETH Zürich ⟐ Meta Reality Labs ⟐ CTU Prague
+- **🔗 链接**：[[中英摘要](./abs/2406.03175.md)] [[arXiv:2406.03175](https://arxiv.org/abs/2406.03175)] [[Code](https://github.com/tobiasfshr/map4d)]
+- **📝 说明**：
+
+#### [2] Event3DGS: Event-based 3D Gaussian Splatting for Fast Egomotion
+- **🧑‍🔬 作者**：Tianyi Xiong, Jiayi Wu, Botao He, Cornelia Fermuller, Yiannis Aloimonos, Heng Huang, Christopher A. Metzler
+- **🏫 单位**：University of Maryland, College Park
+- **🔗 链接**：[[中英摘要](./abs/2406.02972.md)] [[arXiv:2406.02972](https://arxiv.org/abs/2406.02972)] [Code]
+- **📝 说明**：
+
+#### [3] Adversarial Generation of Hierarchical Gaussians for 3D Generative Model
+- **🧑‍🔬 作者**：Sangeek Hyun, Jae-Pil Heo
+- **🏫 单位**：Sungkyunkwan University
+- **🔗 链接**：[[中英摘要](./abs/2406.02968.md)] [[arXiv:2406.02968](https://arxiv.org/abs/2406.02968)] [Code]
+- **📝 说明**：
+
+#### [4] 3D-HGS: 3D Half-Gaussian Splatting
+- **🧑‍🔬 作者**：Haolin Li, Jinyang Liu, Mario Sznaier, Octavia Camps
+- **🏫 单位**：Northeastern University
+- **🔗 链接**：[[中英摘要](./abs/2406.02720.md)] [[arXiv:2406.02720](https://arxiv.org/abs/2406.02720)] [Code]
+- **📝 说明**：
+
+#### [5] Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Inkyu Shin, Qihang Yu, Xiaohui Shen, In So Kweon, Kuk-Jin Yoon, Liang-Chieh Chen
+- **🏫 单位**：KAIST ⟐ ByteDance
+- **🔗 链接**：[[中英摘要](./abs/2406.02541.md)] [[arXiv:2406.02541](https://arxiv.org/abs/2406.02541)] [Code]
+- **📝 说明**：
+
+#### [6] SatSplatYOLO: 3D Gaussian Splatting-based Virtual Object Detection Ensembles for Satellite Feature Recognition
+- **🧑‍🔬 作者**：Van Minh Nguyen, Emma Sandidge, Trupti Mahendrakar, Ryan T. White
+- **🏫 单位**：NEural TransmissionS (NETS) Lab Florida Institute of Technology
+- **🔗 链接**：[[中英摘要](./abs/2406.02533.md)] [[arXiv:2406.02533](https://arxiv.org/abs/2406.02533)] [Code]
+- **📝 说明**：
+
+#### [7] DDGS-CT: Direction-Disentangled Gaussian Splatting for Realistic Volume Rendering
+- **🧑‍🔬 作者**：Zhongpai Gao, Benjamin Planche, Meng Zheng, Xiao Chen, Terrence Chen, Ziyan Wu
+- **🏫 单位**：United Imaging Intelligence, Boston, MA
+- **🔗 链接**：[[中英摘要](./abs/2406.02518.md)] [[arXiv:2406.02518](https://arxiv.org/abs/2406.02518)] [Code]
+- **📝 说明**：
+
+#### [8] WE-GS: An In-the-wild Efficient 3D Gaussian Representation for Unconstrained Photo Collections
+- **🧑‍🔬 作者**：Yuze Wang, Junyi Wang, Yue Qi
+- **🏫 单位**：Beihang University
+- **🔗 链接**：[[中英摘要](./abs/2406.02407.md)] [[arXiv:2406.02407](https://arxiv.org/abs/2406.02407)] [Code]
+- **📝 说明**：
+
+#### [9] Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning
+- **🧑‍🔬 作者**：Jiaxu Wang, Ziyi Zhang, Qiang Zhang, Jia Li, Jingkai Sun, Mingyuan Sun, Junhao He, Renjing Xu
+- **🏫 单位**：HKUST (GZ) ⟐ HKU ⟐ NEU
+- **🔗 链接**：[[中英摘要](./abs/2406.02370.md)] [[arXiv:2406.02370](https://arxiv.org/abs/2406.02370)] [Code]
+- **📝 说明**：
+
+#### [10] OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding
+- **🧑‍🔬 作者**：Yanmin Wu, Jiarui Meng, Haijie Li, Chenming Wu, Yahao Shi, Xinhua Cheng, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang, Jian Zhang
+- **🏫 单位**：Peking University ⟐ Baidu VIS ⟐ Beihang University
+- **🔗 链接**：[[中英摘要](./abs/2406.02058.md)] [[arXiv:2406.02058](https://arxiv.org/abs/2406.02058)] [Code]
+- **📝 说明**：
+
+#### [11] FastLGS: Speeding up Language Embedded Gaussians with Feature Grid Mapping
+- **🧑‍🔬 作者**：Yuzhou Ji, He Zhu, Junshu Tang, Wuyi Liu, Zhizhong Zhang, Yuan Xie, Lizhuang Ma, Xin Tan
+- **🏫 单位**：East China Normal University ⟐ Shanghai Jiao Tong University
+- **🔗 链接**：[[中英摘要](./abs/2406.01916.md)] [[arXiv:2406.01916](https://arxiv.org/abs/2406.01916)] [Code]
+- **📝 说明**：
+
+#### [12] End-to-End Rate-Distortion Optimized 3D Gaussian Representation
+- **🧑‍🔬 作者**：Henan Wang, Hanxin Zhu, Tianyu He, Runsen Feng, Jiajun Deng, Jiang Bian, Zhibo Chen
+- **🏫 单位**：University of Science and Technology of China ⟐ Microsoft Research Asia ⟐ The University of Adelaide
+- **🔗 链接**：[[中英摘要](./abs/2406.01597.md)] [[arXiv:2406.01597](https://arxiv.org/abs/2406.01597)] [Code]
+- **📝 说明**：
+
+#### [13] Reconstructing and Simulating Dynamic 3D Objects with Mesh-adsorbed Gaussian Splatting
 - **🧑‍🔬 作者**：Shaojie Ma, Yawei Luo, Yi Yang
 - **🏫 单位**：Zhejiang University
 - **🔗 链接**：[[中英摘要](./abs/2406.01593.md)] [[arXiv:2406.01593](https://arxiv.org/abs/2406.01593)] [[Code](https://github.com/wcwac/MaGS)]
 - **📝 说明**：
 
-#### [2] DreamPhysics: Learning Physical Properties of Dynamic 3D Gaussians with Video Diffusion Priors
+#### [14] Tetrahedron Splatting for 3D Generation
+- **🧑‍🔬 作者**：Chun Gu, Zeyu Yang, Zijie Pan, Xiatian Zhu, Li Zhang
+- **🏫 单位**：Fudan University ⟐ University of Surrey
+- **🔗 链接**：[[中英摘要](./abs/2406.01579.md)] [[arXiv:2406.01579](https://arxiv.org/abs/2406.01579)] [Code]
+- **📝 说明**：
+
+#### [15] DreamPhysics: Learning Physical Properties of Dynamic 3D Gaussians with Video Diffusion Priors
 - **🧑‍🔬 作者**：Tianyu Huang, Yihan Zeng, Hui Li, Wangmeng Zuo, Rynson W. H. Lau
 - **🏫 单位**：City University of Hong Kong ⟐ Harbin Institute of Technology ⟐ Huawei Noah’s Ark Lab
 - **🔗 链接**：[[中英摘要](./abs/2406.01476.md)] [[arXiv:2406.01476](https://arxiv.org/abs/2406.01476)] [[Code](https://github.com/tyhuang0428/DreamPhysics)]
 - **📝 说明**：
 
-
-#### [3] RaDe-GS: Rasterizing Depth in Gaussian Splatting
+#### [16] RaDe-GS: Rasterizing Depth in Gaussian Splatting
 - **🧑‍🔬 作者**：Baowen Zhang, Chuan Fang, Rakesh Shrestha, Yixun Liang, Xiaoxiao Long, Ping Tan
 - **🏫 单位**：Hong Kong University of Science and Technology ⟐ Simon Fraser University
 - **🔗 链接**：[[中英摘要](./abs/2406.01467.md)] [[arXiv:2406.01467](https://arxiv.org/abs/2406.01467)] [Code]
 - **📝 说明**：
 
-#### [4] Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting
+#### [17] Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting
 - **🧑‍🔬 作者**：Fang Li, Hao Zhang, Narendra Ahuja
 - **🏫 单位**：University of Illinois at Urbana-Champaign
 - **🔗 链接**：[[中英摘要](./abs/2406.01042.md)] [[arXiv:2406.01042](https://arxiv.org/abs/2406.01042)] [[Code](https://github.com/fangli333/SC-4DGS)]
 - **📝 说明**：
 
-#### [5] SuperGaussian: Repurposing Video Models for 3D Super Resolution
+#### [18] SuperGaussian: Repurposing Video Models for 3D Super Resolution
 - **🧑‍🔬 作者**：Yuan Shen, Duygu Ceylan, Paul Guerrero, Zexiang Xu, Niloy J. Mitra, Shenlong Wang, Anna Früstück
 - **🏫 单位**：University of Illinois at Urbana-Champaign ⟐ Adobe Research ⟐ University College London
 - **🔗 链接**：[[中英摘要](./abs/2406.00609.md)] [[arXiv:2406.00609](https://arxiv.org/abs/2406.00609)] [Code]
 - **📝 说明**：
 
-#### [6] Topo4D: Topology-Preserving Gaussian Splatting for High-Fidelity 4D Head Capture
+#### [19] Topo4D: Topology-Preserving Gaussian Splatting for High-Fidelity 4D Head Capture
 - **🧑‍🔬 作者**：X. Li, Y. Cheng, X. Ren, H. Jia, D. Xu, W. Zhu, Y. Yan
 - **🏫 单位**：Shanghai Jiao Tong University ⟐ Huawei Cloud Computing Technologies Co., Ltd
 - **🔗 链接**：[[中英摘要](./abs/2406.00440.md)] [[arXiv:2406.00440](https://arxiv.org/abs/2406.00440)] [Code]
 - **📝 说明**：
 
-#### [7] MoDGS: Dynamic Gaussian Splatting from Causually-captured Monocular Videos
+#### [20] MoDGS: Dynamic Gaussian Splatting from Causually-captured Monocular Videos
 - **🧑‍🔬 作者**：Qingming Liu, Yuan Liu, Jiepeng Wang, Xianqiang Lv, Peng Wang, Wenping Wang, Junhui Hou
 - **🏫 单位**：City University of Hong kong ⟐ The University of Hong kong ⟐ Texas A&M University, U.S.A
 - **🔗 链接**：[[中英摘要](./abs/2406.00434.md)] [[arXiv:2406.00434](https://arxiv.org/abs/2406.00434)] [Code]

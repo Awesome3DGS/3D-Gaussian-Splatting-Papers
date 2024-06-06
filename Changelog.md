@@ -1,5 +1,33 @@
 # Changelog
 
+### 2024/06/06
+
+Add "Dynamic 3D Gaussian Fields for Urban Areas"
+
+Add "Event3DGS: Event-based 3D Gaussian Splatting for Fast Egomotion"
+
+Add "Adversarial Generation of Hierarchical Gaussians for 3D Generative Model"
+
+Add "3D-HGS: 3D Half-Gaussian Splatting"
+
+Add "Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting"
+
+Add "SatSplatYOLO: 3D Gaussian Splatting-based Virtual Object Detection Ensembles for Satellite Feature Recognition"
+
+Add "DDGS-CT: Direction-Disentangled Gaussian Splatting for Realistic Volume Rendering"
+
+Add "WE-GS: An In-the-wild Efficient 3D Gaussian Representation for Unconstrained Photo Collections"
+
+Add "Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning"
+
+Add "OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding"
+
+Add "FastLGS: Speeding up Language Embedded Gaussians with Feature Grid Mapping"
+
+Add "End-to-End Rate-Distortion Optimized 3D Gaussian Representation"
+
+Add "Tetrahedron Splatting for 3D Generation"
+
 ### 2024/06/04
 
 Add "MoDGS: Dynamic Gaussian Splatting from Causually-captured Monocular Videos"
