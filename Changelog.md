@@ -1,5 +1,17 @@
 # Changelog
 
+### 2024/06/07
+
+Add "Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image"
+
+Add "Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion"
+
+Add "Localized Gaussian Point Management"
+
+Add "Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction"
+
+Add "Gaussian Representation for Deformable Image Registration"
+
 ### 2024/06/06
 
 Add "Dynamic 3D Gaussian Fields for Urban Areas"
