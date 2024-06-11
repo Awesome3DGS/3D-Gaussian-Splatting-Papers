@@ -1,5 +1,23 @@
 # Changelog
 
+### 2024/06/11
+
+Add "VCR-GauS: View Consistent Depth-Normal Regularizer for Gaussian Surface Reconstruction"
+
+Add "RefGaussian: Disentangling Reflections from 3D Gaussian Splatting for Realistic Rendering"
+
+Add "InfoGaussian: Structure-Aware Dynamic Gaussians through Lightweight Information Shaping"
+
+Add "Generalizable Human Gaussians from Single-View Image"
+
+Add "Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis"
+
+Add "MVGamba: Unify 3D Content Generation as State Space Sequence Modeling"
+
+Add "PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction"
+
+Add "GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation"
+
 ### 2024/06/07
 
 Add "Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image"
