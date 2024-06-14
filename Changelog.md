@@ -1,5 +1,25 @@
 # Changelog
 
+### 2024/06/14
+
+Add "Modeling Ambient Scene Dynamics for Free-view Synthesis"
+
+Add "WonderWorld: Interactive 3D Scene Generation from a Single Image"
+
+Add "GGHead: Fast and Generalizable 3D Gaussian Heads"
+
+Add "Gaussian-Forest: Hierarchical-Hybrid 3D Gaussian Splatting for Compressed Scene Modeling"
+
+Add "ICE-G: Image Conditional Editing of 3D Gaussian Splats"
+
+Add "Human 3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models"
+
+Add "From Chaos to Clarity: 3DGS in the Dark"
+
+Add "Trim 3D Gaussian Splatting for Accurate Geometry Representation"
+
+Add "Cinematic Gaussians: Real-Time HDR Radiance Fields with Depth of Field"
+
 ### 2024/06/11
 
 Add "VCR-GauS: View Consistent Depth-Normal Regularizer for Gaussian Surface Reconstruction"
