@@ -57,52 +57,52 @@ in reverse chronological order.
 
 ---
 
-#### [1] VCR-GauS: View Consistent Depth-Normal Regularizer for Gaussian Surface Reconstruction
-- **🧑‍🔬 作者**：Hanlin Chen, Fangyin Wei, Chen Li, Tianxin Huang, Yunsong Wang, Gim Hee Lee
-- **🏫 单位**：National University of Singapore ⟐ Princeton University
-- **🔗 链接**：[[中英摘要](./abs/2406.05774.md)] [[arXiv:2406.05774](https://arxiv.org/abs/2406.05774)] [[Code](https://github.com/HLinChen/VCR-GauS)]
+#### [1] GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation
+- **🧑‍🔬 作者**：Haozhe Xie, Zhaoxi Chen, Fangzhou Hong, Ziwei Liu
+- **🏫 单位**：Nanyang Technological University
+- **🔗 链接**：[[中英摘要](./abs/2406.06526.md)] [[arXiv:2406.06526](https://arxiv.org/abs/2406.06526)] [[Code](https://github.com/hzxie/GaussianCity)]
 - **📝 说明**：
 
-#### [2] RefGaussian: Disentangling Reflections from 3D Gaussian Splatting for Realistic Rendering
-- **🧑‍🔬 作者**：Rui Zhang, Tianyue Luo, Weidong Yang, Ben Fei, Jingyi Xu, Qingyuan Zhou, Keyi Liu, Ying He
-- **🏫 单位**：Fudan University ⟐ Nanyang Technological University
-- **🔗 链接**：[[中英摘要](./abs/2406.05852.md)] [[arXiv:2406.05852](https://arxiv.org/abs/2406.05852)] [Code]
-- **📝 说明**：
-
-#### [3] InfoGaussian: Structure-Aware Dynamic Gaussians through Lightweight Information Shaping
-- **🧑‍🔬 作者**：Yunchao Zhang, Guandao Yang, Leonidas Guibas, Yanchao Yang
-- **🏫 单位**：The University of Hong Kong ⟐ Stanford University
-- **🔗 链接**：[[中英摘要](./abs/2406.05897.md)] [[arXiv:2406.05897](https://arxiv.org/abs/2406.05897)] [Code]
-- **📝 说明**：
-
-#### [4] Generalizable Human Gaussians from Single-View Image
-- **🧑‍🔬 作者**：Jinnan Chen, Chen Li, Jianfeng Zhang, Hanlin Chen, Buzhen Huang, Gim Hee Lee
-- **🏫 单位**：National University of Singapore ⟐  Bytedance
-- **🔗 链接**：[[中英摘要](./abs/2406.06050.md)] [[arXiv:2406.06050](https://arxiv.org/abs/2406.06050)] [[Code](https://github.com/jinnan-chen/HGM)]
-- **📝 说明**：
-
-#### [5] Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis
-- **🧑‍🔬 作者**：Xin Jin, Pengyi Jiao, Zheng-Peng Duan, Xingchao Yang, Chun-Le Guo, Bo Ren, Chongyi Li
-- **🏫 单位**：Nankai University ⟐ MEGVII Technology
-- **🔗 链接**：[[中英摘要](./abs/2406.06216.md)] [[arXiv:2406.06216](https://arxiv.org/abs/2406.06216)] [[Code](https://github.com/Srameo/LE3D)]
-- **📝 说明**：
-
-#### [6] MVGamba: Unify 3D Content Generation as State Space Sequence Modeling
-- **🧑‍🔬 作者**：Xuanyu Yi, Zike Wu, Qiuhong Shen, Qingshan Xu, Pan Zhou, Joo-Hwee Lim, Shuicheng Yan, Xinchao Wang, Hanwang Zhang
-- **🏫 单位**：Nanyang Technological University ⟐ National University of Singapore ⟐ University of British Columbia ⟐ Singapore Management University ⟐ Institute for Infocomm Research ⟐ Skywork AI
-- **🔗 链接**：[[中英摘要](./abs/2406.06367.md)] [[arXiv:2406.06367](https://arxiv.org/abs/2406.06367)] [Code]
-- **📝 说明**：
-
-#### [7] PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction
+#### [2] PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction
 - **🧑‍🔬 作者**：Danpeng Chen, Hai Li, Weicai Ye, Yifan Wang, Weijian Xie, Shangjin Zhai, Nan Wang, Haomin Liu, Hujun Bao, Guofeng Zhang
 - **🏫 单位**：Zhejiang University ⟐ SenseTime Research ⟐ Shanghai AI Laboratory
 - **🔗 链接**：[[中英摘要](./abs/2406.06521.md)] [[arXiv:2406.06521](https://arxiv.org/abs/2406.06521)] [Code]
 - **📝 说明**：
 
-#### [8] GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation
-- **🧑‍🔬 作者**：Haozhe Xie, Zhaoxi Chen, Fangzhou Hong, Ziwei Liu
-- **🏫 单位**：Nanyang Technological University
-- **🔗 链接**：[[中英摘要](./abs/2406.06526.md)] [[arXiv:2406.06526](https://arxiv.org/abs/2406.06526)] [[Code](https://github.com/hzxie/GaussianCity)]
+#### [3] MVGamba: Unify 3D Content Generation as State Space Sequence Modeling
+- **🧑‍🔬 作者**：Xuanyu Yi, Zike Wu, Qiuhong Shen, Qingshan Xu, Pan Zhou, Joo-Hwee Lim, Shuicheng Yan, Xinchao Wang, Hanwang Zhang
+- **🏫 单位**：Nanyang Technological University ⟐ National University of Singapore ⟐ University of British Columbia ⟐ Singapore Management University ⟐ Institute for Infocomm Research ⟐ Skywork AI
+- **🔗 链接**：[[中英摘要](./abs/2406.06367.md)] [[arXiv:2406.06367](https://arxiv.org/abs/2406.06367)] [Code]
+- **📝 说明**：
+
+#### [4] Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis
+- **🧑‍🔬 作者**：Xin Jin, Pengyi Jiao, Zheng-Peng Duan, Xingchao Yang, Chun-Le Guo, Bo Ren, Chongyi Li
+- **🏫 单位**：Nankai University ⟐ MEGVII Technology
+- **🔗 链接**：[[中英摘要](./abs/2406.06216.md)] [[arXiv:2406.06216](https://arxiv.org/abs/2406.06216)] [[Code](https://github.com/Srameo/LE3D)]
+- **📝 说明**：
+
+#### [5] Generalizable Human Gaussians from Single-View Image
+- **🧑‍🔬 作者**：Jinnan Chen, Chen Li, Jianfeng Zhang, Hanlin Chen, Buzhen Huang, Gim Hee Lee
+- **🏫 单位**：National University of Singapore ⟐  Bytedance
+- **🔗 链接**：[[中英摘要](./abs/2406.06050.md)] [[arXiv:2406.06050](https://arxiv.org/abs/2406.06050)] [[Code](https://github.com/jinnan-chen/HGM)]
+- **📝 说明**：
+
+#### [6] InfoGaussian: Structure-Aware Dynamic Gaussians through Lightweight Information Shaping
+- **🧑‍🔬 作者**：Yunchao Zhang, Guandao Yang, Leonidas Guibas, Yanchao Yang
+- **🏫 单位**：The University of Hong Kong ⟐ Stanford University
+- **🔗 链接**：[[中英摘要](./abs/2406.05897.md)] [[arXiv:2406.05897](https://arxiv.org/abs/2406.05897)] [Code]
+- **📝 说明**：
+
+#### [7] RefGaussian: Disentangling Reflections from 3D Gaussian Splatting for Realistic Rendering
+- **🧑‍🔬 作者**：Rui Zhang, Tianyue Luo, Weidong Yang, Ben Fei, Jingyi Xu, Qingyuan Zhou, Keyi Liu, Ying He
+- **🏫 单位**：Fudan University ⟐ Nanyang Technological University
+- **🔗 链接**：[[中英摘要](./abs/2406.05852.md)] [[arXiv:2406.05852](https://arxiv.org/abs/2406.05852)] [Code]
+- **📝 说明**：
+
+#### [8] VCR-GauS: View Consistent Depth-Normal Regularizer for Gaussian Surface Reconstruction
+- **🧑‍🔬 作者**：Hanlin Chen, Fangyin Wei, Chen Li, Tianxin Huang, Yunsong Wang, Gim Hee Lee
+- **🏫 单位**：National University of Singapore ⟐ Princeton University
+- **🔗 链接**：[[中英摘要](./abs/2406.05774.md)] [[arXiv:2406.05774](https://arxiv.org/abs/2406.05774)] [[Code](https://github.com/HLinChen/VCR-GauS)]
 - **📝 说明**：
 
 #### [9] Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image
