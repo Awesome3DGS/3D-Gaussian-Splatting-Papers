@@ -1,5 +1,21 @@
 # Changelog
 
+### 2024/06/18
+
+Add "Physically Embodied Gaussian Splatting: A Realtime Correctable World Model for Robotics"
+
+Add "Wild-GS: Real-Time Novel View Synthesis from Unconstrained Photo Collections"
+
+Add "L4GM: Large 4D Gaussian Reconstruction Model"
+
+Add "PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting"
+
+Add "Unified Gaussian Primitives for Scene Representation and Rendering"
+
+Add "GradeADreamer: Enhanced Text-to-3D Generation Using Gaussian Splatting and Multi-View Diffusion"
+
+Add "GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors"
+
 ### 2024/06/14
 
 Add "Modeling Ambient Scene Dynamics for Free-view Synthesis"
