@@ -1,5 +1,17 @@
 # Changelog
 
+### 2024/06/19
+
+Add "HumanSplat: Generalizable Single-Image Human Gaussian Splatting with Structure Priors"
+
+Add "A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets"
+
+Add "RetinaGS: Scalable Training for Dense Scene Rendering with Billion-Scale 3D Gaussians"
+
+Add "Effective Rank Analysis and Regularization for Enhanced 3D Gaussian Splatting"
+
+Add "Projecting Radiance Fields to Mesh Surfaces"
+
 ### 2024/06/18
 
 Add "Physically Embodied Gaussian Splatting: A Realtime Correctable World Model for Robotics"
