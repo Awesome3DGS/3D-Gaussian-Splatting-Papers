@@ -29,3 +29,15 @@
 - **🏫 单位**：Zhejiang University ⟐ Jilin University ⟐ Ant Group ⟐ Google Inc.
 - **🔗 链接**：[[中英摘要](./abs/2405.19745.md)] [[arXiv:2405.19745](https://arxiv.org/abs/2405.19745)] [[Code](https://github.com/BoMingZhao/GaussianPrediction)]
 - **📝 说明**：🏆 Accepted to SIGGRAPH 2024
+
+#### [6] Projecting Radiance Fields to Mesh Surfaces
+- **🧑‍🔬 作者**：Adrian Xuan Wei Lim, Lynnette Hui Xian Ng, Nicholas Kyger, Tomo Michigami, Faraz Baghernezhad
+- **🏫 单位**：Roblox ⟐ Carnegie Mellon University
+- **🔗 链接**：[[中英摘要](./abs/2406.11570.md)] [[arXiv:2406.11570](https://arxiv.org/abs/2406.11570)] [Code]
+- **📝 说明**：🏆 Accepted to SIGGRAPH Posters 2024
+
+#### [7] A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets
+- **🧑‍🔬 作者**：Bernhard Kerbl, Andréas Meuleman, Georgios Kopanas, Michael Wimmer, Alexandre Lanvin, George Drettakis
+- **🏫 单位**：Inria ⟐ Université Côte d’Azur, France ⟐ TU Wien, Austria
+- **🔗 链接**：[[中英摘要](./abs/2406.12080.md)] [[arXiv:2406.12080](https://arxiv.org/abs/2406.12080)] [Code]
+- **📝 说明**：🏆 Accepted to SIGGRAPH 2024
