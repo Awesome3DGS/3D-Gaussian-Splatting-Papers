@@ -1,5 +1,11 @@
 # Changelog
 
+### 2024/06/22
+
+Add "Splatter a Video: Video Gaussian Representation for Versatile Processing"
+
+Add "Sampling 3D Gaussian Scenes in Seconds with Latent Diffusion Models"
+
 ### 2024/06/19
 
 Add "HumanSplat: Generalizable Single-Image Human Gaussian Splatting with Structure Priors"
