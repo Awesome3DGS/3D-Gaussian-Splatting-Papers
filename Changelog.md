@@ -1,5 +1,15 @@
 # Changelog
 
+### 2024/06/24
+
+Add "GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation"
+
+Add "Gaussian Splatting to Real World Flight Navigation Transfer with Liquid Networks"
+
+Add "E2GS: Event Enhanced Gaussian Splatting"
+
+Add "Gaussian-Informed Continuum for Physical Property Identification and Simulation"
+
 ### 2024/06/22
 
 Add "Splatter a Video: Video Gaussian Representation for Versatile Processing"
