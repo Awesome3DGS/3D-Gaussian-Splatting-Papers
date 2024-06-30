@@ -1,5 +1,35 @@
 # Changelog
 
+### 2024/06/30
+
+Add "FAGhead: Fully Animate Gaussian Head from Monocular Videos"
+
+Add "Dynamic Gaussian Marbles for Novel View Synthesis of Casual Monocular Videos"
+
+Add "GS-ROR: 3D Gaussian Splatting for Reflective Object Relighting via SDF Priors"
+
+Add "On Scaling Up 3D Gaussian Splatting Training"
+
+Add "GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality"
+
+Add "Trimming the Fat: Efficient Compression of 3D Gaussian Splats through Pruning"
+
+Add "GS-Octree: Octree-based 3D Gaussian Splatting for Robust Object-level 3D Reconstruction Under Strong Lighting"
+
+Add "VDG: Vision-Only Dynamic Gaussian for Driving Simulation"
+
+Add "Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text"
+
+Add "Reducing the Memory Footprint of 3D Gaussian Splatting"
+
+Add "ClotheDreamer: Text-Guided Garment Generation with 3D Gaussians"
+
+Add "Geometry-Aware Score Distillation via 3D Consistent Noising and Gradient Consistency Modeling"
+
+Add "LGS: A Light-weight 4D Gaussian Splatting for Efficient Surgical Scene Reconstruction"
+
+Add "Taming 3DGS: High-Quality Radiance Fields with Limited Resources"
+
 ### 2024/06/24
 
 Add "GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation"
