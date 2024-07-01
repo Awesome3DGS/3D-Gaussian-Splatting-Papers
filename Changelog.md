@@ -1,5 +1,13 @@
 # Changelog
 
+### 2024/07/01
+
+Add "SpotlessSplats: Ignoring Distractors in 3D Gaussian Splatting"
+
+Add "EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting"
+
+Add "Lightweight Predictive 3D Gaussian Splats"
+
 ### 2024/06/30
 
 Add "FAGhead: Fully Animate Gaussian Head from Monocular Videos"
