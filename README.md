@@ -20,7 +20,7 @@ in reverse chronological order.
 **📚 会议期刊**:
 - [[ICLR2024](./ICLR2024.md)] (2 篇)
   [[3DV2024](./3DV2024.md)] (1 篇)
-  [[CVPR2024](./CVPR2024.md)] (63 篇)
+  [[CVPR2024](./CVPR2024.md)] (64 篇)
   [[WACV2024](./WACV2024.md)] (1 篇)
   [[ICML2024](./ICML2024.md)] (3 篇)
 - [[SIGGRAPH2024](./SIGGRAPH2024.md)] (7 篇)
