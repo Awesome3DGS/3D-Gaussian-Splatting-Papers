@@ -117,7 +117,7 @@ new articles will be displayed in reverse chronological order, and older article
 - **🧑‍🔬 作者**：Jaeyoung Chung, Jeongtaek Oh, Kyoung Mu Lee
 - **🏫 单位**：Seoul National University
 - **🔗 链接**：[[中英摘要](./abs/2311.13398.md)] [[arXiv:2311.13398](https://arxiv.org/abs/2311.13398)] [[Code](https://github.com/robot0321/DepthRegularizedGS)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to CVPR 2024 Workshop on 3DMV
 
 #### [8] Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing
 - **🧑‍🔬 作者**：Jian Gao, Chun Gu, Youtian Lin, Hao Zhu, Xun Cao, Li Zhang, Yao Yao
@@ -143,11 +143,11 @@ new articles will be displayed in reverse chronological order, and older article
 - **🔗 链接**：[[中英摘要](./abs/2311.17907.md)] [[arXiv:2311.17907](https://arxiv.org/abs/2311.17907)] [Code]
 - **📝 说明**：✏️
 
-#### [12] Compact3D: Compressing Gaussian Splat Radiance Field Models with Vector Quantization
+#### [12] Compact3D: Smaller and Faster Gaussian Splatting with Vector Quantization
 - **🧑‍🔬 作者**：KL Navaneet, Kossar Pourahmadi Meibodi, Soroush Abbasi Koohpayegani, Hamed Pirsiavash
 - **🏫 单位**：University of California, Davis
 - **🔗 链接**：[[中英摘要](./abs/2311.18159.md)] [[arXiv:2311.18159](https://arxiv.org/abs/2311.18159)] [[Code](https://github.com/UCDvision/compact3d)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [13] Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering
 - **🧑‍🔬 作者**：Yurui Chen, Chun Gu, Junzhe Jiang, Xiatian Zhu, Li Zhang
@@ -171,7 +171,7 @@ new articles will be displayed in reverse chronological order, and older article
 - **🧑‍🔬 作者**：Zehao Zhu, Zhiwen Fan, Yifan Jiang, Zhangyang Wang
 - **🏫 单位**：University of Texas at Austin
 - **🔗 链接**：[[中英摘要](./abs/2312.00451.md)] [[arXiv:2312.00451](https://arxiv.org/abs/2312.00451)] [[Code](https://github.com/VITA-Group/FSGS)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [17] MD-Splatting: Learning Metric Deformation from 4D Gaussians in Highly Deformable Scenes
 - **🧑‍🔬 作者**：Bardienus P. Duisterhof, Zhao Mandi, Yunchao Yao, Jia-Wei Liu, Mike Zheng Shou, Shuran Song, Jeffrey Ichnowski
@@ -183,7 +183,7 @@ new articles will be displayed in reverse chronological order, and older article
 - **🧑‍🔬 作者**：Mingqiao Ye, Martin Danelljan, Fisher Yu, Lei Ke
 - **🏫 单位**：ETH Zurich
 - **🔗 链接**：[[中英摘要](./abs/2312.00732.md)] [[arXiv:2312.00732](https://arxiv.org/abs/2312.00732)] [[Code](https://github.com/lkeab/gaussian-grouping)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [19] NeuSG: Neural Implicit Surface Reconstruction with 3D Gaussian Splatting Guidance
 - **🧑‍🔬 作者**：Hanlin Chen, Chen Li, Gim Hee Lee
@@ -321,13 +321,13 @@ new articles will be displayed in reverse chronological order, and older article
 - **🧑‍🔬 作者**：Byeonghyeon Lee, Howoong Lee, Xiangyu Sun, Usman Ali, Eunbyung Park
 - **🏫 单位**：Sungkyunkwan University ⟐ Hanhwa Vision
 - **🔗 链接**：[[中英摘要](./abs/2401.00834.md)] [[arXiv:2401.00834](https://arxiv.org/abs/2401.00834)] [[Code](https://github.com/benhenryL/Deblurring-3D-Gaussian-Splatting)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [42] Street Gaussians for Modeling Dynamic Urban Scenes
 - **🧑‍🔬 作者**：Yunzhi Yan, Haotong Lin, Chenxu Zhou, Weijie Wang, Haiyang Sun, Kun Zhan, Xianpeng Lang, Xiaowei Zhou, Sida Peng
 - **🏫 单位**：Zhejiang University ⟐ Li Auto
 - **🔗 链接**：[[中英摘要](./abs/2401.01339.md)] [[arXiv:2401.01339](https://arxiv.org/abs/2401.01339)] [[Code](https://github.com/zju3dv/street_gaussians)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [43] FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding
 - **🧑‍🔬 作者**：Xingxing Zuo, Pouya Samangouei, Yunwen Zhou, Yan Di, Mingyang Li
@@ -339,7 +339,7 @@ new articles will be displayed in reverse chronological order, and older article
 - **🧑‍🔬 作者**：Lukas Meyer, Floris Erich, Yusuke Yoshiyasu, Marc Stamminger, Noriaki Ando, Yukiyasu Domae
 - **🏫 单位**：Friedrich-Alexander-Universität Erlangen-Nürnberg-Fürth ⟐ Industrial CPS Research Center, National Institute of Advanced Industrial Science and Technology, Japan
 - **🔗 链接**：[[中英摘要](./abs/2401.02281.md)] [[arXiv:2401.02281](https://arxiv.org/abs/2401.02281)] [[Code](https://github.com/meyerls/PEGASUS)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to IROS2024
 
 #### [45] Characterizing Satellite Geometry via Accelerated 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Van Minh Nguyen, Emma Sandidge, Trupti Mahendrakar, Ryan T. White
@@ -456,11 +456,11 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🔗 链接**：[[中英摘要](./abs/2402.03246.md)] [[arXiv:2402.03246](https://arxiv.org/abs/2402.03246)] [Code]
 - **📝 说明**：✏️
 
-#### [64] 4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes
+#### [64] 4D-Rotor Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes
 - **🧑‍🔬 作者**：Yuanxing Duan, Fangyin Wei, Qiyu Dai, Yuhang He, Wenzheng Chen, Baoquan Chen
 - **🏫 单位**：Peking University ⟐ Princeton University ⟐ NVIDIA ⟐ National Key Lab of General AI, China
 - **🔗 链接**：[[中英摘要](./abs/2402.03307.md)] [[arXiv:2402.03307](https://arxiv.org/abs/2402.03307)] [Code]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to SIGGRAPH 2024
 
 #### [65] Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos
 - **🧑‍🔬 作者**：Alfredo Rivero, ShahRukh Athar, Zhixin Shu, Dimitris Samaras
@@ -490,7 +490,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Xiaoyu Zhou, Xingjian Ran, Yajiao Xiong, Jinlin He, Zhiwei Lin, Yongtao Wang, Deqing Sun, Ming-Hsuan Yang
 - **🏫 单位**：Peking University ⟐ Google Research ⟐ University of California, Merced
 - **🔗 链接**：[[中英摘要](./abs/2402.07207.md)] [[arXiv:2402.07207](https://arxiv.org/abs/2402.07207)] [[Code](https://github.com/VDIGPKU/GALA3D)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ICML 2024
 
 #### [70] GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting
 - **🧑‍🔬 作者**：Chen Yang, Sikuang Li, Jiemin Fang, Ruofan Liang, Lingxi Xie, Xiaopeng Zhang, Wei Shen, Qi Tian
@@ -538,7 +538,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Yuanhao Cai, Yixun Liang, Jiahao Wang, Angtian Wang, Yulun Zhang, Xiaokang Yang, Zongwei Zhou, Alan Yuille
 - **🏫 单位**：Johns Hopkins University ⟐ HKUST(GZ) ⟐ Shanghai Jiao Tong University
 - **🔗 链接**：[[中英摘要](./abs/2403.04116.md)] [[arXiv:2403.04116](https://arxiv.org/abs/2403.04116)] [[Code](https://github.com/caiyuanhao1998/X-Gaussian)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [78] BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling
 - **🧑‍🔬 作者**：Cheng Peng, Yutao Tang, Yifan Zhou, Nengyu Wang, Xijun Liu, Deming Li, Rama Chellappa
@@ -604,7 +604,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Licheng Zhong, Hong-Xing Yu, Jiajun Wu, Yunzhu Li
 - **🏫 单位**：Stanford University ⟐ University of Illinois Urbana-Champaign
 - **🔗 链接**：[[中英摘要](./abs/2403.09434.md)] [[arXiv:2403.09434](https://arxiv.org/abs/2403.09434)] [[Code](https://github.com/Colmar-zlicheng/Spring-Gaus)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [89] GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping
 - **🧑‍🔬 作者**：Yuhang Zheng, Xiangyu Chen, Yupeng Zheng, Songen Gu, Runyi Yang, Bu Jin, Pengfei Li, Chengliang Zhong, Zengmao Wang, Lina Liu, Chao Yang, Dawei Wang, Zhen Chen, Xiaoxiao Long, Meiqing Wang
@@ -630,11 +630,11 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🔗 链接**：[[中英摘要](./abs/2403.10050.md)] [[arXiv:2403.10050](https://arxiv.org/abs/2403.10050)] [Code]
 - **📝 说明**：✏️
 
-#### [93] GGRt: Towards Generalizable 3D Gaussians without Pose Priors in Real-Time
+#### [93] GGRt: Towards Pose-free Generalizable 3D Gaussian Splatting in Real-time
 - **🧑‍🔬 作者**：Hao Li, Yuanyuan Gao, Dingwen Zhang, Chenming Wu, Yalun Dai, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang, Junwei Han
 - **🏫 单位**：Northwestern Polytechnical University ⟐ Baidu Inc. ⟐ Nanyang Technological University
 - **🔗 链接**：[[中英摘要](./abs/2403.10147.md)] [[arXiv:2403.10147](https://arxiv.org/abs/2403.10147)] [Code]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [94] FDGaussian: Fast Gaussian Splatting from Single Image via Geometric-aware Diffusion Model
 - **🧑‍🔬 作者**：Qijun Feng, Zhen Xing, Zuxuan Wu, Yu-Gang Jiang
@@ -661,7 +661,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **📝 说明**：✏️
 
 #### [98] Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration
-- **🧑‍🔬 作者**：Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration
+- **🧑‍🔬 作者**：Zhihao Liang, Qi Zhang, Wenbo Hu, Ying Feng, Lei Zhu, Kui Jia
 - **🏫 单位**：South China University of Technology ⟐ Tencent AI Lab ⟐ City University of Hong Kong ⟐ The Chinese University of Hong Kong, Shenzhen
 - **🔗 链接**：[[中英摘要](./abs/2403.11056.md)] [[arXiv:2403.11056](https://arxiv.org/abs/2403.11056)] [[Code](https://github.com/lzhnb/Analytic-Splatting)]
 - **📝 说明**：✏️
@@ -742,7 +742,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Lingzhe Zhao, Peng Wang, Peidong Liu
 - **🏫 单位**：Westlake University ⟐ Zhejiang University
 - **🔗 链接**：[[中英摘要](./abs/2403.11831.md)] [[arXiv:2403.11831](https://arxiv.org/abs/2403.11831)] [[Code](https://github.com/WU-CVGL/BAD-Gaussians)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [112] View-Consistent 3D Editing with Gaussian Splatting
 - **🧑‍🔬 作者**：Yuxuan Wang, Xuanyu Yi, Zike Wu, Na Zhao, Long Chen, Hanwang Zhang
@@ -796,7 +796,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Guangchi Fang, Bing Wang
 - **🏫 单位**：The Hong Kong Polytechnic University
 - **🔗 链接**：[[中英摘要](./abs/2403.14166.md)] [[arXiv:2403.14166](https://arxiv.org/abs/2403.14166)] [[Code](https://github.com/fatPeter/mini-splatting)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [121] Isotropic Gaussian Splatting for Real-Time Radiance Field Rendering
 - **🧑‍🔬 作者**：Yuanhao Gong, Lantao Yu, Guanghui Yue
@@ -808,13 +808,13 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Yihang Chen, Qianyi Wu, Jianfei Cai, Mehrtash Harandi, Weiyao Lin
 - **🏫 单位**：Shanghai Jiao Tong University ⟐ Monash University
 - **🔗 链接**：[[中英摘要](./abs/2403.14530.md)] [[arXiv:2403.14530](https://arxiv.org/abs/2403.14530)] [[Code](https://github.com/YihangChen-ee/HAC)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [123] Gaussian Frosting: Editable Complex Radiance Fields with Real-Time Rendering
 - **🧑‍🔬 作者**：Antoine Guédon, Vincent Lepetit
 - **🏫 单位**：Univ Gustave Eiffel
 - **🔗 链接**：[[中英摘要](./abs/2403.14554.md)] [[arXiv:2403.14554](https://arxiv.org/abs/2403.14554)] [Code]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [124] GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation
 - **🧑‍🔬 作者**：Yinghao Xu, Zifan Shi, Wang Yifan, Hansheng Chen, Ceyuan Yang, Sida Peng, Yujun Shen, Gordon Wetzstein
@@ -826,13 +826,13 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Yuedong Chen, Haofei Xu, Chuanxia Zheng, Bohan Zhuang, Marc Pollefeys, Andreas Geiger, Tat-Jen Cham, Jianfei Cai
 - **🏫 单位**：Monash University ⟐ ETH Zurich ⟐ University of Tübingen ⟐ University of Oxford ⟐ Microsoft ⟐ Nanyang Technological University
 - **🔗 链接**：[[中英摘要](./abs/2403.14627.md)] [[arXiv:2403.14627](https://arxiv.org/abs/2403.14627)] [[Code](https://github.com/donydchen/mvsplat)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [126] STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians
 - **🧑‍🔬 作者**：Yifei Zeng, Yanqin Jiang, Siyu Zhu, Yuanxun Lu, Youtian Lin, Hao Zhu, Weiming Hu, Xun Cao, Yao Yao
 - **🏫 单位**：Nanjing University ⟐ Institution of Automation, Chinese Academy of Science ⟐ Fudan University
 - **🔗 链接**：[[中英摘要](./abs/2403.14939.md)] [[arXiv:2403.14939](https://arxiv.org/abs/2403.14939)] [[Code](https://github.com/zeng-yifei/STAG4D)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [127] EndoGSLAM: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting
 - **🧑‍🔬 作者**：Kailing Wang, Chen Yang, Yuehao Wang, Sikuang Li, Yan Wang, Qi Dou, Xiaokang Yang, Wei Shen
@@ -862,7 +862,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Jiarui Hu, Xianhao Chen, Boyin Feng, Guanglin Li, Liangjing Yang, Hujun Bao, Guofeng Zhang, Zhaopeng Cui
 - **🏫 单位**：Zhejiang University
 - **🔗 链接**：[[中英摘要](./abs/2403.16095.md)] [[arXiv:2403.16095](https://arxiv.org/abs/2403.16095)] [[Code](https://github.com/hjr37/CG-SLAM)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [132] latentSplat: Autoencoding Variational Gaussians for Fast Generalizable 3D Reconstruction
 - **🧑‍🔬 作者**：Christopher Wewer, Kevin Raj, Eddy Ilg, Bernt Schiele, Jan Eric Lenssen
@@ -922,7 +922,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Avinash Paliwal, Wei Ye, Jinhui Xiong, Dmytro Kotovenko, Rakesh Ranjan, Vikas Chandra, Nima Khademi Kalantari
 - **🏫 单位**：Texas A&M University ⟐ Meta Reality Labs ⟐ LMU Munich
 - **🔗 链接**：[[中英摘要](./abs/2403.19495.md)] [[arXiv:2403.19495](https://arxiv.org/abs/2403.19495)] [Code]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [142] SA-GS: Scale-Adaptive Gaussian Splatting for Training-Free Anti-Aliasing
 - **🧑‍🔬 作者**：Xiaowei Song, Jv Zheng, Shiran Yuan, Huan-ang Gao, Jingwei Zhao, Xiang He, Weihao Gu, Hao Zhao
@@ -988,7 +988,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Yang Liu, He Guan, Chuanchen Luo, Lue Fan, Junran Peng, Zhaoxiang Zhang
 - **🏫 单位**：Chinese Academy of Sciences ⟐ University of Chinese Academy of Sciences ⟐ Centre for Artificial Intelligence and Robotics ⟐ State Key Laboratory of Multimodal Artificial Intelligence Systems
 - **🔗 链接**：[[中英摘要](./abs/2404.01133.md)] [[arXiv:2404.01133](https://arxiv.org/abs/2404.01133)] [[Code](https://github.com/DekuLiuTesla/CityGaussian)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [153] Mirror-3DGS: Incorporating Mirror Reflections into 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Jiarui Meng, Haijie Li, Yanmin Wu, Qiankun Gao, Shuzhou Yang, Jian Zhang, Siwei Ma
@@ -1006,7 +1006,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Yaniv Wolf, Amit Bracha, Ron Kimmel
 - **🏫 单位**：Israel Institute of Technology
 - **🔗 链接**：[[中英摘要](./abs/2404.01810.md)] [[arXiv:2404.01810](https://arxiv.org/abs/2404.01810)] [Code]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [156] TCLC-GS: Tightly Coupled LiDAR-Camera Gaussian Splatting for Surrounding Autonomous Driving Scenes
 - **🧑‍🔬 作者**：Cheng Zhao, Su Sun, Ruoyu Wang, Yuliang Guo, Jun-Jun Wan, Zhou Huang, Xinyu Huang, Yingjie Victor Chen, Liu Ren
@@ -1030,7 +1030,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Jeongmin Bae, Seoha Kim, Youngsik Yun, Hahyun Lee, Gun Bang, Youngjung Uh
 - **🏫 单位**：Yonsei University ⟐ Electronics and Telecommunications Research Institute
 - **🔗 链接**：[[中英摘要](./abs/2404.03613.md)] [[arXiv:2404.03613](https://arxiv.org/abs/2404.03613)] [[Code](https://github.com/JeongminB/E-D3DGS)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [160] Robust Gaussian Splatting
 - **🧑‍🔬 作者**：François Darmon, Lorenzo Porzi, Samuel Rota-Bulò, Peter Kontschieder
@@ -1204,7 +1204,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Yuxin Wang, Qianyi Wu, Guofeng Zhang, Dan Xu
 - **🏫 单位**：HKUST ⟐ Monash University ⟐ Zhejiang University
 - **🔗 链接**：[[中英摘要](./abs/2404.13679.md)] [[arXiv:2404.13679](https://arxiv.org/abs/2404.13679)] [Code]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [189] GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, Zhonghua Jiang, Zhiwen Chen, Shengyu Zhang, Jimin Xu, Fei Wu, Chengfei Lv, Gang Yu
@@ -1222,7 +1222,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Jiahe Li, Jiawei Zhang, Xiao Bai, Jin Zheng, Xin Ning, Jun Zhou, Lin Gu
 - **🏫 单位**：Beihang University ⟐ Chinese Academy of Sciences ⟐ Griffith University ⟐ RIKEN AIP ⟐ The University of Tokyo
 - **🔗 链接**：[[中英摘要](./abs/2404.15264.md)] [[arXiv:2404.15264](https://arxiv.org/abs/2404.15264)] [Code]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [192] OMEGAS: Object Mesh Extraction from Large Scenes Guided by Gaussian Segmentation
 - **🧑‍🔬 作者**：Lizhi Wang, Feng Zhou, Jianqin Yin
@@ -1330,7 +1330,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Kaiwen Jiang, Yang Fu, Mukund Varma T, Yash Belhe, Xiaolong Wang, Hao Su, Ravi Ramamoorthi
 - **🏫 单位**：University of California
 - **🔗 链接**：[[中英摘要](./abs/2405.03659.md)] [[arXiv:2405.03659](https://arxiv.org/abs/2405.03659)] [Code]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to SIGGRAPH 2024
 
 #### [210] Splat-MOVER: Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting
 - **🧑‍🔬 作者**：Ola Shorinwa, Johnathan Tucker, Aliyah Smith, Aiden Swann, Timothy Chen, Roya Firoozi, Monroe Kennedy III, Mac Schwager
@@ -1402,7 +1402,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Jiayue Liu, Xiao Tang, Freeman Cheng, Roy Yang, Zhihao Li, Jianzhuang Liu, Yi Huang, Jiaqi Lin, Shiyong Liu, Xiaofei Wu, Songcen Xu, Chun Yuan
 - **🏫 单位**：Tsinghua University ⟐ Huawei Noah’s Ark Lab ⟐ University of Toronto ⟐ University of Chinese Academy of Sciences
 - **🔗 链接**：[[中英摘要](./abs/2405.11921.md)] [[arXiv:2405.11921](https://arxiv.org/abs/2405.11921)] [Code]
-- **📝 说明**：
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [222] GGAvatar: Geometric Adjustment of Gaussian Head Avatar
 - **🧑‍🔬 作者**：Xinyang Li, Jiaxin Wang, Yixin Xuan, Gongxin Yao, Yu Pan
@@ -1420,13 +1420,13 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Jiawei Zhang, Jiahe Li, Xiaohan Yu, Lei Huang, Lin Gu, Jin Zheng, Xiao Bai
 - **🏫 单位**：Beihang University ⟐  Macquarie University ⟐ RIKEN AIP ⟐ The University of Tokyo
 - **🔗 链接**：[[中英摘要](./abs/2405.12110.md)] [[arXiv:2405.12110](https://arxiv.org/abs/2405.12110)] [Code]
-- **📝 说明**：
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [225] Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo
 - **🧑‍🔬 作者**：Tianqi Liu, Guangcong Wang, Shoukang Hu, Liao Shen, Xinyi Ye, Yuhang Zang, Zhiguo Cao, Wei Li, Ziwei Liu
 - **🏫 单位**：Huazhong University of Science and Technology ⟐  Nanyang Technological University ⟐  Great Bay University ⟐ Shanghai AI Laboratory
 - **🔗 链接**：[[中英摘要](./abs/2405.12218.md)] [[arXiv:2405.12218](https://arxiv.org/abs/2405.12218)] [[Code](https://github.com/TQTQliu/MVSGaussian)]
-- **📝 说明**：
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [226] AtomGS: Atomizing Gaussian Splatting for High-Fidelity Radiance Field
 - **🧑‍🔬 作者**：Rong Liu, Rui Xu, Yue Hu, Meida Chen, Andrew Feng
@@ -1588,7 +1588,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Yuanhui Huang, Wenzhao Zheng, Yunpeng Zhang, Jie Zhou, Jiwen Lu
 - **🏫 单位**：Tsinghua University ⟐ University of California, Berkeley ⟐ PhiGent Robotics
 - **🔗 链接**：[[中英摘要](./abs/2405.17429.md)] [[arXiv:2405.17429](https://arxiv.org/abs/2405.17429)] [[Code](https://github.com/huang-yh/GaussianFormer)]
-- **📝 说明**：
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [253] GOI: Find 3D Gaussians of Interest with an Optimizable Open-vocabulary Semantic-space Hyperplane
 - **🧑‍🔬 作者**：Yansong Qu, Shaohui Dai, Xinyang Li, Jianghang Lin, Liujuan Cao, Shengchuan Zhang, Rongrong Ji
