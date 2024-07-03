@@ -1,5 +1,17 @@
 # Changelog
 
+### 2024/07/03
+
+Add "GaussianStego: A Generalizable Stenography Pipeline for Generative 3D Gaussians Splatting"
+
+Add "Learning 3D Gaussians for Extremely Sparse-View Cone-Beam CT Reconstruction"
+
+Add "EndoSparse: Real-Time Sparse View Synthesis of Endoscopic Scenes using Gaussian Splatting"
+
+Add "RTGS: Enabling Real-Time Gaussian Splatting on Mobile Devices Using Efficiency-Guided Pruning and Foveated Rendering"
+
+Add "OccFusion: Rendering Occluded Humans with Generative Diffusion Priors"
+
 ### 2024/07/01
 
 Add "SpotlessSplats: Ignoring Distractors in 3D Gaussian Splatting"
