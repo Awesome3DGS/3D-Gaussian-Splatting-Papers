@@ -1,5 +1,19 @@
 # Changelog
 
+### 2024/07/04
+
+Add "Expressive Gaussian Human Avatars from Monocular RGB Video"
+
+Add "VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors"
+
+Add "Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction"
+
+Add "AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction"
+
+Add "TrAME: Trajectory-Anchored Multi-View Editing for Text-Guided 3D Gaussian Splatting Manipulation"
+
+Add "DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction"
+
 ### 2024/07/03
 
 Add "GaussianStego: A Generalizable Stenography Pipeline for Generative 3D Gaussians Splatting"
