@@ -103,7 +103,7 @@ in reverse chronological order.
 - **🧑‍🔬 作者**：Sungwon Hwang, Min-Jung Kim, Taewoong Kang, Jayeon Kang, Jaegul Choo
 - **🏫 单位**：KAIST ⟐ Ghent University
 - **🔗 链接**：[[中英摘要](./abs/2407.02945.md)] [[arXiv:2407.02945](https://arxiv.org/abs/2407.02945)] [[Code](https://github.com/deepshwang/vegs)]
-- **📝 说明**：
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [9] Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction
 - **🧑‍🔬 作者**：Jiaxin Guo, Jiangliu Wang, Di Kang, Wenzhen Dong, Wenting Wang, Yun-hui Liu
@@ -386,7 +386,7 @@ Institute
 - **🧑‍🔬 作者**：Vishnu Jaganathan, Hannah Hanyun Huang, Muhammad Zubair Irshad, Varun Jampani, Amit Raj, Zsolt Kira
 - **🏫 单位**：Georgia Institute of Technology ⟐ Toyota Research Institute ⟐ Stability AI ⟐ Google Research
 - **🔗 链接**：[[中英摘要](./abs/2406.08488.md)] [[arXiv:2406.08488](https://arxiv.org/abs/2406.08488)] [Code]
-- **📝 说明**：
+- **📝 说明**：🏆 Accepted to CVPR 2024 AI4CC Workshop
 
 #### [56] Human 3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models
 - **🧑‍🔬 作者**：Yuxuan Xue, Xianghui Xie, Riccardo Marin, Gerard Pons-Moll
@@ -590,13 +590,13 @@ Institute
 - **🧑‍🔬 作者**：Yuan Shen, Duygu Ceylan, Paul Guerrero, Zexiang Xu, Niloy J. Mitra, Shenlong Wang, Anna Früstück
 - **🏫 单位**：University of Illinois at Urbana-Champaign ⟐ Adobe Research ⟐ University College London
 - **🔗 链接**：[[中英摘要](./abs/2406.00609.md)] [[arXiv:2406.00609](https://arxiv.org/abs/2406.00609)] [Code]
-- **📝 说明**：
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [90] Topo4D: Topology-Preserving Gaussian Splatting for High-Fidelity 4D Head Capture
 - **🧑‍🔬 作者**：X. Li, Y. Cheng, X. Ren, H. Jia, D. Xu, W. Zhu, Y. Yan
 - **🏫 单位**：Shanghai Jiao Tong University ⟐ Huawei Cloud Computing Technologies Co., Ltd
 - **🔗 链接**：[[中英摘要](./abs/2406.00440.md)] [[arXiv:2406.00440](https://arxiv.org/abs/2406.00440)] [Code]
-- **📝 说明**：
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [91] MoDGS: Dynamic Gaussian Splatting from Causually-captured Monocular Videos
 - **🧑‍🔬 作者**：Qingming Liu, Yuan Liu, Jiepeng Wang, Xianqiang Lv, Peng Wang, Wenping Wang, Junhui Hou
