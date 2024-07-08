@@ -14,20 +14,18 @@ new articles will be displayed in reverse chronological order, and older article
 
 
 **⚡ 快捷链接**: [[10](#10-lightgaussian-unbounded-3d-gaussian-compression-with-15x-reduction-and-200-fps)]
-                 [[30](#30-gaufre-gaussian-deformation-fields-for-real-time-dynamic-novel-view-synthesis)]
-                 [[50](#50-fast-dynamic-3d-object-generation-from-a-single-view-video)]
-                 [[70](#70-ges-generalized-exponential-splatting-for-efficient-radiance-field-rendering)]
-                 [[90](#90-gaussiangrasper-3d-language-gaussian-splatting-for-open-vocabulary-robotic-grasping)]
-                 [[100](#100-compact-3d-gaussian-splatting-for-dense-visual-slam)]
-                 [[120](#120-radsplat-radiance-field-informed-gaussian-splatting-for-robust-real-time-rendering-with-900-fps)]
-                 [[140](#140-splatface-gaussian-splat-face-reconstruction-leveraging-an-optimizable-surface)]
-                 [[160](#160-per-gaussian-embedding-based-deformation-for-deformable-3d-gaussian-splatting)]
-                 [[180](#180-srgs-super-resolution-3d-gaussian-splatting)]
-                 [[200](#200-bootstrap-3d-reconstructed-scenes-from-3d-gaussian-splatting)]
-                 [[220](#220-gs-planner-a-gaussian-splatting-based-planning-framework-for-active-high-fidelity-reconstruction)]
-                 [[240](#240-magicdrive3d-controllable-3d-generation-for-any-view-rendering-in-street-scenes)]
-                 [[260](#260-hfgs-4d-gaussian-splatting-with-emphasis-on-spatial-and-temporal-high-frequency-components-for-endoscopic-scene-reconstruction)]
-                 [[280](#280-a-pixel-is-worth-more-than-one-3d-gaussians-in-single-view-3d-reconstruction)]（最新）
+                 [[30](#30-gaussian-splatting-with-nerf-based-color-and-opacity)]
+                 [[50](#50-gaussian-splashing-dynamic-fluid-synthesis-with-gaussian-splatting)]
+                 [[70](#70-splat-nav-safe-real-time-robot-navigation-in-gaussian-splatting-maps)]
+                 [[90](#90-brightdreamer-generic-3d-gaussian-generative-framework-for-fast-text-to-3d-synthesis)]
+                 [[100](#100-neds-slam-a-novel-neural-explicit-dense-semantic-slam-framework-using-3d-gaussian-splatting)]
+                 [[120](#120-modeling-uncertainty-for-gaussian-splatting)]
+                 [[140](#140-gauu-scene-v2-expanse-lidar-image-dataset-shows-unreliable-geometric-reconstruction-using-gaussian-splatting-and-nerf)]
+                 [[160](#160-infusion-inpainting-3d-gaussians-via-learning-depth-completion-from-diffusion-prior)]
+                 [[180](#180-spectrally-pruned-gaussian-fields-with-neural-compensation)]
+                 [[200](#200-gaussian-control-with-hierarchical-semantic-graphs-in-3d-human-recovery)]
+                 [[220](#220-sa-gs-semantic-aware-gaussian-splatting-for-large-scene-reconstruction-with-geometry-constrain)]
+                 [[240](#240-e3gen-efficient-expressive-and-editable-avatars-generation)]（最新）
 
 
 
