@@ -225,7 +225,7 @@ new articles will be displayed in reverse chronological order, and older article
 - **🧑‍🔬 作者**：Xiaofeng Yang, Yiwen Chen, Cheng Chen, Chi Zhang, Yi Xu, Xulei Yang, Fayao Liu, Guosheng Lin
 - **🏫 单位**：Nanyang Technological University ⟐ OPPO US Research Center ⟐ A*STAR
 - **🔗 链接**：[[中英摘要](./abs/2312.04820.md)] [[arXiv:2312.04820](https://arxiv.org/abs/2312.04820)] [[Code](https://github.com/yangxiaofeng/LODS)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [26] GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization
 - **🧑‍🔬 作者**：Yahao Shi, Yanmin Wu, Chenming Wu, Xing Liu, Chen Zhao, Haocheng Feng, Jingtuo Liu, Liangjun Zhang, Jian Zhang, Bin Zhou, Errui Ding, Jingdong Wang
@@ -544,7 +544,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Cheng Peng, Yutao Tang, Yifan Zhou, Nengyu Wang, Xijun Liu, Deming Li, Rama Chellappa
 - **🏫 单位**：Johns Hopkins University
 - **🔗 链接**：[[中英摘要](./abs/2403.04926.md)] [[arXiv:2403.04926](https://arxiv.org/abs/2403.04926)] [[Code](https://github.com/snldmt/BAGS)]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [79] GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting
 - **🧑‍🔬 作者**：Francesco Palandra, Andrea Sanchietti, Daniele Baieri, Emanuele Rodolà
@@ -748,7 +748,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Yuxuan Wang, Xuanyu Yi, Zike Wu, Na Zhao, Long Chen, Hanwang Zhang
 - **🏫 单位**：Nanyang Technological University ⟐ Singapore University of Technology and Design ⟐ Hong Kong University of Science and Technology ⟐ Skywork AI
 - **🔗 链接**：[[中英摘要](./abs/2403.11868.md)] [[arXiv:2403.11868](https://arxiv.org/abs/2403.11868)] [Code]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [113] VideoMV: Consistent Multi-View Generation Based on Large Video Generative Model
 - **🧑‍🔬 作者**：Qi Zuo, Xiaodong Gu, Lingteng Qiu, Yuan Dong, Zhengyi Zhao, Weihao Yuan, Rui Peng, Siyu Zhu, Zilong Dong, Liefeng Bo, Qixing Huang
@@ -1078,7 +1078,7 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Shijie Zhou, Zhiwen Fan, Dejia Xu, Haoran Chang, Pradyumna Chari, Tejas Bharadwaj, Suya You, Zhangyang Wang, Achuta Kadambi
 - **🏫 单位**：University of California, Los Angeles ⟐ University of Texas at Austin ⟐ DEVCOM Army Research Laboratory
 - **🔗 链接**：[[中英摘要](./abs/2404.06903.md)] [[arXiv:2404.06903](https://arxiv.org/abs/2404.06903)] [Code]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [168] Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Xiaolei Lang, Laijian Li, Hang Zhang, Feng Xiong, Mu Xu, Yong Liu, Xingxing Zuo, Jiajun Lv
@@ -1318,7 +1318,8 @@ Institute of Automation, Chinese Academy of Sciences ⟐ University of Chinese A
 - **🧑‍🔬 作者**：Miriam Jäger, Theodor Kapler, Michael Feßenbecker, Felix Birkelbach, Markus Hillemann, Boris Jutzi
 - **🏫 单位**：Institute of Photogrammetry and Remote Sensing (IPF), Karlsruhe Institute of Technology (KIT)
 - **🔗 链接**：[[中英摘要](./abs/2405.02005.md)] [[arXiv:2405.02005](https://arxiv.org/abs/2405.02005)] [Code]
-- **📝 说明**：✏️
+- **📝 说明**：🏆 Accepted to ISPRS
+    ISPRS
 
 #### [208] DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos
 - **🧑‍🔬 作者**：Wen-Hsuan Chu, Lei Ke, Katerina Fragkiadaki
