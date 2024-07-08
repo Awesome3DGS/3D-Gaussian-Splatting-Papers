@@ -1,5 +1,19 @@
 # Changelog
 
+### 2024/07/08
+
+Add "LaRa: Efficient Large-Baseline Radiance Fields"
+
+Add "Gaussian Eigen Models for Human Heads"
+
+Add "Segment Any 4D Gaussians"
+
+Add "GSD: View-Guided Gaussian Splatting Diffusion for 3D Reconstruction"
+
+Add "CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images"
+
+Add "PFGS: High Fidelity Point Cloud Rendering via Feature Splatting"
+
 ### 2024/07/04
 
 Add "Expressive Gaussian Human Avatars from Monocular RGB Video"
