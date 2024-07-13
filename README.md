@@ -42,7 +42,7 @@ in reverse chronological order.
 - **🧑‍🔬 作者**：Ben Fei, Jingyi Xu, Rui Zhang, Qingyuan Zhou, Weidong Yang, Ying He
 - **🏫 单位**：Fudan University ⟐ Nanyang Technological University
 - **🔗 链接**：[[中英摘要](./abs/2402.07181.md)] [[arXiv:2402.07181](https://arxiv.org/abs/2402.07181)]
-- **📝 说明**：👍 相对比较全面，推荐精读
+- **📝 说明**：🏆 Accepted to IEEE TVCG 2024
 
 #### [S2] Recent Advances in 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Tong Wu, Yu-Jie Yuan, Ling-Xiao Zhang, Jie Yang, Yan-Pei Cao, Ling-Qi Yan, Lin Gao
@@ -140,7 +140,7 @@ in reverse chronological order.
 - **🧑‍🔬 作者**：Yujin Ham, Mateusz Michalkiewicz, Guha Balakrishnan
 - **🏫 单位**：Rice University
 - **🔗 链接**：[[中英摘要](./abs/2407.01761.md)] [[arXiv:2407.01761](https://arxiv.org/abs/2407.01761)] [Code]
-- **📝 说明**：
+- **📝 说明**：🏆 Accepted to ICCP 2024
 
 #### [15] GaussianStego: A Generalizable Stenography Pipeline for Generative 3D Gaussians Splatting
 - **🧑‍🔬 作者**：Chenxin Li, Hengyu Liu, Zhiwen Fan, Wuyang Li, Yifan Liu, Panwang Pan, Yixuan Yuan
@@ -337,7 +337,7 @@ in reverse chronological order.
 #### [47] GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors
 - **🧑‍🔬 作者**：Xiqian Yu, Hanxin Zhu, Tianyu He, Zhibo Chen
 - **🏫 单位**：University of Science and Technology of China ⟐ Microsoft Research Asia
-- **🔗 链接**：[[中英摘要](./abs/2406.10111.md)] [[arXiv:2406.10111](https://arxiv.org/abs/2406.10111)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2406.10111.md)] [[arXiv:2406.10111](https://arxiv.org/abs/2406.10111)] [[Code](https://github.com/chchnii/GaussianSR)]
 - **📝 说明**：
 
 #### [48] GradeADreamer: Enhanced Text-to-3D Generation Using Gaussian Splatting and Multi-View Diffusion
@@ -373,7 +373,7 @@ in reverse chronological order.
 #### [53] Gaussian-Forest: Hierarchical-Hybrid 3D Gaussian Splatting for Compressed Scene Modeling
 - **🧑‍🔬 作者**：Fengyi Zhang, Tianjun Zhang, Lin Zhang, Helen Huang, Yadan Luo
 - **🏫 单位**：Tongji University ⟐ University of Queensland
-- **🔗 链接**：[[中英摘要](./abs/2406.08759.md)] [[arXiv:2406.08759](https://arxiv.org/abs/2406.08759)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2406.08759.md)] [[arXiv:2406.08759](https://arxiv.org/abs/2406.08759)] [[Code](https://github.com/Xian-Bei/GaussianForest)]
 - **📝 说明**：
 
 #### [54] Human 3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models
@@ -409,7 +409,7 @@ in reverse chronological order.
 #### [59] PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction
 - **🧑‍🔬 作者**：Danpeng Chen, Hai Li, Weicai Ye, Yifan Wang, Weijian Xie, Shangjin Zhai, Nan Wang, Haomin Liu, Hujun Bao, Guofeng Zhang
 - **🏫 单位**：Zhejiang University ⟐ SenseTime Research ⟐ Shanghai AI Laboratory
-- **🔗 链接**：[[中英摘要](./abs/2406.06521.md)] [[arXiv:2406.06521](https://arxiv.org/abs/2406.06521)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2406.06521.md)] [[arXiv:2406.06521](https://arxiv.org/abs/2406.06521)] [[Code](https://github.com/zju3dv/PGSR)]
 - **📝 说明**：
 
 #### [60] MVGamba: Unify 3D Content Generation as State Space Sequence Modeling
@@ -463,7 +463,7 @@ in reverse chronological order.
 #### [68] Localized Gaussian Point Management
 - **🧑‍🔬 作者**：Haosen Yang, Chenhao Zhang, Wenqing Wang, Marco Volino, Adrian Hilton, Li Zhang, Xiatian Zhu
 - **🏫 单位**：University of Surrey ⟐ Fudan University
-- **🔗 链接**：[[中英摘要](./abs/2406.04251.md)] [[arXiv:2406.04251](https://arxiv.org/abs/2406.04251)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2406.04251.md)] [[arXiv:2406.04251](https://arxiv.org/abs/2406.04251)] [[Code](https://github.com/Surrey-UP-Lab/GS-LPM)]
 - **📝 说明**：
 
 #### [69] Gaussian Representation for Deformable Image Registration
@@ -493,7 +493,7 @@ in reverse chronological order.
 #### [73] 3D-HGS: 3D Half-Gaussian Splatting
 - **🧑‍🔬 作者**：Haolin Li, Jinyang Liu, Mario Sznaier, Octavia Camps
 - **🏫 单位**：Northeastern University
-- **🔗 链接**：[[中英摘要](./abs/2406.02720.md)] [[arXiv:2406.02720](https://arxiv.org/abs/2406.02720)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2406.02720.md)] [[arXiv:2406.02720](https://arxiv.org/abs/2406.02720)] [[Code](https://github.com/lihaolin88/3D-Half-Gaussian-Splatting)]
 - **📝 说明**：
 
 #### [74] Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting
@@ -553,7 +553,7 @@ in reverse chronological order.
 #### [83] Tetrahedron Splatting for 3D Generation
 - **🧑‍🔬 作者**：Chun Gu, Zeyu Yang, Zijie Pan, Xiatian Zhu, Li Zhang
 - **🏫 单位**：Fudan University ⟐ University of Surrey
-- **🔗 链接**：[[中英摘要](./abs/2406.01579.md)] [[arXiv:2406.01579](https://arxiv.org/abs/2406.01579)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2406.01579.md)] [[arXiv:2406.01579](https://arxiv.org/abs/2406.01579)] [[Code](https://github.com/fudan-zvg/tet-splatting)]
 - **📝 说明**：
 
 #### [84] DreamPhysics: Learning Physical Properties of Dynamic 3D Gaussians with Video Diffusion Priors
@@ -565,7 +565,7 @@ in reverse chronological order.
 #### [85] RaDe-GS: Rasterizing Depth in Gaussian Splatting
 - **🧑‍🔬 作者**：Baowen Zhang, Chuan Fang, Rakesh Shrestha, Yixun Liang, Xiaoxiao Long, Ping Tan
 - **🏫 单位**：Hong Kong University of Science and Technology ⟐ Simon Fraser University
-- **🔗 链接**：[[中英摘要](./abs/2406.01467.md)] [[arXiv:2406.01467](https://arxiv.org/abs/2406.01467)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2406.01467.md)] [[arXiv:2406.01467](https://arxiv.org/abs/2406.01467)] [[Code](https://github.com/BaowenZ/RaDe-GS)]
 - **📝 说明**：
 
 #### [86] Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting
