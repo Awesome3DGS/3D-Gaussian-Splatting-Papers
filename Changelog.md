@@ -1,5 +1,33 @@
 # Changelog
 
+### 2024/07/16
+
+Add "RecGS: Removing Water Caustic with Recurrent Gaussian Splatting"
+
+Add "3DEgo: 3D Editing on the Go!"
+
+Add "SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion"
+
+Add "3DGS.zip: A survey on 3D Gaussian Splatting Compression Methods"
+
+Add "StyleSplat: 3D Object Style Transfer with Gaussian Splatting"
+
+Add "WildGaussians: 3D Gaussian Splatting in the Wild"
+
+### 2024/07/11
+
+Add "MIGS: Multi-Identity Gaussian Splatting via Tensor Decomposition"
+
+Add "Reference-based Controllable Scene Stylization with Gaussian Splatting"
+
+Add "3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes"
+
+Add "PICA: Physics-Integrated Clothed Avatar"
+
+Add "GaussReg: Fast 3D Registration with Gaussian Splatting"
+
+Add "SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction"
+
 ### 2024/07/08
 
 Add "LaRa: Efficient Large-Baseline Radiance Fields"
