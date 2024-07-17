@@ -1,5 +1,17 @@
 # Changelog
 
+### 2024/07/17
+
+Add "MVG-Splatting: Multi-View Guided Gaussian Splatting with Adaptive Quantile-Based Geometric Consistency Densification"
+
+Add "Click-Gaussian: Interactive Segmentation to Any 3D Gaussians"
+
+Add "Ev-GS: Event-based Gaussian splatting for Efficient and Accurate Radiance Field Rendering"
+
+Add "Gaussian Splatting Lucas-Kanade"
+
+Add "iHuman: Instant Animatable Digital Humans From Monocular Videos"
+
 ### 2024/07/16
 
 Add "RecGS: Removing Water Caustic with Recurrent Gaussian Splatting"
