@@ -1,5 +1,15 @@
 # Changelog
 
+### 2024/07/19
+
+Add "Connecting Consistency Distillation to Score Distillation for Text-to-3D Generation"
+
+Add "EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting"
+
+Add "Generalizable Human Gaussians for Sparse View Synthesis"
+
+Add "Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for Unconstrained Photo Collections"
+
 ### 2024/07/17
 
 Add "MVG-Splatting: Multi-View Guided Gaussian Splatting with Adaptive Quantile-Based Geometric Consistency Densification"
