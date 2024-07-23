@@ -1,5 +1,21 @@
 # Changelog
 
+### 2024/07/23
+
+Add "6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model"
+
+Add "Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures"
+
+Add "HoloDreamer: Holistic 3D Panoramic World Generation from Text Descriptions"
+
+Add "3D Gaussian Parametric Head Model"
+
+Add "Realistic Surgical Image Dataset Generation Based On 3D Gaussian Splatting"
+
+Add "GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation"
+
+Add "PlacidDreamer: Advancing Harmony in Text-to-3D Generation"
+
 ### 2024/07/19
 
 Add "Connecting Consistency Distillation to Score Distillation for Text-to-3D Generation"
