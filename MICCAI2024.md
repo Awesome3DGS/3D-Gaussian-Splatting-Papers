@@ -31,3 +31,8 @@ Institute
 - **🔗 链接**：[[中英摘要](./abs/2407.02918.md)] [[arXiv:2407.02918](https://arxiv.org/abs/2407.02918)] [[Code](https://github.com/wrld/Free-SurGS)]
 - **📝 说明**：🏆 Accepted to MICCAI 2024
 
+#### [6] Realistic Surgical Image Dataset Generation Based On 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Tianle Zeng, Gerardo Loza Galindo, Junlei Hu, Pietro Valdastri, Dominic Jones
+- **🏫 单位**：University of Leeds
+- **🔗 链接**：[[中英摘要](./abs/2407.14846.md)] [[arXiv:2407.14846](https://arxiv.org/abs/2407.14846)] [Code]
+- **📝 说明**：🏆 Accepted to MICCAI 2024
