@@ -1,5 +1,15 @@
 # Changelog
 
+### 2024/07/26
+
+Add "3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities"
+
+Add "DHGS: Decoupled Hybrid Gaussian Splatting for Driving Scene"
+
+Add "HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images"
+
+Add "Integrating Meshes and 3D Gaussians for Indoor Scene Reconstruction with SAM Mask Guidance"
+
 ### 2024/07/23
 
 Add "6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model"
