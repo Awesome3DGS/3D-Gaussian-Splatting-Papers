@@ -1,5 +1,35 @@
 # Changelog
 
+### 2024/08/10
+
+Add "Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM"
+
+Add "Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields"
+
+Add "3iGS: Factorised Tensorial Illumination for 3D Gaussian Splatting"
+
+Add "PRTGS: Precomputed Radiance Transfer of Gaussian Splats for Real-Time High-Quality Relighting"
+
+Add "MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images"
+
+Add "A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness"
+
+Add "Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion"
+
+Add "IG-SLAM: Instant Gaussian SLAM"
+
+Add "EmoTalk3D: High-Fidelity Free-View Synthesis of Emotional 3D Talking Head"
+
+Add "LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting"
+
+Add "Localized Gaussian Splatting Editing with Contextual Awareness"
+
+Add "Expressive Whole-Body 3D Gaussian Avatar"
+
+Add "Registering Neural 4D Gaussians for Endoscopic Surgery"
+
+Add "ScalingGaussian: Enhancing 3D Content Creation with Generative Gaussian Splatting"
+
 ### 2024/07/26
 
 Add "3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities"
