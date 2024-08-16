@@ -1,5 +1,31 @@
 # Changelog
 
+### 2024/08/16
+
+Add "WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting"
+
+Add "FlashGS: Efficient 3D Gaussian Splatting for Large-scale and High-resolution Rendering"
+
+Add "3D Gaussian Editing with A Single Image"
+
+Add "SpectralGaussians: Semantic, spectral 3D Gaussian splatting for multi-spectral scene representation, visualization and analysis"
+
+Add "HDRGS: High Dynamic Range Gaussian Splatting"
+
+Add "Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering"
+
+Add "HeadGAP: Few-shot 3D Head Avatar via Generalizable Gaussian Priors"
+
+Add "Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis"
+
+Add "PRTGaussian: Efficient Relighting Using 3D Gaussians with Precomputed Radiance Transfer"
+
+Add "Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction"
+
+Add "LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting"
+
+Add "InstantStyleGaussian: Efficient Art Style Transfer with 3D Gaussian Splatting"
+
 ### 2024/08/10
 
 Add "Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM"
