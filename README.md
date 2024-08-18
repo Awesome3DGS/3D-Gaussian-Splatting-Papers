@@ -22,14 +22,14 @@ in reverse chronological order.
   [[3DV2024](./3DV2024.md)] (1 篇)
   [[CVPR2024](./CVPR2024.md)] (66 篇)
   [[WACV2024](./WACV2024.md)] (1 篇)
-  [[ICML2024](./ICML2024.md)] (3 篇)
-- [[SIGGRAPH2024](./SIGGRAPH2024.md)] (7 篇)
+  [[ICML2024](./ICML2024.md)] (4 篇)
+- [[SIGGRAPH2024](./SIGGRAPH2024.md)] (10 篇)
   [[IJCAI2024](./IJCAI2024.md)] (1 篇)
-  [[ECCV2024](./ECCV2024.md)] (48 篇)
-  [[MICCAI2024](./MICCAI2024.md)] (6 篇)
-  [[ACMMM2024](./ACMMM2024.md)] (2 篇)
+  [[ECCV2024](./ECCV2024.md)] (62 篇)
+  [[MICCAI2024](./MICCAI2024.md)] (7 篇)
+  [[ACMMM2024](./ACMMM2024.md)] (3 篇)
 
-**📂 归档论文**: [[Before 2024/06/01](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/tree/archive/202406)] (254 篇)
+**📂 归档论文**: [[Before 2024/06/01](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/tree/archive/202406)] (231 篇)
 
 ---
 
