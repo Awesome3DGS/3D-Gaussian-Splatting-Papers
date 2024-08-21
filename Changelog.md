@@ -1,5 +1,39 @@
 # Changelog
 
+### 2024/08/21
+
+Add "Subsurface Scattering for 3D Gaussian Splatting"
+
+Add "Robust 3D Gaussian Splatting for Novel View Synthesis in Presence of Distractors"
+
+Add "DeRainGS: Gaussian Splatting for Enhanced Scene Reconstruction in Rainy Environments"
+
+Add "GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting"
+
+Add "Pano2Room: Novel View Synthesis from a Single Indoor Panorama"
+
+Add "GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting"
+
+Add "Large Point-to-Gaussian Model for Image-to-3D Generation"
+
+Add "ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining"
+
+Add "DEGAS: Detailed Expressions on Full-Body Gaussian Avatars"
+
+Add "LoopSplat: Loop Closure by Registering 3D Gaussian Splats"
+
+Add "Implicit Gaussian Splatting with Efficient Multi-Level Tri-Plane Representation"
+
+Add "SG-GS: Photo-realistic Animatable Human Avatars with Semantically-Guided Gaussian Splatting"
+
+Add "CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning"
+
+Add "Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting"
+
+Add "Correspondence-Guided SfM-Free 3D Gaussian Splatting for NVS"
+
+Add "GS-ID: Illumination Decomposition on Gaussian Splatting via Diffusion Prior and Parametric Light Source Optimization"
+
 ### 2024/08/16
 
 Add "WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting"
