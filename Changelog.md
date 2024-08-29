@@ -1,5 +1,39 @@
 # Changelog
 
+### 2024/08/29
+
+Add "Towards Realistic Example-based Modeling via 3D Gaussian Stitching"
+
+Add "G-Style: Stylized Gaussian Splatting"
+
+Add "Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty"
+
+Add "Robo-GS: A Physics Consistent Spatial-Temporal Model for Robotic Arm with Hybrid Representation"
+
+Add "LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming"
+
+Add "Avatar Concept Slider: Manipulate Concepts In Your Human Avatar With Fine-grained Control"
+
+Add "DynaSurfGS: Dynamic Surface Reconstruction with Planar-based Gaussian Splatting"
+
+Add "Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs"
+
+Add "TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers"
+
+Add "SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting"
+
+Add "BiGS: Bidirectional Gaussian Primitives for Relightable 3D Gaussian Splatting"
+
+Add "Atlas Gaussians Diffusion for 3D Generation with Infinite Number of Points"
+
+Add "LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation"
+
+Add "S4D: Streaming 4D Real-World Reconstruction with Gaussians and 3D Control Points"
+
+Add "FLoD: Integrating Flexible Level of Detail into 3D Gaussian Splatting for Customizable Rendering"
+
+Add "GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion"
+
 ### 2024/08/21
 
 Add "Subsurface Scattering for 3D Gaussian Splatting"
