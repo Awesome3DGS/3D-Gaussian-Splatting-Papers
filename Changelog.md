@@ -1,5 +1,15 @@
 # Changelog
 
+### 2024/09/03
+
+Add "OG-Mapping: Octree-based Structured 3D Gaussians for Online Dense Mapping"
+
+Add "2DGH: 2D Gaussian-Hermite Splatting for High-quality Rendering and Better Geometry Reconstruction"
+
+Add "ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model"
+
+Add "OmniRe: Omni Urban Scene Reconstruction"
+
 ### 2024/08/29
 
 Add "Towards Realistic Example-based Modeling via 3D Gaussian Stitching"
