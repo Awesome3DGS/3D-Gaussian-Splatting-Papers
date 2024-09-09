@@ -1,5 +1,29 @@
 # Changelog
 
+### 2024/09/09
+
+Add "LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors"
+
+Add "Optimizing 3D Gaussian Splatting for Sparse Viewpoint Scene Reconstruction"
+
+Add "Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models"
+
+Add "Object Gaussian for Monocular 6D Pose Estimation from Sparse Views"
+
+Add "GGS: Generalizable Gaussian Splatting for Lane Switching in Autonomous Driving"
+
+Add "DynOMo: Online Point Tracking by Dynamic Online Monocular Gaussian Reconstruction"
+
+Add "PRoGS: Progressive Rendering of Gaussian Splats"
+
+Add "GaussianPU: A Hybrid 2D-3D Upsampling Framework for Enhancing Color Point Clouds via 3D Gaussian Splatting"
+
+Add "Free-DyGS: Camera-Pose-Free Scene Reconstruction based on Gaussian Splatting for Dynamic Surgical Videos"
+
+Add "3D Gaussian Splatting for Large-scale 3D Surface Reconstruction from Aerial Images"
+
+Add "UDGS-SLAM : UniDepth Assisted Gaussian Splatting for Monocular SLAM"
+
 ### 2024/09/03
 
 Add "OG-Mapping: Octree-based Structured 3D Gaussians for Online Dense Mapping"
