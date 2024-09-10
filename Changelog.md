@@ -1,5 +1,19 @@
 # Changelog
 
+### 2024/09/10
+
+Add "GASP: Gaussian Splatting for Physic-Based Simulations"
+
+Add "Lagrangian Hashing for Compressed Neural Field Representations"
+
+Add "GS-PT: Exploiting 3D Gaussian Splatting for Comprehensive Point Cloud Understanding via Self-supervised Learning"
+
+Add "Fisheye-GS: Lightweight and Extensible Gaussian Splatting Module for Fisheye Cameras"
+
+Add "GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers"
+
+Add "3D-GP-LMVIC: Learning-based Multi-View Image Coding with 3D Gaussian Geometric Priors"
+
 ### 2024/09/09
 
 Add "LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors"
