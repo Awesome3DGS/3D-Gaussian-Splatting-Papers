@@ -1,5 +1,29 @@
 # Changelog
 
+### 2024/09/13
+
+Add "FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally"
+
+Add "Thermal3D-GS: Physics-induced 3D Gaussians for Thermal Infrared Novel-view Synthesis"
+
+Add "SwinGS: Sliding Window Gaussian Splatting for Volumetric Video Streaming with Arbitrary Length"
+
+Add "Self-Evolving Depth-Supervised 3D Gaussian Splatting from Rendered Stereo Pairs"
+
+Add "Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models"
+
+Add "Instant Facial Gaussians Translator for Relightable and Interactable Facial Rendering"
+
+Add "Single-View 3D Reconstruction via SO(2)-Equivariant Gaussian Sculpting Networks"
+
+Add "ThermalGaussian: Thermal 3D Gaussian Splatting"
+
+Add "gsplat: An Open-Source Library for Gaussian Splatting"
+
+Add "GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction"
+
+Add "SpecGaussian with Latent Features: A High-quality Modeling of the View-dependent Appearance for 3D Gaussian Splatting"
+
 ### 2024/09/10
 
 Add "GASP: Gaussian Splatting for Physic-Based Simulations"
