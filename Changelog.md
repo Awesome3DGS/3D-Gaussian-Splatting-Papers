@@ -1,5 +1,15 @@
 # Changelog
 
+### 2024/09/16
+
+Add "AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius"
+
+Add "Dense Point Clouds Matter: Dust-GS for Scene Reconstruction from Sparse Viewpoints"
+
+Add "CSS: Overcoming Pose and Scene Challenges in Crowd-Sourced 3D Gaussian Splatting"
+
+Add "Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos"
+
 ### 2024/09/13
 
 Add "FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally"
