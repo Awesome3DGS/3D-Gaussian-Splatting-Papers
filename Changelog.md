@@ -1,5 +1,31 @@
 # Changelog
 
+### 2024/09/18
+
+Add "RenderWorld: World Model with Self-Supervised 3D Label"
+
+Add "GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module"
+
+Add "SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction"
+
+Add "GLC-SLAM: Gaussian Splatting SLAM with Efficient Loop Closure"
+
+Add "Phys3DGS: Physically-based 3D Gaussian Splatting for Inverse Rendering"
+
+Add "BEINGS: Bayesian Embodied Image-goal Navigation with Gaussian Splatting"
+
+Add "SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting"
+
+Add "DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments"
+
+Add "SAFER-Splat: A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps"
+
+Add "MesonGS: Post-training Compression of 3D Gaussians via Efficient Attribute Transformation"
+
+Add "GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians"
+
+Add "A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis"
+
 ### 2024/09/16
 
 Add "AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius"
