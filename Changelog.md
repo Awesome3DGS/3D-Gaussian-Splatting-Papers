@@ -1,5 +1,33 @@
 # Changelog
 
+### 2024/09/22
+
+Add "GStex: Per-Primitive Texturing of 2D Gaussian Splatting for Decoupled Appearance and Geometry Modeling"
+
+Add "LI-GS: Gaussian Splatting with LiDAR Incorporated for Accurate Large-Scale Reconstruction"
+
+Add "3DGS-LM: Faster Gaussian-Splatting Optimization with Levenberg-Marquardt"
+
+Add "EdgeGaussians -- 3D Edge Mapping via Gaussian Splatting"
+
+Add "GaRField++: Reinforced Gaussian Radiance Fields for Large-Scale 3D Scene Reconstruction"
+
+Add "Spectral-GS: Taming 3D Gaussian Splatting with Spectral Entropy"
+
+Add "DrivingForward: Feed-forward 3D Gaussian Splatting for Driving Scene Reconstruction from Flexible Surround-view Input"
+
+Add "CrossRT: A cross platform programming technology for hardware-accelerated ray tracing in CG and CV applications"
+
+Add "Hi-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting"
+
+Add "Depth Estimation Based on 3D Gaussian Splatting Siamese Defocus"
+
+Add "Vista3D: Unravel the 3D Darkside of a Single Image"
+
+Add "SRIF: Semantic Shape Registration Empowered by Diffusion-based Image Morphing and Flow Estimation"
+
+Add "Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks"
+
 ### 2024/09/18
 
 Add "RenderWorld: World Model with Self-Supervised 3D Label"
