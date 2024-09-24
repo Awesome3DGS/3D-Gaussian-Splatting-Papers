@@ -1,5 +1,19 @@
 # Changelog
 
+### 2024/09/24
+
+Add "Human Hair Reconstruction with Strand-Aligned 3D Gaussians"
+
+Add "MVPGS: Excavating Multi-view Priors for Gaussian Splatting from Sparse Input Views"
+
+Add "SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality"
+
+Add "Elite-EvGS: Learning Event-based 3D Gaussian Splatting by Distilling Event-to-Video Priors"
+
+Add "3D-GSW: 3D Gaussian Splatting Watermark for Protecting Copyrights in Radiance Fields"
+
+Add "MGSO: Monocular Real-time Photometric SLAM with Efficient 3D Gaussian Splatting"
+
 ### 2024/09/22
 
 Add "GStex: Per-Primitive Texturing of 2D Gaussian Splatting for Decoupled Appearance and Geometry Modeling"
