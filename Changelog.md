@@ -1,5 +1,59 @@
 # Changelog
 
+### 2024/10/02
+
+Add "CaRtGS: Computational Alignment for Real-Time Gaussian Splatting SLAM"
+
+Add "Seamless Augmented Reality Integration in Arthroscopy: A Pipeline for Articular Reconstruction and Guidance"
+
+Add "GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving"
+
+Add "RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning"
+
+Add "Robust Gaussian Splatting SLAM by Leveraging Loop Closure"
+
+Add "RNG: Relightable Neural Gaussians"
+
+Add "GS-EVT: Cross-Modal Event Camera Tracking based on Gaussian Splatting"
+
+Add "1st Place Solution to the 8th HANDS Workshop Challenge -- ARCTIC Track: 3DGS-based Bimanual Category-agnostic Interaction Reconstruction"
+
+Add "Gaussian Heritage: 3D Digitization of Cultural Heritage with Integrated Object Segmentation"
+
+Add "Space-time 2D Gaussian Splatting for Accurate Surface Reconstruction under Complex Dynamic Scenes"
+
+Add "RT-GuIDE: Real-Time Gaussian splatting for Information-Driven Exploration"
+
+Add "Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot"
+
+Add "WaSt-3D: Wasserstein-2 Distance for Scene-to-Scene Stylization on 3D Gaussians"
+
+Add "HGS-Planner: Hierarchical Planning Framework for Active Scene Reconstruction Using 3D Gaussian Splatting"
+
+Add "SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model"
+
+Add "Disco4D: Disentangled 4D Human Generation and Animation from a Single Image"
+
+Add "Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM"
+
+Add "Generative Object Insertion in Gaussian Splatting with a Multi-View Diffusion Model"
+
+Add "Let's Make a Splan: Risk-Aware Trajectory Optimization in a Normalized Gaussian Splat"
+
+Add "Low Latency Point Cloud Rendering with Learned Splatting"
+
+Add "GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization"
+
+Add "Frequency-based View Selection in Gaussian Splatting Reconstruction"
+
+Add "LiDAR-3DGS: LiDAR Reinforced 3D Gaussian Splatting for Multimodal Radiance Field Rendering"
+
+Add "Gaussian Deja-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities"
+
+Add "Semantics-Controlled Gaussian Splatting for Outdoor Scene Reconstruction and Rendering in Virtual Reality"
+
+Add "Plenoptic PNG: Real-Time Neural Radiance Fields in 150 KB"
+
 ### 2024/09/24
 
 Add "Human Hair Reconstruction with Strand-Aligned 3D Gaussians"
