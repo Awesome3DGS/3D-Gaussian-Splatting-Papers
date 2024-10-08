@@ -1,5 +1,35 @@
 # Changelog
 
+### 2024/10/08
+
+Add "StreetSurfGS: Scalable Urban Street Surface Reconstruction with Planar-based Gaussian Splatting"
+
+Add "Variational Bayes Gaussian Splatting"
+
+Add "Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats"
+
+Add "GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering"
+
+Add "SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting"
+
+Add "MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis"
+
+Add "EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis"
+
+Add "3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection"
+
+Add "Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization"
+
+Add "GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians"
+
+Add "MiraGe: Editable 2D Images using Gaussian Splatting"
+
+Add "UW-GS: Distractor-Aware 3D Gaussian Splatting for Enhanced Underwater Scene Reconstruction"
+
+Add "EVA-Gaussian: 3D Gaussian-based Real-time Human Novel View Synthesis under Diverse Camera Settings"
+
+Add "Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection"
+
 ### 2024/10/02
 
 Add "CaRtGS: Computational Alignment for Real-Time Gaussian Splatting SLAM"
