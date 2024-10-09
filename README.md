@@ -71,1570 +71,1606 @@ in reverse chronological order.
 
 ---
 
-#### [1] StreetSurfGS: Scalable Urban Street Surface Reconstruction with Planar-based Gaussian Splatting
+#### [1] GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting
+- **🧑‍🔬 作者**：Yukang Cao, Masoud Hadi, Liang Pan, Ziwei Liu
+- **🏫 单位**：Nanyang Technological University ⟐ Shanghai AI Laboratory ⟐ Isfahan University of Technology
+- **🔗 链接**：[[中英摘要](./abs/2410.05259.md)] [[arXiv:2410.05259](https://arxiv.org/abs/2410.05259)] [[Code](https://github.com/yukangcao/GS-VTON)]
+- **📝 说明**：
+
+#### [2] LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting
+- **🧑‍🔬 作者**：Qifeng Chen, Sheng Yang, Sicong Du, Tao Tang, Peng Chen, Yuchi Huo
+- **🏫 单位**：
+- **🔗 链接**：[[中英摘要](./abs/2410.05111.md)] [[arXiv:2410.05111](https://arxiv.org/abs/2410.05111)] [Code]
+- **📝 说明**：
+
+#### [3] PhotoReg: Photometrically Registering 3D Gaussian Splatting Models
+- **🧑‍🔬 作者**：Ziwen Yuan, Tianyi Zhang, Matthew Johnson-Roberson, Weiming Zhi
+- **🏫 单位**：Carnegie Mellon University
+- **🔗 链接**：[[中英摘要](./abs/2410.05044.md)] [[arXiv:2410.05044](https://arxiv.org/abs/2410.05044)] [[Code](https://github.com/ziweny11/PhotoRegCodes)]
+- **📝 说明**：
+
+#### [4] 6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering
+- **🧑‍🔬 作者**：Zhongpai Gao, Benjamin Planche, Meng Zheng, Anwesa Choudhuri, Terrence Chen, Ziyan Wu
+- **🏫 单位**：United Imaging Intelligence, Boston MA, USA
+- **🔗 链接**：[[中英摘要](./abs/2410.04974.md)] [[arXiv:2410.04974](https://arxiv.org/abs/2410.04974)] [Code]
+- **📝 说明**：
+
+#### [5] Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Matthew Strong, Boshu Lei, Aiden Swann, Wen Jiang, Kostas Daniilidis, Monroe Kennedy III
+- **🏫 单位**：Stanford University ⟐ University of Pennsylvania
+- **🔗 链接**：[[中英摘要](./abs/2410.04680.md)] [[arXiv:2410.04680](https://arxiv.org/abs/2410.04680)] [Code]
+- **📝 说明**：
+
+#### [6] Mode-GS: Monocular Depth Guided Anchored 3D Gaussian Splatting for Robust Ground-View Scene Rendering
+- **🧑‍🔬 作者**：Yonghan Lee, Jaehoon Choi, Dongki Jung, Jaeseong Yun, Soohyun Ryu, Dinesh Manocha, Suyong Yeon
+- **🏫 单位**：University of Maryland ⟐ NAVER LABS
+- **🔗 链接**：[[中英摘要](./abs/2410.04646.md)] [[arXiv:2410.04646](https://arxiv.org/abs/2410.04646)] [Code]
+- **📝 说明**：
+
+#### [7] StreetSurfGS: Scalable Urban Street Surface Reconstruction with Planar-based Gaussian Splatting
 - **🧑‍🔬 作者**：Xiao Cui, Weicai Ye, Yifan Wang, Guofeng Zhang, Wengang Zhou, Tong He, Houqiang Li
 - **🏫 单位**：Department of Electrical Engineering and Information Science, University of Science and Technology of China ⟐ State Key Laboratory of CAD and CG, Zhejiang University ⟐ Shanghai AI Laboratory
 - **🔗 链接**：[[中英摘要](./abs/2410.04354.md)] [[arXiv:2410.04354](https://arxiv.org/abs/2410.04354)] [Code]
 - **📝 说明**：
 
-#### [2] Variational Bayes Gaussian Splatting
+#### [8] Variational Bayes Gaussian Splatting
 - **🧑‍🔬 作者**：Toon Van de Maele, Ozan Catal, Alexander Tschantz, Christopher L. Buckley, Tim Verbelen
 - **🏫 单位**：VERSES AI Research Lab ⟐ School of Engineering and Informatics University of Sussex Brighton, UK
 - **🔗 链接**：[[中英摘要](./abs/2410.03592.md)] [[arXiv:2410.03592](https://arxiv.org/abs/2410.03592)] [Code]
 - **📝 说明**：
 
-#### [3] Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats
+#### [9] Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats
 - **🧑‍🔬 作者**：Mingyang Xie, Haoming Cai, Sachin Shah, Yiran Xu, Brandon Y. Feng, Jia-Bin Huang, Christopher A. Metzler
 - **🏫 单位**：University of Maryland ⟐ Massachusetts Institute of Technology
 - **🔗 链接**：[[中英摘要](./abs/2410.02764.md)] [[arXiv:2410.02764](https://arxiv.org/abs/2410.02764)] [[Code](https://flash-splat.github.io/)]
 - **📝 说明**：🏆 Accepted to ECCV 2024
 
-#### [4] GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering
+#### [10] GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering
 - **🧑‍🔬 作者**：Hongze Chen, Zehong Lin, Jun Zhang
 - **🏫 单位**：The Hong Kong University of Science and Technology
 - **🔗 链接**：[[中英摘要](./abs/2410.02619.md)] [[arXiv:2410.02619](https://arxiv.org/abs/2410.02619)] [[Code](https://stopaimme.github.io/GI-GS/)]
 - **📝 说明**：
 
-#### [5] SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting
+#### [11] SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting
 - **🧑‍🔬 作者**：Shiyun Xie, Zhiru Wang, Yinghao Zhu, Chengwei Pan
 - **🏫 单位**：Beihang University
 - **🔗 链接**：[[中英摘要](./abs/2410.02571.md)] [[arXiv:2410.02571](https://arxiv.org/abs/2410.02571)] [Code]
 - **📝 说明**：
 
-#### [6] MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis
+#### [12] MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis
 - **🧑‍🔬 作者**：Xiaobiao Du, Yida Wang, Xin Yu
 - **🏫 单位**：The University of Technology Sydney ⟐ The University of Queensland ⟐ Liauto Inc.
 - **🔗 链接**：[[中英摘要](./abs/2410.02103.md)] [[arXiv:2410.02103](https://arxiv.org/abs/2410.02103)] [[Code](https://github.com/xiaobiaodu/MVGS)]
 - **📝 说明**：
 
-#### [7] EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis
+#### [13] EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis
 - **🧑‍🔬 作者**：Alexander Mai, Peter Hedman, George Kopanas, Dor Verbin, David Futschik, Qiangeng Xu, Falko Kuester, Jon Barron, Yinda Zhang
 - **🏫 单位**：University of California, San Diego ⟐ Google
 - **🔗 链接**：[[中英摘要](./abs/2410.01804.md)] [[arXiv:2410.01804](https://arxiv.org/abs/2410.01804)] [[Code](https://half-potato.gitlab.io/posts/ever/)]
 - **📝 说明**：
 
-#### [8] 3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection
+#### [14] 3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection
 - **🧑‍🔬 作者**：Yang Cao, Yuanliang Jv, Dan Xu
 - **🏫 单位**：The Hong Kong University of Science and Technology
 - **🔗 链接**：[[中英摘要](./abs/2410.01647.md)] [[arXiv:2410.01647](https://arxiv.org/abs/2410.01647)] [[Code](https://github.com/yangcaoai/3DGS-DET)]
 - **📝 说明**：
 
-#### [9] Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization
+#### [15] Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization
 - **🧑‍🔬 作者**：Zihan Wang, Shuzhe Wang, Matias Turkulainen, Junyuan Fang, Juho Kannala
 - **🏫 单位**：Aalto University ⟐ University of Oulu ⟐ ETH Zurich
 - **🔗 链接**：[[中英摘要](./abs/2410.01614.md)] [[arXiv:2410.01614](https://arxiv.org/abs/2410.01614)] [Code]
 - **📝 说明**：
 
-#### [10] GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians
+#### [16] GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians
 - **🧑‍🔬 作者**：Shuyi Jiang, Qihao Zhao, Hossein Rahmani, De Wen Soh, Jun Liu, Na Zhao
 - **🏫 单位**：Singapore Univeristy of Technology and Design ⟐ Microsoft Research Asia ⟐ Lancaster University
 - **🔗 链接**：[[中英摘要](./abs/2410.01535.md)] [[arXiv:2410.01535](https://arxiv.org/abs/2410.01535)] [Code]
 - **📝 说明**：
 
-#### [11] MiraGe: Editable 2D Images using Gaussian Splatting
+#### [17] MiraGe: Editable 2D Images using Gaussian Splatting
 - **🧑‍🔬 作者**：Joanna Waczyńska, Tomasz Szczepanik, Piotr Borycki, Sławomir Tadeja, Thomas Bohné, Przemysław Spurek
 - **🏫 单位**：Jagiellonian University ⟐ University of Cambridge
 - **🔗 链接**：[[中英摘要](./abs/2410.01521.md)] [[arXiv:2410.01521](https://arxiv.org/abs/2410.01521)] [Code]
 - **📝 说明**：
 
-#### [12] UW-GS: Distractor-Aware 3D Gaussian Splatting for Enhanced Underwater Scene Reconstruction
+#### [18] UW-GS: Distractor-Aware 3D Gaussian Splatting for Enhanced Underwater Scene Reconstruction
 - **🧑‍🔬 作者**：Haoran Wang, Nantheera Anantrasirichai, Fan Zhang, David Bull
 - **🏫 单位**：School of Computer Science, University of Bristol, Bristol, UK
 - **🔗 链接**：[[中英摘要](./abs/2410.01517.md)] [[arXiv:2410.01517](https://arxiv.org/abs/2410.01517)] [Code]
 - **📝 说明**：
 
-#### [13] EVA-Gaussian: 3D Gaussian-based Real-time Human Novel View Synthesis under Diverse Camera Settings
+#### [19] EVA-Gaussian: 3D Gaussian-based Real-time Human Novel View Synthesis under Diverse Camera Settings
 - **🧑‍🔬 作者**：Yingdong Hu, Zhening Liu, Jiawei Shao, Zehong Lin, Jun Zhang
 - **🏫 单位**：The Hong Kong University of Science and Technology ⟐ Institute of Artificial Intelligence (TeleAI), China Telecom
 - **🔗 链接**：[[中英摘要](./abs/2410.01425.md)] [[arXiv:2410.01425](https://arxiv.org/abs/2410.01425)] [[Code](https://zhenliuzju.github.io/huyingdong/EVA-Gaussian)]
 - **📝 说明**：
 
-#### [14] Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection
+#### [20] Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection
 - **🧑‍🔬 作者**：Hongru Yan, Yu Zheng, Yueqi Duan
 - **🏫 单位**：Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2410.01404.md)] [[arXiv:2410.01404](https://arxiv.org/abs/2410.01404)] [Code]
 - **📝 说明**：
 
-#### [15] CaRtGS: Computational Alignment for Real-Time Gaussian Splatting SLAM
+#### [21] CaRtGS: Computational Alignment for Real-Time Gaussian Splatting SLAM
 - **🧑‍🔬 作者**：Dapeng Feng, Zhiqiang Chen, Yizhen Yin, Shipeng Zhong, Yuhua Qi, Hongbo Chen
 - **🏫 单位**：Sun Yat-sen University ⟐ The University of Hong Kong ⟐ WeRide Inc.
 - **🔗 链接**：[[中英摘要](./abs/2410.00486.md)] [[arXiv:2410.00486](https://arxiv.org/abs/2410.00486)] [[Code](https://github.com/dapengfeng/cartgs)]
 - **📝 说明**：
 
-#### [16] Seamless Augmented Reality Integration in Arthroscopy: A Pipeline for Articular Reconstruction and Guidance
+#### [22] Seamless Augmented Reality Integration in Arthroscopy: A Pipeline for Articular Reconstruction and Guidance
 - **🧑‍🔬 作者**：Hongchao Shu, Mingxu Liu, Lalithkumar Seenivasan, Suxi Gu, Ping-Cheng Ku, Jonathan Knopf, Russell Taylor, Mathias Unberath
 - **🏫 单位**：Department of Computer Science, Johns Hopkins University, Baltimore, Maryland, USA ⟐ Department of Orthopedics, Tsinghua Changgung Hospital, Tsinghua University, School of Medicine, Beijing, China ⟐ Arthrex, Inc. Naples, Florida, USA
 - **🔗 链接**：[[中英摘要](./abs/2410.00386.md)] [[arXiv:2410.00386](https://arxiv.org/abs/2410.00386)] [Code]
 - **📝 说明**：
 
-#### [17] GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving
+#### [23] GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving
 - **🧑‍🔬 作者**：Zhangshuo Qi, Junyi Ma, Jingyi Xu, Zijie Zhou, Luqi Cheng, Guangming Xiong
 - **🏫 单位**：Beijing Institute of Technology ⟐ Shanghai Jiao Tong University
 - **🔗 链接**：[[中英摘要](./abs/2410.00299.md)] [[arXiv:2410.00299](https://arxiv.org/abs/2410.00299)] [[Code](https://github.com/QiZS-BIT/GSPR)]
 - **📝 说明**：
 
-#### [18] RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning
+#### [24] RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning
 - **🧑‍🔬 作者**：Yuxuan Wu, Lei Pan, Wenhua Wu, Guangming Wang, Yanzi Miao, Hesheng Wang
 - **🏫 单位**：Department of Automation, Shanghai Jiao Tong University ⟐ School of Information and Control Engineering, China University of Mining and Technology ⟐ MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University ⟐ Department of Engineering, University of Cambridge
 - **🔗 链接**：[[中英摘要](./abs/2409.20291.md)] [[arXiv:2409.20291](https://arxiv.org/abs/2409.20291)] [[Code](https://github.com/FurryGreen/RL-GS-Bridge)]
 - **📝 说明**：
 
-#### [19] Robust Gaussian Splatting SLAM by Leveraging Loop Closure
+#### [25] Robust Gaussian Splatting SLAM by Leveraging Loop Closure
 - **🧑‍🔬 作者**：Zunjie Zhu, Youxu Fang, Xin Li, Chengang Yan, Feng Xu, Chau Yuen, Yanyan Li
 - **🏫 单位**：School of Communication Engineering, Hangzhou Dianzi University, Hangzhou, China ⟐ School of Automation, Hangzhou Dianzi University, Hangzhou, China. C. Yan is also with the Faculty of Applied Sciences, Macao Polytechnic University ⟐ School of Electrical and Electronics Engineering, Nanyang Technological University, Singapore ⟐ BNRist and School of Software, Tsinghua University, Beijing, China ⟐ e Technical University of Munich, Munich, Germany
 - **🔗 链接**：[[中英摘要](./abs/2409.20111.md)] [[arXiv:2409.20111](https://arxiv.org/abs/2409.20111)] [Code]
 - **📝 说明**：
 
-#### [20] RNG: Relightable Neural Gaussians
+#### [26] RNG: Relightable Neural Gaussians
 - **🧑‍🔬 作者**：Jiahui Fan, Fujun Luan, Jian Yang, Miloš Hašan, Beibei Wang
 - **🏫 单位**：Nanjing University of Science and Technology, China ⟐ Adobe Research, USA ⟐ Nanjing University, China
 - **🔗 链接**：[[中英摘要](./abs/2409.19702.md)] [[arXiv:2409.19702](https://arxiv.org/abs/2409.19702)] [Code]
 - **📝 说明**：
 
-#### [21] GS-EVT: Cross-Modal Event Camera Tracking based on Gaussian Splatting
+#### [27] GS-EVT: Cross-Modal Event Camera Tracking based on Gaussian Splatting
 - **🧑‍🔬 作者**：Tao Liu, Runze Yuan, Yi'ang Ju, Xun Xu, Jiaqi Yang, Xiangting Meng, Xavier Lagorce, Laurent Kneip
 - **🏫 单位**：Mobile Perception Lab, ShanghaiTech University
 - **🔗 链接**：[[中英摘要](./abs/2409.19228.md)] [[arXiv:2409.19228](https://arxiv.org/abs/2409.19228)] [Code]
 - **📝 说明**：
 
-#### [22] 1st Place Solution to the 8th HANDS Workshop Challenge -- ARCTIC Track: 3DGS-based Bimanual Category-agnostic Interaction Reconstruction
+#### [28] 1st Place Solution to the 8th HANDS Workshop Challenge -- ARCTIC Track: 3DGS-based Bimanual Category-agnostic Interaction Reconstruction
 - **🧑‍🔬 作者**：Jeongwan On, Kyeonghwan Gwak, Gunyoung Kang, Hyein Hwang, Soohyun Hwang, Junuk Cha, Jaewook Han, Seungryul Baek
 - **🏫 单位**：UNIST
 - **🔗 链接**：[[中英摘要](./abs/2409.19215.md)] [[arXiv:2409.19215](https://arxiv.org/abs/2409.19215)] [Code]
 - **📝 说明**：
 
-#### [23] Gaussian Heritage: 3D Digitization of Cultural Heritage with Integrated Object Segmentation
+#### [29] Gaussian Heritage: 3D Digitization of Cultural Heritage with Integrated Object Segmentation
 - **🧑‍🔬 作者**：Mahtab Dahaghin, Myrna Castillo, Kourosh Riahidehkordi, Matteo Toso, Alessio Del Bue
 - **🏫 单位**：Pattern Analysis and Computer Vision (PAVIS) lab ⟐ Italian Institute of Technology (IIT)
 - **🔗 链接**：[[中英摘要](./abs/22409.19039.md)] [[arXiv:2409.19039](https://arxiv.org/abs/2409.19039)] [[Code](https://github.com/mahtaabdn/GaussianHeritage)]
 - **📝 说明**：🏆 Accepted to ECCV 2024
 
-#### [24] Space-time 2D Gaussian Splatting for Accurate Surface Reconstruction under Complex Dynamic Scenes
+#### [30] Space-time 2D Gaussian Splatting for Accurate Surface Reconstruction under Complex Dynamic Scenes
 - **🧑‍🔬 作者**：Shuo Wang, Binbin Huang, Ruoyu Wang, Shenghua Gao
 - **🏫 单位**：ShanghaiTech University ⟐ The University of Hong Kong
 - **🔗 链接**：[[中英摘要](./abs/2409.18852.md)] [[arXiv:2409.18852](https://arxiv.org/abs/2409.18852)] [[Code](https://github.com/tb2-sy/st-2dgs)]
 - **📝 说明**：
 
-#### [25] RT-GuIDE: Real-Time Gaussian splatting for Information-Driven Exploration
+#### [31] RT-GuIDE: Real-Time Gaussian splatting for Information-Driven Exploration
 - **🧑‍🔬 作者**：Yuezhan Tao, Dexter Ong, Varun Murali, Igor Spasojevic, Pratik Chaudhari, Vijay Kumar
 - **🏫 单位**：The GRASP Lab, University of Pennsylvania
 - **🔗 链接**：[[中英摘要](./abs/2409.18122.md)] [[arXiv:2409.18122](https://arxiv.org/abs/2409.18122)] [[Code](https://tyuezhan.github.io/RT_GuIDE/)]
 - **📝 说明**：
 
-#### [26] Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot
+#### [32] Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot
 - **🧑‍🔬 作者**：Justin Yu, Kush Hari, Kishore Srinivas, Karim El-Refai, Adam Rashid, Chung Min Kim, Justin Kerr, Richard Cheng, Muhammad Zubair Irshad, Ashwin Balakrishna, Thomas Kollar, Ken Goldberg
 - **🏫 单位**：The AUTOLab at UC Berkeley ⟐ The Toyota Research Institute
 - **🔗 链接**：[[中英摘要](./abs/2409.18108.md)] [[arXiv:2409.18108](https://arxiv.org/abs/2409.18108)] [[Code](https://berkeleyautomation.github.io/LEGS/)]
 - **📝 说明**：
 
-#### [27] WaSt-3D: Wasserstein-2 Distance for Scene-to-Scene Stylization on 3D Gaussians
+#### [33] WaSt-3D: Wasserstein-2 Distance for Scene-to-Scene Stylization on 3D Gaussians
 - **🧑‍🔬 作者**：Dmytro Kotovenko, Olga Grebenkova, Nikolaos Sarafianos, Avinash Paliwal, Pingchuan Ma, Omid Poursaeed, Sreyas Mohan, Yuchen Fan, Yilei Li, Rakesh Ranjan, Björn Ommer
 - **🏫 单位**：CompVis @ LMU Munich, MCML ⟐ Meta Reality Labs ⟐ Texas A&M University
 - **🔗 链接**：[[中英摘要](./abs/2409.17917.md)] [[arXiv:2409.17917](https://arxiv.org/abs/2409.17917)] [[Code](https://github.com/facebookresearch/WaSt3D)]
 - **📝 说明**：
 
-#### [28] HGS-Planner: Hierarchical Planning Framework for Active Scene Reconstruction Using 3D Gaussian Splatting
+#### [34] HGS-Planner: Hierarchical Planning Framework for Active Scene Reconstruction Using 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Zijun Xu, Rui Jin, Ke Wu, Yi Zhao, Zhiwei Zhang, Jieru Zhao, Zhongxue Gan, Wenchao Ding
 - **🏫 单位**：Academy for Engineering & Technology, Fudan University, Shanghai, China ⟐ Institute of Cyber-Systems and Control, College of Control Science and Engineering, Zhejiang University ⟐ Department of Computer Science and Engineering, Shanghai Jiao Tong University
 - **🔗 链接**：[[中英摘要](./abs/2409.17624.md)] [[arXiv:2409.17624](https://arxiv.org/abs/2409.17624)] [Code]
 - **📝 说明**：
 
-#### [29] SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model
+#### [35] SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model
 - **🧑‍🔬 作者**：Daniel Yang, John J. Leonard, Yogesh Girdhar
 - **🏫 单位**：MIT CSAIL ⟐ Woods Hole Oceanographic Institution
 - **🔗 链接**：[[中英摘要](./abs/2409.17345.md)] [[arXiv:2409.17345](https://arxiv.org/abs/2409.17345)] [[Code](https://seasplat.github.io/)]
 - **📝 说明**：
 
-#### [30] Disco4D: Disentangled 4D Human Generation and Animation from a Single Image
+#### [36] Disco4D: Disentangled 4D Human Generation and Animation from a Single Image
 - **🧑‍🔬 作者**：Hui En Pang, Shuai Liu, Zhongang Cai, Lei Yang, Tianwei Zhang, Ziwei Liu
 - **🏫 单位**：S-Lab, Nanyang Technological University ⟐ SenseTime Research ⟐ Shanghai AI Laboratory
 - **🔗 链接**：[[中英摘要](./abs/2409.17280.md)] [[arXiv:2409.17280](https://arxiv.org/abs/2409.17280)] [[Code](https://disco-4d.github.io/)]
 - **📝 说明**：
 
-#### [31] Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM
+#### [37] Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM
 - **🧑‍🔬 作者**：Phu Pham, Dipam Patel, Damon Conover, Aniket Bera
 - **🏫 单位**：Department of Computer Science, Purdue University ⟐ DEVCOM Army Research Laboratory
 - **🔗 链接**：[[中英摘要](./abs/2409.16944.md)] [[arXiv:2409.16944](https://arxiv.org/abs/2409.16944)] [Code]
 - **📝 说明**：
 
-#### [32] Generative Object Insertion in Gaussian Splatting with a Multi-View Diffusion Model
+#### [38] Generative Object Insertion in Gaussian Splatting with a Multi-View Diffusion Model
 - **🧑‍🔬 作者**：Hongliang Zhong, Can Wang, Jingbo Zhang, Jing Liao
 - **🏫 单位**：Department of Computer Science, City University of Hong Kong, Hong Kong, China
 - **🔗 链接**：[[中英摘要](./abs/2409.16938.md)] [[arXiv:2409.16938](https://arxiv.org/abs/2409.16938)] [[Code](https://github.com/JiuTongBro/MultiView_Inpaint)]
 - **📝 说明**：
 
-#### [33] Let's Make a Splan: Risk-Aware Trajectory Optimization in a Normalized Gaussian Splat
+#### [39] Let's Make a Splan: Risk-Aware Trajectory Optimization in a Normalized Gaussian Splat
 - **🧑‍🔬 作者**：Jonathan Michaux, Seth Isaacson, Challen Enninful Adu, Adam Li, Rahul Kashyap Swayampakula, Parker Ewen, Sean Rice, Katherine A. Skinner, Ram Vasudevan
 - **🏫 单位**：the department of Department of Robotics of the University of Michigan, Ann Arbor
 - **🔗 链接**：[[中英摘要](./abs/2409.16915.md)] [[arXiv:2409.16915](https://arxiv.org/abs/2409.16915)] [[Code](https://roahmlab.github.io/splanning/)]
 - **📝 说明**：
 
-#### [34] Low Latency Point Cloud Rendering with Learned Splatting
+#### [40] Low Latency Point Cloud Rendering with Learned Splatting
 - **🧑‍🔬 作者**：Gennady Sidorov, Malik Mohrat, Ksenia Lebedeva, Ruslan Rakhimov, Sergey Kolyubin
 - **🏫 单位**：Tandon School of Engineering, New York University ⟐ Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2409.16504.md)] [[arXiv:2409.16504](https://arxiv.org/abs/2409.16504)] [[Code](https://github.com/huzi96/gaussian-pcloud-render)]
 - **📝 说明**：
 
-#### [35] GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization
+#### [41] GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization
 - **🧑‍🔬 作者**：Gennady Sidorov, Malik Mohrat, Ksenia Lebedeva, Ruslan Rakhimov, Sergey Kolyubin
 - **🏫 单位**：ITMO University ⟐ Robotics Center
 - **🔗 链接**：[[中英摘要](./abs/2409.16502.md)] [[arXiv:2409.16502](https://arxiv.org/abs/2409.16502)] [[Code](https://github.com/haksorus/gsplatloc)]
 - **📝 说明**：
 
-#### [36] Frequency-based View Selection in Gaussian Splatting Reconstruction
+#### [42] Frequency-based View Selection in Gaussian Splatting Reconstruction
 - **🧑‍🔬 作者**：Monica M.Q. Li, Pierre-Yves Lajoie, Giovanni Beltrame
 - **🏫 单位**：Department of Computer and Software Engineering, Polytechnique Montreal
 - **🔗 链接**：[[中英摘要](./abs/2409.16470.md)] [[arXiv:2409.16470](https://arxiv.org/abs/2409.16470)] [Code]
 - **📝 说明**：
 
-#### [37] LiDAR-3DGS: LiDAR Reinforced 3D Gaussian Splatting for Multimodal Radiance Field Rendering
+#### [43] LiDAR-3DGS: LiDAR Reinforced 3D Gaussian Splatting for Multimodal Radiance Field Rendering
 - **🧑‍🔬 作者**：Hansol Lim, Hanbeom Chang, Jongseong Brad Choi, Chul Min Yeum
 - **🏫 单位**：Mechanical Engineering, State University of New York, Stony Brook ⟐ Civil Engineering Department, University of Waterloo
 - **🔗 链接**：[[中英摘要](./abs/2409.16296.md)] [[arXiv:2409.16296](https://arxiv.org/abs/2409.16296)] [Code]
 - **📝 说明**：
 
-#### [38] Gaussian Deja-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities
+#### [44] Gaussian Deja-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities
 - **🧑‍🔬 作者**：Peizhi Yan, Rabab Ward, Qiang Tang, Shan Du
 - **🏫 单位**：University of British Columbia ⟐ Huawei Canada ⟐ University of British Columbia (Okanagan)
 - **🔗 链接**：[[中英摘要](./abs/2409.16147.md)] [[arXiv:2409.16147](https://arxiv.org/abs/2409.16147)] [Code]
 - **📝 说明**：
 
-#### [39] Semantics-Controlled Gaussian Splatting for Outdoor Scene Reconstruction and Rendering in Virtual Reality
+#### [45] Semantics-Controlled Gaussian Splatting for Outdoor Scene Reconstruction and Rendering in Virtual Reality
 - **🧑‍🔬 作者**：Hannah Schieber, Jacob Young, Tobias Langlotz, Stefanie Zollmann, Daniel Roth
 - **🏫 单位**：Department of Artificial Intelligence in Biomedical Engineering Friedrich-Alexander-Universitat¨ Erlangen-Nurnberg (FAU) ⟐ Department of Computer Science, University of Otago ⟐ Technical University of Munich Human-Centered Computing and Extended Reality Lab TUM University Hospital Orthopedics and Sports Orthopedics
 - **🔗 链接**：[[中英摘要](./abs/2409.15959.md)] [[arXiv:2409.15959](https://arxiv.org/abs/2409.15959)] [Code]
 - **📝 说明**：
 
-#### [40] Plenoptic PNG: Real-Time Neural Radiance Fields in 150 KB
+#### [46] Plenoptic PNG: Real-Time Neural Radiance Fields in 150 KB
 - **🧑‍🔬 作者**：Jae Yong Lee, Yuqun Wu, Chuhang Zou, Derek Hoiem, Shenlong Wang
 - **🏫 单位**：University of Illinois at Urbana-Champaign ⟐ Amazon Inc
 - **🔗 链接**：[[中英摘要](./abs/2409.15689.md)] [[arXiv:2409.15689](https://arxiv.org/abs/2409.15689)] [[Code](https://github.com/leejaeyong7/ppng)]
 - **📝 说明**：
 
-#### [41] Human Hair Reconstruction with Strand-Aligned 3D Gaussians
+#### [47] Human Hair Reconstruction with Strand-Aligned 3D Gaussians
 - **🧑‍🔬 作者**：Egor Zakharov, Vanessa Sklyarova, Michael Black, Giljoo Nam, Justus Thies, Otmar Hilliges
 - **🏫 单位**：ETH Zürich ⟐ Max Planck Institute for Intelligent Systems ⟐ Meta ⟐ Technical University of Darmstadt
 - **🔗 链接**：[[中英摘要](./abs/2409.14778.md)] [[arXiv:2409.14778](https://arxiv.org/abs/2409.14778)] [Code]
 - **📝 说明**：
 
-#### [42] MVPGS: Excavating Multi-view Priors for Gaussian Splatting from Sparse Input Views
+#### [48] MVPGS: Excavating Multi-view Priors for Gaussian Splatting from Sparse Input Views
 - **🧑‍🔬 作者**：Wangze Xu, Huachen Gao, Shihe Shen, Rui Peng, Jianbo Jiao, Ronggang Wang
 - **🏫 单位**：Peking University ⟐ RUniversity of Birmingham ⟐ Peng Cheng Laboratory
 - **🔗 链接**：[[中英摘要](./abs/2409.14316.md)] [[arXiv:2409.14316](https://arxiv.org/abs/2409.14316)] [Code]
 - **📝 说明**：🏆 Accepted to ECCV 2024
 
-#### [43] SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality
+#### [49] SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality
 - **🧑‍🔬 作者**：Hongjia Zhai, Xiyu Zhang, Boming Zhao, Hai Li, Yijia He, Zhaopeng Cui, Hujun Bao, Guofeng Zhang
 - **🏫 单位**：Zhejiang University ⟐ RayNeo
 - **🔗 链接**：[[中英摘要](./abs/2409.14067.md)] [[arXiv:2409.14067](https://arxiv.org/abs/2409.14067)] [Code]
 - **📝 说明**：
 
-#### [44] Elite-EvGS: Learning Event-based 3D Gaussian Splatting by Distilling Event-to-Video Priors
+#### [50] Elite-EvGS: Learning Event-based 3D Gaussian Splatting by Distilling Event-to-Video Priors
 - **🧑‍🔬 作者**：Zixin Zhang, Kanghao Chen, Lin Wang
 - **🏫 单位**：Hong Kong University of Science and Technology
 - **🔗 链接**：[[中英摘要](./abs/2409.13392.md)] [[arXiv:2409.13392](https://arxiv.org/abs/2409.13392)] [Code]
 - **📝 说明**：
 
-#### [45] 3D-GSW: 3D Gaussian Splatting Watermark for Protecting Copyrights in Radiance Fields
+#### [51] 3D-GSW: 3D Gaussian Splatting Watermark for Protecting Copyrights in Radiance Fields
 - **🧑‍🔬 作者**：Youngdong Jang, Hyunje Park, Feng Yang, Heeju Ko, Euijin Choo, Sangpil Kim
 - **🏫 单位**：Korea University ⟐ Google Research ⟐ University of Alberta
 - **🔗 链接**：[[中英摘要](./abs/2409.13222.md)] [[arXiv:2409.13222](https://arxiv.org/abs/2409.13222)] [Code]
 - **📝 说明**：
 
-#### [46] MGSO: Monocular Real-time Photometric SLAM with Efficient 3D Gaussian Splatting
+#### [52] MGSO: Monocular Real-time Photometric SLAM with Efficient 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Yan Song Hu, Nicolas Abboud, Muhammad Qasim Ali, Adam Srebrnjak Yang, Imad Elhajj, Daniel Asmar, Yuhao Chen, John S. Zelek
 - **🏫 单位**：University of Waterloo ⟐ University of Beirut
 - **🔗 链接**：[[中英摘要](./abs/2409.13055.md)] [[arXiv:2409.13055](https://arxiv.org/abs/2409.13055)] [Code]
 - **📝 说明**：
 
-#### [47] GStex: Per-Primitive Texturing of 2D Gaussian Splatting for Decoupled Appearance and Geometry Modeling
+#### [53] GStex: Per-Primitive Texturing of 2D Gaussian Splatting for Decoupled Appearance and Geometry Modeling
 - **🧑‍🔬 作者**：Victor Rong, Jingxiang Chen, Sherwin Bahmani, Kiriakos N. Kutulakos, David B. Lindell
 - **🏫 单位**：University of Toronto
 - **🔗 链接**：[[中英摘要](./abs/2409.12954.md)] [[arXiv:2409.12954](https://arxiv.org/abs/2409.12954)] [[Code](https://lessvrong.com/cs/gstex/)]
 - **📝 说明**：
 
-#### [48] LI-GS: Gaussian Splatting with LiDAR Incorporated for Accurate Large-Scale Reconstruction
+#### [54] LI-GS: Gaussian Splatting with LiDAR Incorporated for Accurate Large-Scale Reconstruction
 - **🧑‍🔬 作者**：Changjian Jiang, Ruilan Gao, Kele Shao, Yue Wang, Rong Xiong, Yu Zhang
 - **🏫 单位**：State Key Laboratory of Industrial Control Technology, College of Control Science and Engineering, Zhejiang University, Hangzhou, China ⟐ Key Laboratory of Collaborative sensing and autonomous unmanned systems of Zhejiang Province, Hangzhou, China
 - **🔗 链接**：[[中英摘要](./abs/2409.12899.md)] [[arXiv:2409.12899](https://arxiv.org/abs/2409.12899)] [[Code](https://changjianjiang01.github.io/LI-GS/)]
 - **📝 说明**：
 
-#### [49] 3DGS-LM: Faster Gaussian-Splatting Optimization with Levenberg-Marquardt
+#### [55] 3DGS-LM: Faster Gaussian-Splatting Optimization with Levenberg-Marquardt
 - **🧑‍🔬 作者**：Lukas Höllein, Aljaž Božič, Michael Zollhöfer, Matthias Nießner
 - **🏫 单位**：Technical University of Munich ⟐ Meta
 - **🔗 链接**：[[中英摘要](./abs/2409.12892.md)] [[arXiv:2409.12892](https://arxiv.org/abs/2409.12892)] [[Code](https://github.com/lukasHoel/3DGS-LM)]
 - **📝 说明**：
 
-#### [50] EdgeGaussians -- 3D Edge Mapping via Gaussian Splatting
+#### [56] EdgeGaussians -- 3D Edge Mapping via Gaussian Splatting
 - **🧑‍🔬 作者**：Kunal Chelani, Assia Benbihi, Torsten Sattler, Fredrik Kahl
 - **🏫 单位**：Chalmers University of Technology ⟐  Czech Institute of Informatics, Robotics and Cybernetics, Czech Technical University in Prague
 - **🔗 链接**：[[中英摘要](./abs/2409.12886.md)] [[arXiv:2409.12886](https://arxiv.org/abs/2409.12886)] [[Code](https://github.com/kunalchelani/EdgeGaussians)]
 - **📝 说明**：
 
-#### [51] GaRField++: Reinforced Gaussian Radiance Fields for Large-Scale 3D Scene Reconstruction
+#### [57] GaRField++: Reinforced Gaussian Radiance Fields for Large-Scale 3D Scene Reconstruction
 - **🧑‍🔬 作者**：Hanyue Zhang, Zhiliu Yang, Xinhe Zuo, Yuxin Tong, Ying Long, Chen Liu
 - **🏫 单位**：Yunnan University ⟐  Clarkson University
 - **🔗 链接**：[[中英摘要](./abs/2409.12774.md)] [[arXiv:2409.12774](https://arxiv.org/abs/2409.12774)] [Code]
 - **📝 说明**：
 
-#### [52] Spectral-GS: Taming 3D Gaussian Splatting with Spectral Entropy
+#### [58] Spectral-GS: Taming 3D Gaussian Splatting with Spectral Entropy
 - **🧑‍🔬 作者**：Letian Huang, Jie Guo, Jialin Dan, Ruoyu Fu, Shujie Wang, Yuanqi Li, Yanwen Guo
 - **🏫 单位**：Nanjing University
 - **🔗 链接**：[[中英摘要](./abs/2409.12771.md)] [[arXiv:2409.12771](https://arxiv.org/abs/2409.12771)] [Code]
 - **📝 说明**：
 
-#### [53] DrivingForward: Feed-forward 3D Gaussian Splatting for Driving Scene Reconstruction from Flexible Surround-view Input
+#### [59] DrivingForward: Feed-forward 3D Gaussian Splatting for Driving Scene Reconstruction from Flexible Surround-view Input
 - **🧑‍🔬 作者**：Qijian Tian, Xin Tan, Yuan Xie, Lizhuang Ma
 - **🏫 单位**：Shanghai Jiao Tong University ⟐ East China Normal University
 - **🔗 链接**：[[中英摘要](./abs/2409.12753.md)] [[arXiv:2409.12753](https://arxiv.org/abs/2409.12753)] [[Code](https://github.com/fangzhou2000/DrivingForward)]
 - **📝 说明**：
 
-#### [54] CrossRT: A cross platform programming technology for hardware-accelerated ray tracing in CG and CV applications
+#### [60] CrossRT: A cross platform programming technology for hardware-accelerated ray tracing in CG and CV applications
 - **🧑‍🔬 作者**：Vladimir Frolov, Vadim Sanzharov, Garifullin Albert, Maxim Raenchuk, Alexei Voloboy
 - **🏫 单位**：IAI Lomonosov Moscow State University ⟐ Keldysh Institute of Applied Mathematics
 - **🔗 链接**：[[中英摘要](./abs/2409.12617.md)] [[arXiv:2409.12617](https://arxiv.org/abs/2409.12617)] [Code]
 - **📝 说明**：
 
-#### [55] Hi-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting
+#### [61] Hi-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting
 - **🧑‍🔬 作者**：Boying Li, Zhixi Cai, Yuan-Fang Li, Ian Reid, Hamid Rezatofighi
 - **🏫 单位**：Faculty of Information Technology, Monash University, Australia ⟐ Mohamed bin Zayed University of Artificial Intelligence, United Arab Emirates
 - **🔗 链接**：[[中英摘要](./abs/2409.12518.md)] [[arXiv:2409.12518](https://arxiv.org/abs/2409.12518)] [Code]
 - **📝 说明**：
 
-#### [56] Depth Estimation Based on 3D Gaussian Splatting Siamese Defocus
+#### [62] Depth Estimation Based on 3D Gaussian Splatting Siamese Defocus
 - **🧑‍🔬 作者**：Jinchang Zhang, Ningning Xu, Hao Zhang, Guoyu Lu
 - **🏫 单位**：University of Georgia ⟐ University of Massachusetts Amherst
 - **🔗 链接**：[[中英摘要](./abs/2409.12323.md)] [[arXiv:2409.12323](https://arxiv.org/abs/2409.12323)] [Code]
 - **📝 说明**：
 
-#### [57] Vista3D: Unravel the 3D Darkside of a Single Image
+#### [63] Vista3D: Unravel the 3D Darkside of a Single Image
 - **🧑‍🔬 作者**：Qiuhong Shen, Xingyi Yang, Michael Bi Mi, Xinchao Wang
 - **🏫 单位**：National University of Singapore ⟐ Huawei Technologies Ltd
 - **🔗 链接**：[[中英摘要](./abs/2409.12193.md)] [[arXiv:2409.12193](https://arxiv.org/abs/2409.12193)] [[Code](https://github.com/florinshen/Vista3D)]
 - **📝 说明**：
 
-#### [58] SRIF: Semantic Shape Registration Empowered by Diffusion-based Image Morphing and Flow Estimation
+#### [64] SRIF: Semantic Shape Registration Empowered by Diffusion-based Image Morphing and Flow Estimation
 - **🧑‍🔬 作者**：Mingze Sun, Chen Guo, Puhua Jiang, Shiwei Mao, Yurun Chen, Ruqi Huang
 - **🏫 单位**：TsinghuaShenzhen International Graduate School, China ⟐ Peng Cheng Lab
 - **🔗 链接**：[[中英摘要](./abs/2409.11682.md)] [[arXiv:2409.11682](https://arxiv.org/abs/2409.11682)] [[Code](https://github.com/rqhuang88/SRIF)]
 - **📝 说明**：
 
-#### [59] Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks
+#### [65] Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks
 - **🧑‍🔬 作者**：Joji Joseph, Bharadwaj Amrutur, Shalabh Bhatnagar
 - **🏫 单位**：RBCCPS, Indian Institute of Science, Bangalore, India
 - **🔗 链接**：[[中英摘要](./abs/2409.11681.md)] [[arXiv:2409.11681](https://arxiv.org/abs/2409.11681)] [[Code](https://github.com/JojiJoseph/3dgs-gradient-segmentation)]
 - **📝 说明**：
 
-#### [60] RenderWorld: World Model with Self-Supervised 3D Label
+#### [66] RenderWorld: World Model with Self-Supervised 3D Label
 - **🧑‍🔬 作者**：Ziyang Yan, Wenzhen Dong, Yihua Shao, Yuhang Lu, Liu Haiyang, Jingwen Liu, Haozhe Wang, Zhe Wang, Yan Wang, Fabio Remondino, Yuexin Ma
 - **🏫 单位**：ShanghaiTech University, Shanghai, China ⟐ Fondazione Bruno Kessler, Trento, Italy ⟐ University of Trento, Trento, Italy ⟐ the Institute for AI Industry Research (AIR), Tsinghua University, Beijing, China ⟐ The University of Science and Technology Beijing, Beijing, China ⟐ The Hong Kong University of Science and Technology, Hong Kong, China
 - **🔗 链接**：[[中英摘要](./abs/2409.11356.md)] [[arXiv:2409.11356](https://arxiv.org/abs/2409.11356)] [Code]
 - **📝 说明**：
 
-#### [61] GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module
+#### [67] GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module
 - **🧑‍🔬 作者**：Yichen Zhang, Zihan Wang, Jiali Han, Peilin Li, Jiaxun Zhang, Jianqiang Wang, Lei He, Keqiang Li
 - **🏫 单位**：The School of Vehicle and Mobility, Tsinghua University, China ⟐ The State Key Laboratory of Intelligent Green Vehicle and Mobility, Tsinghua University, China ⟐ Sorbonne University, France ⟐ Tencent Technology (Beijing) Co., Ltd ⟐ University of Illinois at Urbana-Champaign, USA
 - **🔗 链接**：[[中英摘要](./abs/2409.11307.md)] [[arXiv:2409.11307](https://arxiv.org/abs/2409.11307)] [Code]
 - **📝 说明**：
 
-#### [62] SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction
+#### [68] SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction
 - **🧑‍🔬 作者**：Marko Mihajlovic, Sergey Prokudin, Siyu Tang, Robert Maier, Federica Bogo, Tony Tung, Edmond Boyer
 - **🏫 单位**：ETH Zurich ⟐ Meta Reality Labs ⟐ Balgrist University Hospital
 - **🔗 链接**：[[中英摘要](./abs/2409.11211.md)] [[arXiv:2409.11211](https://arxiv.org/abs/2409.11211)] [[Code](https://github.com/markomih/SplatFields)]
 - **📝 说明**：🏆 Accepted to ECCV 2024
 
-#### [63] GLC-SLAM: Gaussian Splatting SLAM with Efficient Loop Closure
+#### [69] GLC-SLAM: Gaussian Splatting SLAM with Efficient Loop Closure
 - **🧑‍🔬 作者**：Ziheng Xu, Qingfeng Li, Chen Chen, Xuefeng Liu, Jianwei Niu
 - **🏫 单位**：Beihang University
 - **🔗 链接**：[[中英摘要](./abs/2409.10982.md)] [[arXiv:2409.10982](https://arxiv.org/abs/2409.10982)] [Code]
 - **📝 说明**：
 
-#### [64] Phys3DGS: Physically-based 3D Gaussian Splatting for Inverse Rendering
+#### [70] Phys3DGS: Physically-based 3D Gaussian Splatting for Inverse Rendering
 - **🧑‍🔬 作者**：Euntae Choi, Sungjoo Yoo
 - **🏫 单位**：Department of Computer Science and Engineering, Seoul National University, South Korea
 - **🔗 链接**：[[中英摘要](./abs/2409.10335.md)] [[arXiv:2409.10335](https://arxiv.org/abs/2409.10335)] [Code]
 - **📝 说明**：
 
-#### [65] BEINGS: Bayesian Embodied Image-goal Navigation with Gaussian Splatting
+#### [71] BEINGS: Bayesian Embodied Image-goal Navigation with Gaussian Splatting
 - **🧑‍🔬 作者**：Wugang Meng, Tianfu Wu, Huan Yin, Fumin Zhang
 - **🏫 单位**：Department of Electronic and Computer Engineering, Hong Kong University of Science and Technology, Hong Kong SAR
 - **🔗 链接**：[[中英摘要](./abs/2409.10216.md)] [[arXiv:2409.10216](https://arxiv.org/abs/2409.10216)] [[Code](https://github.com/guaMass/BEINGS)]
 - **📝 说明**：
 
-#### [66] SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting
+#### [72] SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting
 - **🧑‍🔬 作者**：Mohammad Nomaan Qureshi, Sparsh Garg, Francisco Yandun, David Held, George Kantor, Abhishesh Silwal
 - **🏫 单位**：Carnegie Mellon University, USA
 - **🔗 链接**：[[中英摘要](./abs/2409.10161.md)] [[arXiv:2409.10161](https://arxiv.org/abs/2409.10161)] [[Code](https://splatsim.github.io/)]
 - **📝 说明**：
 
-#### [67] DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments
+#### [73] DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments
 - **🧑‍🔬 作者**：Mahmud A. Mohamad, Gamal Elghazaly, Arthur Hubert, Raphael Frank
 - **🏫 单位**：SnT- Interdisciplinary Centre for Security, Reliability and Trust, University of Luxembourg
 - **🔗 链接**：[[中英摘要](./abs/2409.10041.md)] [[arXiv:2409.10041](https://arxiv.org/abs/2409.10041)] [[Code](https://github.com/sntubix/denser)]
 - **📝 说明**：
 
-#### [68] SAFER-Splat: A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps
+#### [74] SAFER-Splat: A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps
 - **🧑‍🔬 作者**：Timothy Chen, Aiden Swann, Javier Yu, Ola Shorinwa, Riku Murai, Monroe Kennedy III, Mac Schwager
 - **🏫 单位**：Stanford University, Stanford, CA, USA ⟐ Imperial College London, London, UK
 - **🔗 链接**：[[中英摘要](./abs/2409.09868.md)] [[arXiv:2409.09868](https://arxiv.org/abs/2409.09868)] [[Code](https://chengine.github.io/safer-splat/)]
 - **📝 说明**：
 
-#### [69] MesonGS: Post-training Compression of 3D Gaussians via Efficient Attribute Transformation
+#### [75] MesonGS: Post-training Compression of 3D Gaussians via Efficient Attribute Transformation
 - **🧑‍🔬 作者**：Shuzhao Xie, Weixiang Zhang, Chen Tang, Yunpeng Bai, Rongwei Lu, Shijia Ge, Zhi Wang
 - **🏫 单位**：SIGS & TBSI, Tsinghua University ⟐ Peng Cheng Laboratory ⟐ MMLab, The Chinese University of Hong Kong ⟐ The University of Texas at Austin
 - **🔗 链接**：[[中英摘要](./abs/2409.09756.md)] [[arXiv:2409.09756](https://arxiv.org/abs/2409.09756)] [[Code](https://github.com/ShuzhaoXie/MesonGS)]
 - **📝 说明**：
 
-#### [70] GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians
+#### [76] GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians
 - **🧑‍🔬 作者**：Dasong Gao, Peter Zhi Xuan Li, Vivienne Sze, Sertac Karaman
 - **🏫 单位**：Massachusetts Institute of Technology, Cambridge
 - **🔗 链接**：[[中英摘要](./abs/2409.09295.md)] [[arXiv:2409.09295](https://arxiv.org/abs/2409.09295)] [Code]
 - **📝 说明**：
 
-#### [71] A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis
+#### [77] A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis
 - **🧑‍🔬 作者**：Yohan Poirier-Ginter, Alban Gauthier, Julien Philip, Jean-Francois Lalonde, George Drettakis
 - **🏫 单位**：Inria, Université Côte d'Azur ⟐ Université Laval ⟐ Adobe Research
 - **🔗 链接**：[[中英摘要](./abs/2409.08947.md)] [[arXiv:2409.08947](https://arxiv.org/abs/2409.08947)] [[Code](https://repo-sam.inria.fr/fungraph/generative-radiance-field-relighting/)]
 - **📝 说明**：🏆 Accepted to EGSR 2024
 
-#### [72] AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius
+#### [78] AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius
 - **🧑‍🔬 作者**：Xinzhe Wang, Ran Yi, Lizhuang Ma
 - **🏫 单位**：Shanghai Jiao Tong University
 - **🔗 链接**：[[中英摘要](./abs/2409.08669.md)] [[arXiv:2409.08669](https://arxiv.org/abs/2409.08669)] [Code]
 - **📝 说明**：🏆 Accepted to SIGGRAPH 2024
 
-#### [73] Dense Point Clouds Matter: Dust-GS for Scene Reconstruction from Sparse Viewpoints
+#### [79] Dense Point Clouds Matter: Dust-GS for Scene Reconstruction from Sparse Viewpoints
 - **🧑‍🔬 作者**：Shan Chen, Jiale Zhou, Lei Li
 - **🏫 单位**：East China University of Science and Technology ⟐ University of Washington ⟐ University of Copenhagen
 - **🔗 链接**：[[中英摘要](./abs/2409.08613.md)] [[arXiv:2409.08613](https://arxiv.org/abs/2409.08613)] [Code]
 - **📝 说明**：
 
-#### [74] CSS: Overcoming Pose and Scene Challenges in Crowd-Sourced 3D Gaussian Splatting
+#### [80] CSS: Overcoming Pose and Scene Challenges in Crowd-Sourced 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Runze Chen, Mingyu Xiao, Haiyong Luo, Fang Zhao, Fan Wu, Hao Xiong, Qi Liu, Meng Song
 - **🏫 单位**：Beijing University of Posts and Telecommunications ⟐ Chinese Academy of Sciences ⟐ China Unicom Smart City Research Institute
 - **🔗 链接**：[[中英摘要](./abs/2409.08562.md)] [[arXiv:2409.08562](https://arxiv.org/abs/2409.08562)] [Code]
 - **📝 说明**：
 
-#### [75] Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos
+#### [81] Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos
 - **🧑‍🔬 作者**：Yuheng Jiang, Zhehao Shen, Yu Hong, Chengcheng Guo, Yize Wu, Yingliang Zhang, Jingyi Yu, Lan Xu
 - **🏫 单位**：ShanghaiTech University ⟐ NeuDim Digital Technology ⟐ DGene Digital Technology 
 - **🔗 链接**：[[中英摘要](./abs/2409.08353.md)] [[arXiv:2409.08353](https://arxiv.org/abs/2409.08353)] [Code]
 - **📝 说明**：🏆 Accepted to SIGGRAPH 2024
 
-#### [76] FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally
+#### [82] FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally
 - **🧑‍🔬 作者**：Qiuhong Shen, Xingyi Yang, Xinchao Wang
 - **🏫 单位**：National University of Singapore
 - **🔗 链接**：[[中英摘要](./abs/2409.08270.md)] [[arXiv:2409.08270](https://arxiv.org/abs/2409.08270)] [[Code](https://github.com/florinshen/FlashSplat)]
 - **📝 说明**：🏆 Accepted to ECCV 2024
 
-#### [77] Thermal3D-GS: Physics-induced 3D Gaussians for Thermal Infrared Novel-view Synthesis
+#### [83] Thermal3D-GS: Physics-induced 3D Gaussians for Thermal Infrared Novel-view Synthesis
 - **🧑‍🔬 作者**：Qian Chen, Shihao Shu, Xiangzhi Bai
 - **🏫 单位**：Beihang University
 - **🔗 链接**：[[中英摘要](./abs/2409.08042.md)] [[arXiv:2409.08042](https://arxiv.org/abs/2409.08042)] [[Code](https://github.com/mzzcdf/Thermal3DGS)]
 - **📝 说明**：🏆 Accepted to ECCV 2024
 
-#### [78] SwinGS: Sliding Window Gaussian Splatting for Volumetric Video Streaming with Arbitrary Length
+#### [84] SwinGS: Sliding Window Gaussian Splatting for Volumetric Video Streaming with Arbitrary Length
 - **🧑‍🔬 作者**：Bangya Liu, Suman Banerjee
 - **🏫 单位**：University of Wisconsin-Madison 
 - **🔗 链接**：[[中英摘要](./abs/2409.07759.md)] [[arXiv:2409.07759](https://arxiv.org/abs/2409.07759)] [Code]
 - **📝 说明**：
 
-#### [79] Self-Evolving Depth-Supervised 3D Gaussian Splatting from Rendered Stereo Pairs
+#### [85] Self-Evolving Depth-Supervised 3D Gaussian Splatting from Rendered Stereo Pairs
 - **🧑‍🔬 作者**：Sadra Safadoust, Fabio Tosi, Fatma Güney, Matteo Poggi
 - **🏫 单位**：Koç University ⟐ University of Bologna
 - **🔗 链接**：[[中英摘要](./abs/2409.07456.md)] [[arXiv:2409.07456](https://arxiv.org/abs/2409.07456)] [Code]
 - **📝 说明**：🏆 Accepted to BMVC 2024
 
-#### [80] Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models
+#### [86] Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models
 - **🧑‍🔬 作者**：Haibo Yang, Yang Chen, Yingwei Pan, Ting Yao, Zhineng Chen, Chong-Wah Ngo, Tao Mei
 - **🏫 单位**：Fudan University ⟐ HiDream.ai Inc. China ⟐ Singapore Management University
 - **🔗 链接**：[[中英摘要](./abs/2409.07452.md)] [[arXiv:2409.07452](https://arxiv.org/abs/2409.07452)] [[Code](https://github.com/yanghb22-fdu/Hi3D-Official)]
 - **📝 说明**：🏆 Accepted to ACM MM 2024
 
-#### [81] Instant Facial Gaussians Translator for Relightable and Interactable Facial Rendering
+#### [87] Instant Facial Gaussians Translator for Relightable and Interactable Facial Rendering
 - **🧑‍🔬 作者**：Dafei Qin, Hongyang Lin, Qixuan Zhang, Kaichun Qiao, Longwen Zhang, Zijun Zhao, Jun Saito, Jingyi Yu, Lan Xu, Taku Komura
 - **🏫 单位**：University of Hong Kong ⟐ Deemos Technology ⟐ ShanghaiTech University ⟐ Adobe Research, USA
 - **🔗 链接**：[[中英摘要](./abs/2409.07441.md)] [[arXiv:2409.07441](https://arxiv.org/abs/2409.07441)] [Code]
 - **📝 说明**：
 
-#### [82] Single-View 3D Reconstruction via SO(2)-Equivariant Gaussian Sculpting Networks
+#### [88] Single-View 3D Reconstruction via SO(2)-Equivariant Gaussian Sculpting Networks
 - **🧑‍🔬 作者**：Ruihan Xu, Anthony Opipari, Joshua Mah, Stanley Lewis, Haoran Zhang, Hanzhe Guo, Odest Chadwicke Jenkins
 - **🏫 单位**：University of Michigan
 - **🔗 链接**：[[中英摘要](./abs/2409.07245.md)] [[arXiv:2409.07245](https://arxiv.org/abs/2409.07245)] [Code]
 - **📝 说明**：
 
-#### [83] ThermalGaussian: Thermal 3D Gaussian Splatting
+#### [89] ThermalGaussian: Thermal 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Rongfeng Lu, Hangyu Chen, Zunjie Zhu, Yuhang Qin, Ming Lu, Le Zhang, Chenggang Yan, Anke Xue
 - **🏫 单位**：Hangzhou Dianzi University ⟐ Intel Labs China ⟐ State Key Lab of CAD&CG, Zhejiang University
 - **🔗 链接**：[[中英摘要](./abs/2409.07200.md)] [[arXiv:2409.07200](https://arxiv.org/abs/2409.07200)] [Code]
 - **📝 说明**：
 
-#### [84] gsplat: An Open-Source Library for Gaussian Splatting
+#### [90] gsplat: An Open-Source Library for Gaussian Splatting
 - **🧑‍🔬 作者**：Vickie Ye, Ruilong Li, Justin Kerr, Matias Turkulainen, Brent Yi, Zhuoyang Pan, Otto Seiskari, Jianbo Ye, Jeffrey Hu, Matthew Tancik, Angjoo Kanazawa
 - **🏫 单位**：UC Berkeley ⟐ Aalto University ⟐ ShanghaiTech University ⟐ SpectacularAI ⟐ Amazon ⟐ Luma AI
 - **🔗 链接**：[[中英摘要](./abs/2409.06765.md)] [[arXiv:2409.06765](https://arxiv.org/abs/2409.06765)] [[Code](https://github.com/nerfstudio-project/gsplat)]
 - **📝 说明**：
 
-#### [85] GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction
+#### [91] GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction
 - **🧑‍🔬 作者**：Junyi Chen, Weicai Ye, Yifan Wang, Danpeng Chen, Di Huang, Wanli Ouyang, Guofeng Zhang, Yu Qiao, Tong He
 - **🏫 单位**：Shanghai AI Laboratory ⟐ Shanghai Jiao Tong University ⟐ State Key Lab of CAD&CG, Zhejiang University
 - **🔗 链接**：[[中英摘要](./abs/2409.06685.md)] [[arXiv:2409.06685](https://arxiv.org/abs/2409.06685)] [Code]
 - **📝 说明**：
 
-#### [86] SpecGaussian with Latent Features: A High-quality Modeling of the View-dependent Appearance for 3D Gaussian Splatting
+#### [92] SpecGaussian with Latent Features: A High-quality Modeling of the View-dependent Appearance for 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Zhiru Wang, Shiyun Xie, Chengwei Pan, Guoping Wang
 - **🏫 单位**： Beihang University ⟐ Peking University
 - **🔗 链接**：[[中英摘要](./abs/2409.05868.md)] [[arXiv:2409.05868](https://arxiv.org/abs/2409.05868)] [[Code](https://github.com/MarcWangzhiru/SpeclatentGS)]
 - **📝 说明**：🏆 Accepted to ACM MM 2024
 
-#### [87] GASP: Gaussian Splatting for Physic-Based Simulations
+#### [93] GASP: Gaussian Splatting for Physic-Based Simulations
 - **🧑‍🔬 作者**：Piotr Borycki, Weronika Smolak, Joanna Waczyńska, Marcin Mazur, Sławomir Tadeja, Przemysław Spurek
 - **🏫 单位**：Jagiellonian University ⟐ IDEAS ⟐ Cambridge
 - **🔗 链接**：[[中英摘要](./abs/2409.05819.md)] [[arXiv:2409.05819](https://arxiv.org/abs/2409.05819)] [Code]
 - **📝 说明**：
 
-#### [88] Lagrangian Hashing for Compressed Neural Field Representations
+#### [94] Lagrangian Hashing for Compressed Neural Field Representations
 - **🧑‍🔬 作者**：Shrisudhan Govindarajan, Zeno Sambugaro, Akhmedkhan, Shabanov, Towaki Takikawa, Daniel Rebain, Weiwei Sun, Nicola Conci, Kwang Moo Yi, Andrea Tagliasacchi
 - **🏫 单位**：Simon Fraser University ⟐ University of Trento ⟐ University of Toronto ⟐ University of British Columbia ⟐ Google DeepMind
 - **🔗 链接**：[[中英摘要](./abs/2409.05334.md)] [[arXiv:2409.05334](https://arxiv.org/abs/2409.05334)] [Code]
 - **📝 说明**：
 
-#### [89] GS-PT: Exploiting 3D Gaussian Splatting for Comprehensive Point Cloud Understanding via Self-supervised Learning
+#### [95] GS-PT: Exploiting 3D Gaussian Splatting for Comprehensive Point Cloud Understanding via Self-supervised Learning
 - **🧑‍🔬 作者**：Keyi Liu, Yeqi Luo, Weidong Yang, Jingyi Xu, Zhijun Li, Wen-Ming Chen, Ben Fei
 - **🏫 单位**：Fudan University ⟐ Tongji University 
 - **🔗 链接**：[[中英摘要](./abs/2409.04963.md)] [[arXiv:2409.04963](https://arxiv.org/abs/2409.04963)] [Code]
 - **📝 说明**：
 
-#### [90] Fisheye-GS: Lightweight and Extensible Gaussian Splatting Module for Fisheye Cameras
+#### [96] Fisheye-GS: Lightweight and Extensible Gaussian Splatting Module for Fisheye Cameras
 - **🧑‍🔬 作者**：Zimu Liao, Siyan Chen, Rong Fu, Yi Wang, Zhongling Su, Hao Luo, Linning Xu, Bo Dai, Hengjie Li, Zhilin Pei, Xingcheng Zhang
 - **🏫 单位**：Shanghai Artificial Intelligence Laboratory ⟐ The Chinese University of Hong Kong 
 - **🔗 链接**：[[中英摘要](./abs/2409.04751.md)] [[arXiv:2409.04751](https://arxiv.org/abs/2409.04751)] [[Code](https://github.com/zmliao/Fisheye-GS)]
 - **📝 说明**：
 
-#### [91] GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers
+#### [97] GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers
 - **🧑‍🔬 作者**：Lorenza Prospero, Abdullah Hamdi, Joao F. Henriques, Christian Rupprecht
 - **🏫 单位**：Visual Geometry Group, University of Oxford
 - **🔗 链接**：[[中英摘要](./abs/2409.04196.md)] [[arXiv:2409.04196](https://arxiv.org/abs/2409.04196)] [[Code](https://github.com/prosperolo/GST)]
 - **📝 说明**：
 
-#### [92] 3D-GP-LMVIC: Learning-based Multi-View Image Coding with 3D Gaussian Geometric Priors
+#### [98] 3D-GP-LMVIC: Learning-based Multi-View Image Coding with 3D Gaussian Geometric Priors
 - **🧑‍🔬 作者**：Yujun Huang, Bin Chen, Niu Lian, Baoyi An, Shu-Tao Xia
 - **🏫 单位**：
 - **🔗 链接**：[[中英摘要](./abs/2409.04013.md)] [[arXiv:2409.04013](https://arxiv.org/abs/2409.04013)] [[Code](https://github.com/YujunHuang063/3D-GP-LMVIC)]
 - **📝 说明**：🏆 Accepted to ICLR 2025
 
-#### [93] LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors
+#### [99] LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors
 - **🧑‍🔬 作者**：Hanyang Yu, Xiaoxiao Long, Ping Tan
 - **🏫 单位**：The Hong Kong University of Science and Technology
 - **🔗 链接**：[[中英摘要](./abs/2409.03456.md)] [[arXiv:2409.03456](https://arxiv.org/abs/2409.03456)] [[Code](https://github.com/hanyangyu1021/LMGaussian)]
 - **📝 说明**：
 
-#### [94] Optimizing 3D Gaussian Splatting for Sparse Viewpoint Scene Reconstruction
+#### [100] Optimizing 3D Gaussian Splatting for Sparse Viewpoint Scene Reconstruction
 - **🧑‍🔬 作者**：Shen Chen, Jiale Zhou, Lei Li
 - **🏫 单位**：East China University of Science and Technology ⟐ University of Washington
 - **🔗 链接**：[[中英摘要](./abs/2409.03213.md)] [[arXiv:2409.03213](https://arxiv.org/abs/2409.03213)] [Code]
 - **📝 说明**：
 
-#### [95] Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models
+#### [101] Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models
 - **🧑‍🔬 作者**：Zhibin Liu, Haoye Dong, Aviral Chharia, Hefeng Wu
 - **🏫 单位**：Sun Yat-sen University ⟐ Carnegie Mellon University
 - **🔗 链接**：[[中英摘要](./abs/2409.02851.md)] [[arXiv:2409.02851](https://arxiv.org/abs/2409.02851)] [[Code](https://github.com/Human-VDM/Human-VDM)]
 - **📝 说明**：
 
-#### [96] Object Gaussian for Monocular 6D Pose Estimation from Sparse Views
+#### [102] Object Gaussian for Monocular 6D Pose Estimation from Sparse Views
 - **🧑‍🔬 作者**：Luqing Luo, Shichu Sun, Jiangang Yang, Linfang Zheng, Jinwei Du, Jian Liu
 - **🏫 单位**：Institute of Microelectronics Chinese Academy of Sciences, Beijing, China ⟐ University of Birmingham, Birmingham, UK ⟐ NVIDIA, Shanghai, China
 - **🔗 链接**：[[中英摘要](./abs/2409.02581.md)] [[arXiv:2409.02581](https://arxiv.org/abs/2409.02581)] [Code]
 - **📝 说明**：
 
-#### [97] GGS: Generalizable Gaussian Splatting for Lane Switching in Autonomous Driving
+#### [103] GGS: Generalizable Gaussian Splatting for Lane Switching in Autonomous Driving
 - **🧑‍🔬 作者**：Huasong Han, Kaixuan Zhou, Xiaoxiao Long, Yusen Wang, Chunxia Xiao
 - **🏫 单位**：School of Computer Science, Wuhan University ⟐ Huawei ⟐ The University of HongKong
 - **🔗 链接**：[[中英摘要](./abs/2409.02382.md)] [[arXiv:2409.02382](https://arxiv.org/abs/2409.02382)] [Code]
 - **📝 说明**：
 
-#### [98] DynOMo: Online Point Tracking by Dynamic Online Monocular Gaussian Reconstruction
+#### [104] DynOMo: Online Point Tracking by Dynamic Online Monocular Gaussian Reconstruction
 - **🧑‍🔬 作者**：Jenny Seidenschwarz, Qunjie Zhou, Bardienus Duisterhof, Deva Ramanan, Laura Leal-Taixé
 - **🏫 单位**：Technical University of Munich ⟐ Carnegie Mellon University ⟐ NVIDIA
 - **🔗 链接**：[[中英摘要](./abs/2409.02104.md)] [[arXiv:2409.02104](https://arxiv.org/abs/2409.02104)] [Code]
 - **📝 说明**：
 
-#### [99] PRoGS: Progressive Rendering of Gaussian Splats
+#### [105] PRoGS: Progressive Rendering of Gaussian Splats
 - **🧑‍🔬 作者**：Brent Zoomers, Maarten Wijnants, Ivan Molenaers, Joni Vanherck, Jeroen Put, Lode Jorissen, Nick Michiels
 - **🏫 单位**：Hasselt University ⟐ Flanders Make ⟐ Expertise Centre for Digital Media, Diepenbeek, Belgium
 - **🔗 链接**：[[中英摘要](./abs/2409.01761.md)] [[arXiv:2409.01761](https://arxiv.org/abs/2409.01761)] [Code]
 - **📝 说明**：
 
-#### [100] GaussianPU: A Hybrid 2D-3D Upsampling Framework for Enhancing Color Point Clouds via 3D Gaussian Splatting
+#### [106] GaussianPU: A Hybrid 2D-3D Upsampling Framework for Enhancing Color Point Clouds via 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Zixuan Guo, Yifan Xie, Weijing Xie, Peng Huang, Fei Ma, Fei Richard Yu
 - **🏫 单位**：Peking University ⟐ Xi’an Jiaotong University ⟐ Sun Yat-Sen University ⟐ Nanjing University ⟐ Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)
 - **🔗 链接**：[[中英摘要](./abs/2409.01581.md)] [[arXiv:2409.01581](https://arxiv.org/abs/2409.01581)] [Code]
 - **📝 说明**：
 
-#### [101] Free-DyGS: Camera-Pose-Free Scene Reconstruction based on Gaussian Splatting for Dynamic Surgical Videos
+#### [107] Free-DyGS: Camera-Pose-Free Scene Reconstruction based on Gaussian Splatting for Dynamic Surgical Videos
 - **🧑‍🔬 作者**：Qian Li, Shuojue Yang, Daiyun Shen, Yueming Jin
 - **🏫 单位**：National University of Singapore
 - **🔗 链接**：[[中英摘要](./abs/2409.01003.md)] [[arXiv:2409.01003](https://arxiv.org/abs/2409.01003)] [Code]
 - **📝 说明**：
 
-#### [102] 3D Gaussian Splatting for Large-scale 3D Surface Reconstruction from Aerial Images
+#### [108] 3D Gaussian Splatting for Large-scale 3D Surface Reconstruction from Aerial Images
 - **🧑‍🔬 作者**：YuanZheng Wu, Jin Liu, Shunping Ji
 - **🏫 单位**：
 - **🔗 链接**：[[中英摘要](./abs/2409.00381.md)] [[arXiv:2409.00381](https://arxiv.org/abs/2409.00381)] [Code]
 - **📝 说明**：
 
-#### [103] UDGS-SLAM : UniDepth Assisted Gaussian Splatting for Monocular SLAM
+#### [109] UDGS-SLAM : UniDepth Assisted Gaussian Splatting for Monocular SLAM
 - **🧑‍🔬 作者**：Mostafa Mansour, Ahmed Abdelsalam, Ari Happonen, Jari Porras, Esa Rahtu
 - **🏫 单位**：Faculty of Engineering and Natural Sciences, Tampere University, Finland ⟐ School of Engineering Science, LUT University, Finland ⟐ School of Electrical Engineering, Aalto University, Finland ⟐ Faculty of Information Technology and Communication Sciences, University, Finland
 - **🔗 链接**：[[中英摘要](./abs/2409.00362.md)] [[arXiv:2409.00362](https://arxiv.org/abs/2409.00362)] [Code]
 - **📝 说明**：
 
-#### [104] OG-Mapping: Octree-based Structured 3D Gaussians for Online Dense Mapping
+#### [110] OG-Mapping: Octree-based Structured 3D Gaussians for Online Dense Mapping
 - **🧑‍🔬 作者**：Meng Wang, Junyi Wang, Changqun Xia, Chen Wang, Yue Qi
 - **🏫 单位**：State Key Laboratory of Virtual Reality Technology and Systems, Beihang University ⟐ PengCheng Laboratory ⟐ School of Computer Science and Technology, Shandong University ⟐ Beijing Technology and Business University
 - **🔗 链接**：[[中英摘要](./abs/2408.17223.md)] [[arXiv:2408.17223](https://arxiv.org/abs/2408.17223)] [Code]
 - **📝 说明**：
 
-#### [105] 2DGH: 2D Gaussian-Hermite Splatting for High-quality Rendering and Better Geometry Reconstruction
+#### [111] 2DGH: 2D Gaussian-Hermite Splatting for High-quality Rendering and Better Geometry Reconstruction
 - **🧑‍🔬 作者**：Ruihan Yu, Tianyu Huang, Jingwang Ling, Feng Xu
 - **🏫 单位**：School of Software and BNRist, Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2408.16982.md)] [[arXiv:2408.16982](https://arxiv.org/abs/2408.16982)] [Code]
 - **📝 说明**：
 
-#### [106] ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model
+#### [112] ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model
 - **🧑‍🔬 作者**：Fangfu Liu, Wenqiang Sun, Hanyang Wang, Yikai Wang, Haowen Sun, Junliang Ye, Jun Zhang, Yueqi Duan
 - **🏫 单位**：Tsinghua University ⟐ Technion ⟐ HKUST
 - **🔗 链接**：[[中英摘要](./abs/2408.16767.md)] [[arXiv:2408.16767](https://arxiv.org/abs/2408.16767)] [[Code](https://github.com/liuff19/ReconX)]
 - **📝 说明**：
 
-#### [107] OmniRe: Omni Urban Scene Reconstruction
+#### [113] OmniRe: Omni Urban Scene Reconstruction
 - **🧑‍🔬 作者**：Ziyu Chen, Jiawei Yang, Jiahui Huang, Riccardo de Lutio, Janick Martinez Esturo, Boris Ivanovic, Or Litany, Zan Gojcic, Sanja Fidler, Marco Pavone, Li Song, Yue Wang
 - **🏫 单位**：Shanghai Jiao Tong University ⟐ Technion ⟐ University of Toronto ⟐ Stanford University ⟐ NVIDIA Research ⟐ University of Southern California
 - **🔗 链接**：[[中英摘要](./abs/2408.16760.md)] [[arXiv:2408.16760](https://arxiv.org/abs/2408.16760)] [[Code](https://github.com/ziyc/drivestudio)]
 - **📝 说明**：
 
-#### [108] Towards Realistic Example-based Modeling via 3D Gaussian Stitching
+#### [114] Towards Realistic Example-based Modeling via 3D Gaussian Stitching
 - **🧑‍🔬 作者**：Xinyu Gao, Ziyi Yang, Bingchen Gong, Xiaoguang Han, Sipeng Yang, Xiaogang Jin
 - **🏫 单位**：Zhejiang University ⟐ The Chinese University of Hong Kong
 - **🔗 链接**：[[中英摘要](./abs/2408.15708.md)] [[arXiv:2408.15708](https://arxiv.org/abs/2408.15708)] [[Code](https://github.com/gs-learner/gs_stitching)]
 - **📝 说明**：
 
-#### [109] G-Style: Stylized Gaussian Splatting
+#### [115] G-Style: Stylized Gaussian Splatting
 - **🧑‍🔬 作者**：Áron Samuel Kovács, Pedro Hermosilla, Renata G. Raidou
 - **🏫 单位**：TU Wien, Austria
 - **🔗 链接**：[[中英摘要](./abs/2408.15695.md)] [[arXiv:2408.15695](https://arxiv.org/abs/2408.15695)] [Code]
 - **📝 说明**：
 
-#### [110] Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty
+#### [116] Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty
 - **🧑‍🔬 作者**：Saining Zhang, Baijun Ye, Xiaoxue Chen, Yuantao Chen, Zongzheng Zhang, Cheng Peng, Yongliang Shi, Hao Zhao
 - **🏫 单位**：Tsinghua University ⟐ Nanyang Technological University ⟐ Beijing Institute of Technology
 - **🔗 链接**：[[中英摘要](./abs/2408.15242.md)] [[arXiv:2408.15242](https://arxiv.org/abs/2408.15242)] [[Code](https://github.com/SainingZhang/UC-GS)]
 - **📝 说明**：🏆 Accepted to BMVC 2024
 
-#### [111] Robo-GS: A Physics Consistent Spatial-Temporal Model for Robotic Arm with Hybrid Representation
+#### [117] Robo-GS: A Physics Consistent Spatial-Temporal Model for Robotic Arm with Hybrid Representation
 - **🧑‍🔬 作者**：Haozhe Lou, Yurong Liu, Yike Pan, Yiran Geng, Jianteng Chen, Wenlong Ma, Chenglong Li, Lin Wang, Hengzhen Feng, Lu Shi, Liyi Luo, Yongliang Shi
 - **🏫 单位**：University of Southern California ⟐ National University of Singapore ⟐ University of Michigan ⟐ Peking University ⟐ Hong Kong University of Science and Technology ⟐ Beijing Institute of Technology ⟐ Tsinghua University ⟐ Xiaomi Robotics Lab
 - **🔗 链接**：[[中英摘要](./abs/2408.14873.md)] [[arXiv:2408.14873](https://arxiv.org/abs/2408.14873)] [Code]
 - **📝 说明**：
 
-#### [112] LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming
+#### [118] LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming
 - **🧑‍🔬 作者**：Yuang Shi, Simone Gasparini, Géraldine Morin, Wei Tsang Ooi
 - **🏫 单位**：National University of Singapore ⟐ IRIT - University of Toulouse
 - **🔗 链接**：[[中英摘要](./abs/2408.14823.md)] [[arXiv:2408.14823](https://arxiv.org/abs/2408.14823)] [Code]
 - **📝 说明**：
 
-#### [113] Avatar Concept Slider: Manipulate Concepts In Your Human Avatar With Fine-grained Control
+#### [119] Avatar Concept Slider: Manipulate Concepts In Your Human Avatar With Fine-grained Control
 - **🧑‍🔬 作者**：Yixuan He, Lin Geng Foo, Ajmal Saeed Mian, Hossein Rahmani, Jun Jiu
 - **🏫 单位**：Singapore University of Technology and Design ⟐ University of Western Australia ⟐ Lancaster University
 - **🔗 链接**：[[中英摘要](./abs/2408.13995.md)] [[arXiv:2408.13995](https://arxiv.org/abs/2408.13995)] [Code]
 - **📝 说明**：
 
-#### [114] DynaSurfGS: Dynamic Surface Reconstruction with Planar-based Gaussian Splatting
+#### [120] DynaSurfGS: Dynamic Surface Reconstruction with Planar-based Gaussian Splatting
 - **🧑‍🔬 作者**：Weiwei Cai, Weicai Ye, Peng Ye, Tong He, Tao Chen
 - **🏫 单位**：Fudan University ⟐ Zhejiang University ⟐ Shanghai AI Laboratory
 - **🔗 链接**：[[中英摘要](./abs/2408.13972.md)] [[arXiv:2408.13972](https://arxiv.org/abs/2408.13972)] [[Code](https://github.com/Open3DVLab/DynaSurfGS)]
 - **📝 说明**：
 
-#### [115] Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs
+#### [121] Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs
 - **🧑‍🔬 作者**：Brandon Smart, Chuanxia Zheng, Iro Laina, Victor Adrian Prisacariu
 - **🏫 单位**：Active Vision Lab, University of Oxford ⟐ Visual Geometry Group, University of Oxford
 - **🔗 链接**：[[中英摘要](./abs/2408.13912.md)] [[arXiv:2408.13912](https://arxiv.org/abs/2408.13912)] [Code]
 - **📝 说明**：
 
-#### [116] TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers
+#### [122] TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers
 - **🧑‍🔬 作者**：Chuanrui Zhang, Yingshuang Zou, Zhuoling Li, Minmin Yi, Haoqian Wang
 - **🏫 单位**：Tsinghua University ⟐ The University of Hong Kong ⟐ E-surfing Vision Technology Co., Ltd
 - **🔗 链接**：[[中英摘要](./abs/2408.13770.md)] [[arXiv:2408.13770](https://arxiv.org/abs/2408.13770)] [Code]
 - **📝 说明**：
 
-#### [117] SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting
+#### [123] SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting
 - **🧑‍🔬 作者**：Wenrui Li, Yapeng Mi, Fucheng Cai, Zhe Yang, Wangmeng Zuo, Xingtao Wang, Xiaopeng Fan
 - **🏫 单位**：Harbin Institute of Technology ⟐ University of Electronic Science and Technology of China
 - **🔗 链接**：[[中英摘要](./abs/2408.13711.md)] [[arXiv:2408.13711](https://arxiv.org/abs/2408.13711)] [[Code](https://github.com/liwrui/SceneDreamer360)]
 - **📝 说明**：
 
-#### [118] BiGS: Bidirectional Gaussian Primitives for Relightable 3D Gaussian Splatting
+#### [124] BiGS: Bidirectional Gaussian Primitives for Relightable 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Zhenyuan Liu, Yu Guo, Xinyuan Li, Bernd Bickel, Ran Zhang
 - **🏫 单位**：Tencent PCG, New York, USA ⟐ ETH Zurich ⟐ George Mason University
 - **🔗 链接**：[[中英摘要](./abs/2408.13370.md)] [[arXiv:2408.13370](https://arxiv.org/abs/2408.13370)] [Code]
 - **📝 说明**：
 
-#### [119] LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation
+#### [125] LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation
 - **🧑‍🔬 作者**：Shuai Yang, Jing Tan, Mengchen Zhang, Tong Wu, Yixuan Li, Gordon Wetzstein, Ziwei Liu, Dahua Lin
 - **🏫 单位**：Shanghai Jiao Tong University ⟐ Shanghai AI Laboratory ⟐ CUHK ⟐ Zhejiang University ⟐ Stanford University ⟐ Nanyang Technological University
 - **🔗 链接**：[[中英摘要](./abs/2408.13252.md)] [[arXiv:2408.13252](https://arxiv.org/abs/2408.13252)] [Code]
 - **📝 说明**：
 
-#### [120] Atlas Gaussians Diffusion for 3D Generation with Infinite Number of Points
+#### [126] Atlas Gaussians Diffusion for 3D Generation with Infinite Number of Points
 - **🧑‍🔬 作者**：Haitao Yang, Yuan Dong, Hanwen Jiang, Dejia Xu, Georgios Pavlakos, Qixing Huang
 - **🏫 单位**：The University of Texas at Austin ⟐ Alibaba Group
 - **🔗 链接**：[[中英摘要](./abs/2408.13055.md)] [[arXiv:2408.13055](https://arxiv.org/abs/2408.13055)] [Code]
 - **📝 说明**：
 
-#### [121] S4D: Streaming 4D Real-World Reconstruction with Gaussians and 3D Control Points
+#### [127] S4D: Streaming 4D Real-World Reconstruction with Gaussians and 3D Control Points
 - **🧑‍🔬 作者**：Bing He, Yunuo Chen, Guo Lu, Li Song, Wenjun Zhang
 - **🏫 单位**：Shanghai Jiao Tong University
 - **🔗 链接**：[[中英摘要](./abs/2408.13036.md)] [[arXiv:2408.13036](https://arxiv.org/abs/2408.13036)] [Code]
 - **📝 说明**：
 
-#### [122] FLoD: Integrating Flexible Level of Detail into 3D Gaussian Splatting for Customizable Rendering
+#### [128] FLoD: Integrating Flexible Level of Detail into 3D Gaussian Splatting for Customizable Rendering
 - **🧑‍🔬 作者**：Yunji Seo, Young Sun Choi, Hyun Seung Son, Youngjung Uh
 - **🏫 单位**：Yonsei University
 - **🔗 链接**：[[中英摘要](./abs/2408.12894.md)] [[arXiv:2408.12894](https://arxiv.org/abs/2408.12894)] [Code]
 - **📝 说明**：
 
-#### [123] GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion
+#### [129] GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion
 - **🧑‍🔬 作者**：Jiaxin Wei, Stefan Leutenegger
 - **🏫 单位**：Technical University of Munich ⟐ Imperial College London ⟐ Munich Institute of Robotics and Machine Intelligence
 - **🔗 链接**：[[中英摘要](./abs/2408.12677.md)] [[arXiv:2408.12677](https://arxiv.org/abs/2408.12677)] [[Code](https://github.com/GS-Fusion/GSFusion)]
 - **📝 说明**：
 
-#### [124] Subsurface Scattering for 3D Gaussian Splatting
+#### [130] Subsurface Scattering for 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Jan-Niklas Dihlmann, Arjun Majumdar, Andreas Engelhardt, Raphael Braun, Hendrik P. A. Lensch
 - **🏫 单位**：University of Tübingen ⟐ Sony Germany
 - **🔗 链接**：[[中英摘要](./abs/2408.12282.md)] [[arXiv:2408.12282](https://arxiv.org/abs/2408.12282)] [[Code](https://github.com/cgtuebingen/SSS-GS)]
 - **📝 说明**：
 
-#### [125] Robust 3D Gaussian Splatting for Novel View Synthesis in Presence of Distractors
+#### [131] Robust 3D Gaussian Splatting for Novel View Synthesis in Presence of Distractors
 - **🧑‍🔬 作者**：Paul Ungermann, Armin Ettenhofer, Matthias Nießner, Barbara Roessle
 - **🏫 单位**：Technical University of Munich
 - **🔗 链接**：[[中英摘要](./abs/2408.11697.md)] [[arXiv:2408.11697](https://arxiv.org/abs/2408.11697)] [Code]
 - **📝 说明**：🏆 Accepted to GCPR 2024
 
-#### [126] DeRainGS: Gaussian Splatting for Enhanced Scene Reconstruction in Rainy Environments
+#### [132] DeRainGS: Gaussian Splatting for Enhanced Scene Reconstruction in Rainy Environments
 - **🧑‍🔬 作者**：Shuhong Liu, Xiang Chen, Hongming Chen, Quanfeng Xu, Mingrui Li
 - **🏫 单位**：University of Tokyo ⟐ Nanjing University of Science and Technology ⟐ Dalian Maritime University ⟐ Shanghai Astronomical Observatory ⟐ University of Chinese Academy of Sciences
 - **🔗 链接**：[[中英摘要](./abs/2408.11540.md)] [[arXiv:2408.11540](https://arxiv.org/abs/2408.11540)] [Code]
 - **📝 说明**：
 
-#### [127] GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting
+#### [133] GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting
 - **🧑‍🔬 作者**：Wanshui Gan, Fang Liu, Hongbin Xu, Ningkai Mo, Naoto Yokoya
 - **🏫 单位**：University of Tokyo ⟐ RIKEN ⟐ 3South China University of Technology ⟐ Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
 - **🔗 链接**：[[中英摘要](./abs/2408.11447.md)] [[arXiv:2408.11447](https://arxiv.org/abs/2408.11447)] [[Code](https://github.com/GANWANSHUI/GaussianOcc)]
 - **📝 说明**：
 
-#### [128] Pano2Room: Novel View Synthesis from a Single Indoor Panorama
+#### [134] Pano2Room: Novel View Synthesis from a Single Indoor Panorama
 - **🧑‍🔬 作者**：Guo Pu, Yiming Zhao, Zhouhui Lian
 - **🏫 单位**：Peking University
 - **🔗 链接**：[[中英摘要](./abs/2408.11413.md)] [[arXiv:2408.11413](https://arxiv.org/abs/2408.11413)] [[Code](https://github.com/TrickyGo/Pano2Room)]
 - **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
 
-#### [129] GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting
+#### [135] GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Changkun Liu, Shuai Chen, Yash Bhalgat, Siyan Hu, Zirui Wang, Ming Cheng, Victor Adrian Prisacariu, Tristan Braud
 - **🏫 单位**：HKUST ⟐ INSAIT, Sofia University ⟐ University of Oxford ⟐ Dartmouth College
 - **🔗 链接**：[[中英摘要](./abs/2408.11085.md)] [[arXiv:2408.11085](https://arxiv.org/abs/2408.11085)] [Code]
 - **📝 说明**：
 
-#### [130] Large Point-to-Gaussian Model for Image-to-3D Generation
+#### [136] Large Point-to-Gaussian Model for Image-to-3D Generation
 - **🧑‍🔬 作者**：Longfei Lu, Huachen Gao, Tao Dai, Yaohua Zha, Zhi Hou, Junta Wu, Shu-Tao Xia
 - **🏫 单位**：Tsinghua University ⟐ Tencent, Hunyuan ⟐ Shenzhen University ⟐ Peng Cheng Laboratory
 - **🔗 链接**：[[中英摘要](./abs/2408.10935.md)] [[arXiv:2408.10935](https://arxiv.org/abs/2408.10935)] [Code]
 - **📝 说明**：🏆 Accepted to ACM MM 2024
 
-#### [131] ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining
+#### [137] ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining
 - **🧑‍🔬 作者**：Qi Ma, Yue Li, Bin Ren, Nicu Sebe, Ender Konukoglu, Theo Gevers, Luc Van Gool, Danda Pani Paudel
 - **🏫 单位**：Computer Vision Lab, ETH Zurich ⟐ INSAIT, Sofia University ⟐ University of Amsterdam ⟐ University of Pisa ⟐ University of Trento
 - **🔗 链接**：[[中英摘要](./abs/2408.10906.md)] [[arXiv:2408.10906](https://arxiv.org/abs/2408.10906)] [[Code](https://github.com/qimaqi/ShapeSplat-Gaussian_MAE)]
 - **📝 说明**：
 
-#### [132] DEGAS: Detailed Expressions on Full-Body Gaussian Avatars
+#### [138] DEGAS: Detailed Expressions on Full-Body Gaussian Avatars
 - **🧑‍🔬 作者**：Zhijing Shao, Duotun Wang, Qing-Yao Tian, Yao-Dong Yang, Hengyu Meng, Zeyu Cai, Bo Dong, Yu Zhang, Kang Zhang, Zeyu Wang
 - **🏫 单位**：The Hong Kong University of Science and Technology (Guangzhou) ⟐ Prometheus Vision Technology Co., Ltd. ⟐ The Hong Kong University of Science and Technology ⟐ Swinburne University of Technology
 - **🔗 链接**：[[中英摘要](./abs/2408.10588.md)] [[arXiv:2408.10588](https://arxiv.org/abs/2408.10588)] [[Code](https://github.com/initialneil/DEGAS)]
 - **📝 说明**：
 
-#### [133] LoopSplat: Loop Closure by Registering 3D Gaussian Splats
+#### [139] LoopSplat: Loop Closure by Registering 3D Gaussian Splats
 - **🧑‍🔬 作者**：Liyuan Zhu, Yue Li, Erik Sandström, Shengyu Huang, Konrad Schindler, Iro Armeni
 - **🏫 单位**：Stanford University ⟐ University of Amsterdam ⟐ ETH Zurich
 - **🔗 链接**：[[中英摘要](./abs/2408.10154.md)] [[arXiv:2408.10154](https://arxiv.org/abs/2408.10154)] [[Code](https://github.com/GradientSpaces/LoopSplat)]
 - **📝 说明**：
 
-#### [134] Implicit Gaussian Splatting with Efficient Multi-Level Tri-Plane Representation
+#### [140] Implicit Gaussian Splatting with Efficient Multi-Level Tri-Plane Representation
 - **🧑‍🔬 作者**：Minye Wu, Tinne Tuytelaars
 - **🏫 单位**：KU Leuven
 - **🔗 链接**：[[中英摘要](./abs/2408.10041.md)] [[arXiv:2408.10041](https://arxiv.org/abs/2408.10041)] [Code]
 - **📝 说明**：
 
-#### [135] SG-GS: Photo-realistic Animatable Human Avatars with Semantically-Guided Gaussian Splatting
+#### [141] SG-GS: Photo-realistic Animatable Human Avatars with Semantically-Guided Gaussian Splatting
 - **🧑‍🔬 作者**：Haoyu Zhao, Chen Yang, Hao Wang, Xingyue Zhao, Wei Shen
 - **🏫 单位**：MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University ⟐ School of Computer Science, Wuhan University ⟐ Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology ⟐ School of Software Engineering, Xi’an Jiao Tong University
 - **🔗 链接**：[[中英摘要](./abs/2408.09665.md)] [[arXiv:2408.09665](https://arxiv.org/abs/2408.09665)] [Code]
 - **📝 说明**：
 
-#### [136] CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning
+#### [142] CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning
 - **🧑‍🔬 作者**：Haoyu Zhao, Hao Wang, Chen Yang, Wei Shen
 - **🏫 单位**：MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University ⟐ School of Computer Science, Wuhan University ⟐ Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology
 - **🔗 链接**：[[中英摘要](./abs/2408.09663.md)] [[arXiv:2408.09663](https://arxiv.org/abs/2408.09663)] [Code]
 - **📝 说明**：
 
-#### [137] Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting
+#### [143] Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting
 - **🧑‍🔬 作者**：Sheng Ye, Zhen-Hui Dong, Yubin Hu, Yu-Hui Wen, Yong-Jin Liu
 - **🏫 单位**：MOE-Key Laboratory of Pervasive Computing, the Department of Computer Science and Technology, Tsinghua University ⟐ Beijing Key Laboratory of Traffic Data Analysis and Mining, School of Computer and Information Technology, Beijing Jiaotong University
 - **🔗 链接**：[[中英摘要](./abs/2408.09130.md)] [[arXiv:2408.09130](https://arxiv.org/abs/2408.09130)] [[Code](https://github.com/yec22/Gaussian-DK)]
 - **📝 说明**：🏆 Accepted to Pacific Graphics 2024
 
-#### [138] Correspondence-Guided SfM-Free 3D Gaussian Splatting for NVS
+#### [144] Correspondence-Guided SfM-Free 3D Gaussian Splatting for NVS
 - **🧑‍🔬 作者**：Wei Sun, Xiaosong Zhang, Fang Wan, Yanzhao Zhou, Yuan Li, Qixiang Ye, Jianbin Jiao
 - **🏫 单位**：School of Electronic, Electrical and Communication Engineering, University of Chinese Academy of Sciences, China ⟐ Beijing Academy of Artificial Intelligence, China
 - **🔗 链接**：[[中英摘要](./abs/2408.08723.md)] [[arXiv:2408.08723](https://arxiv.org/abs/2408.08723)] [Code]
 - **📝 说明**：
 
-#### [139] GS-ID: Illumination Decomposition on Gaussian Splatting via Diffusion Prior and Parametric Light Source Optimization
+#### [145] GS-ID: Illumination Decomposition on Gaussian Splatting via Diffusion Prior and Parametric Light Source Optimization
 - **🧑‍🔬 作者**：Kang Du, Zhihao Liang, Zeyu Wang
 - **🏫 单位**：The Hong Kong University of Science and Technology (Guangzhou) ⟐ The Hong Kong University of Science and Technology ⟐ South China University of Technology
 - **🔗 链接**：[[中英摘要](./abs/2408.08524.md)] [[arXiv:2408.08524](https://arxiv.org/abs/2408.08524)] [Code]
 - **📝 说明**：
 
-#### [140] WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting
+#### [146] WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting
 - **🧑‍🔬 作者**：Huapeng Li, Wenxuan Song, Tianao Xu, Alexandre Elsig, Jonas Kulhanek
 - **🏫 单位**：University of Zurich ⟐ ETH Zurich ⟐ CTU in Prague
 - **🔗 链接**：[[中英摘要](./abs/2408.08206.md)] [[arXiv:2408.08206](https://arxiv.org/abs/2408.08206)] [Code]
 - **📝 说明**：
 
-#### [141] FlashGS: Efficient 3D Gaussian Splatting for Large-scale and High-resolution Rendering
+#### [147] FlashGS: Efficient 3D Gaussian Splatting for Large-scale and High-resolution Rendering
 - **🧑‍🔬 作者**：Guofeng Feng, Siyan Chen, Rong Fu, Zimu Liao, Yi Wang, Tao Liu, Zhilin Pei, Hengjie Li, Xingcheng Zhang, Bo Dai
 - **🏫 单位**：Shanghai AI Laboratory
 - **🔗 链接**：[[中英摘要](./abs/2408.07967.md)] [[arXiv:2408.07967](https://arxiv.org/abs/2408.07967)] [[Code](https://github.com/InternLandMark/FlashGS)]
 - **📝 说明**：
 
-#### [142] 3D Gaussian Editing with A Single Image
+#### [148] 3D Gaussian Editing with A Single Image
 - **🧑‍🔬 作者**：Guan Luo, Tian-Xing Xu, Ying-Tian Liu, Xiao-Xiong Fan, Fang-Lue Zhang, Song-Hai Zhang
 - **🏫 单位**：Tsinghua University ⟐ Victoria University of Wellington
 - **🔗 链接**：[[中英摘要](./abs/2408.07540.md)] [[arXiv:2408.07540](https://arxiv.org/abs/2408.07540)] [Code]
 - **📝 说明**：
 
-#### [143] SpectralGaussians: Semantic, spectral 3D Gaussian splatting for multi-spectral scene representation, visualization and analysis
+#### [149] SpectralGaussians: Semantic, spectral 3D Gaussian splatting for multi-spectral scene representation, visualization and analysis
 - **🧑‍🔬 作者**：Saptarshi Neil Sinha, Holger Graf, Michael Weinmann
 - **🏫 单位**：Fraunhofer IGD ⟐ Delft University of Technology
 - **🔗 链接**：[[中英摘要](./abs/2408.06975.md)] [[arXiv:2408.06975](https://arxiv.org/abs/2408.06975)] [Code]
 - **📝 说明**：
 
-#### [144] HDRGS: High Dynamic Range Gaussian Splatting
+#### [150] HDRGS: High Dynamic Range Gaussian Splatting
 - **🧑‍🔬 作者**：Jiahao Wu, Lu Xiao, Chao Wang, Rui Peng, Kaiqiang Xiong, Ronggang Wang
 - **🏫 单位**：Peking University ⟐ MPI Informatik
 - **🔗 链接**：[[中英摘要](./abs/2408.06543.md)] [[arXiv:2408.06543](https://arxiv.org/abs/2408.06543)] [Code]
 - **📝 说明**：
 
-#### [145] Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering
+#### [151] Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering
 - **🧑‍🔬 作者**：Jiameng Li, Yue Shi, Jiezhang Cao, Bingbing Ni, Wenjun Zhang, Kai Zhang, Luc Van Gool
 - **🏫 单位**：Nanjing University ⟐ INSAIT, Sofia University
 - **🔗 链接**：[[中英摘要](./abs/2408.06286.md)] [[arXiv:2408.06286](https://arxiv.org/abs/2408.06286)] [Code]
 - **📝 说明**：
 
-#### [146] HeadGAP: Few-shot 3D Head Avatar via Generalizable Gaussian Priors
+#### [152] HeadGAP: Few-shot 3D Head Avatar via Generalizable Gaussian Priors
 - **🧑‍🔬 作者**：Xiaozheng Zheng, Chao Wen, Zhaohu Li, Weiyi Zhang, Zhuo Su, Xu Chang, Yang Zhao, Zheng Lv, Xiaoyuan Zhang, Yongjie Zhang, Guidong Wang, Lan Xu
 - **🏫 单位**：ByteDance ⟐ ShanghaiTech University
 - **🔗 链接**：[[中英摘要](./abs/2408.06019.md)] [[arXiv:2408.06019](https://arxiv.org/abs/2408.06019)] [Code]
 - **📝 说明**：
 
-#### [147] Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis
+#### [153] Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis
 - **🧑‍🔬 作者**：Zhongche Qu, Zhi Zhang, Cong Liu, Jianhua Yin
 - **🏫 单位**：Columbia University ⟐ New York University ⟐ Peng Cheng Laboratory
 - **🔗 链接**：[[中英摘要](./abs/2408.05635.md)] [[arXiv:2408.05635](https://arxiv.org/abs/2408.05635)] [Code]
 - **📝 说明**：
 
-#### [148] PRTGaussian: Efficient Relighting Using 3D Gaussians with Precomputed Radiance Transfer
+#### [154] PRTGaussian: Efficient Relighting Using 3D Gaussians with Precomputed Radiance Transfer
 - **🧑‍🔬 作者**：Libo Zhang, Yuxuan Han, Wenbin Lin, Jingwang Ling, Feng Xu
 - **🏫 单位**：Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2408.05631.md)] [[arXiv:2408.05631](https://arxiv.org/abs/2408.05631)] [[Code](https://github.com/zhanglbthu/PRTGaussian)]
 - **📝 说明**：
 
-#### [149] Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction
+#### [155] Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction
 - **🧑‍🔬 作者**：Lingbei Meng, Bi'an Du, Wei Hu
 - **🏫 单位**：Peking University
 - **🔗 链接**：[[中英摘要](./abs/2408.04831.md)] [[arXiv:2408.04831](https://arxiv.org/abs/2408.04831)] [Code]
 - **📝 说明**：
 
-#### [150] LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting
+#### [156] LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting
 - **🧑‍🔬 作者**：Joanna Kaleta, Kacper Kania, Tomasz Trzcinski, Marek Kowalski
 - **🏫 单位**：Warsaw University of Technology ⟐ Sano Centre for Computational Medicine ⟐ Microsoft ⟐ IDEAS NCBR ⟐ Tooploox
 - **🔗 链接**：[[中英摘要](./abs/2408.04474.md)] [[arXiv:2408.04474](https://arxiv.org/abs/2408.04474)] [[Code](https://github.com/joaxkal/lumigauss)]
 - **📝 说明**：
 
-#### [151] InstantStyleGaussian: Efficient Art Style Transfer with 3D Gaussian Splatting
+#### [157] InstantStyleGaussian: Efficient Art Style Transfer with 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Xin-Yi Yu, Jun-Xin Yu, Li-Bo Zhou, Yan Wei, Lin-Lin Ou
 - **🏫 单位**：
 - **🔗 链接**：[[中英摘要](./abs/2408.04249.md)] [[arXiv:2408.04249](https://arxiv.org/abs/2408.04249)] [Code]
 - **📝 说明**：
 
-#### [152] Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM
+#### [158] Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM
 - **🧑‍🔬 作者**：Yan Song Hu, Dayou Mao, Yuhao Chen, John Zelek
 - **🏫 单位**：University of Waterloo
 - **🔗 链接**：[[中英摘要](./abs/2408.03825.md)] [[arXiv:2408.03825](https://arxiv.org/abs/2408.03825)] [Code]
 - **📝 说明**：
 
-#### [153] Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields
+#### [159] Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields
 - **🧑‍🔬 作者**：Joo Chan Lee, Daniel Rho, Xiangyu Sun, Jong Hwan Ko, Eunbyung Park
 - **🏫 单位**：Sungkyunkwan University ⟐ University of North Carolina at Chapel Hill
 - **🔗 链接**：[[中英摘要](./abs/2408.03822.md)] [[arXiv:2408.03822](https://arxiv.org/abs/2408.03822)] [[Code](https://github.com/maincold2/Dynamic_C3DGS/)]
 - **📝 说明**：
 
-#### [154] PRTGS: Precomputed Radiance Transfer of Gaussian Splats for Real-Time High-Quality Relighting
+#### [160] PRTGS: Precomputed Radiance Transfer of Gaussian Splats for Real-Time High-Quality Relighting
 - **🧑‍🔬 作者**：Yijia Guo, Yuanxi Bai, Liwen Hu, Ziyi Guo, Mianzhi Liu, Yu Cai, Tiejun Huang, Lei Ma
 - **🏫 单位**：Peking University
 - **🔗 链接**：[[中英摘要](./abs/2408.03538.md)] [[arXiv:2408.03538](https://arxiv.org/abs/2408.03538)] [Code]
 - **📝 说明**：
 
-#### [155] MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images
+#### [161] MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images
 - **🧑‍🔬 作者**：Tengfei Wang, Zongqian Zhan, Rui Xia, Linxia Ji, Xin Wang
 - **🏫 单位**：Wuhan University
 - **🔗 链接**：[[中英摘要](./abs/2408.03060.md)] [[arXiv:2408.03060](https://arxiv.org/abs/2408.03060)] [Code]
 - **📝 说明**：
 
 
-#### [156] Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion
+#### [162] Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion
 - **🧑‍🔬 作者**：Ke Li, Reinhard Bacher, Susanne Schmidt, Wim Leemans, Frank Steinicke
 - **🏫 单位**：Deutsche Elektronen Synchrotron DESY ⟐ Hamburg University
 - **🔗 链接**：[[中英摘要](./abs/2408.01225.md)] [[arXiv:2408.01225](https://arxiv.org/abs/2408.01225)] [[Code](https://github.com/uhhhci/RealityFusion)]
 - **📝 说明**：🏆 Accepted to IROS 2024
 
-#### [157] IG-SLAM: Instant Gaussian SLAM
+#### [163] IG-SLAM: Instant Gaussian SLAM
 - **🧑‍🔬 作者**：F. Aykut Sarikamis, A. Aydin Alatan
 - **🏫 单位**：Center for Image Analysis (OGAM), EEE Department, METU, Turkey
 - **🔗 链接**：[[中英摘要](./abs/2408.01126.md)] [[arXiv:2408.01126](https://arxiv.org/abs/2408.01126)] [Code]
 - **📝 说明**：
 
 
-#### [158] LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting
+#### [164] LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting
 - **🧑‍🔬 作者**：Zhenyu Bao, Guibiao Liao, Kaichen Zhou, Kanglin Liu, Qing Li, Guoping Qiu
 - **🏫 单位**：Peking University ⟐ Pengcheng Laboratory ⟐ University of Nottingham
 - **🔗 链接**：[[中英摘要](./abs/2408.00254.md)] [[arXiv:2408.00254](https://arxiv.org/abs/2408.00254)] [Code]
 - **📝 说明**：
 
-#### [159] Localized Gaussian Splatting Editing with Contextual Awareness
+#### [165] Localized Gaussian Splatting Editing with Contextual Awareness
 - **🧑‍🔬 作者**：Hanyuan Xiao, Yingshu Chen, Huajian Huang, Haolin Xiong, Jing Yang, Pratusha Prasad, Yajie Zhao
 - **🏫 单位**：University of Southern California ⟐ Institute for Creative Technologies ⟐ HKUST ⟐ University of California, Los Angeles
 - **🔗 链接**：[[中英摘要](./abs/2408.00083.md)] [[arXiv:2408.00083](https://arxiv.org/abs/2408.00083)] [Code]
 - **📝 说明**：
 
 
-#### [160] Registering Neural 4D Gaussians for Endoscopic Surgery
+#### [166] Registering Neural 4D Gaussians for Endoscopic Surgery
 - **🧑‍🔬 作者**：Yiming Huang, Beilei Cui, Ikemura Kei, Jiekai Zhang, Long Bai, Hongliang Ren
 - **🏫 单位**：The Chinese University of Hong Kong ⟐ Kungliga Tekniska hogskolan Royal Institute of Technology ⟐ Hong Kong Applied Science and Technology Research Institute Company Limited
 - **🔗 链接**：[[中英摘要](./abs/2407.20213.md)] [[arXiv:2407.20213](https://arxiv.org/abs/2407.20213)] [Code]
 - **📝 说明**：
 
-#### [161] ScalingGaussian: Enhancing 3D Content Creation with Generative Gaussian Splatting
+#### [167] ScalingGaussian: Enhancing 3D Content Creation with Generative Gaussian Splatting
 - **🧑‍🔬 作者**：Shen Chen, Jiale Zhou, Zhongyu Jiang, Tianfang Zhang, Zongkai Wu, Jenq-Neng Hwang, Lei Li
 - **🏫 单位**：East China University of Science and Technology ⟐ University of Washington ⟐ University of Copenhagen ⟐ Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2407.19035.md)] [[arXiv:2407.19035](https://arxiv.org/abs/2407.19035)] [Code]
 - **📝 说明**：
 
-#### [162] DHGS: Decoupled Hybrid Gaussian Splatting for Driving Scene
+#### [168] DHGS: Decoupled Hybrid Gaussian Splatting for Driving Scene
 - **🧑‍🔬 作者**：Xi Shi, Lingli Chen, Peng Wei, Xi Wu, Tian Jiang, Yonggang Luo, Lecheng Xie
 - **🏫 单位**：Changan Auto, AILab
 - **🔗 链接**：[[中英摘要](./abs/2407.16600.md)] [[arXiv:2407.16600](https://arxiv.org/abs/2407.16600)] [Code]
 - **📝 说明**：
 
-#### [163] HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images
+#### [169] HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images
 - **🧑‍🔬 作者**：Shreyas Singh, Aryan Garg, Kaushik Mitra
 - **🏫 单位**：Indian Institute of Technology, Madra
 - **🔗 链接**：[[中英摘要](./abs/2407.16503.md)] [[arXiv:2407.16503](https://arxiv.org/abs/2407.16503)] [[Code](https://github.com/shreyesss/HDRSplat)]
 - **📝 说明**：🏆 Accepted to BMVC 2024
 
-#### [164] Integrating Meshes and 3D Gaussians for Indoor Scene Reconstruction with SAM Mask Guidance
+#### [170] Integrating Meshes and 3D Gaussians for Indoor Scene Reconstruction with SAM Mask Guidance
 - **🧑‍🔬 作者**：Jiyeop Kim, Jongwoo Lim
 - **🏫 单位**：IPAI, Seoul National University
 - **🔗 链接**：[[中英摘要](./abs/2407.16173.md)] [[arXiv:2407.16173](https://arxiv.org/abs/2407.16173)] [Code]
 - **📝 说明**：
 
-#### [165] Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures
+#### [171] Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures
 - **🧑‍🔬 作者**：Ruizhe Wang, Chunliang Hua, Tomakayev Shingys, Mengyuan Niu, Qingxin Yang, Lizhong Gao, Yi Zheng, Junyan Yang, Qiao Wang
 - **🏫 单位**：Southeast University
 - **🔗 链接**：[[中英摘要](./abs/2407.15435.md)] [[arXiv:2407.15435](https://arxiv.org/abs/2407.15435)] [Code]
 - **📝 说明**：
 
-#### [166] HoloDreamer: Holistic 3D Panoramic World Generation from Text Descriptions
+#### [172] HoloDreamer: Holistic 3D Panoramic World Generation from Text Descriptions
 - **🧑‍🔬 作者**：Haiyang Zhou, Xinhua Cheng, Wangbo Yu, Yonghong Tian, Li Yuan
 - **🏫 单位**：Peking University ⟐ Peng Cheng Laboratory
 - **🔗 链接**：[[中英摘要](./abs/2407.15187.md)] [[arXiv:2407.15187](https://arxiv.org/abs/2407.15187)] [Code]
 - **📝 说明**：
 
-#### [167] GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation
+#### [173] GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation
 - **🧑‍🔬 作者**：Florian Chabot, Nicolas Granger, Guillaume Lapouge
 - **🏫 单位**：CEA, List, F-91120, Palaiseau, France
 - **🔗 链接**：[[中英摘要](./abs/2407.14108.md)] [[arXiv:2407.14108](https://arxiv.org/abs/2407.14108)] [Code]
 - **📝 说明**：
 
-#### [168] EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting
+#### [174] EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting
 - **🧑‍🔬 作者**：Yuchen Weng, Zhengwen Shen, Ruofan Chen, Qi Wang, Jun Wang
 - **🏫 单位**：China University of Mining and Technology
 - **🔗 链接**：[[中英摘要](./abs/2407.13520.md)] [[arXiv:2407.13520](https://arxiv.org/abs/2407.13520)] [Code]
 - **📝 说明**：
 
-#### [169] Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for Unconstrained Photo Collections
+#### [175] Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for Unconstrained Photo Collections
 - **🧑‍🔬 作者**：Congrong Xu, Justin Kerr, Angjoo Kanazawa
 - **🏫 单位**：UC Berkeley
 - **🔗 链接**：[[中英摘要](./abs/2407.12306.md)] [[arXiv:2407.12306](https://arxiv.org/abs/2407.12306)] [[Code](https://github.com/KevinXu02/splatfacto-w)]
 - **📝 说明**：
 
-#### [170] MVG-Splatting: Multi-View Guided Gaussian Splatting with Adaptive Quantile-Based Geometric Consistency Densification
+#### [176] MVG-Splatting: Multi-View Guided Gaussian Splatting with Adaptive Quantile-Based Geometric Consistency Densification
 - **🧑‍🔬 作者**：Zhuoxiao Li, Shanliang Yao, Yijie Chu, Angel F. Garcia-Fernandez, Yong Yue, Eng Gee Lim, Xiaohui Zhu
 - **🏫 单位**：University of Liverpool ⟐ Xi’an Jiaotong-Liverpool University ⟐ ARIES Research Centre, Universidad Antonio de Nebrija
 - **🔗 链接**：[[中英摘要](./abs/2407.11840.md)] [[arXiv:2407.11840](https://arxiv.org/abs/2407.11840)] [Code]
 - **📝 说明**：
 
-#### [171] Ev-GS: Event-based Gaussian splatting for Efficient and Accurate Radiance Field Rendering
+#### [177] Ev-GS: Event-based Gaussian splatting for Efficient and Accurate Radiance Field Rendering
 - **🧑‍🔬 作者**：Jingqian Wu, Shuo Zhu, Chutian Wang, Edmund Y. Lam
 - **🏫 单位**：The University of Hong Kong
 - **🔗 链接**：[[中英摘要](./abs/2407.11343.md)] [[arXiv:2407.11343](https://arxiv.org/abs/2407.11343)] [Code]
 - **📝 说明**：
 
-#### [172] Gaussian Splatting Lucas-Kanade
+#### [178] Gaussian Splatting Lucas-Kanade
 - **🧑‍🔬 作者**：Liuyue Xie, Joel Julin, Koichiro Niinuma, Laszlo A. Jeni
 - **🏫 单位**：Carnegie Mellon University ⟐ Fujitsu Research of America
 - **🔗 链接**：[[中英摘要](./abs/2407.11309.md)] [[arXiv:2407.11309](https://arxiv.org/abs/2407.11309)] [Code]
 - **📝 说明**：
 
-#### [173] RecGS: Removing Water Caustic with Recurrent Gaussian Splatting
+#### [179] RecGS: Removing Water Caustic with Recurrent Gaussian Splatting
 - **🧑‍🔬 作者**：Tianyi Zhang, Weiming Zhi, Kaining Huang, Joshua Mangelson, Corina Barbalata, Matthew Johnson-Roberson
 - **🏫 单位**：Carnegie Mellon University ⟐ Louisiana State University ⟐ Brigham Young University
 - **🔗 链接**：[[中英摘要](./abs/2407.10318.md)] [[arXiv:2407.10318](https://arxiv.org/abs/2407.10318)] [Code]
 - **📝 说明**：
 
-#### [174] SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion
+#### [180] SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion
 - **🧑‍🔬 作者**：Jiyuan Zhang, Kang Chen, Shiyan Chen, Yajing Zheng, Tiejun Huang, Zhaofei Yu
 - **🏫 单位**：Peking University ⟐ Wuhan University
 - **🔗 链接**：[[中英摘要](./abs/2407.10062.md)] [[arXiv:2407.10062](https://arxiv.org/abs/2407.10062)] [Code]
 - **📝 说明**：
 
-#### [175] StyleSplat: 3D Object Style Transfer with Gaussian Splatting
+#### [181] StyleSplat: 3D Object Style Transfer with Gaussian Splatting
 - **🧑‍🔬 作者**：Sahil Jain, Avik Kuthiala, Prabhdeep Singh Sethi, Prakanshul Saxena
 - **🏫 单位**：Carnegie Mellon University
 - **🔗 链接**：[[中英摘要](./abs/2407.09473.md)] [[arXiv:2407.09473](https://arxiv.org/abs/2407.09473)] [Code]
 - **📝 说明**：
 
-#### [176] WildGaussians: 3D Gaussian Splatting in the Wild
+#### [182] WildGaussians: 3D Gaussian Splatting in the Wild
 - **🧑‍🔬 作者**：Jonas Kulhanek, Songyou Peng, Zuzana Kukelova, Marc Pollefeys, Torsten Sattler
 - **🏫 单位**： Czech Technical University in Prague ⟐ ETH Zurich
 - **🔗 链接**：[[中英摘要](./abs/2407.08447.md)] [[arXiv:2407.08447](https://arxiv.org/abs/2407.08447)] [[Code](https://github.com/jkulhanek/wild-gaussians/)]
 - **📝 说明**：
 
-#### [177] Reference-based Controllable Scene Stylization with Gaussian Splatting
+#### [183] Reference-based Controllable Scene Stylization with Gaussian Splatting
 - **🧑‍🔬 作者**：Yiqun Mei, Jiacong Xu, Vishal M. Patel
 - **🏫 单位**：Johns Hopkins University
 - **🔗 链接**：[[中英摘要](./abs/2407.07220.md)] [[arXiv:2407.07220](https://arxiv.org/abs/2407.07220)] [Code]
 - **📝 说明**：
 
-#### [178] 3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes
+#### [184] 3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes
 - **🧑‍🔬 作者**：Nicolas Moenne-Loccoz, Ashkan Mirzaei, Or Perel, Riccardo de Lutio, Janick Martinez Esturo, Gavriel State, Sanja Fidler, Nicholas Sharp, Zan Gojcic
 - **🏫 单位**：NVIDIA
 - **🔗 链接**：[[中英摘要](./abs/2407.07090.md)] [[arXiv:2407.07090](https://arxiv.org/abs/2407.07090)] [Code]
 - **📝 说明**：
 
-#### [179] PICA: Physics-Integrated Clothed Avatar
+#### [185] PICA: Physics-Integrated Clothed Avatar
 - **🧑‍🔬 作者**：Bo Peng, Yunfan Tao, Haoyu Zhan, Yudong Guo, Juyong Zhang
 - **🏫 单位**：the School of Mathematical Science, University of Science and Technology of China
 - **🔗 链接**：[[中英摘要](./abs/2407.05324.md)] [[arXiv:2407.05324](https://arxiv.org/abs/2407.05324)] [Code]
 - **📝 说明**：
 
-#### [180] SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction
+#### [186] SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction
 - **🧑‍🔬 作者**：Weixing Xie, Junfeng Yao, Xianpeng Cao, Qiqin Lin, Zerui Tang, Xiao Dong, Xiaohu Guo
 - **🏫 单位**：Xiamen University ⟐ BNU-HKBU United International College ⟐ The University of Texas at Dallas
 - **🔗 链接**：[[中英摘要](./abs/2407.05023.md)] [[arXiv:2407.05023](https://arxiv.org/abs/2407.05023)] [[Code](https://github.com/SurgicalGaussian/SurgicalGaussian)]
 - **📝 说明**：
 
-#### [181] Gaussian Eigen Models for Human Heads
+#### [187] Gaussian Eigen Models for Human Heads
 - **🧑‍🔬 作者**：Wojciech Zielonka, Timo Bolkart, Thabo Beeler, Justus Thies
 - **🏫 单位**：Max Planck Institute for Intelligent Systems ⟐ Google ⟐ TU Darmstadt
 - **🔗 链接**：[[中英摘要](./abs/2407.04545.md)] [[arXiv:2407.04545](https://arxiv.org/abs/2407.04545)] [Code]
 - **📝 说明**：
 
-#### [182] Segment Any 4D Gaussians
+#### [188] Segment Any 4D Gaussians
 - **🧑‍🔬 作者**：Shengxiang Ji, Guanjun Wu, Jiemin Fang, Jiazhong Cen, Taoran Yi, Wenyu Liu, Qi Tian, Xinggang Wang
 - **🏫 单位**：Huazhong University of Science and Technology ⟐ Huawei Inc. ⟐ Shanghai Jiao Tong University
 - **🔗 链接**：[[中英摘要](./abs/2407.04504.md)] [[arXiv:2407.04504](https://arxiv.org/abs/2407.04504)] [Code]
 - **📝 说明**：
 
-#### [183] CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images
+#### [189] CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images
 - **🧑‍🔬 作者**：Junghe Lee, Donghyeong Kim, Dogyoon Lee, Suhwan Cho, Sangyoun Lee
 - **🏫 单位**：Yonsei University
 - **🔗 链接**：[[中英摘要](./abs/2407.03923.md)] [[arXiv:2407.03923](https://arxiv.org/abs/2407.03923)] [[Code](https://github.com/Jho-Yonsei/CRiM-GS)]
 - **📝 说明**：
 
-#### [184] PFGS: High Fidelity Point Cloud Rendering via Feature Splatting
+#### [190] PFGS: High Fidelity Point Cloud Rendering via Feature Splatting
 - **🧑‍🔬 作者**：Jiaxu Wang, Ziyi Zhang, Junhao He, Renjing Xu
 - **🏫 单位**：Hong Kong University of Science and Technology (GZ)
 - **🔗 链接**：[[中英摘要](./abs/2407.03857.md)] [[arXiv:2407.03857](https://arxiv.org/abs/2407.03857)] [[Code](https://github.com/Mercerai/PFGS)]
 - **📝 说明**：
 
-#### [185] Expressive Gaussian Human Avatars from Monocular RGB Video
+#### [191] Expressive Gaussian Human Avatars from Monocular RGB Video
 - **🧑‍🔬 作者**：Hezhen Hu, Zhiwen Fan, Tianhao Wu, Yihan Xi, Seoyoung Lee, Georgios Pavlakos, Zhangyang Wang
 - **🏫 单位**：University of Texas at Austin  ⟐ University of Cambridge
 - **🔗 链接**：[[中英摘要](./abs/2407.03204.md)] [[arXiv:2407.03204](https://arxiv.org/abs/2407.03204)] [Code]
 - **📝 说明**：
 
-#### [186] AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction
+#### [192] AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction
 - **🧑‍🔬 作者**：Mustafa Khan, Hamidreza Fazlali, Dhruv Sharma, Tongtong Cao, Dongfeng Bai, Yuan Ren, Bingbing Liu
 - **🏫 单位**：University of Toronto ⟐ Noah’s Ark Lab, Huawei Technologies
 - **🔗 链接**：[[中英摘要](./abs/2407.02598.md)] [[arXiv:2407.02598](https://arxiv.org/abs/2407.02598)] [Code]
 - **📝 说明**：
 
-#### [187] TrAME: Trajectory-Anchored Multi-View Editing for Text-Guided 3D Gaussian Splatting Manipulation
+#### [193] TrAME: Trajectory-Anchored Multi-View Editing for Text-Guided 3D Gaussian Splatting Manipulation
 - **🧑‍🔬 作者**：Chaofan Luo, Donglin Di, Yongjia Ma, Zhou Xue, Chen Wei, Xun Yang, Yebin Liu
 - **🏫 单位**：Space AI, Li Auto ⟐ University of Science and Technology of China ⟐ Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2407.02034.md)] [[arXiv:2407.02034](https://arxiv.org/abs/2407.02034)] [Code]
 - **📝 说明**：
 
-#### [188] DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction
+#### [194] DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction
 - **🧑‍🔬 作者**：Yujin Ham, Mateusz Michalkiewicz, Guha Balakrishnan
 - **🏫 单位**：Rice University
 - **🔗 链接**：[[中英摘要](./abs/2407.01761.md)] [[arXiv:2407.01761](https://arxiv.org/abs/2407.01761)] [Code]
 - **📝 说明**：🏆 Accepted to ICCP 2024
 
-#### [189] GaussianStego: A Generalizable Stenography Pipeline for Generative 3D Gaussians Splatting
+#### [195] GaussianStego: A Generalizable Stenography Pipeline for Generative 3D Gaussians Splatting
 - **🧑‍🔬 作者**：Chenxin Li, Hengyu Liu, Zhiwen Fan, Wuyang Li, Yifan Liu, Panwang Pan, Yixuan Yuan
 - **🏫 单位**：The Chinese University of Hong Kong ⟐ University of Texas at Austin ⟐ ByteDance
 - **🔗 链接**：[[中英摘要](./abs/2407.01301.md)] [[arXiv:2407.01301](https://arxiv.org/abs/2407.01301)] [[Code](https://github.com/CUHK-AIM-Group/GaussianStego)]
 - **📝 说明**：
 
-#### [190] RTGS: Enabling Real-Time Gaussian Splatting on Mobile Devices Using Efficiency-Guided Pruning and Foveated Rendering
+#### [196] RTGS: Enabling Real-Time Gaussian Splatting on Mobile Devices Using Efficiency-Guided Pruning and Foveated Rendering
 - **🧑‍🔬 作者**：Weikai Lin, Yu Feng, Yuhao Zhu
 - **🏫 单位**：University of Rochester ⟐ Shanghai Jiao Tong University
 - **🔗 链接**：[[中英摘要](./abs/2407.00435.md)] [[arXiv:2407.00435](https://arxiv.org/abs/2407.00435)] [[Code](https://github.com/horizon-research/Fov-3DGS)]
 - **📝 说明**：
 
-#### [191] OccFusion: Rendering Occluded Humans with Generative Diffusion Priors
+#### [197] OccFusion: Rendering Occluded Humans with Generative Diffusion Priors
 - **🧑‍🔬 作者**：Adam Sun, Tiange Xiang, Scott Delp, Li Fei-Fei, Ehsan Adeli
 - **🏫 单位**：Stanford University
 - **🔗 链接**：[[中英摘要](./abs/2407.00316.md)] [[arXiv:2407.00316](https://arxiv.org/abs/2407.00316)] [Code]
 - **📝 说明**：
 
-#### [192] SpotlessSplats: Ignoring Distractors in 3D Gaussian Splatting
+#### [198] SpotlessSplats: Ignoring Distractors in 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Sara Sabour, Lily Goli, George Kopanas, Mark Matthews, Dmitry Lagun, Leonidas Guibas, Alec Jacobson, David J. Fleet, Andrea Tagliasacchi
 - **🏫 单位**：Google DeepMind ⟐ University of Toronto ⟐ Stanford University ⟐ Simon Fraser University
 - **🔗 链接**：[[中英摘要](./abs/2406.20055.md)] [[arXiv:2406.20055](https://arxiv.org/abs/2406.20055)] [Code]
 - **📝 说明**：
 
-#### [193] EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting
+#### [199] EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Daiwei Zhang, Gengyan Li, Jiajie Li, Mickaël Bressieux, Otmar Hilliges, Marc Pollefeys, Luc Van Gool, Xi Wang
 - **🏫 单位**：ETH Zürich ⟐ Google ⟐ Microsoft ⟐ KU Leuven ⟐ INSAIT, Sofia
 - **🔗 链接**：[[中英摘要](./abs/2406.19811.md)] [[arXiv:2406.19811](https://arxiv.org/abs/2406.19811)] [Code]
 - **📝 说明**：
 
-#### [194] Lightweight Predictive 3D Gaussian Splats
+#### [200] Lightweight Predictive 3D Gaussian Splats
 - **🧑‍🔬 作者**：Junli Cao, Vidit Goel, Chaoyang Wang, Anil Kag, Ju Hu, Sergei Korolev, Chenfanfu Jiang, Sergey Tulyakov, Jian Ren
 - **🏫 单位**：Snap Inc. ⟐ University of California, Los Angeles
 - **🔗 链接**：[[中英摘要](./abs/2406.19434.md)] [[arXiv:2406.19434](https://arxiv.org/abs/2406.19434)] [Code]
 - **📝 说明**：
 
-#### [195] FAGhead: Fully Animate Gaussian Head from Monocular Videos
+#### [201] FAGhead: Fully Animate Gaussian Head from Monocular Videos
 - **🧑‍🔬 作者**：Yixin Xuan, Xinyang Li, Gongxin Yao, Shiwei Zhou, Donghui Sun, Xiaoxin Chen, Yu Pan
 - **🏫 单位**：Zhejiang University ⟐ vivo AI Lab
 - **🔗 链接**：[[中英摘要](./abs/2406.19070.md)] [[arXiv:2406.19070](https://arxiv.org/abs/2406.19070)] [Code]
 - **📝 说明**：
 
-#### [196] Dynamic Gaussian Marbles for Novel View Synthesis of Casual Monocular Videos
+#### [202] Dynamic Gaussian Marbles for Novel View Synthesis of Casual Monocular Videos
 - **🧑‍🔬 作者**：Colton Stearns, Adam Harley, Mikaela Uy, Florian Dubost, Federico Tombari, Gordon Wetzstein, Leonidas Guibas
 - **🏫 单位**：Stanford University ⟐ Google
 - **🔗 链接**：[[中英摘要](./abs/2406.18717.md)] [[arXiv:2406.18717](https://arxiv.org/abs/2406.18717)] [Code]
 - **📝 说明**：
 
-#### [197] GS-ROR: 3D Gaussian Splatting for Reflective Object Relighting via SDF Priors
+#### [203] GS-ROR: 3D Gaussian Splatting for Reflective Object Relighting via SDF Priors
 - **🧑‍🔬 作者**：Zuo-Liang Zhu, Beibei Wang, Jian Yang
 - **🏫 单位**：Nankai University
 - **🔗 链接**：[[中英摘要](./abs/2406.18544.md)] [[arXiv:2406.18544](https://arxiv.org/abs/2406.18544)] [Code]
 - **📝 说明**：
 
-#### [198] On Scaling Up 3D Gaussian Splatting Training
+#### [204] On Scaling Up 3D Gaussian Splatting Training
 - **🧑‍🔬 作者**：Hexu Zhao, Haoyang Weng, Daohan Lu, Ang Li, Jinyang Li, Aurojit Panda, Saining Xie
 - **🏫 单位**：New York University ⟐ Pacific Northwest National Laboratory
 - **🔗 链接**：[[中英摘要](./abs/2406.18533.md)] [[arXiv:2406.18533](https://arxiv.org/abs/2406.18533)] [[Code](https://github.com/nyu-systems/Grendel-GS)]
 - **📝 说明**：
 
-#### [199] GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality
+#### [205] GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality
 - **🧑‍🔬 作者**：Taoran Yi, Jiemin Fang, Zanwei Zhou, Junjie Wang, Guanjun Wu, Lingxi Xie, Xiaopeng Zhang, Wenyu Liu, Xinggang Wang, Qi Tian
 - **🏫 单位**：Huazhong University of Science and Technology ⟐ Huawei Inc. ⟐ Shanghai Jiao Tong University ⟐ Huazhong University of Science and Technology
 - **🔗 链接**：[[中英摘要](./abs/2406.18462.md)] [[arXiv:2406.18462](https://arxiv.org/abs/2406.18462)] [[Code](https://github.com/hustvl/GaussianDreamerPro)]
 - **📝 说明**：
 
-#### [200] Trimming the Fat: Efficient Compression of 3D Gaussian Splats through Pruning
+#### [206] Trimming the Fat: Efficient Compression of 3D Gaussian Splats through Pruning
 - **🧑‍🔬 作者**：Muhammad Salman Ali, Maryam Qamar, Sung-Ho Bae, Enzo Tartaglione
 - **🏫 单位**： Institut Polytechnique de Paris ⟐ Kyung Hee University
 - **🔗 链接**：[[中英摘要](./abs/2406.18214.md)] [[arXiv:2406.18214](https://arxiv.org/abs/2406.18214)] [Code]
 - **📝 说明**：
 
-#### [201] GS-Octree: Octree-based 3D Gaussian Splatting for Robust Object-level 3D Reconstruction Under Strong Lighting
+#### [207] GS-Octree: Octree-based 3D Gaussian Splatting for Robust Object-level 3D Reconstruction Under Strong Lighting
 - **🧑‍🔬 作者**：Jiaze Li, Zhengyu Wen, Luo Zhang, Jiangbei Hu, Fei Hou, Zhebin Zhang, Ying He
 - **🏫 单位**：Nanyang Technological University ⟐ Dalian University of Technology ⟐ Chinese Academy of Sciences ⟐ InnoPeak Technology, Inc.
 - **🔗 链接**：[[中英摘要](./abs/2406.18199.md)] [[arXiv:2406.18199](https://arxiv.org/abs/2406.18199)] [Code]
 - **📝 说明**：
 
-#### [202] VDG: Vision-Only Dynamic Gaussian for Driving Simulation
+#### [208] VDG: Vision-Only Dynamic Gaussian for Driving Simulation
 - **🧑‍🔬 作者**：Hao Li, Jingfeng Li, Dingwen Zhang, Chenming Wu, Jieqi Shi, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang, Junwei Han
 - **🏫 单位**：NWPU ⟐ Baidu Inc. ⟐ HKUST
 - **🔗 链接**：[[中英摘要](./abs/2406.18198.md)] [[arXiv:2406.18198](https://arxiv.org/abs/2406.18198)] [Code]
 - **📝 说明**：
 
-#### [203] Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text
+#### [209] Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text
 - **🧑‍🔬 作者**：Xinyang Li, Zhangyu Lai, Linning Xu, Yansong Qu, Liujuan Cao, Shengchuan Zhang, Bo Dai, Rongrong Ji
 - **🏫 单位**：Xiamen University ⟐  Shanghai Artificial Intelligence Laboratory ⟐ The Chinese University of Hong Kong
 - **🔗 链接**：[[中英摘要](./abs/2406.17601.md)] [[arXiv:2406.17601](https://arxiv.org/abs/2406.17601)] [[Code](https://github.com/imlixinyang/director3d)]
 - **📝 说明**：
 
-#### [204] Reducing the Memory Footprint of 3D Gaussian Splatting
+#### [210] Reducing the Memory Footprint of 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Panagiotis Papantonakis, Georgios Kopanas, Bernhard Kerbl, Alexandre Lanvin, George Drettakis
 - **🏫 单位**：Inria, Université Côte d’Azur
 - **🔗 链接**：[[中英摘要](./abs/2406.17074.md)] [[arXiv:2406.17074](https://arxiv.org/abs/2406.17074)] [Code]
 - **📝 说明**：🏆 Accepted to I3D 2024
 
-#### [205] ClotheDreamer: Text-Guided Garment Generation with 3D Gaussians
+#### [211] ClotheDreamer: Text-Guided Garment Generation with 3D Gaussians
 - **🧑‍🔬 作者**：Yufei Liu, Junshu Tang, Chu Zheng, Shijie Zhang, Jinkun Hao, Junwei Zhu, Dongjin Huang
 - **🏫 单位**：Shanghai University ⟐ Shanghai Jiao Tong University ⟐ Fudan University ⟐ Tencent Youtu Laboratory
 - **🔗 链接**：[[中英摘要](./abs/2406.16815.md)] [[arXiv:2406.16815](https://arxiv.org/abs/2406.16815)] [Code]
 - **📝 说明**：
 
-#### [206] Geometry-Aware Score Distillation via 3D Consistent Noising and Gradient Consistency Modeling
+#### [212] Geometry-Aware Score Distillation via 3D Consistent Noising and Gradient Consistency Modeling
 - **🧑‍🔬 作者**：Min-Seop Kwak, Donghoon Ahn, Ines Hyeonsu Kim, Jin-wha Kim, Seungryong Kim
 - **🏫 单位**：Korea University ⟐ NAVER AI Lab ⟐ AI Institute of Seoul National University
 - **🔗 链接**：[[中英摘要](./abs/2406.16695.md)] [[arXiv:2406.16695](https://arxiv.org/abs/2406.16695)] [Code]
 - **📝 说明**：
 
-#### [207] Taming 3DGS: High-Quality Radiance Fields with Limited Resources
+#### [213] Taming 3DGS: High-Quality Radiance Fields with Limited Resources
 - **🧑‍🔬 作者**：Saswat Subhajyoti Mallick, Rahul Goel, Bernhard Kerbl, Francisco Vicente Carrasco, Markus Steinberger, Fernando De La Torre
 - **🏫 单位**：Carnegie Mellon University ⟐ Graz University of Technology ⟐ International Institute of Information Technology, Hyderabad
 - **🔗 链接**：[[中英摘要](./abs/2406.15643.md)] [[arXiv:2406.15643](https://arxiv.org/abs/2406.15643)] [Code]
 - **📝 说明**：
 
-#### [208] GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation
+#### [214] GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation
 - **🧑‍🔬 作者**：Chubin Zhang, Hongliang Song, Yi Wei, Yu Chen, Jiwen Lu, Yansong Tang
 - **🏫 单位**：Tsinghua University ⟐ Alibaba Group
 - **🔗 链接**：[[中英摘要](./abs/2406.15333.md)] [[arXiv:2406.15333](https://arxiv.org/abs/2406.15333)] [[Code](https://github.com/alibaba-yuanjing-aigclab/GeoLRM)]
 - **📝 说明**：
 
-#### [209] Gaussian Splatting to Real World Flight Navigation Transfer with Liquid Networks
+#### [215] Gaussian Splatting to Real World Flight Navigation Transfer with Liquid Networks
 - **🧑‍🔬 作者**：Alex Quach, Makram Chahine, Alexander Amini, Ramin Hasani, Daniela Rus
 - **🏫 单位**：MIT
 - **🔗 链接**：[[中英摘要](./abs/2406.15149.md)] [[arXiv:2406.15149](https://arxiv.org/abs/2406.15149)] [Code]
 - **📝 说明**：
 
-#### [210] E2GS: Event Enhanced Gaussian Splatting
+#### [216] E2GS: Event Enhanced Gaussian Splatting
 - **🧑‍🔬 作者**：Hiroyuki Deguchi, Mana Masuda, Takuya Nakabayashi, Hideo Saito
 - **🏫 单位**：Keio University
 - **🔗 链接**：[[中英摘要](./abs/2406.14978.md)] [[arXiv:2406.14978](https://arxiv.org/abs/2406.14978)] [[Code](https://github.com/deguchihiroyuki/E2GS)]
 - **📝 说明**：
 
-#### [211] Gaussian-Informed Continuum for Physical Property Identification and Simulation
+#### [217] Gaussian-Informed Continuum for Physical Property Identification and Simulation
 - **🧑‍🔬 作者**：Junhao Cai, Yuji Yang, Weihao Yuan, Yisheng He, Zilong Dong, Liefeng Bo, Hui Cheng, Qifeng Chen
 - **🏫 单位**：The Hong Kong University of Science and Technology ⟐ Sun Yat-sen University ⟐ Alibaba Group
 - **🔗 链接**：[[中英摘要](./abs/2406.14927.md)] [[arXiv:2406.14927](https://arxiv.org/abs/2406.14927)] [Code]
 - **📝 说明**：
 
-#### [212] Splatter a Video: Video Gaussian Representation for Versatile Processing
+#### [218] Splatter a Video: Video Gaussian Representation for Versatile Processing
 - **🧑‍🔬 作者**：Yang-Tian Sun, Yi-Hua Huang, Lin Ma, Xiaoyang Lyu, Yan-Pei Cao, Xiaojuan Qi
 - **🏫 单位**：The University of Hong Kong ⟐ VAST
 - **🔗 链接**：[[中英摘要](./abs/2406.13870.md)] [[arXiv:2406.13870](https://arxiv.org/abs/2406.13870)] [Code]
 - **📝 说明**：
 
-#### [213] Sampling 3D Gaussian Scenes in Seconds with Latent Diffusion Models
+#### [219] Sampling 3D Gaussian Scenes in Seconds with Latent Diffusion Models
 - **🧑‍🔬 作者**：Paul Henderson, Melonie de Almeida, Daniela Ivanova, Titas Anciukevičius
 - **🏫 单位**：University of Glasgow ⟐ University of Edinburgh
 - **🔗 链接**：[[中英摘要](./abs/2406.13099.md)] [[arXiv:2406.13099](https://arxiv.org/abs/2406.13099)] [Code]
 - **📝 说明**：
 
-#### [214] HumanSplat: Generalizable Single-Image Human Gaussian Splatting with Structure Priors
+#### [220] HumanSplat: Generalizable Single-Image Human Gaussian Splatting with Structure Priors
 - **🧑‍🔬 作者**：Panwang Pan, Zhuo Su, Chenguo Lin, Zhen Fan, Yongjie Zhang, Zeming Li, Tingting Shen, Yadong Mu, Yebin Liu
 - **🏫 单位**：ByteDance ⟐ Peking University ⟐ Xiamen University ⟐ Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2406.12459.md)] [[arXiv:2406.12459](https://arxiv.org/abs/2406.12459)] [Code]
 - **📝 说明**：
 
-#### [215] RetinaGS: Scalable Training for Dense Scene Rendering with Billion-Scale 3D Gaussians
+#### [221] RetinaGS: Scalable Training for Dense Scene Rendering with Billion-Scale 3D Gaussians
 - **🧑‍🔬 作者**：Bingling Li, Shengyi Chen, Luchao Wang, Kaimin He, Sijie Yan, Yuanjun Xiong
 - **🏫 单位**：MThreads AI
 - **🔗 链接**：[[中英摘要](./abs/2406.11836.md)] [[arXiv:2406.11836](https://arxiv.org/abs/2406.11836)] [Code]
 - **📝 说明**：
 
-#### [216] Effective Rank Analysis and Regularization for Enhanced 3D Gaussian Splatting
+#### [222] Effective Rank Analysis and Regularization for Enhanced 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Junha Hyung, Susung Hong, Sungwon Hwang, Jaeseong Lee, Jaegul Choo, Jin-Hwa Kim
 - **🏫 单位**：KAIST ⟐ NAVER AI Lab ⟐ SNU AIIS ⟐ Korea University
 - **🔗 链接**：[[中英摘要](./abs/2406.11672.md)] [[arXiv:2406.11672](https://arxiv.org/abs/2406.11672)] [Code]
 - **📝 说明**：
 
-#### [217] Physically Embodied Gaussian Splatting: A Realtime Correctable World Model for Robotics
+#### [223] Physically Embodied Gaussian Splatting: A Realtime Correctable World Model for Robotics
 - **🧑‍🔬 作者**：Jad Abou-Chakra, Krishan Rana, Feras Dayoub, Niko Sünderhauf
 - **🏫 单位**：Queensland University of Technology ⟐ University of Adelaide
 - **🔗 链接**：[[中英摘要](./abs/2406.10788.md)] [[arXiv:2406.10788](https://arxiv.org/abs/2406.10788)] [Code]
 - **📝 说明**：
 
-#### [218] Wild-GS: Real-Time Novel View Synthesis from Unconstrained Photo Collections
+#### [224] Wild-GS: Real-Time Novel View Synthesis from Unconstrained Photo Collections
 - **🧑‍🔬 作者**：Jiacong Xu, Yiqun Mei, Vishal M. Patel
 - **🏫 单位**：Johns Hopkins University
 - **🔗 链接**：[[中英摘要](./abs/2406.10373.md)] [[arXiv:2406.10373](https://arxiv.org/abs/2406.10373)] [Code]
 - **📝 说明**：
 
-#### [219] L4GM: Large 4D Gaussian Reconstruction Model
+#### [225] L4GM: Large 4D Gaussian Reconstruction Model
 - **🧑‍🔬 作者**：Jiawei Ren, Kevin Xie, Ashkan Mirzaei, Hanxue Liang, Xiaohui Zeng, Karsten Kreis, Ziwei Liu, Antonio Torralba, Sanja Fidler, Seung Wook Kim, Huan Ling
 - **🏫 单位**：NVIDIA ⟐ University of Toronto ⟐ University of Cambridge ⟐ MIT ⟐ Nanyang Technological University
 - **🔗 链接**：[[中英摘要](./abs/2406.10324.md)] [[arXiv:2406.10324](https://arxiv.org/abs/2406.10324)] [Code]
 - **📝 说明**：
 
-#### [220] PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting
+#### [226] PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Alex Hanson, Allen Tu, Vasu Singla, Mayuka Jayawardhana, Matthias Zwicker, Tom Goldstein
 - **🏫 单位**：University of Maryland, College Park
 - **🔗 链接**：[[中英摘要](./abs/2406.10219.md)] [[arXiv:2406.10219](https://arxiv.org/abs/2406.10219)] [Code]
 - **📝 说明**：
 
-#### [221] GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors
+#### [227] GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors
 - **🧑‍🔬 作者**：Xiqian Yu, Hanxin Zhu, Tianyu He, Zhibo Chen
 - **🏫 单位**：University of Science and Technology of China ⟐ Microsoft Research Asia
 - **🔗 链接**：[[中英摘要](./abs/2406.10111.md)] [[arXiv:2406.10111](https://arxiv.org/abs/2406.10111)] [[Code](https://github.com/chchnii/GaussianSR)]
 - **📝 说明**：
 
-#### [222] GradeADreamer: Enhanced Text-to-3D Generation Using Gaussian Splatting and Multi-View Diffusion
+#### [228] GradeADreamer: Enhanced Text-to-3D Generation Using Gaussian Splatting and Multi-View Diffusion
 - **🧑‍🔬 作者**：Trapoom Ukarapol, Kevin Pruvost
 - **🏫 单位**：Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2406.09850.md)] [[arXiv:2406.09850](https://arxiv.org/abs/2406.09850)] [[Code](https://github.com/trapoom555/GradeADreamer)]
 - **📝 说明**：
 
-#### [223] Unified Gaussian Primitives for Scene Representation and Rendering
+#### [229] Unified Gaussian Primitives for Scene Representation and Rendering
 - **🧑‍🔬 作者**：Yang Zhou, Songyin Wu, Ling-Qi Yan
 - **🏫 单位**：University of California, Santa Barbara, USA
 - **🔗 链接**：[[中英摘要](./abs/2406.09733.md)] [[arXiv:2406.09733](https://arxiv.org/abs/2406.09733)] [Code]
 - **📝 说明**：
 
-#### [224] Modeling Ambient Scene Dynamics for Free-view Synthesis
+#### [230] Modeling Ambient Scene Dynamics for Free-view Synthesis
 - **🧑‍🔬 作者**：Meng-Li Shih, Jia-Bin Huang, Changil Kim, Rajvi Shah, Johannes Kopf, Chen Gao
 - **🏫 单位**：University of Washington ⟐ University of Maryland ⟐ Meta
 - **🔗 链接**：[[中英摘要](./abs/2406.09395.md)] [[arXiv:2406.09395](https://arxiv.org/abs/2406.09395)] [Code]
 - **📝 说明**：
 
-#### [225] WonderWorld: Interactive 3D Scene Generation from a Single Image
+#### [231] WonderWorld: Interactive 3D Scene Generation from a Single Image
 - **🧑‍🔬 作者**：Hong-Xing Yu, Haoyi Duan, Charles Herrmann, William T. Freeman, Jiajun Wu
 - **🏫 单位**：Stanford University ⟐ MIT
 - **🔗 链接**：[[中英摘要](./abs/2406.09394.md)] [[arXiv:2406.09394](https://arxiv.org/abs/2406.09394)] [Code]
 - **📝 说明**：
 
-#### [226] GGHead: Fast and Generalizable 3D Gaussian Heads
+#### [232] GGHead: Fast and Generalizable 3D Gaussian Heads
 - **🧑‍🔬 作者**：Tobias Kirschstein, Simon Giebenhain, Jiapeng Tang, Markos Georgopoulos, Matthias Nießner
 - **🏫 单位**：Technical University of Munich
 - **🔗 链接**：[[中英摘要](./abs/2406.09377.md)] [[arXiv:2406.09377](https://arxiv.org/abs/2406.09377)] [Code]
 - **📝 说明**：
 
-#### [227] Gaussian-Forest: Hierarchical-Hybrid 3D Gaussian Splatting for Compressed Scene Modeling
+#### [233] Gaussian-Forest: Hierarchical-Hybrid 3D Gaussian Splatting for Compressed Scene Modeling
 - **🧑‍🔬 作者**：Fengyi Zhang, Tianjun Zhang, Lin Zhang, Helen Huang, Yadan Luo
 - **🏫 单位**：Tongji University ⟐ University of Queensland
 - **🔗 链接**：[[中英摘要](./abs/2406.08759.md)] [[arXiv:2406.08759](https://arxiv.org/abs/2406.08759)] [[Code](https://github.com/Xian-Bei/GaussianForest)]
 - **📝 说明**：
 
-#### [228] Human 3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models
+#### [234] Human 3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models
 - **🧑‍🔬 作者**：Yuxuan Xue, Xianghui Xie, Riccardo Marin, Gerard Pons-Moll
 - **🏫 单位**：University of Tübingen ⟐ Tübingen AI Center ⟐ Max Planck Institute for Informatics, Saarland Informatics Campus
 - **🔗 链接**：[[中英摘要](./abs/2406.08475.md)] [[arXiv:2406.08475](https://arxiv.org/abs/2406.08475)] [[Code](https://github.com/YuxuanSnow/Human3Diffusion/)]
 - **📝 说明**：
 
-#### [229] From Chaos to Clarity: 3DGS in the Dark
+#### [235] From Chaos to Clarity: 3DGS in the Dark
 - **🧑‍🔬 作者**：Zhihao Li, Yufei Wang, Alex Kot, Bihan Wen
 - **🏫 单位**：Department of EEE ⟐ Nanyang Technology University, Singapor
 - **🔗 链接**：[[中英摘要](./abs/2406.08300.md)] [[arXiv:2406.08300](https://arxiv.org/abs/2406.08300)] [Code]
 - **📝 说明**：
 
-#### [230] Trim 3D Gaussian Splatting for Accurate Geometry Representation
+#### [236] Trim 3D Gaussian Splatting for Accurate Geometry Representation
 - **🧑‍🔬 作者**：Lue Fan, Yuxue Yang, Minxing Li, Hongsheng Li, Zhaoxiang Zhang
 - **🏫 单位**：CASIA ⟐ MMLab,CUHK ⟐ Shanghai AILab
 - **🔗 链接**：[[中英摘要](./abs/2406.07499.md)] [[arXiv:2406.07499](https://arxiv.org/abs/2406.07499)] [[Code](https://github.com/YuxueYang1204/TrimGS)]
 - **📝 说明**：
 
-#### [231] Cinematic Gaussians: Real-Time HDR Radiance Fields with Depth of Field
+#### [237] Cinematic Gaussians: Real-Time HDR Radiance Fields with Depth of Field
 - **🧑‍🔬 作者**：Chao Wang, Krzysztof Wolski, Bernhard Kerbl, Ana Serrano, Mojtaba Bemana, Hans-Peter Seidel, Karol Myszkowski, Thomas Leimkühler
 - **🏫 单位**：Max-Planck-Institut für Informatik, Germany ⟐ Universidad de Zaragoza, I3A, Spain ⟐ Technische Universität Wien, Austria ⟐ Carnegie Mellon University, USA
 - **🔗 链接**：[[中英摘要](./abs/2406.07329.md)] [[arXiv:2406.07329](https://arxiv.org/abs/2406.07329)] [Code]
 - **📝 说明**：
 
-#### [232] GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation
+#### [238] GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation
 - **🧑‍🔬 作者**：Haozhe Xie, Zhaoxi Chen, Fangzhou Hong, Ziwei Liu
 - **🏫 单位**：Nanyang Technological University
 - **🔗 链接**：[[中英摘要](./abs/2406.06526.md)] [[arXiv:2406.06526](https://arxiv.org/abs/2406.06526)] [[Code](https://github.com/hzxie/GaussianCity)]
 - **📝 说明**：
 
-#### [233] PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction
+#### [239] PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction
 - **🧑‍🔬 作者**：Danpeng Chen, Hai Li, Weicai Ye, Yifan Wang, Weijian Xie, Shangjin Zhai, Nan Wang, Haomin Liu, Hujun Bao, Guofeng Zhang
 - **🏫 单位**：Zhejiang University ⟐ SenseTime Research ⟐ Shanghai AI Laboratory
 - **🔗 链接**：[[中英摘要](./abs/2406.06521.md)] [[arXiv:2406.06521](https://arxiv.org/abs/2406.06521)] [[Code](https://github.com/zju3dv/PGSR)]
 - **📝 说明**：
 
-#### [234] MVGamba: Unify 3D Content Generation as State Space Sequence Modeling
+#### [240] MVGamba: Unify 3D Content Generation as State Space Sequence Modeling
 - **🧑‍🔬 作者**：Xuanyu Yi, Zike Wu, Qiuhong Shen, Qingshan Xu, Pan Zhou, Joo-Hwee Lim, Shuicheng Yan, Xinchao Wang, Hanwang Zhang
 - **🏫 单位**：Nanyang Technological University ⟐ National University of Singapore ⟐ University of British Columbia ⟐ Singapore Management University ⟐ Institute for Infocomm Research ⟐ Skywork AI
 - **🔗 链接**：[[中英摘要](./abs/2406.06367.md)] [[arXiv:2406.06367](https://arxiv.org/abs/2406.06367)] [Code]
 - **📝 说明**：
 
-#### [235] Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis
+#### [241] Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis
 - **🧑‍🔬 作者**：Xin Jin, Pengyi Jiao, Zheng-Peng Duan, Xingchao Yang, Chun-Le Guo, Bo Ren, Chongyi Li
 - **🏫 单位**：Nankai University ⟐ MEGVII Technology
 - **🔗 链接**：[[中英摘要](./abs/2406.06216.md)] [[arXiv:2406.06216](https://arxiv.org/abs/2406.06216)] [[Code](https://github.com/Srameo/LE3D)]
 - **📝 说明**：
 
-#### [236] Generalizable Human Gaussians from Single-View Image
+#### [242] Generalizable Human Gaussians from Single-View Image
 - **🧑‍🔬 作者**：Jinnan Chen, Chen Li, Jianfeng Zhang, Hanlin Chen, Buzhen Huang, Gim Hee Lee
 - **🏫 单位**：National University of Singapore ⟐  Bytedance
 - **🔗 链接**：[[中英摘要](./abs/2406.06050.md)] [[arXiv:2406.06050](https://arxiv.org/abs/2406.06050)] [[Code](https://github.com/jinnan-chen/HGM)]
 - **📝 说明**：
 
-#### [237] InfoGaussian: Structure-Aware Dynamic Gaussians through Lightweight Information Shaping
+#### [243] InfoGaussian: Structure-Aware Dynamic Gaussians through Lightweight Information Shaping
 - **🧑‍🔬 作者**：Yunchao Zhang, Guandao Yang, Leonidas Guibas, Yanchao Yang
 - **🏫 单位**：The University of Hong Kong ⟐ Stanford University
 - **🔗 链接**：[[中英摘要](./abs/2406.05897.md)] [[arXiv:2406.05897](https://arxiv.org/abs/2406.05897)] [Code]
 - **📝 说明**：
 
-#### [238] RefGaussian: Disentangling Reflections from 3D Gaussian Splatting for Realistic Rendering
+#### [244] RefGaussian: Disentangling Reflections from 3D Gaussian Splatting for Realistic Rendering
 - **🧑‍🔬 作者**：Rui Zhang, Tianyue Luo, Weidong Yang, Ben Fei, Jingyi Xu, Qingyuan Zhou, Keyi Liu, Ying He
 - **🏫 单位**：Fudan University ⟐ Nanyang Technological University
 - **🔗 链接**：[[中英摘要](./abs/2406.05852.md)] [[arXiv:2406.05852](https://arxiv.org/abs/2406.05852)] [Code]
 - **📝 说明**：
 
-#### [239] VCR-GauS: View Consistent Depth-Normal Regularizer for Gaussian Surface Reconstruction
+#### [245] VCR-GauS: View Consistent Depth-Normal Regularizer for Gaussian Surface Reconstruction
 - **🧑‍🔬 作者**：Hanlin Chen, Fangyin Wei, Chen Li, Tianxin Huang, Yunsong Wang, Gim Hee Lee
 - **🏫 单位**：National University of Singapore ⟐ Princeton University
 - **🔗 链接**：[[中英摘要](./abs/2406.05774.md)] [[arXiv:2406.05774](https://arxiv.org/abs/2406.05774)] [[Code](https://github.com/HLinChen/VCR-GauS)]
 - **📝 说明**：
 
-#### [240] Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image
+#### [246] Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image
 - **🧑‍🔬 作者**：Stanislaw Szymanowicz, Eldar Insafutdinov, Chuanxia Zheng, Dylan Campbell, João F. Henriques, Christian Rupprecht, Andrea Vedaldi
 - **🏫 单位**：VGG, University of Oxford ⟐ Australian National University
 - **🔗 链接**：[[中英摘要](./abs/2406.04343.md)] [[arXiv:2406.04343](https://arxiv.org/abs/2406.04343)] [Code]
 - **📝 说明**：
 
-#### [241] Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion
+#### [247] Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion
 - **🧑‍🔬 作者**：Fangfu Liu, Hanyang Wang, Shunyu Yao, Shengjun Zhang, Jie Zhou, Yueqi Duan
 - **🏫 单位**：Tsinghua University ⟐ Stanford University
 - **🔗 链接**：[[中英摘要](./abs/2406.04338.md)] [[arXiv:2406.04338](https://arxiv.org/abs/2406.04338)] [[Code](https://github.com/liuff19/Physics3D)]
 - **📝 说明**：
 
-#### [242] Localized Gaussian Point Management
+#### [248] Localized Gaussian Point Management
 - **🧑‍🔬 作者**：Haosen Yang, Chenhao Zhang, Wenqing Wang, Marco Volino, Adrian Hilton, Li Zhang, Xiatian Zhu
 - **🏫 单位**：University of Surrey ⟐ Fudan University
 - **🔗 链接**：[[中英摘要](./abs/2406.04251.md)] [[arXiv:2406.04251](https://arxiv.org/abs/2406.04251)] [[Code](https://github.com/Surrey-UP-Lab/GS-LPM)]
 - **📝 说明**：
 
-#### [243] Gaussian Representation for Deformable Image Registration
+#### [249] Gaussian Representation for Deformable Image Registration
 - **🧑‍🔬 作者**：Jihe Li, Fabian Zhang, Xia Li, Tianhao Zhang, Ye Zhang, Joachim Buhmann
 - **🏫 单位**：Peking University ⟐ ETH Zurich ⟐ Tsinghua University ⟐ Paul Scherrer Institut
 - **🔗 链接**：[[中英摘要](./abs/2406.03394.md)] [[arXiv:2406.03394](https://arxiv.org/abs/2406.03394)] [Code]
 - **📝 说明**：
 
-#### [244] Dynamic 3D Gaussian Fields for Urban Areas
+#### [250] Dynamic 3D Gaussian Fields for Urban Areas
 - **🧑‍🔬 作者**：Tobias Fischer, Jonas Kulhanek, Samuel Rota Bulò, Lorenzo Porzi, Marc Pollefeys, Peter Kontschieder
 - **🏫 单位**：ETH Zürich ⟐ Meta Reality Labs ⟐ CTU Prague
 - **🔗 链接**：[[中英摘要](./abs/2406.03175.md)] [[arXiv:2406.03175](https://arxiv.org/abs/2406.03175)] [[Code](https://github.com/tobiasfshr/map4d)]
 - **📝 说明**：
 
-#### [245] Event3DGS: Event-based 3D Gaussian Splatting for Fast Egomotion
+#### [251] Event3DGS: Event-based 3D Gaussian Splatting for Fast Egomotion
 - **🧑‍🔬 作者**：Tianyi Xiong, Jiayi Wu, Botao He, Cornelia Fermuller, Yiannis Aloimonos, Heng Huang, Christopher A. Metzler
 - **🏫 单位**：University of Maryland, College Park
 - **🔗 链接**：[[中英摘要](./abs/2406.02972.md)] [[arXiv:2406.02972](https://arxiv.org/abs/2406.02972)] [Code]
 - **📝 说明**：
 
-#### [246] Adversarial Generation of Hierarchical Gaussians for 3D Generative Model
+#### [252] Adversarial Generation of Hierarchical Gaussians for 3D Generative Model
 - **🧑‍🔬 作者**：Sangeek Hyun, Jae-Pil Heo
 - **🏫 单位**：Sungkyunkwan University
 - **🔗 链接**：[[中英摘要](./abs/2406.02968.md)] [[arXiv:2406.02968](https://arxiv.org/abs/2406.02968)] [Code]
 - **📝 说明**：
 
-#### [247] 3D-HGS: 3D Half-Gaussian Splatting
+#### [253] 3D-HGS: 3D Half-Gaussian Splatting
 - **🧑‍🔬 作者**：Haolin Li, Jinyang Liu, Mario Sznaier, Octavia Camps
 - **🏫 单位**：Northeastern University
 - **🔗 链接**：[[中英摘要](./abs/2406.02720.md)] [[arXiv:2406.02720](https://arxiv.org/abs/2406.02720)] [[Code](https://github.com/lihaolin88/3D-Half-Gaussian-Splatting)]
 - **📝 说明**：
 
-#### [248] Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting
+#### [254] Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Inkyu Shin, Qihang Yu, Xiaohui Shen, In So Kweon, Kuk-Jin Yoon, Liang-Chieh Chen
 - **🏫 单位**：KAIST ⟐ ByteDance
 - **🔗 链接**：[[中英摘要](./abs/2406.02541.md)] [[arXiv:2406.02541](https://arxiv.org/abs/2406.02541)] [Code]
 - **📝 说明**：
 
-#### [249] SatSplatYOLO: 3D Gaussian Splatting-based Virtual Object Detection Ensembles for Satellite Feature Recognition
+#### [255] SatSplatYOLO: 3D Gaussian Splatting-based Virtual Object Detection Ensembles for Satellite Feature Recognition
 - **🧑‍🔬 作者**：Van Minh Nguyen, Emma Sandidge, Trupti Mahendrakar, Ryan T. White
 - **🏫 单位**：NEural TransmissionS (NETS) Lab Florida Institute of Technology
 - **🔗 链接**：[[中英摘要](./abs/2406.02533.md)] [[arXiv:2406.02533](https://arxiv.org/abs/2406.02533)] [Code]
 - **📝 说明**：
 
-#### [250] DDGS-CT: Direction-Disentangled Gaussian Splatting for Realistic Volume Rendering
+#### [256] DDGS-CT: Direction-Disentangled Gaussian Splatting for Realistic Volume Rendering
 - **🧑‍🔬 作者**：Zhongpai Gao, Benjamin Planche, Meng Zheng, Xiao Chen, Terrence Chen, Ziyan Wu
 - **🏫 单位**：United Imaging Intelligence, Boston, MA
 - **🔗 链接**：[[中英摘要](./abs/2406.02518.md)] [[arXiv:2406.02518](https://arxiv.org/abs/2406.02518)] [Code]
 - **📝 说明**：
 
-#### [251] WE-GS: An In-the-wild Efficient 3D Gaussian Representation for Unconstrained Photo Collections
+#### [257] WE-GS: An In-the-wild Efficient 3D Gaussian Representation for Unconstrained Photo Collections
 - **🧑‍🔬 作者**：Yuze Wang, Junyi Wang, Yue Qi
 - **🏫 单位**：Beihang University
 - **🔗 链接**：[[中英摘要](./abs/2406.02407.md)] [[arXiv:2406.02407](https://arxiv.org/abs/2406.02407)] [Code]
 - **📝 说明**：
 
-#### [252] Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning
+#### [258] Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning
 - **🧑‍🔬 作者**：Jiaxu Wang, Ziyi Zhang, Qiang Zhang, Jia Li, Jingkai Sun, Mingyuan Sun, Junhao He, Renjing Xu
 - **🏫 单位**：HKUST (GZ) ⟐ HKU ⟐ NEU
 - **🔗 链接**：[[中英摘要](./abs/2406.02370.md)] [[arXiv:2406.02370](https://arxiv.org/abs/2406.02370)] [Code]
 - **📝 说明**：
 
-#### [253] OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding
+#### [259] OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding
 - **🧑‍🔬 作者**：Yanmin Wu, Jiarui Meng, Haijie Li, Chenming Wu, Yahao Shi, Xinhua Cheng, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang, Jian Zhang
 - **🏫 单位**：Peking University ⟐ Baidu VIS ⟐ Beihang University
 - **🔗 链接**：[[中英摘要](./abs/2406.02058.md)] [[arXiv:2406.02058](https://arxiv.org/abs/2406.02058)] [Code]
 - **📝 说明**：
 
-#### [254] FastLGS: Speeding up Language Embedded Gaussians with Feature Grid Mapping
+#### [260] FastLGS: Speeding up Language Embedded Gaussians with Feature Grid Mapping
 - **🧑‍🔬 作者**：Yuzhou Ji, He Zhu, Junshu Tang, Wuyi Liu, Zhizhong Zhang, Yuan Xie, Lizhuang Ma, Xin Tan
 - **🏫 单位**：East China Normal University ⟐ Shanghai Jiao Tong University
 - **🔗 链接**：[[中英摘要](./abs/2406.01916.md)] [[arXiv:2406.01916](https://arxiv.org/abs/2406.01916)] [Code]
 - **📝 说明**：
 
-#### [255] End-to-End Rate-Distortion Optimized 3D Gaussian Representation
+#### [261] End-to-End Rate-Distortion Optimized 3D Gaussian Representation
 - **🧑‍🔬 作者**：Henan Wang, Hanxin Zhu, Tianyu He, Runsen Feng, Jiajun Deng, Jiang Bian, Zhibo Chen
 - **🏫 单位**：University of Science and Technology of China ⟐ Microsoft Research Asia ⟐ The University of Adelaide
 - **🔗 链接**：[[中英摘要](./abs/2406.01597.md)] [[arXiv:2406.01597](https://arxiv.org/abs/2406.01597)] [Code]
 - **📝 说明**：
 
-#### [256] Reconstructing and Simulating Dynamic 3D Objects with Mesh-adsorbed Gaussian Splatting
+#### [262] Reconstructing and Simulating Dynamic 3D Objects with Mesh-adsorbed Gaussian Splatting
 - **🧑‍🔬 作者**：Shaojie Ma, Yawei Luo, Yi Yang
 - **🏫 单位**：Zhejiang University
 - **🔗 链接**：[[中英摘要](./abs/2406.01593.md)] [[arXiv:2406.01593](https://arxiv.org/abs/2406.01593)] [[Code](https://github.com/wcwac/MaGS)]
 - **📝 说明**：
 
-#### [257] Tetrahedron Splatting for 3D Generation
+#### [263] Tetrahedron Splatting for 3D Generation
 - **🧑‍🔬 作者**：Chun Gu, Zeyu Yang, Zijie Pan, Xiatian Zhu, Li Zhang
 - **🏫 单位**：Fudan University ⟐ University of Surrey
 - **🔗 链接**：[[中英摘要](./abs/2406.01579.md)] [[arXiv:2406.01579](https://arxiv.org/abs/2406.01579)] [[Code](https://github.com/fudan-zvg/tet-splatting)]
 - **📝 说明**：
 
-#### [258] DreamPhysics: Learning Physical Properties of Dynamic 3D Gaussians with Video Diffusion Priors
+#### [264] DreamPhysics: Learning Physical Properties of Dynamic 3D Gaussians with Video Diffusion Priors
 - **🧑‍🔬 作者**：Tianyu Huang, Yihan Zeng, Hui Li, Wangmeng Zuo, Rynson W. H. Lau
 - **🏫 单位**：City University of Hong Kong ⟐ Harbin Institute of Technology ⟐ Huawei Noah’s Ark Lab
 - **🔗 链接**：[[中英摘要](./abs/2406.01476.md)] [[arXiv:2406.01476](https://arxiv.org/abs/2406.01476)] [[Code](https://github.com/tyhuang0428/DreamPhysics)]
 - **📝 说明**：
 
-#### [259] RaDe-GS: Rasterizing Depth in Gaussian Splatting
+#### [265] RaDe-GS: Rasterizing Depth in Gaussian Splatting
 - **🧑‍🔬 作者**：Baowen Zhang, Chuan Fang, Rakesh Shrestha, Yixun Liang, Xiaoxiao Long, Ping Tan
 - **🏫 单位**：Hong Kong University of Science and Technology ⟐ Simon Fraser University
 - **🔗 链接**：[[中英摘要](./abs/2406.01467.md)] [[arXiv:2406.01467](https://arxiv.org/abs/2406.01467)] [[Code](https://github.com/BaowenZ/RaDe-GS)]
 - **📝 说明**：
 
-#### [260] Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting
+#### [266] Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting
 - **🧑‍🔬 作者**：Fang Li, Hao Zhang, Narendra Ahuja
 - **🏫 单位**：University of Illinois at Urbana-Champaign
 - **🔗 链接**：[[中英摘要](./abs/2406.01042.md)] [[arXiv:2406.01042](https://arxiv.org/abs/2406.01042)] [[Code](https://github.com/fangli333/SC-4DGS)]
 - **📝 说明**：
 
-#### [261] MoDGS: Dynamic Gaussian Splatting from Causually-captured Monocular Videos
+#### [267] MoDGS: Dynamic Gaussian Splatting from Causually-captured Monocular Videos
 - **🧑‍🔬 作者**：Qingming Liu, Yuan Liu, Jiepeng Wang, Xianqiang Lv, Peng Wang, Wenping Wang, Junhui Hou
 - **🏫 单位**：City University of Hong kong ⟐ The University of Hong kong ⟐ Texas A&M University, U.S.A
 - **🔗 链接**：[[中英摘要](./abs/2406.00434.md)] [[arXiv:2406.00434](https://arxiv.org/abs/2406.00434)] [Code]
