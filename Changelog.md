@@ -1,5 +1,19 @@
 # Changelog
 
+### 2024/10/09
+
+Add "GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting"
+
+Add "LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting"
+
+Add "PhotoReg: Photometrically Registering 3D Gaussian Splatting Models"
+
+Add "6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering"
+
+Add "Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting"
+
+Add "Mode-GS: Monocular Depth Guided Anchored 3D Gaussian Splatting for Robust Ground-View Scene Rendering"
+
 ### 2024/10/08
 
 Add "StreetSurfGS: Scalable Urban Street Surface Reconstruction with Planar-based Gaussian Splatting"
