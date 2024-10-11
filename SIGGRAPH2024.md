@@ -59,3 +59,27 @@
 - **🏫 单位**：Inria ⟐ Université Côte d’Azur, France ⟐ TU Wien, Austria
 - **🔗 链接**：[[中英摘要](./abs/2406.12080.md)] [[arXiv:2406.12080](https://arxiv.org/abs/2406.12080)] [Code]
 - **📝 说明**：🏆 Accepted to SIGGRAPH 2024
+
+#### [11] Pano2Room: Novel View Synthesis from a Single Indoor Panorama
+- **🧑‍🔬 作者**：Guo Pu, Yiming Zhao, Zhouhui Lian
+- **🏫 单位**：Peking University
+- **🔗 链接**：[[中英摘要](./abs/2408.11413.md)] [[arXiv:2408.11413](https://arxiv.org/abs/2408.11413)] [[Code](https://github.com/TrickyGo/Pano2Room)]
+- **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
+
+#### [12] Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos
+- **🧑‍🔬 作者**：Yuheng Jiang, Zhehao Shen, Yu Hong, Chengcheng Guo, Yize Wu, Yingliang Zhang, Jingyi Yu, Lan Xu
+- **🏫 单位**：ShanghaiTech University ⟐ NeuDim Digital Technology ⟐ DGene Digital Technology
+- **🔗 链接**：[[中英摘要](./abs/2409.08353.md)] [[arXiv:2409.08353](https://arxiv.org/abs/2409.08353)] [Code]
+- **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
+
+#### [13] AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius
+- **🧑‍🔬 作者**：Xinzhe Wang, Ran Yi, Lizhuang Ma
+- **🏫 单位**：Shanghai Jiao Tong University
+- **🔗 链接**：[[中英摘要](./abs/2409.08669.md)] [[arXiv:2409.08669](https://arxiv.org/abs/2409.08669)] [Code]
+- **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
+
+#### [14] SRIF: Semantic Shape Registration Empowered by Diffusion-based Image Morphing and Flow Estimation
+- **🧑‍🔬 作者**：Mingze Sun, Chen Guo, Puhua Jiang, Shiwei Mao, Yurun Chen, Ruqi Huang
+- **🏫 单位**：TsinghuaShenzhen International Graduate School, China ⟐ Peng Cheng Lab
+- **🔗 链接**：[[中英摘要](./abs/2409.11682.md)] [[arXiv:2409.11682](https://arxiv.org/abs/2409.11682)] [Code]
+- **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
