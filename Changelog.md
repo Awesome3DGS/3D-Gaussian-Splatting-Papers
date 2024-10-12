@@ -1,5 +1,37 @@
 # Changelog
 
+### 2024/10/12
+
+Add "Poison-splat: Computation Cost Attack on 3D Gaussian Splatting"
+
+Add "RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image"
+
+Add "Efficient Perspective-Correct 3D Gaussian Splatting Using Hybrid Transparency"
+
+Add "IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera"
+
+Add "Fast Feedforward 3D Gaussian Splatting Compression"
+
+Add "Generalizable and Animatable Gaussian Head Avatar"
+
+Add "MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting"
+
+Add "3D Vision-Language Gaussian Splatting"
+
+Add "Spiking GS: Towards High-Accuracy and Low-Cost Surface Reconstruction via Spiking Neuron-based Gaussian Splatting"
+
+Add "DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation"
+
+Add "ES-Gaussian: Gaussian Splatting Mapping via Error Space-Based Gaussian Completion"
+
+Add "HiSplat: Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction"
+
+Add "RelitLRM: Generative Relightable Radiance for Large Reconstruction Models"
+
+Add "GSLoc: Visual Localization with 3D Gaussian Splatting"
+
+Add "SplaTraj: Camera Trajectory Generation with Semantic Gaussian Splatting"
+
 ### 2024/10/09
 
 Add "GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting"
