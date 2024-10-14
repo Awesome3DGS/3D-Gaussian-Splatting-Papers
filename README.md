@@ -781,7 +781,7 @@ in reverse chronological order.
 
 #### [119] GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Changkun Liu, Shuai Chen, Yash Bhalgat, Siyan Hu, Zirui Wang, Ming Cheng, Victor Adrian Prisacariu, Tristan Braud
-- **🏫 单位**：HKUST ⟐ INSAIT, Sofia University ⟐ University of Oxford ⟐ Dartmouth College
+- **🏫 单位**：HKUST ⟐ University of Oxford ⟐ Dartmouth College
 - **🔗 链接**：[[中英摘要](./abs/2408.11085.md)] [[arXiv:2408.11085](https://arxiv.org/abs/2408.11085)] [Code]
 - **📝 说明**：
 
