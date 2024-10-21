@@ -1,5 +1,55 @@
 # Changelog
 
+### 2024/10/21
+
+Add "3D Gaussian Splatting in Robotics: A Survey"
+
+Add "LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes"
+
+Add "Neural Signed Distance Function Inference through Splatting 3D Gaussians Pulled on Zero-Level Set"
+
+Add "DepthSplat: Connecting Gaussian Splatting and Depth"
+
+Add "MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes"
+
+Add "DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering"
+
+Add "GlossyGS: Inverse Rendering of Glossy Objects with 3D Gaussian Splatting"
+
+Add "Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats"
+
+Add "LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images"
+
+Add "GS^3: Efficient Relighting with Triple Gaussian Splatting"
+
+Add "MCGS: Multiview Consistency Enhancement for Sparse-View 3D Gaussian Radiance Fields"
+
+Add "GSORB-SLAM: Gaussian Splatting SLAM benefits from ORB features and Transmittance information"
+
+Add "Scalable Indoor Novel-View Synthesis using Drone-Captured 360 Imagery with 3D Gaussian Splatting"
+
+Add "Few-shot Novel View Synthesis using Depth Aware 3D Gaussian Splatting"
+
+Add "4-LEGS: 4D Language Embedded Gaussian Splatting"
+
+Add "4DStyleGaussian: Zero-shot 4D Style Transfer with Gaussian Splatting"
+
+Add "Gaussian Splatting Visual MPC for Granular Media Manipulation"
+
+Add "Enhancing Single Image to 3D Generation using Gaussian Splatting and Hybrid Diffusion Priors"
+
+Add "SurgicalGS: Dynamic 3D Gaussian Splatting for Accurate Robotic-Assisted Surgical Scene Reconstruction"
+
+Add "MeshGS: Adaptive Mesh-Aligned Gaussian Splatting for High-Quality Rendering"
+
+Add "Learning Interaction-aware 3D Gaussian Splatting for One-shot Hand Avatars"
+
+Add "Look Gauss, No Pose: Novel View Synthesis using Gaussian Splatting without Accurate Pose Initialization"
+
+Add "FusionSense: Bridging Common Sense, Vision, and Touch for Robust Sparse-View Reconstruction"
+
+Add "Neural Material Adaptor for Visual Grounding of Intrinsic Dynamics"
+
 ### 2024/10/12
 
 Add "Poison-splat: Computation Cost Attack on 3D Gaussian Splatting"
