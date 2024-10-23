@@ -1,5 +1,23 @@
 # Changelog
 
+### 2024/10/23
+
+Add "GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting"
+
+Add "E-3DGS: Gaussian Splatting with Exposure and Motion Events"
+
+Add "Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization"
+
+Add "MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors"
+
+Add "3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors"
+
+Add "LucidFusion: Generating 3D Gaussians with Arbitrary Unposed Images"
+
+Add "Fully Explicit Dynamic Gaussian Splatting"
+
+Add "EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting"
+
 ### 2024/10/21
 
 Add "3D Gaussian Splatting in Robotics: A Survey"
