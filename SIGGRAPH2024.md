@@ -83,3 +83,15 @@
 - **🏫 单位**：TsinghuaShenzhen International Graduate School, China ⟐ Peng Cheng Lab
 - **🔗 链接**：[[中英摘要](./abs/2409.11682.md)] [[arXiv:2409.11682](https://arxiv.org/abs/2409.11682)] [Code]
 - **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
+
+#### [15] GS^3: Efficient Relighting with Triple Gaussian Splatting
+- **🧑‍🔬 作者**：Zoubin Bi, Yixin Zeng, Chong Zeng, Fan Pei, Xiang Feng, Kun Zhou, Hongzhi Wu
+- **🏫 单位**：Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2410.11419.md)] [[arXiv:2410.11419](https://arxiv.org/abs/2410.11419)] [Code]
+- **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
+
+#### [16] L3DG: Latent 3D Gaussian Diffusion
+- **🧑‍🔬 作者**：Barbara Roessle, Norman Müller, Lorenzo Porzi, Samuel Rota Bulò, Peter Kontschieder, Angela Dai, Matthias Nießner
+- **🏫 单位**：Technical University of Munich ⟐ Meta Reality Labs Zurich
+- **🔗 链接**：[[中英摘要](./abs/2410.13530.md)] [[arXiv:2410.13295](https://arxiv.org/abs/2410.13530)] [Code]
+- **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
