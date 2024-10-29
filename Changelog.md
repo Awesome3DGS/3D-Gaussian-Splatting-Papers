@@ -1,5 +1,37 @@
 # Changelog
 
+### 2024/10/29
+
+Add "Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Gaussian Splatting"
+
+Add "LoDAvatar: Hierarchical Embedding and Adaptive Levels of Detail with Gaussian Splatting for Enhanced Human Avatars"
+
+Add "CompGS: Unleashing 2D Compositionality for Compositional Text-to-3D via Dynamically Optimizing 3D Gaussians"
+
+Add "ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings"
+
+Add "Normal-GS: 3D Gaussian Splatting with Normal-Involved Rendering"
+
+Add "SCube: Instant Large-Scale Scene Reconstruction using VoxSplats"
+
+Add "DiffGS: Functional Gaussian Splatting Diffusion"
+
+Add "PixelGaussian: Generalizable 3D Gaussian Reconstruction from Arbitrary Views"
+
+Add "Sort-free Gaussian Splatting via Weighted Sum Rendering"
+
+Add "Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling"
+
+Add "Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis"
+
+Add "VR-Splatting: Foveated Radiance Field Rendering via 3D Gaussian Splatting and Neural Points"
+
+Add "PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting"
+
+Add "AG-SLAM: Active Gaussian Splatting SLAM"
+
+Add "SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes"
+
 ### 2024/10/23
 
 Add "GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting"
