@@ -1,5 +1,29 @@
 # Changelog
 
+### 2024/11/04
+
+Add "No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images"
+
+Add "GeoSplatting: Towards Geometry Guided Gaussian Splatting for Physically-based Inverse Rendering"
+
+Add "GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting"
+
+Add "GS-Blur: A 3D Scene-Based Dataset for Realistic Image Deblurring"
+
+Add "ELMGS: Enhancing memory and computation scaLability through coMpression for 3D Gaussian Splatting"
+
+Add "Epipolar-Free 3D Gaussian Splatting for Generalizable Novel View Synthesis"
+
+Add "Geometry Cloak: Preventing TGS-based 3D Reconstruction from Copyrighted Images"
+
+Add "PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting"
+
+Add "FreeGaussian: Guidance-free Controllable 3D Gaussian Splats with Flow Derivatives"
+
+Add "ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting"
+
+Add "ArCSEM: Artistic Colorization of SEM Images via Gaussian Splatting"
+
 ### 2024/10/29
 
 Add "Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Gaussian Splatting"
