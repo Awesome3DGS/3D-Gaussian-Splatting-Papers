@@ -1,5 +1,27 @@
 # Changelog
 
+### 2024/11/06
+
+Add "HFGaussian: Learning Generalizable Gaussian Human with Integrated Human Features"
+
+Add "LVI-GS: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting"
+
+Add "Modeling Uncertainty in 3D Gaussian Splatting through Continuous Semantic Splatting"
+
+Add "FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training"
+
+Add "GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes"
+
+Add "Real-Time Spatio-Temporal Reconstruction of Dynamic Endoscopic Scenes with 4D Gaussian Splatting"
+
+Add "CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes"
+
+Add "Aquatic-GS: A Hybrid 3D Representation for Underwater Scenes"
+
+Add "Self-Ensembling Gaussian Splatting for Few-shot Novel View Synthesis"
+
+Add "URAvatar: Universal Relightable Gaussian Codec Avatars"
+
 ### 2024/11/04
 
 Add "No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images"
