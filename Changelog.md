@@ -1,5 +1,17 @@
 # Changelog
 
+### 2024/11/10
+
+Add "MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views"
+
+Add "GS2Pose: Two-stage 6D Object Pose Estimation Guided by Gaussian Splatting"
+
+Add "3DGS-CD: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement"
+
+Add "Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis"
+
+Add "Object and Contact Point Tracking in Demonstrations Using 3D Gaussian Splatting"
+
 ### 2024/11/06
 
 Add "HFGaussian: Learning Generalizable Gaussian Human with Integrated Human Features"
