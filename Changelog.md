@@ -1,5 +1,35 @@
 # Changelog
 
+### 2024/11/12
+
+Add "4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization"
+
+Add "BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis"
+
+Add "DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization"
+
+Add "MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation"
+
+Add "Projecting Gaussian Ellipsoids While Avoiding Affine Projection Approximation"
+
+Add "GaussianCut: Interactive segmentation via graph cut for 3D Gaussian Splatting"
+
+Add "HiCoM: Hierarchical Coherent Motion for Streamable Dynamic Scene with 3D Gaussian Splatting"
+
+Add "GUS-IR: Gaussian Splatting with Unified Shading for Inverse Rendering"
+
+Add "A Hierarchical Compression Technique for 3D Gaussian Splatting Compression"
+
+Add "Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction"
+
+Add "SplatFormer: Point Transformer for Robust 3D Gaussian Splatting"
+
+Add "GaussianSpa: An Optimizing-Sparsifying Simplification Framework for Compact and High-Quality 3D Gaussian Splatting"
+
+Add "PEP-GS: Perceptually-Enhanced Precise Structured 3D Gaussians for View-Adaptive Rendering"
+
+Add "ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing"
+
 ### 2024/11/10
 
 Add "MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views"
