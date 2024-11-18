@@ -1,5 +1,15 @@
 # Changelog
 
+### 2024/11/18
+
+Add "Efficient Density Control for 3D Gaussian Splatting"
+
+Add "GSEditPro: 3D Gaussian Splatting Editing with Attention-based Progressive Localization"
+
+Add "GGAvatar: Reconstructing Garment-Separated 3D Gaussian Splatting Avatars from Monocular Video"
+
+Add "DyGASR: Dynamic Generalized Exponential Splatting with Surface Alignment for Accelerated 3D Mesh Reconstruction"
+
 ### 2024/11/12
 
 Add "4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization"

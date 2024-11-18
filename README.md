@@ -78,67 +78,91 @@ in reverse chronological order.
 
 ---
 
-#### [1] 4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization
+#### [1] Efficient Density Control for 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Xiaobin Deng, Changyu Diao, Min Li, Ruohan Yu, Duanqing Xu
+- **🏫 单位**：Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2411.10133.md)] [[arXiv:2411.10133](https://arxiv.org/abs/2411.10133)] [Code]
+- **📝 说明**：
+
+#### [2] GSEditPro: 3D Gaussian Splatting Editing with Attention-based Progressive Localization
+- **🧑‍🔬 作者**：Yanhao Sun, RunZe Tian, Xiao Han, XinYao Liu, Yan Zhang, Kai Xu
+- **🏫 单位**：State Key Laboratory for Novel Software Technology of Nanjing University, China ⟐ National University of Defense Technology, China
+- **🔗 链接**：[[中英摘要](./abs/2411.10033.md)] [[arXiv:2411.10033](https://arxiv.org/abs/2411.10033)] [Code]
+- **📝 说明**：
+
+#### [3] GGAvatar: Reconstructing Garment-Separated 3D Gaussian Splatting Avatars from Monocular Video
+- **🧑‍🔬 作者**：Jingxuan Chen
+- **🏫 单位**：Jinan University-University of Birmingham Joint Institute
+- **🔗 链接**：[[中英摘要](./abs/2411.09952.md)] [[arXiv:2411.09952](https://arxiv.org/abs/2411.09952)] [[Code](https://github.com/J-X-Chen/GGAvatar/)]
+- **📝 说明**：
+
+#### [4] DyGASR: Dynamic Generalized Exponential Splatting with Surface Alignment for Accelerated 3D Mesh Reconstruction
+- **🧑‍🔬 作者**：Shengchao Zhao, Yundong Li
+- **🏫 单位**：School of Information Science and Technology, North China University of Technology
+- **🔗 链接**：[[中英摘要](./abs/2411.09156.md)] [[arXiv:2411.09156](https://arxiv.org/abs/2411.09156)] [Code]
+- **📝 说明**：
+
+#### [5] 4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization
 - **🧑‍🔬 作者**：Mijeong Kim, Jongwoo Lim, Bohyung Han
 - **🏫 单位**：ECE ⟐ ME ⟐ IPAI, Seoul National University, South Korea
 - **🔗 链接**：[[中英摘要](./abs/2411.08879.md)] [[arXiv:2411.08879](https://arxiv.org/abs/2411.08879)] [Code]
 - **📝 说明**：🏆 Accepted to NeurIPS 2024
 
-#### [3] BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis
+#### [6] BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis
 - **🧑‍🔬 作者**：David Svitov, Pietro Morerio, Lourdes Agapito, Alessio Del Bue
 - **🏫 单位**：Universita degli Studi di Genova, Genoa, Italy ⟐ Istituto Italiano di Tecnologia (IIT), Genoa, Italy ⟐ Department of Computer Science, University College London
 - **🔗 链接**：[[中英摘要](./abs/2411.08508.md)] [[arXiv:2411.08508](https://arxiv.org/abs/2411.08508)] [Code]
 - **📝 说明**：
 
-#### [5] DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization
+#### [7] DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization
 - **🧑‍🔬 作者**：Yueming Xu, Haochen Jiang, Zhongyang Xiao, Jianfeng Feng, Li Zhang
 - **🏫 单位**：Fudan University ⟐ Autonomous Driving Division, NIO
 - **🔗 链接**：[[中英摘要](./abs/2411.08373.md)] [[arXiv:2411.08373](https://arxiv.org/abs/2411.08373)] [[Code](https://github.com/fudan-zvg/DG-SLAM)]
 - **📝 说明**：
 
-#### [6] MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation
+#### [8] MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation
 - **🧑‍🔬 作者**：Peng Wang, Lingzhe Zhao, Yin Zhang, Shiyu Zhao, Peidong Liu
 - **🏫 单位**： College of Computer Science and Technology at Zhejiang University ⟐ the School of Engineering at Westlake University ⟐ School of Engineering, Westlake University
 - **🔗 链接**：[[中英摘要](./abs/2411.08279.md)] [[arXiv:2411.08279](https://arxiv.org/abs/2411.08279)] [[Code](https://github.com/WU-CVGL/MBA-SLAM)]
 - **📝 说明**：
 
-#### [7] Projecting Gaussian Ellipsoids While Avoiding Affine Projection Approximation
+#### [9] Projecting Gaussian Ellipsoids While Avoiding Affine Projection Approximation
 - **🧑‍🔬 作者**：Han Qi, Tao Cai, Xiyue Han
 - **🏫 单位**：Beijing Institute of Technology
 - **🔗 链接**：[[中英摘要](./abs/2411.07579.md)] [[arXiv:2411.07579](https://arxiv.org/abs/2411.07579)] [Code]
 - **📝 说明**：
 
-#### [8] GaussianCut: Interactive segmentation via graph cut for 3D Gaussian Splatting
+#### [10] GaussianCut: Interactive segmentation via graph cut for 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Umangi Jain, Ashkan Mirzaei, Igor Gilitschenski
 - **🏫 单位**：University of Toronto
 - **🔗 链接**：[[中英摘要](./abs/2411.07555.md)] [[arXiv:2411.07555](https://arxiv.org/abs/2411.07555)] [Code]
 - **📝 说明**：🏆 Accepted to NeurIPS 2024
 
-#### [9] HiCoM: Hierarchical Coherent Motion for Streamable Dynamic Scene with 3D Gaussian Splatting
+#### [11] HiCoM: Hierarchical Coherent Motion for Streamable Dynamic Scene with 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Qiankun Gao, Jiarui Meng, Chengxiang Wen, Jie Chen, Jian Zhang
 - **🏫 单位**：School of Electronic and Computer Engineering, Peking University ⟐ Peng Cheng Laboratory ⟐ Guangdong Provincial Key Laboratory of Ultra High Definition Immersive Media Technology
 - **🔗 链接**：[[中英摘要](./abs/2411.07541.md)] [[arXiv:2411.07541](https://arxiv.org/abs/2411.07541)] [[Code](https://github.com/gqk/HiCoM)]
 - **📝 说明**：🏆 Accepted to NeurIPS 2024
 
-#### [10] GUS-IR: Gaussian Splatting with Unified Shading for Inverse Rendering
+#### [12] GUS-IR: Gaussian Splatting with Unified Shading for Inverse Rendering
 - **🧑‍🔬 作者**：Zhihao Liang, Hongdong Li, Kui Jia, Kailing Guo, Qi Zhang
 - **🏫 单位**：the School of Electronic and Information Engineering, South China University of Technology ⟐ School of Data Science, The Chinese University of Hong Kong ⟐ VIVO
 - **🔗 链接**：[[中英摘要](./abs/2411.07478.md)] [[arXiv:2411.07478](https://arxiv.org/abs/2411.07478)] [Code]
 - **📝 说明**：
 
-#### [11] A Hierarchical Compression Technique for 3D Gaussian Splatting Compression
+#### [13] A Hierarchical Compression Technique for 3D Gaussian Splatting Compression
 - **🧑‍🔬 作者**：He Huang, Wenjie Huang, Qi Yang, Yiling Xu, Zhu li
 - **🏫 单位**：Shanghai Jiao Tong University ⟐ University of Missouri-Kansas City
 - **🔗 链接**：[[中英摘要](./abs/2411.06976.md)] [[arXiv:2411.06976](https://arxiv.org/abs/2411.06976)] [Code]
 - **📝 说明**：
 
-#### [12] Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction
+#### [14] Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction
 - **🧑‍🔬 作者**：Decai Chen, Brianne Oberson, Ingo Feldmann, Oliver Schreer, Anna Hilsmann, Peter Eisert
 - **🏫 单位**：Fraunhofer HHI ⟐ Humboldt University of Berlin ⟐ Technical University of Berlin
 - **🔗 链接**：[[中英摘要](./abs/2411.06602.md)] [[arXiv:2411.06602](https://arxiv.org/abs/2411.06602)] [[Code](https://github.com/fraunhoferhhi/AT-GS)]
 - **📝 说明**：
 
-#### [13] SplatFormer: Point Transformer for Robust 3D Gaussian Splatting
+#### [15] SplatFormer: Point Transformer for Robust 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Yutong Chen, Marko Mihajlovic, Xiyi Chen, Yiming Wang, Sergey Prokudin, Siyu Tang
 - **🏫 单位**：ETH Zurich ⟐ University of Maryland, College Park ⟐ ROCS, University Hospital Balgrist, University of Zurich
 - **🔗 链接**：[[中英摘要](./abs/2411.06390.md)] [[arXiv:2411.06390](https://arxiv.org/abs/2411.06390)] [[Code](https://github.com/ChenYutongTHU/SplatFormer)]
