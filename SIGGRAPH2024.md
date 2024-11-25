@@ -107,3 +107,9 @@
 - **🏫 单位**：Technical University of Munich ⟐ Meta Reality Labs Zurich
 - **🔗 链接**：[[中英摘要](./abs/2410.13530.md)] [[arXiv:2410.13295](https://arxiv.org/abs/2410.13530)] [Code]
 - **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
+
+#### [19] URAvatar: Universal Relightable Gaussian Codec Avatars
+- **🧑‍🔬 作者**：Junxuan Li, Chen Cao, Gabriel Schwartz, Rawal Khirodkar, Christian Richardt, Tomas Simon, Yaser Sheikh, Shunsuke Saito
+- **🏫 单位**：Codec Avatars Lab, Meta
+- **🔗 链接**：[[中英摘要](./abs/2410.24223.md)] [[arXiv:2410.24223](https://arxiv.org/abs/2410.24223)] [Code]
+- **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
