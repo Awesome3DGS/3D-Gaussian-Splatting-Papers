@@ -1,5 +1,57 @@
 # Changelog
 
+### 2024/11/25
+
+Add "3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes"
+
+Add "Dynamics-Aware Gaussian Splatting Streaming Towards Fast On-the-Fly Training for 4D Reconstruction"
+
+Add "VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving"
+
+Add "NexusSplats: Efficient 3D Gaussian Splatting in the Wild"
+
+Add "Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation"
+
+Add "FAST-Splat: Fast, Ambiguity-Free Semantics Transfer in Gaussian Splatting"
+
+Add "GazeGaussian: High-Fidelity Gaze Redirection with 3D Gaussian Splatting"
+
+Add "Sim Anything: Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting"
+
+Add "Mini-Splatting2: Building 360 Scenes within Minutes via Aggressive Gaussian Densification"
+
+Add "PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy"
+
+Add "SCIGS: 3D Gaussians Splatting from a Snapshot Compressive Image"
+
+Add "GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving"
+
+Add "Beyond Gaussians: Fast and High-Fidelity 3D Splatting with Linear Kernels"
+
+Add "DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes"
+
+Add "LiV-GS: LiDAR-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments"
+
+Add "Sketch-guided Cage-based 3D Gaussian Splatting Deformation"
+
+Add "FruitNinja: 3D Object Interior Texture Generation with Gaussian Splatting"
+
+Add "TimeFormer: Capturing Temporal Relationships of Deformable 3D Gaussians for Robust Reconstruction"
+
+Add "DeSiRe-GS: 4D Street Gaussians for Static-Dynamic Decomposition and Surface Reconstruction for Urban Driving Scenes"
+
+Add "RoboGSim: A Real2Sim2Real Robotic Gaussian Splatting Simulator"
+
+Add "GPS-Gaussian+: Generalizable Pixel-wise 3D Gaussian Splatting for Real-Time Human-Scene Rendering from Sparse Views"
+
+Add "VeGaS: Video Gaussian Splatting"
+
+Add "Direct and Explicit 3D Generation from a Single Image"
+
+Add "DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment"
+
+Add "USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting"
+
 ### 2024/11/18
 
 Add "Efficient Density Control for 3D Gaussian Splatting"
