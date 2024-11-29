@@ -1,5 +1,79 @@
 # Changelog
 
+### 2024/11/29
+
+Add "Textured Gaussians for Enhanced 3D Scene Appearance Modeling"
+
+Add "PhyCAGE: Physically Plausible Compositional 3D Asset Generation from a Single Image"
+
+Add "HEMGS: A Hybrid Entropy Model for 3D Gaussian Splatting Data Compression"
+
+Add "Neural Surface Priors for Editable Gaussian Splatting"
+
+Add "Make-It-Animatable: An Efficient Framework for Authoring Animation-Ready 3D Characters"
+
+Add "SmileSplat: Generalizable Gaussian Splats for Unconstrained Sparse Images"
+
+Add "GLS: Geometry-aware 3D Language Gaussian Splatting"
+
+Add "HI-SLAM2: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction"
+
+Add "DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting"
+
+Add "Distractor-free Generalizable 3D Gaussian Splatting"
+
+Add "SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting"
+
+Add "Geometry Field Splatting with Gaussian Surfels"
+
+Add "4D Scaffold Gaussian Splatting for Memory Efficient Dynamic Scene Reconstruction"
+
+Add "G2SDF: Surface Reconstruction from Explicit Gaussians with Implicit SDFs"
+
+Add "PreF3R: Pose-Free Feed-Forward 3D Gaussian Splatting from Variable-length Image Sequence"
+
+Add "SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving"
+
+Add "MAGiC-SLAM: Multi-Agent Gaussian Globally Consistent SLAM"
+
+Add "NovelGS: Consistent Novel-view Denoising via Large Gaussian Reconstruction Model"
+
+Add "GAST: Sequential Gaussian Avatars with Hierarchical Spatio-temporal Context"
+
+Add "Bundle Adjusted Gaussian Avatars Deblurring"
+
+Add "SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis"
+
+Add "Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction"
+
+Add "Event-boosted Deformable 3D Gaussians for Fast Dynamic Scene Reconstruction"
+
+Add "UnitedVLN: Generalizable Gaussian Splatting for Continuous Vision-Language Navigation"
+
+Add "Gaussian Scenes: Pose-Free Sparse-View Scene Reconstruction using Depth-Enhanced Diffusion Priors"
+
+Add "PG-SLAM: Photo-realistic and Geometry-aware RGB-D SLAM in Dynamic Environments"
+
+Add "ZeroGS: Training 3D Gaussian Splatting from Unposed Images"
+
+Add "DynamicAvatars: Accurate Dynamic Facial Avatars Reconstruction and Precise Editing with Diffusion Models"
+
+Add "GSurf: 3D Reconstruction via Signed Distance Fields with Direct Gaussian Supervision"
+
+Add "EMD: Explicit Motion Modeling for High-Quality Street Gaussian Splatting"
+
+Add "SplatFlow: Self-Supervised Dynamic Gaussian Splatting in Neural Motion Flow Field for Autonomous Driving"
+
+Add "Gassidy: Gaussian Splatting SLAM in Dynamic Environments"
+
+Add "SplatSDF: Boosting Neural Implicit SDF via Gaussian Splatting Fusion"
+
+Add "UniGaussian: Driving Scene Reconstruction from Multiple Camera Models via Unified Gaussian Representations"
+
+Add "Gradient-Weighted Feature Back-Projection: A Fast Alternative to Feature Distillation in 3D Gaussian Splatting"
+
+Add "Neural 4D Evolution under Large Topological Changes from 2D Images"
+
 ### 2024/11/25
 
 Add "3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes"
