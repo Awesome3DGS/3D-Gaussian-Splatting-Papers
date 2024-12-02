@@ -1,5 +1,37 @@
 # Changelog
 
+### 2024/12/02
+
+Add "GuardSplat: Robust and Efficient Watermarking for 3D Gaussian Splatting"
+
+Add "DeSplat: Decomposed Gaussian Splatting for Distractor-Free Rendering"
+
+Add "TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting"
+
+Add "Tortho-Gaussian: Splatting True Digital Orthophoto Maps"
+
+Add "Gaussian Splashing: Direct Volumetric Rendering Underwater"
+
+Add "Bootstraping Clustering of Gaussians for View-consistent 3D Scene Understanding"
+
+Add "GausSurf: Geometry-Guided 3D Gaussian Splatting for Surface Reconstruction"
+
+Add "SADG: Segment Any Dynamic Gaussian Without Object Trackers"
+
+Add "AGS-Mesh: Adaptive Gaussian Splatting and Meshing with Geometric Priors for Indoor Room Reconstruction Using Smartphones"
+
+Add "InstanceGaussian: Appearance-Semantic Joint Gaussian Representation for 3D Instance-Level Perception"
+
+Add "Gaussians-to-Life: Text-Driven Animation of 3D Gaussian Splatting Scenes"
+
+Add "SuperGaussians: Enhancing Gaussian Splatting Using Primitives with Spatially Varying Colors"
+
+Add "RIGI: Rectifying Image-to-3D Generation Inconsistency via Uncertainty-aware Learning"
+
+Add "GaussianSpeech: Audio-Driven Gaussian Avatars"
+
+Add "Point Cloud Unsupervised Pre-training via 3D Gaussian Splatting"
+
 ### 2024/11/29
 
 Add "Textured Gaussians for Enhanced 3D Scene Appearance Modeling"
