@@ -1,5 +1,91 @@
 # Changelog
 
+### 2024/12/09
+
+Add "QUEEN: QUantized Efficient ENcoding of Dynamic Gaussians for Streaming Free-viewpoint Videos"
+
+Add "Monocular Dynamic Gaussian Splatting is Fast and Brittle but Smooth Motion Helps"
+
+Add "PBDyG: Position Based Dynamic Gaussians for Motion-Aware Clothed Human Avatars"
+
+Add "EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding"
+
+Add "InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models"
+
+Add "Multi-View Pose-Agnostic Change Localization with Zero Labels"
+
+Add "DGNS: Deformable Gaussian Splatting and Dynamic Neural Surface for Monocular Dynamic 3D Reconstruction"
+
+Add "HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting"
+
+Add "Feed-Forward Bullet-Time Reconstruction of Dynamic Scenes from Monocular Videos"
+
+Add "Urban4D: Semantic-Guided 4D Gaussian Splatting for Urban Scene Reconstruction"
+
+Add "2DGS-Room: Seed-Guided 2D Gaussian Splatting with Geometric Constrains for High-Fidelity Indoor Scene Reconstruction"
+
+Add "Volumetrically Consistent 3D Gaussian Rasterization"
+
+Add "SGSST: Scaling Gaussian Splatting StyleTransfer"
+
+Add "Splats in Splats: Embedding Invisible 3D Watermark within Gaussian Splatting"
+
+Add "RoDyGS: Robust Dynamic Gaussian Splatting for Casual Videos"
+
+Add "Gaussian Splatting Under Attack: Investigating Adversarial Noise in 3D Objects"
+
+Add "AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction"
+
+Add "RelayGS: Reconstructing Dynamic Scenes with Large-Scale and Complex Motions via Relay Gaussians"
+
+Add "GSGTrack: Gaussian Splatting-Guided Object Pose Tracking from RGB Videos"
+
+Add "Multi-robot autonomous 3D reconstruction using Gaussian splatting with Semantic guidance"
+
+Add "SparseLGS: Sparse View Language Embedded Gaussian Splatting"
+
+Add "SparseGrasp: Robotic Grasping via 3D Semantic Gaussian Splatting from Sparse Multi-View RGB Images"
+
+Add "Gaussian Object Carver: Object-Compositional Gaussian Splatting with surfaces completion"
+
+Add "Planar Gaussian Splatting"
+
+Add "HDGS: Textured 2D Gaussian Splatting for Enhanced Scene Rendering"
+
+Add "Occam's LGS: A Simple Approach for Language Gaussian Splatting"
+
+Add "Horizon-GS: Unified 3D Gaussian Splatting for Large-Scale Aerial-to-Ground Scenes"
+
+Add "3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting"
+
+Add "SfM-Free 3D Gaussian Splatting via Hierarchical Training"
+
+Add "6DOPE-GS: Online 6D Object Pose Estimation using Gaussian Splatting"
+
+Add "ULSR-GS: Ultra Large-scale Surface Reconstruction Gaussian Splatting with Multi-View Geometric Consistency"
+
+Add "RGBDS-SLAM: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting"
+
+Add "Ref-GS: Directional Factorization for 2D Gaussian Splatting"
+
+Add "DynSUP: Dynamic Gaussian Splatting from An Unposed Image Pair"
+
+Add "ChatSplat: 3D Conversational Gaussian Splatting"
+
+Add "FlashSLAM: Accelerated RGB-D SLAM for Real-Time 3D Scene Reconstruction with Gaussian Splatting"
+
+Add "A Lesson in Splats: Teacher-Guided Diffusion for 3D Gaussian Splats Generation with 2D Supervision"
+
+Add "Speedy-Splat: Fast 3D Gaussian Splatting with Sparse Pixels and Sparse Primitives"
+
+Add "LineGS : 3D Line Segment Representation on 3D Gaussian Splatting"
+
+Add "GradiSeg: Gradient-Guided Gaussian Segmentation with Enhanced 3D Boundary Precision"
+
+Add "Gaussians on their Way: Wasserstein-Constrained 4D Gaussian Splatting with State-Space Modeling"
+
+Add "T-3DGS: Removing Transient Objects for 3D Scene Reconstruction"
+
 ### 2024/12/02
 
 Add "GuardSplat: Robust and Efficient Watermarking for 3D Gaussian Splatting"
