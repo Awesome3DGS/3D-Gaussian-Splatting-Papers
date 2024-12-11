@@ -1,5 +1,41 @@
 # Changelog
 
+### 2024/12/11
+
+Add "Splatter-360: Generalizable 360∘ Gaussian Splatting for Wide-baseline Panoramic Images"
+
+Add "Generative Densification: Learning to Densify Gaussians for High-Fidelity Generalizable 3D Reconstruction"
+
+Add "Efficient Semantic Splatting for Remote Sensing Multi-view Segmentation"
+
+Add "SizeGS: Size-aware Compression of 3D Gaussians with Hierarchical Mixed Precision Quantization"
+
+Add "GBR: Generative Bundle Refinement for High-fidelity Gaussian Splatting and Meshing"
+
+Add "Temporally Compressed 3D Gaussian Splatting for Dynamic Scenes"
+
+Add "WATER-GS: Toward Copyright Protection for 3D Gaussian Splatting via Universal Watermarking"
+
+Add "Template-free Articulated Gaussian Splatting for Real-time Reposable Dynamic View Synthesis"
+
+Add "Text-to-3D Gaussian Splatting with Physics-Grounded Motion Generation"
+
+Add "Street Gaussians without 3D Object Tracker"
+
+Add "Radiant: Large-scale 3D Gaussian Rendering based on Hierarchical Framework"
+
+Add "Extrapolated Urban View Synthesis Benchmark"
+
+Add "MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting"
+
+Add "Momentum-GS: Momentum Gaussian Self-Distillation for High-Quality Large Scene Reconstruction"
+
+Add "WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting"
+
+Add "Pushing Rendering Boundaries: Hard Gaussian Splatting"
+
+Add "Turbo3D: Ultra-fast Text-to-3D Generation"
+
 ### 2024/12/09
 
 Add "QUEEN: QUantized Efficient ENcoding of Dynamic Gaussians for Streaming Free-viewpoint Videos"
