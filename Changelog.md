@@ -1,5 +1,51 @@
 # Changelog
 
+### 2024/12/15
+
+Add "Feat2GS: Probing Visual Foundation Models with Gaussian Splatting"
+
+Add "LiftImage3D: Lifting Any Single Image to 3D Gaussians with Video Generation Priors"
+
+Add "FreeSplatter: Pose-free Gaussian Splatting for Sparse-view 3D Reconstruction"
+
+Add "SimAvatar: Simulation-Ready Avatars with Layered Hair and Clothing"
+
+Add "GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency"
+
+Add "LIVE-GS: LLM Powers Interactive VR by Enhancing Gaussian Splatting"
+
+Add "PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis"
+
+Add "SLGaussian: Fast Language Gaussian Splatting in Sparse Views"
+
+Add "ProGDF: Progressive Gaussian Differential Field for Controllable and Flexible 3D Editing"
+
+Add "Diffusion-Based Attention Warping for Consistent 3D Scene Editing"
+
+Add "GASP: Gaussian Avatars with Synthetic Priors"
+
+Add "Proc-GS: Procedural Building Generation for City Assembly with 3D Gaussians"
+
+Add "Faster and Better 3D Splatting via Group Training"
+
+Add "ReCap: Better Gaussian Relighting with Cross-Environment Captures"
+
+Add "ResGS: Residual Densification of 3D Gaussian for Efficient Detail Recovery"
+
+Add "EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering"
+
+Add "MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds"
+
+Add "MAtCha Gaussians: Atlas of Charts for High-Quality Geometry and Photorealism From Sparse Views"
+
+Add "Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video"
+
+Add "4D Gaussian Splatting with Scale-aware Residual Field and Adaptive Optimization for Real-time Rendering of Temporally Complex Dynamic Scenes"
+
+Add "Omni-Scene: Omni-Gaussian Representation for Ego-Centric Sparse-View Scene Reconstruction"
+
+Add "Advancing Extended Reality with 3D Gaussian Splatting: Innovations and Prospects"
+
 ### 2024/12/11
 
 Add "Splatter-360: Generalizable 360∘ Gaussian Splatting for Wide-baseline Panoramic Images"
