@@ -1,5 +1,77 @@
 # Changelog
 
+### 2024/12/20
+
+Add "SqueezeMe: Efficient Gaussian Avatars for VR"
+
+Add "IDOL: Instant Photorealistic 3D Human Creation from a Single Image"
+
+Add "GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting"
+
+Add "Improving Geometry in Sparse-View 3DGS via Reprojection-based DoF Separation"
+
+Add "GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians"
+
+Add "GAGS: Granularity-Aware Feature Distillation for Language Gaussian Splatting"
+
+Add "4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching"
+
+Add "Turbo-GS: Accelerating 3D Gaussian Fitting for High-Quality Radiance Fields"
+
+Add "GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding"
+
+Add "NFL-BA: Improving Endoscopic SLAM with Near-Field Light Bundle Adjustment"
+
+Add "EOGS: Gaussian Splatting for Earth Observation"
+
+Add "4DRGS: 4D Radiative Gaussian Splatting for Efficient 3D Vessel Reconstruction from Sparse-View Dynamic DSA Images"
+
+Add "CATSplat: Context-Aware Transformer with Spatial Guidance for Generalizable 3D Gaussian Splatting from A Single-View Image"
+
+Add "HyperGS: Hyperspectral 3D Gaussian Splatting"
+
+Add "Gaussian Billboards: Expressive 2D Gaussian Splatting with Textures"
+
+Add "3DGUT: Enabling Distorted Cameras and Secondary Rays in Gaussian Splatting"
+
+Add "PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting"
+
+Add "Wonderland: Navigating 3D Scenes from a Single Image"
+
+Add "GS-ProCams: Gaussian Splatting-based Projector-Camera Systems"
+
+Add "Deformable Radial Kernel Splatting"
+
+Add "3D2-Actor: Learning Pose-Conditioned 3D-Aware Denoiser for Realistic Gaussian Avatar Modeling"
+
+Add "SweepEvGS: Event-Based 3D Gaussian Splatting for Macro and Micro Radiance Field Rendering from a Single Sweep"
+
+Add "EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting"
+
+Add "GaussianProperty: Integrating Physical Properties to 3D Gaussians with LMMs"
+
+Add "DCSEG: Decoupled 3D Open-Set Segmentation using Gaussian Splatting"
+
+Add "GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction"
+
+Add "GaussianAD: Gaussian-Centric End-to-End Autonomous Driving"
+
+Add "SuperGSeg: Open-Vocabulary 3D Segmentation with Structured Super-Gaussians"
+
+Add "GAF: Gaussian Avatar Reconstruction from Monocular Videos via Multi-view Diffusion"
+
+Add "Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories"
+
+Add "TSGaussian: Semantic and Depth-Guided Target-Specific Gaussian Splatting from Sparse Views"
+
+Add "SplineGS: Robust Motion-Adaptive Spline for Real-Time Dynamic 3D Gaussians from Monocular Video"
+
+Add "RP-SLAM: Real-time Photorealistic SLAM with Efficient 3D Gaussian Splatting"
+
+Add "MAC-Ego3D: Multi-Agent Gaussian Consensus for Real-Time Collaborative Ego-Motion and Photorealistic 3D Reconstruction"
+
+Add "DSplats: 3D Generation by Denoising Splats-Based Multiview Diffusion Models"
+
 ### 2024/12/15
 
 Add "Feat2GS: Probing Visual Foundation Models with Gaussian Splatting"
