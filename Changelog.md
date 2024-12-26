@@ -1,5 +1,49 @@
 # Changelog
 
+### 2024/12/26
+
+Add "RSGaussian:3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis"
+
+Add "FaceLift: Single Image to 3D Head with View Generation and GS-LRM"
+
+Add "ActiveGS: Active Scene Reconstruction using Gaussian Splatting"
+
+Add "GaussianPainter: Painting Point Cloud into 3D Gaussians with Normal Guidance"
+
+Add "LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding"
+
+Add "CoSurfGS:Collaborative 3D Surface Gaussian Splatting with Distributed Learning for Large Scene Reconstruction"
+
+Add "Exploring Dynamic Novel View Synthesis Technologies for Cinematography"
+
+Add "Balanced 3DGS: Gaussian-wise Parallelism Rendering with Fine-Grained Tiling"
+
+Add "GSemSplat: Generalizable Semantic 3D Gaussian Splatting from Uncalibrated Image Pairs"
+
+Add "GeoTexDensifier: Geometry-Texture-Aware Densification for High-Quality Photorealistic 3D Gaussian Splatting"
+
+Add "Topology-Aware 3D Gaussian Splatting: Leveraging Persistent Homology for Optimized Structural Integrity"
+
+Add "OmniSplat: Taming Feed-Forward 3D Gaussian Splatting for Omnidirectional Images with Editable Capabilities"
+
+Add "SOUS VIDE: Cooking Visual Drone Navigation Policies in a Gaussian Splatting Vacuum"
+
+Add "Interactive Scene Authoring with Specialized Generative Primitives"
+
+Add "CoCoGaussian: Leveraging Circle of Confusion for Gaussian Splatting from Defocused Images"
+
+Add "IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing"
+
+Add "AvatarPerfect: User-Assisted 3D Gaussian Splatting Avatar Refinement with Automatic Pose Suggestion"
+
+Add "EGSRAL: An Enhanced 3D Gaussian Splatting based Renderer with Automated Labeling for Large-Scale Driving Scene"
+
+Add "LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction"
+
+Add "SolidGS: Consolidating Gaussian Surfel Splatting for Sparse-View Surface Reconstruction"
+
+Add "EnvGS: Modeling View-Dependent Appearance with Environment Gaussian"
+
 ### 2024/12/20
 
 Add "SqueezeMe: Efficient Gaussian Avatars for VR"
