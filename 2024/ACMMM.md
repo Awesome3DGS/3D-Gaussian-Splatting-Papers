@@ -47,3 +47,10 @@
 - **🏫 单位**：Fudan University ⟐ HiDream.ai Inc. China ⟐ Singapore Management University
 - **🔗 链接**：[[中英摘要](../abs/2409.07452.md)] [[arXiv:2409.07452](https://arxiv.org/abs/2409.07452)] [[Code](https://github.com/yanghb22-fdu/Hi3D-Official)]
 - **📝 说明**：🏆 Accepted to ACM MM 2024
+
+#### [9] 4D Gaussian Splatting with Scale-aware Residual Field and Adaptive Optimization for Real-time Rendering of Temporally Complex Dynamic Scenes
+- **🧑‍🔬 作者**：Jinbo Yan, Rui Peng, Luyang Tang, Ronggang Wang
+- **🏫 单位**：Peking University ⟐ Pengcheng Laboratory
+- **🔗 链接**：[[中英摘要](./abs/2412.06299.md)] [[arXiv:2412.06299](https://arxiv.org/abs/2412.06299)] [[Code](https://github.com/yjb6/SaRO-GS)]
+- **📝 说明**：🏆 Accepted to ACM MM 2024 Best Paper Candidate
+

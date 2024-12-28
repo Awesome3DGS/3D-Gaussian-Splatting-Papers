@@ -389,3 +389,9 @@
 - **🏫 单位**：University of Maryland ⟐ NVIDIA
 - **🔗 链接**：[[中英摘要](../abs/2412.04469.md)] [[arXiv:2412.04469](https://arxiv.org/abs/2412.04469)] [Code]
 - **📝 说明**：🏆 Accepted to NeurIPS 2024
+
+#### [66] Template-free Articulated Gaussian Splatting for Real-time Reposable Dynamic View Synthesis
+- **🧑‍🔬 作者**：Diwen Wan, Yuxiang Wang, Ruijie Lu, Gang Zeng
+- **🏫 单位**：National Key Laboratory of General Artificial Intelligence, School of IST, Peking University, China
+- **🔗 链接**：[[中英摘要](./abs/2412.05570.md)] [[arXiv:2412.05570](https://arxiv.org/abs/2412.05570)] [[Code](https://github.com/dnvtmf/SK_GS)]
+- **📝 说明**：🏆 Accepted to NeurIPS 2024
