@@ -1,5 +1,63 @@
 # Changelog
 
+### 2025/01/06
+
+Add "Cloth-Splatting: 3D Cloth State Estimation from RGB Supervision"
+
+Add "CrossView-GS: Cross-view Gaussian Splatting For Large-scale Scene Reconstruction"
+
+Add "PG-SAG: Parallel Gaussian Splatting for Fine-Grained Large-Scale Urban Buildings Reconstruction via Semantic-Aware Grouping"
+
+Add "Deformable Gaussian Splatting for Efficient and High-Fidelity Reconstruction of Surgical Scenes"
+
+Add "EasySplat: View-Adaptive Learning makes 3D Gaussian Splatting Easy"
+
+Add "Gaussian Building Mesh (GBM): Extract a Building's 3D Mesh with Google Earth and Gaussian Splatting"
+
+Add "STORM: Spatio-Temporal Reconstruction Model for Large-Scale Outdoor Scenes"
+
+Add "DreamDrive: Generative 4D Scene Modeling from Street View Images"
+
+Add "PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM"
+
+Add "SG-Splatting: Accelerating 3D Gaussian Splatting with Spherical Gaussians"
+
+Add "OVGaussian: Generalizable 3D Gaussian Segmentation with Open Vocabularies"
+
+Add "PERSE: Personalized 3D Generative Avatars from A Single Portrait"
+
+Add "KeyGS: A Keyframe-Centric Gaussian Splatting Method for Monocular Image Sequences"
+
+Add "4D Gaussian Splatting: Modeling Dynamic Scenes with Native 4D Primitives"
+
+Add "MaskGaussian: Adaptive 3D Gaussian Representation from Probabilistic Masks"
+
+Add "DEGSTalk: Decomposed Per-Embedding Gaussian Fields for Hair-Preserving Talking Face Synthesis"
+
+Add "GSplatLoc: Ultra-Precise Camera Localization via 3D Gaussian Splatting"
+
+Add "FlameGS: Reconstruct flame light field via Gaussian Splatting"
+
+Add "DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction"
+
+Add "Dust to Tower: Coarse-to-Fine Photo-Realistic Scene Reconstruction from Sparse Uncalibrated Images"
+
+Add "Learning Radiance Fields from a Single Snapshot Compressive Image"
+
+Add "BeSplat -- Gaussian Splatting from a Single Blurry Image and Event Stream"
+
+Add "Reflective Gaussian Splatting"
+
+Add "Generating Editable Head Avatars with 3D Gaussian GANs"
+
+Add "CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting"
+
+Add "MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo"
+
+Add "WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting"
+
+Add "ArtNVG: Content-Style Separated Artistic Neighboring-View Gaussian Stylization"
+
 ### 2024/12/26
 
 Add "RSGaussian:3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis"
