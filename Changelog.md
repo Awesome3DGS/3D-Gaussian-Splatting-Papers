@@ -1,5 +1,39 @@
 # Changelog
 
+### 2025/01/13
+
+Add "Locality-aware Gaussian Compression for Fast and High-quality Rendering"
+
+Add "Zero-1-to-G: Taming Pretrained 2D Diffusion Model for Direct 3D Generation"
+
+Add "Arc2Avatar: Generating Expressive 3D Avatars from a Single Image via ID Guidance"
+
+Add "Scaffold-SLAM: Structured 3D Gaussians for Simultaneous Localization and Photorealistic Mapping"
+
+Add "GaussianVideo: Efficient Video Representation via Hierarchical Gaussian Splatting"
+
+Add "FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency"
+
+Add "Spatiotemporal Gaussian Optimization for 4D Cone Beam CT Reconstruction from Sparse Projections"
+
+Add "ZDySS -- Zero-Shot Dynamic Scene Stylization using Gaussian Splatting"
+
+Add "MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting"
+
+Add "DehazeGS: Seeing Through Fog with 3D Gaussian Splatting"
+
+Add "ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting"
+
+Add "Compression of 3D Gaussian Splatting with Optimized Feature Planes and Standard Video Codecs"
+
+Add "Gaussian Masked Autoencoders"
+
+Add "HOGSA: Bimanual Hand-Object Interaction Understanding with 3D Gaussian Splatting Based Data Augmentation"
+
+Add "GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking"
+
+Add "EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation"
+
 ### 2025/01/06
 
 Add "Cloth-Splatting: 3D Cloth State Estimation from RGB Supervision"
