@@ -360,7 +360,7 @@
 - **📝 说明**：
 
 #### [47] Balanced 3DGS: Gaussian-wise Parallelism Rendering with Fine-Grained Tiling
-- **🧑‍🔬 作者**：Xingrui Wang, Cuiling Lan, Hanxin Zhu, Zhibo Chen, Yan Lu
+- **🧑‍🔬 作者**：Hao Gui, Lin Hu, Rui Chen, Mingxiao Huang, Yuxin Yin, Jin Yang, Yong Wu, Chen Liu, Zhongxu Sun, Xueyang Zhang, Kun Zhan
 - **🏫 单位**：Li Auto ⟐ NVIDIA
 - **🔗 链接**：[[中英摘要](./abs/2412.17378.md)] [[arXiv:2412.17378](https://arxiv.org/abs/2412.17378)] [Code]
 - **📝 说明**：
