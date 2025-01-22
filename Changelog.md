@@ -1,5 +1,53 @@
 # Changelog
 
+### 2025/01/22
+
+Add "DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions"
+
+Add "HAC++: Towards 100X Compression of 3D Gaussian Splatting"
+
+Add "GaussianVideo: Efficient Video Representation Through 2D Gaussian Splatting"
+
+Add "See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization"
+
+Add "RDG-GS: Relative Depth Guidance with Gaussian Splatting for Real-time Sparse-View 3D Rendering"
+
+Add "Car-GS: Addressing Reflective and Transparent Surface Challenges in 3D Car Reconstruction"
+
+Add "Decoupling Appearance Variations with 3D Consistent Features in Gaussian Splatting"
+
+Add "BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation"
+
+Add "GSTAR: Gaussian Surface Tracking and Reconstruction"
+
+Add "GaussianAvatar-Editor: Photorealistic Animatable Gaussian Head Avatar Editor"
+
+Add "Creating Virtual Environments with 3D Gaussian Splatting: A Comparative Study"
+
+### 2025/01/16
+
+Add "CityLoc: 6 DoF Localization of Text Descriptions in Large-Scale Scenes with Gaussian Representation"
+
+Add "GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping"
+
+Add "3D Gaussian Splatting with Normal Information for Mesh Extraction and Improved Rendering"
+
+Add "VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes"
+
+Add "Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes"
+
+Add "3DGS-to-PC: Convert a 3D Gaussian Splatting Scene into a Dense Point Cloud or Mesh"
+
+Add "RMAvatar: Photorealistic Human Avatar Reconstruction from Monocular Video Based on Rectified Mesh-embedded Gaussians"
+
+Add "SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting"
+
+Add "ActiveGAMER: Active GAussian Mapping through Efficient Rendering"
+
+Add "Generalized and Efficient 2D Gaussian Splatting for Arbitrary-scale Super-Resolution"
+
+Add "F3D-Gaus: Feed-forward 3D-aware Generation on ImageNet with Cycle-Consistent Gaussian Splatting"
+
 ### 2025/01/13
 
 Add "Locality-aware Gaussian Compression for Fast and High-quality Rendering"
