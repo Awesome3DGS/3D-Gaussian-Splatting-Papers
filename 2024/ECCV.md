@@ -141,7 +141,7 @@
 #### [24] View-Consistent 3D Editing with Gaussian Splatting
 - **🧑‍🔬 作者**：Yuxuan Wang, Xuanyu Yi, Zike Wu, Na Zhao, Long Chen, Hanwang Zhang
 - **🏫 单位**：Nanyang Technological University ⟐ Singapore University of Technology and Design ⟐ Hong Kong University of Science and Technology ⟐ Skywork AI
-- **🔗 链接**：[[中英摘要](../abs/2403.11868.md)] [[arXiv:2403.11868](https://arxiv.org/abs/2403.11868)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2403.11868.md)] [[arXiv:2403.11868](https://arxiv.org/abs/2403.11868)] [[Code](https://github.com/Yuxuan-W/VcEdit)]
 - **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [25] Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration
