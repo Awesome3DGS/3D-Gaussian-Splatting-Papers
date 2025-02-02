@@ -1,5 +1,49 @@
 # Changelog
 
+### 2025/02/03
+
+Add "VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting"
+
+Add "CrowdSplat: Exploring Gaussian Splatting For Crowd Rendering"
+
+Add "FeatureGS: Eigenvalue-Feature Optimization in 3D Gaussian Splatting for Geometrically Accurate and Artifact-Reduced Reconstruction"
+
+Add "Evaluating CrowdSplat: Perceived Level of Detail for Gaussian Crowds"
+
+Add "DiffSplat: Repurposing Image Diffusion Models for Scalable Gaussian Splat Generation"
+
+Add "GaussianToken: An Effective Image Tokenizer with 2D Gaussian Splatting"
+
+Add "Towards Better Robustness: Progressively Joint Pose-3DGS Learning for Arbitrarily Long Videos"
+
+Add "HuGDiffusion: Generalizable Single-Image Human Rendering via 3D Gaussian Diffusion"
+
+Add "Trick-GS: A Balanced Bag of Tricks for Efficient Gaussian Splatting"
+
+Add "Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video"
+
+Add "Micro-macro Wavelet-based Gaussian Splatting for 3D Reconstruction from Unconstrained Images"
+
+Add "Dense-SfM: Structure from Motion with Dense Consistent Matching"
+
+Add "HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting"
+
+Add "3DGS2: Near Second-order Converging 3D Gaussian Splatting"
+
+Add "GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting"
+
+Add "GoDe: Gaussians on Demand for Progressive Level of Detail and Scalable Compression"
+
+Add "MultiDreamer3D: Multi-concept 3D Customization with Concept-Aware Diffusion Guidance"
+
+Add "GeomGS: LiDAR-Guided Geometry-Aware Gaussian Splatting for Robot Localization"
+
+Add "VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM"
+
+Add "Deblur-Avatar: Animatable Avatars from Motion-Blurred Monocular Videos"
+
+Add "Sketch and Patch: Efficient 3D Gaussian Representation for Man-Made Scenes"
+
 ### 2025/01/22
 
 Add "DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions"
