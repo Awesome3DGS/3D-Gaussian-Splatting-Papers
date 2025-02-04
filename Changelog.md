@@ -1,5 +1,27 @@
 # Changelog
 
+### 2025/02/04
+
+Add "PhiP-G: Physics-Guided Text-to-3D Compositional Scene Generation"
+
+Add "EmoTalkingGaussian: Continuous Emotion-conditioned Talking Head Synthesis"
+
+Add "Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation"
+
+Add "Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping"
+
+Add "RaySplats: Ray Tracing based Gaussian Splatting"
+
+Add "JGHand: Joint-Driven Animatable Hand Avater via 3D Gaussian Splatting"
+
+Add "OmniPhysGS: 3D Constitutive Gaussians for General Physics-Based Dynamics Generation"
+
+Add "Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting"
+
+Add "Deformable Beta Splatting"
+
+Add "StructuredField: Unifying Structured Geometry and Radiance Field"
+
 ### 2025/02/03
 
 Add "VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting"
