@@ -1,5 +1,9 @@
 # Changelog
 
+### 2025/02/16
+
+Add "GS-CPR: Efficient Camera Pose Refinement via 3D Gaussian Splatting"
+
 ### 2025/02/04
 
 Add "PhiP-G: Physics-Guided Text-to-3D Compositional Scene Generation"
