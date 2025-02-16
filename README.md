@@ -2909,10 +2909,10 @@
 - **🔗 链接**：[[中英摘要](./abs/2408.11447.md)] [[arXiv:2408.11447](https://arxiv.org/abs/2408.11447)] [[Code](https://github.com/GANWANSHUI/GaussianOcc)]
 - **📝 说明**：
 
-#### [472] GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting
-- **🧑‍🔬 作者**：Changkun Liu, Shuai Chen, Yash Bhalgat, Siyan Hu, Zirui Wang, Ming Cheng, Victor Adrian Prisacariu, Tristan Braud
+#### [472] GS-CPR: Efficient Camera Pose Refinement via 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Changkun Liu, Shuai Chen, Yash Bhalgat, Siyan Hu, Ming Cheng, Zirui Wang, Victor Adrian Prisacariu, Tristan Braud
 - **🏫 单位**：HKUST ⟐ University of Oxford ⟐ Dartmouth College
-- **🔗 链接**：[[中英摘要](./abs/2408.11085.md)] [[arXiv:2408.11085](https://arxiv.org/abs/2408.11085)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2408.11085.md)] [[arXiv:2408.11085](https://arxiv.org/abs/2408.11085)] [[Code]](https://github.com/XRIM-Lab/GS-CPR)
 - **📝 说明**：
 
 #### [473] ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining
