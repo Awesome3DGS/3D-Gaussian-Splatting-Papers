@@ -1,5 +1,65 @@
 # Changelog
 
+### 2025/02/18
+
+Add "3D Gaussian Inpainting with Depth-Guided Cross-View Consistency"
+
+Add "Exploring the Versal AI Engine for 3D Gaussian Splatting"
+
+Add "GaussianMotion: End-to-End Learning of Animatable Gaussian Avatars with Pose Guidance from Text"
+
+Add "OMG: Opacity Matters in Material Modeling with Gaussian Splatting"
+
+Add "GS-GVINS: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting"
+
+Add "E-3DGS: Event-Based Novel View Rendering of Large-Scale Scenes Using 3D Gaussian Splatting"
+
+Add "X-SG2S: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks"
+
+Add "Self-Calibrating Gaussian Splatting for Large Field of View Reconstruction"
+
+Add "DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior"
+
+Add "Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting"
+
+Add "TranSplat: Surface Embedding-guided 3D Gaussian Splatting for Transparent Object Manipulation"
+
+Add "MeshSplats: Mesh-Based Rendering with Gaussian Splatting Initialization"
+
+Add "Flow Distillation Sampling: Regularizing 3D Gaussians with Pre-trained Matching Priors"
+
+Add "SIREN: Semantic, Initialization-Free Registration of Multi-Robot Gaussian Splatting Maps"
+
+Add "Three-Dimensional MRI Reconstruction with Gaussian Representations: Tackling the Undersampling Problem"
+
+Add "Digital Twin Buildings: 3D Modeling, GIS Integration, and Visual Descriptions Using Gaussian Splatting, ChatGPT/Deepseek, and Google Maps Platform"
+
+Add "PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map"
+
+Add "AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting"
+
+Add "GaussRender: Learning 3D Occupancy with Gaussian Rendering"
+
+Add "OccGS: Zero-shot 3D Occupancy Reconstruction with Semantic and Geometric-Aware Gaussian Splatting"
+
+Add "SC-OmniGS: Self-Calibrating Omnidirectional Gaussian Splatting"
+
+Add "High-Speed Dynamic 3D Imaging with Sensor Fusion Splatting"
+
+Add "GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM"
+
+Add "GP-GS: Gaussian Processes for Enhanced Gaussian Splatting"
+
+Add "LAYOUTDREAMER: Physics-guided Layout for Text-to-3D Compositional Scene Generation"
+
+Add "UVGS: Reimagining Unstructured 3D Gaussian Splatting using UV Mapping"
+
+Add "Scalable 3D Gaussian Splatting-Based RF Signal Spatial Propagation Modeling"
+
+Add "VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion"
+
+Add "Radiant Foam: Real-Time Differentiable Ray Tracing"
+
 ### 2025/02/04
 
 Add "PhiP-G: Physics-Guided Text-to-3D Compositional Scene Generation"
