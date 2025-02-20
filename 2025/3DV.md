@@ -41,3 +41,15 @@
 - **🏫 单位**：Tampere University ⟐ Aalto University ⟐ University of Hong Kong ⟐ Spectacular AI ⟐ University of Oulu
 - **🔗 链接**：[[中英摘要](../abs/2411.19271.md)] [[arXiv:2411.19271](https://arxiv.org/abs/2411.19271)] [[Code](https://github.com/maturk/dn-splatter)]
 - **📝 说明**：🏆 Accepted to 3DV 2025
+
+#### [8] GaussianAvatar-Editor: Photorealistic Animatable Gaussian Head Avatar Editor
+- **🧑‍🔬 作者**：Xiangyue Liu, Kunming Luo, Heng Li, Qi Zhang, Yuan Liu, Li Yi, Ping Tan
+- **🏫 单位**： Hong Kong University of Science and Technology ⟐ Tencent AI Lab ⟐ Tsinghua University
+- **🔗 链接**：[[中英摘要](./abs/2501.09978.md)] [[arXiv:2501.09978](https://arxiv.org/abs/2501.09978)] [Code]
+- **📝 说明**：🏆 Accepted to 3DV 2025
+
+#### [9] E-3DGS: Event-Based Novel View Rendering of Large-Scale Scenes Using 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Sohaib Zahid, Viktor Rudnev, Eddy Ilg, Vladislav Golyanik
+- **🏫 单位**：Saarland University ⟐ MPI for Informatics, SIC
+- **🔗 链接**：[[中英摘要](./abs/2502.10827.md)] [[arXiv:2502.10827](https://arxiv.org/abs/2502.10827)] [Code]
+- **📝 说明**：🏆 Accepted to 3DV 2025

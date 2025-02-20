@@ -30,14 +30,32 @@
 - **🔗 链接**：[[中英摘要](../abs/2409.16147.md)] [[arXiv:2409.16147](https://arxiv.org/abs/2409.16147)] [Code]
 - **📝 说明**：🏆 Accepted to WACV 2025
 
-#### [6] ELMGS: Enhancing memory and computation scaLability through coMpression for 3D Gaussian Splatting
+#### [6] UW-GS: Distractor-Aware 3D Gaussian Splatting for Enhanced Underwater Scene Reconstruction
+- **🧑‍🔬 作者**：Haoran Wang, Nantheera Anantrasirichai, Fan Zhang, David Bull
+- **🏫 单位**：School of Computer Science, University of Bristol, Bristol, UK
+- **🔗 链接**：[[中英摘要](./abs/2410.01517.md)] [[arXiv:2410.01517](https://arxiv.org/abs/2410.01517)] [Code]
+- **📝 说明**：🏆 Accepted to WACV 2025
+
+#### [7] ELMGS: Enhancing memory and computation scaLability through coMpression for 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Muhammad Salman Ali, Sung-Ho Bae, Enzo Tartaglione
 - **🏫 单位**：LTCI, Tel´ ecom Paris, Institut Polytechnique de Paris, France ⟐ Kyung Hee University, Republic of Korea
 - **🔗 链接**：[[中英摘要](../abs/2410.23213.md)] [[arXiv:2410.23213](https://arxiv.org/abs/2410.23213)] [Code]
 - **📝 说明**：🏆 Accepted to WACV 2025
 
-#### [7] Planar Gaussian Splatting
+#### [8] Planar Gaussian Splatting
 - **🧑‍🔬 作者**：Farhad G. Zanjani, Hong Cai, Hanno Ackermann, Leila Mirvakhabova, Fatih Porikli
 - **🏫 单位**：Qualcomm AI Research
 - **🔗 链接**：[[中英摘要](../abs/2412.01931.md)] [[arXiv:2412.01931](https://arxiv.org/abs/2412.01931)] [Code]
+- **📝 说明**：🏆 Accepted to WACV 2025
+
+#### [9] BeSplat -- Gaussian Splatting from a Single Blurry Image and Event Stream
+- **🧑‍🔬 作者**：Gopi Raju Matta, Reddypalli Trisha, Kaushik Mitra
+- **🏫 单位**：IIT Madras ⟐ IIIT RGUKT RKValley
+- **🔗 链接**：[[中英摘要](./abs/2412.19370.md)] [[arXiv:2412.19370](https://arxiv.org/abs/2412.19370)] [Code]
+- **📝 说明**：🏆 Accepted to WACV 2025 EVGEN Workshop
+
+#### [10] Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation
+- **🧑‍🔬 作者**：Rohan Chacko, Nicolai Haeni, Eldar Khaliullin, Lin Sun, Douglas Lee
+- **🏫 单位**：Magic Leap Inc.
+- **🔗 链接**：[[中英摘要](./abs/2502.00173.md)] [[arXiv:2502.00173](https://arxiv.org/abs/2502.00173)] [Code]
 - **📝 说明**：🏆 Accepted to WACV 2025

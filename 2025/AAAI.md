@@ -53,3 +53,27 @@
 - **🏫 单位**: Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2501.04628.md)] [[arXiv:2501.04628](https://arxiv.org/abs/2501.04628)] [[Code](https://github.com/yulunwu0108/FatesGS)]
 - **📝 说明**：🏆 Accepted by AAAI 2025
+
+#### [10] BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation
+- **🧑‍🔬 作者**：Xiaolu Hou, Mingcheng Li, Dingkang Yang, Jiawei Chen, Ziyun Qian, Xiao Zhao, Yue Jiang, Jinjie Wei, Qingyao Xu, Lihua Zhang
+- **🏫 单位**：Fudan University ⟐ Engineering Research Center of AI and Robotics, Ministry of Education ⟐ Jilin Provincial Key Laboratory of Intelligence Science and Engineering ⟐ Artificial Intelligence and Unmanned Systems Engineering Research Center of Jilin Province ⟐ ByteDance Inc
+- **🔗 链接**：[[中英摘要](./abs/2501.10462.md)] [[arXiv:2501.10462](https://arxiv.org/abs/2501.10462)] [[Code](https://github.com/SparklingH/BloomScene)]
+- **📝 说明**：🏆 Accepted to AAAI 2025
+
+#### [11] Decoupling Appearance Variations with 3D Consistent Features in Gaussian Splatting
+- **🧑‍🔬 作者**：Jiaqi Lin, Zhihao Li, Binxiao Huang, Xiao Tang, Jianzhuang Liu, Shiyong Liu, Xiaofei Wu, Fenglong Song, Wenming Yang
+- **🏫 单位**：Tsinghua University ⟐ Huawei Noah’s Ark Lab ⟐ The University of Hong Kong ⟐ Shenzhen Institute of Advanced Technology
+- **🔗 链接**：[[中英摘要](./abs/2501.10788.md)] [[arXiv:2501.10788](https://arxiv.org/abs/2501.10788)] [Code]
+- **📝 说明**：🏆 Accepted to AAAI 2025
+
+#### [12] Micro-macro Wavelet-based Gaussian Splatting for 3D Reconstruction from Unconstrained Images
+- **🧑‍🔬 作者**：Yihui Li, Chengxin Lv, Hongyu Yang, Di Huang
+- **🏫 单位**：State Key Laboratory of Complex and Critical Software Environment, Beijing ⟐ Beihang University ⟐ Shanghai Artificial Intelligence Laboratory
+- **🔗 链接**：[[中英摘要](./abs/2501.14231.md)] [[arXiv:2501.14231](https://arxiv.org/abs/2501.14231)] [Code]
+- **📝 说明**：🏆 Accepted to AAAI 2025
+
+#### [13] Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting
+- **🧑‍🔬 作者**：Lingting Zhu, Guying Lin, Jinnan Chen, Xinjie Zhang, Zhenchao Jin, Zhao Wang, Lequan Yu
+- **🏫 单位**：The University of Hong Kong ⟐ Carnegie Mellon University ⟐ National University of Singapore ⟐ The Hong Kong University of Science and Technology ⟐ The Chinese University of Hong Kong
+- **🔗 链接**：[[中英摘要](./abs/2502.09039.md)] [[arXiv:2502.09039](https://arxiv.org/abs/2502.09039)] [[Code](https://github.com/HKU-MedAI/LIG)]
+- **📝 说明**：🏆 Accepted to AAAI 2025
