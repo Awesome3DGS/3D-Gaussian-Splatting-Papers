@@ -41,3 +41,9 @@
 - **🏫 单位**：Carnegie Mellon University
 - **🔗 链接**：[[中英摘要](./abs/2502.10988.md)] [[arXiv:2502.10988](https://arxiv.org/abs/2502.10988)] [Code]
 - **📝 说明**：🏆 Accepted to ICLR 2025
+
+#### [8] 6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering
+- **🧑‍🔬 作者**：Zhongpai Gao, Benjamin Planche, Meng Zheng, Anwesa Choudhuri, Terrence Chen, Ziyan Wu
+- **🏫 单位**：United Imaging Intelligence, Boston MA, USA
+- **🔗 链接**：[[中英摘要](./abs/2410.04974.md)] [[arXiv:2410.04974](https://arxiv.org/abs/2410.04974)]
+- **📝 说明**：🏆 Accepted to ICLR 2025
