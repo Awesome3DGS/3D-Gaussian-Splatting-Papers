@@ -1,5 +1,101 @@
 # Changelog
 
+### 2025/03/21
+
+Add "Online Language Splatting"
+
+Add "Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation"
+
+Add "FPGS: Feed-Forward Semantic-aware Photorealistic Style Transfer of Large-Scale Gaussian Splatting"
+
+Add "Physics-Aware Human-Object Rendering from Sparse Views via 3D Gaussian Splatting"
+
+Add "TGP: Two-modal occupancy prediction with 3D Gaussian and sparse points for 3D Environment Awareness"
+
+Add "GaussHDR: High Dynamic Range Gaussian Splatting via Learning Unified 3D and 2D Local Tone Mapping"
+
+Add "3D Student Splatting and Scooping"
+
+Add "GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction"
+
+Add "ROODI: Reconstructing Occluded Objects with Denoising Inpainters"
+
+Add "VicaSplat: A Single Run is All You Need for 3D Gaussian Splatting and Camera Estimation from Unposed Video Frames"
+
+Add "4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models"
+
+Add "MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction"
+
+Add "LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds"
+
+Add "RI3D: Few-Shot Gaussian Splatting With Repair and Inpainting Diffusion Priors"
+
+Add "Uncertainty-Aware Normal-Guided Gaussian Splatting for Surface Reconstruction from Sparse Image Sequences"
+
+Add "EgoSplat: Open-Vocabulary Egocentric Scene Understanding with Language Embedded 3D Gaussian Splatting"
+
+Add "Advancing 3D Gaussian Splatting Editing with Complementary and Consensus Information"
+
+Add "Industrial-Grade Sensor Simulation via Gaussian Splatting: A Modular Framework for Scalable Editing and Full-Stack Validation"
+
+Add "Snapmoji: Instant Generation of Animatable Dual-Stylized Avatars"
+
+Add "DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes"
+
+Add "DecompDreamer: Advancing Structured 3D Asset Generation with Multi-Object Decomposition and Gaussian Splatting"
+
+Add "3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction"
+
+Add "REdiSplats: Ray Tracing for Editable Gaussian Splatting"
+
+Add "Swift4D:Adaptive divide-and-conquer Gaussian Splatting for compact and efficient reconstruction of dynamic scene"
+
+Add "GS-I3: Gaussian Splatting for Surface Reconstruction from Illumination-Inconsistent Images"
+
+Add "TopoGaussian: Inferring Internal Topology Structures from Visual Clues"
+
+Add "VRsketch2Gaussian: 3D VR Sketch Guided 3D Object Generation with Gaussian Splatting"
+
+Add "SPC-GS: Gaussian Splatting with Semantic-Prompt Consistency for Indoor Open-World Free-view Synthesis from Sparse Inputs"
+
+Add "MTGS: Multi-Traversal Gaussian Splatting"
+
+Add "Niagara: Normal-Integrated Geometric Affine Field for Scene Reconstruction from a Single View"
+
+Add "Deblur Gaussian Splatting SLAM"
+
+Add "CompMarkGS: Robust Watermarking for Compression 3D Gaussian Splatting"
+
+Add "CAT-3DGS Pro: A New Benchmark for Efficient 3DGS Compression"
+
+Add "RGBAvatar: Reduced Gaussian Blendshapes for Online Modeling of Head Avatars"
+
+Add "Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization"
+
+Add "DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction"
+
+Add "Generative Gaussian Splatting: Generating 3D Scenes with Video Diffusion Priors"
+
+Add "Light4GS: Lightweight Compact 4D Gaussian Splatting Generation via Context Model"
+
+Add "BG-Triangle: Bézier Gaussian Triangle for 3D Vectorization and Rendering"
+
+Add "Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting"
+
+Add "Lightweight Gradient-Aware Upscaling of 3D Gaussian Splatting Images"
+
+Add "RoGSplat: Learning Robust Generalizable Human Gaussian Splatting from Sparse Multi-View Images"
+
+Add "Improving Adaptive Density Control for 3D Gaussian Splatting"
+
+Add "Optimized 3D Gaussian Splatting using Coarse-to-Fine Image Frequency Modulation"
+
+Add "SplatVoxel: History-Aware Novel View Streaming without Temporal Training"
+
+Add "HandSplat: Embedding-Driven Gaussian Splatting for High-Fidelity Hand Rendering"
+
+Add "SketchSplat: 3D Edge Reconstruction via Differentiable Multi-view Sketch Splatting"
+
 ### 2025/03/20
 
 Add "MVD-HuGaS: Human Gaussians from a Single Image via 3D Human Multi-view Diffusion Prior"
