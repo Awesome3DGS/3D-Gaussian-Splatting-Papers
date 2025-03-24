@@ -77,3 +77,21 @@
 - **🏫 单位**：The University of Hong Kong ⟐ Carnegie Mellon University ⟐ National University of Singapore ⟐ The Hong Kong University of Science and Technology ⟐ The Chinese University of Hong Kong
 - **🔗 链接**：[[中英摘要](./abs/2502.09039.md)] [[arXiv:2502.09039](https://arxiv.org/abs/2502.09039)] [[Code](https://github.com/HKU-MedAI/LIG)]
 - **📝 说明**：🏆 Accepted to AAAI 2025
+
+#### [14] Efficient Gaussian Splatting for Monocular Dynamic Scene Rendering via Sparse Time-Variant Attribute Modeling
+- **🧑‍🔬 作者**：Hanyang Kong, Xingyi Yang, Xinchao Wang
+- **🏫 单位**: National University of Singapore
+- **🔗 链接**：[[中英摘要](./abs/2502.20378.md)] [[arXiv:2502.20378](https://arxiv.org/abs/2502.20378)] [Code]
+- **📝 说明**：🏆 Accepted to AAAI 2025
+
+#### [15] ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting
+- **🧑‍🔬 作者**：Dexter Ong, Yuezhan Tao, Varun Murali, Igor Spasojevic, Vijay Kumar, Pratik Chaudhari
+- **🏫 单位**: GRASP Laboratory, University of Pennsylvania
+- **🔗 链接**：[[中英摘要](./abs/2502.20386.md)] [[arXiv:2502.20386](https://arxiv.org/abs/2502.20386)] [[Code](https://atlasnav.github.io/)]
+- **📝 说明**：🏆 Accepted to AAAI 2025
+
+#### [16] Frequency-Aware Density Control via Reparameterization for High-Quality Rendering of 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Zhaojie Zeng, Yuesong Wang, Lili Ju, Tao Guan
+- **🏫 单位**: Huazhong University of Science and Technology ⟐ University of South Carolina
+- **🔗 链接**：[[中英摘要](./abs/2503.07000.md)] [[arXiv:2503.07000](https://arxiv.org/abs/2503.07000)] [[Code](https://github.com/whoiszzj/FDS-GS)]
+- **📝 说明**：🏆 Accepted to AAAI 2025

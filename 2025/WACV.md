@@ -27,7 +27,7 @@
 #### [5] Gaussian Deja-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities
 - **🧑‍🔬 作者**：Peizhi Yan, Rabab Ward, Qiang Tang, Shan Du
 - **🏫 单位**：University of British Columbia ⟐ Huawei Canada ⟐ University of British Columbia (Okanagan)
-- **🔗 链接**：[[中英摘要](../abs/2409.16147.md)] [[arXiv:2409.16147](https://arxiv.org/abs/2409.16147)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2409.16147.md)] [[arXiv:2409.16147](https://arxiv.org/abs/2409.16147)] [[Code](https://github.com/PeizhiYan/gaussian-dejavu)]
 - **📝 说明**：🏆 Accepted to WACV 2025
 
 #### [6] UW-GS: Distractor-Aware 3D Gaussian Splatting for Enhanced Underwater Scene Reconstruction
