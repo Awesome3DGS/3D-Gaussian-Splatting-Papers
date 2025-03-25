@@ -18,7 +18,13 @@
 - **🔗 链接**：[[中英摘要](./abs/2501.08370.md)] [[arXiv:2501.08370](https://arxiv.org/abs/2501.08370)] [Code]
 - **📝 说明**：🏆 Accepted to ICASSP 2025 Workshop
 
-#### [4] Trick-GS: A Balanced Bag of Tricks for Efficient Gaussian Splatting
+#### [4] See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization
+- **🧑‍🔬 作者**：Zongqi He, Zhe Xiao, Kin-Chung Chan, Yushen Zuo, Jun Xiao, Kin-Man Lam
+- **🏫 单位**：The Hong Kong Polytechnic University
+- **🔗 链接**：[[中英摘要](./abs/2501.11508.md)] [[arXiv:2501.11508](https://arxiv.org/abs/2501.11508)] [Code]
+- **📝 说明**：🏆 Accepted to ICASSP 2025
+
+#### [5] Trick-GS: A Balanced Bag of Tricks for Efficient Gaussian Splatting
 - **🧑‍🔬 作者**：Anil Armagan, Albert Saà-Garriga, Bruno Manganelli, Mateusz Nowak, Mehmet Kerim Yucel
 - **🏫 单位**：Samsung R&D Institute UK (SRUK)
 - **🔗 链接**：[[中英摘要](./abs/2501.14534.md)] [[arXiv:2501.14534](https://arxiv.org/abs/2501.14534)] [Code]
