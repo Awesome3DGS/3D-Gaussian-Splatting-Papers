@@ -183,7 +183,7 @@
 #### [31] MaskGaussian: Adaptive 3D Gaussian Representation from Probabilistic Masks
 - **🧑‍🔬 作者**：Yifei Liu, Zhihang Zhong, Yifan Zhan, Sheng Xu, Xiao Sun
 - **🏫 单位**：Shanghai AI Laboratory ⟐ Beihang University ⟐ The University of Tokyo
-- **🔗 链接**：[[中英摘要](./abs/2412.20522.md)] [[arXiv:2412.20522](https://arxiv.org/abs/2412.20522)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2412.20522.md)] [[arXiv:2412.20522](https://arxiv.org/abs/2412.20522)] [[Code](https://github.com/kaikai23/maskgaussian)]
 - **📝 说明**：🏆 Accepted to CVPR 2025
 
 #### [32] PERSE: Personalized 3D Generative Avatars from A Single Portrait
