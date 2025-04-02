@@ -10,30 +10,30 @@
 
   - [[ICLR](./2024/ICLR.md)] (2 篇)
     [[CVPR](./2024/CVPR.md)] (67 篇)
-    [[ECCV](./2024/ECCV.md)] (83 篇)
+    [[ECCV](./2024/ECCV.md)] (84 篇)
     [[ACM MM](./2024/ACMMM.md)] (9 篇)
     [[MICCAI](./2024/MICCAI.md)] (7 篇)
-    [[SIGGRAPH](./2024/SIGGRAPH.md)] (25 篇)
+    [[SIGGRAPH](./2024/SIGGRAPH.md)] (26 篇)
   - [[NeurIPS](./2024/NeurIPS.md)] (70 篇)
     [[ICML](./2024/ICML.md)] (4 篇)
     [[BMVC](./2024/BMVC.md)] (8 篇)
     [[CoRL](./2024/CoRL.md)] (5 篇)
-    [[IROS](./2024/IROS.md)] (7 篇)
-    [[others](./2024/Accepted.md)] (24 篇)
+    [[IROS](./2024/IROS.md)] (8 篇)
+    [[others](./2024/Accepted.md)] (25 篇)
 
 - **2025**
 
-  - [[3DV](./2025/3DV.md)] (14 篇)
-    [[WACV](./2025/WACV.md)] (13 篇)
-    [[AAAI](./2025/AAAI.md)] (20 篇)
-    [[ICLR](./2025/ICLR.md)] (29 篇)
+  - [[3DV](./2025/3DV.md)] (19 篇)
+    [[WACV](./2025/WACV.md)] (14 篇)
+    [[AAAI](./2025/AAAI.md)] (22 篇)
+    [[ICLR](./2025/ICLR.md)] (33 篇)
     [[ICASSP](./2025/ICASSP.md)] (5 篇)
-    [[ICRA](./2025/ICRA.md)] (13 篇)
-  - [[CVPR](./2025/CVPR.md)] (94 篇)
+    [[ICRA](./2025/ICRA.md)] (14 篇)
+  - [[CVPR](./2025/CVPR.md)] (98 篇)
 
 #### **📂 归档论文**
 
-- [[Before 2024/06/01](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/tree/archive/202406)] (181 篇)
+- [[Before 2024/06/01](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/tree/archive/202406)] (159 篇)
 
 ---
 
