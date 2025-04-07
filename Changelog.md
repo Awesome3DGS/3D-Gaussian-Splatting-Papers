@@ -1,5 +1,49 @@
 # Changelog
 
+### 2025/04/07
+
+Add "StochasticSplats: Stochastic Rasterization for Sorting-Free 3D Gaussian Splatting"
+
+Add "Visual Acoustic Fields"
+
+Add "DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting"
+
+Add "Learning 3D-Gaussian Simulators from RGB Videos"
+
+Add "ExScene: Free-View 3D Scene Reconstruction with Gaussian Splatting from a Single Image"
+
+Add "Gaussian Blending Unit: An Edge GPU Plug-in for Real-Time Gaussian-Based Rendering in AR/VR"
+
+Add "Enhancing 3D Gaussian Splatting Compression via Spatial Condition-based Prediction"
+
+Add "ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning"
+
+Add "NeuralGS: Bridging Neural Fields and 3D Gaussian Splatting for Compact 3D Representations"
+
+Add "CityGS-X: A Scalable Architecture for Efficient and Geometrically Accurate Large-Scale Scene Reconstruction"
+
+Add "FreeSplat++: Generalizable 3D Gaussian Splatting for Efficient Indoor Scene Reconstruction"
+
+Add "VizFlyt: Perception-centric Pedagogical Framework For Autonomous Aerial Robots"
+
+Add "TranSplat: Lighting-Consistent Cross-Scene Object Transfer with 3D Gaussian Splatting"
+
+Add "Audio-Plane: Audio Factorization Plane Gaussian Splatting for Real-Time Talking Head Synthesis"
+
+Add "EndoLRMGS: Complete Endoscopic Scene Reconstruction combining Large Reconstruction Modelling and Gaussian Splatting"
+
+Add "AH-GS: Augmented 3D Gaussian Splatting for High-Frequency Detail Representation"
+
+Add "Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance"
+
+Add "ABC-GS: Alignment-Based Controllable Style Transfer for 3D Gaussian Splatting"
+
+Add "Segment then Splat: A Unified Approach for 3D Open-Vocabulary Segmentation based on Gaussian Splatting"
+
+Add "Disentangled 4D Gaussian Splatting: Towards Faster and More Efficient Dynamic Scene Rendering"
+
+Add "EVPGS: Enhanced View Prior Guidance for Splatting-based Extrapolated View Synthesis"
+
 ### 2025/03/28
 
 Add "EVPGS: Enhanced View Prior Guidance for Splatting-based Extrapolated View Synthesis"
