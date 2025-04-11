@@ -1,5 +1,121 @@
 # Changelog
 
+### 2025/04/11
+
+Add "FMLGS: Fast Multilevel Language Embedded Gaussians for Part-level Interactive Agents"
+
+Add "Cut-and-Splat: Leveraging Gaussian Splatting for Synthetic Data Generation"
+
+Add "In-2-4D: Inbetweening from Two Single-View Images to 4D Generation"
+
+Add "ContrastiveGaussian: High-Fidelity 3D Generation with Contrastive Learning and Gaussian Splatting"
+
+Add "InteractAvatar: Modeling Hand-Face Interaction in Photorealistic Avatars with Deformable Gaussians"
+
+Add "View-Dependent Uncertainty Estimation of 3D Gaussian Splatting"
+
+Add "GIGA: Generalizable Sparse Image-driven Gaussian Avatars"
+
+Add "SIGMAN: Scaling 3D Human Gaussian Generation with Millions of Assets"
+
+Add "Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting"
+
+Add "IAAO: Interactive Affordance Learning for Articulated Objects in 3D Environments"
+
+Add "SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering"
+
+Add "GSta: Efficient Training Scheme with Siestaed Gaussians for Monocular 3D Scene Reconstruction"
+
+Add "Stochastic Ray Tracing of 3D Transparent Gaussians"
+
+Add "HiMoR: Monocular Deformable Gaussian Reconstruction with Hierarchical Motion Representation"
+
+Add "econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians"
+
+Add "Micro-splatting: Maximizing Isotropic Constraints for Refined Optimization in 3D Gaussian Splatting"
+
+Add "View-Dependent Deformation Fields for 2D Editing of 3D Models"
+
+Add "L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery"
+
+Add "Optimizing 4D Gaussians for Dynamic Scene Video from Single Landscape Images"
+
+### 2025/04/08
+
+Add "Let it Snow! Animating Static Gaussian Scenes With Dynamic Weather Effects"
+
+Add "PanoDreamer: Consistent Text to 360-Degree Scene Generation"
+
+Add "3D Gaussian Particle Approximation of VDB Datasets: A Study for Scientific Visualization"
+
+Add "Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM"
+
+Add "3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS"
+
+Add "Interpretable Single-View 3D Gaussian Splatting using Unsupervised Hierarchical Disentangled Representation Learning"
+
+Add "Video4DGen: Enhancing Video and 4D Generation through Mutual Optimization"
+
+Add "WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments"
+
+Add "HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration"
+
+Add "Compressing 3D Gaussian Splatting by Noise-Substituted Vector Quantization"
+
+Add "Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model"
+
+Add "MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM"
+
+Add "ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation"
+
+Add "Digital-twin imaging based on descattering Gaussian splatting"
+
+Add "UAVTwin: Neural Digital Twins for UAVs using Gaussian Splatting"
+
+Add "WorldPrompter: Traversable Text-to-Scene Generation"
+
+Add "Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis"
+
+Add "Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting"
+
+Add "BOGausS: Better Optimized Gaussian Splatting"
+
+Add "FIORD: A Fisheye Indoor-Outdoor Dataset with LIDAR Ground Truth for 3D Scene Reconstruction and Benchmarking"
+
+Add "FlowR: Flowing from Sparse to Dense 3D Reconstructions"
+
+Add "3DBonsai: Structure-Aware Bonsai Modeling Using Conditioned 3D Gaussian Splatting"
+
+Add "RealityAvatar: Towards Realistic Loose Clothing Modeling in Animatable 3D Gaussian Avata"
+
+Add "High-fidelity 3D Object Generation from Single Image with RGBN-Volume Gaussian Reconstruction Model"
+
+Add "Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment"
+
+Add "3D Gaussian Inverse Rendering with Approximated Global Illumination"
+
+Add "DropGaussian: Structural Regularization for Sparse-view Gaussian Splatting"
+
+Add "UnIRe: Unsupervised Instance Decomposition for Dynamic Urban Scene Reconstruction"
+
+Add "Monocular and Generalizable Gaussian Talking Head Animation"
+
+Add "Coca-Splat: Collaborative Optimization for Camera Parameters and 3D Gaussians"
+
+Add "Robust LiDAR-Camera Calibration with 2D Gaussian Splatting"
+
+Add "Distilling Multi-view Diffusion Models into 3D Generators"
+
+Add "ADGaussian: Generalizable Gaussian Splatting for Autonomous Driving with Multi-modal Inputs"
+
+Add "Scene4U: Hierarchical Layered 3D Scene Reconstruction from Single Panoramic Image for Your Immerse Exploration"
+
+Add "LITA-GS: Illumination-Agnostic Novel View Synthesis via Reference-Free 3D Gaussian Splatting and Physical Priors"
+
+Add "SonarSplat: Novel View Synthesis of Imaging Sonar via Gaussian Splatting"
+
+Add "Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views"
+
 ### 2025/04/07
 
 Add "StochasticSplats: Stochastic Rasterization for Sorting-Free 3D Gaussian Splatting"
