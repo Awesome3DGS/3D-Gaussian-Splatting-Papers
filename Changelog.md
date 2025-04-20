@@ -1,5 +1,67 @@
 # Changelog
 
+### 2025/04/20
+
+Add "Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation"
+
+Add "ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos"
+
+Add "Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs"
+
+Add "CompGS++: Compressed Gaussian Splatting for Static and Dynamic Scene Representation"
+
+Add "GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration"
+
+Add "Second-order Optimization of Gaussian Splats with Importance Sampling"
+
+Add "AAA-Gaussians: Anti-Aliased and Artifact-Free 3D Gaussian Rendering"
+
+Add "CAGE-GS: High-fidelity Cage Based 3D Gaussian Splatting Deformation"
+
+Add "TSGS: Improving Gaussian Splatting for Transparent Surface Reconstruction via Normal and De-lighting Priors"
+
+Add "ARAP-GS: Drag-driven As-Rigid-As-Possible 3D Gaussian Splatting Editing with Diffusion Prior"
+
+Add "SHeaP: Self-Supervised Head Geometry Predictor Learned via 2D Gaussians"
+
+Add "CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting"
+
+Add "3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians"
+
+Add "Easy3D: A Simple Yet Effective Method for 3D Interactive Segmentation"
+
+Add "3D Gabor Splatting: Reconstruction of High-frequency Surface Texture using Gabor Noise"
+
+Add "GaSLight: Gaussian Splats for Spatially-Varying Lighting in HDR"
+
+Add "DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting"
+
+Add "LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis"
+
+Add "ESCT3D: Efficient and Selectively Controllable Text-Driven 3D Content Generation with Gaussian Splatting"
+
+Add "EBAD-Gaussian: Event-driven Bundle Adjusted Deblur Gaussian Splatting"
+
+Add "GaussVideoDreamer: 3D Scene Generation with Video Diffusion and Inconsistency-Aware Gaussian Splatting"
+
+Add "MCBlock: Boosting Neural Radiance Field Training Speed by MCTS-based Dynamic-Resolution Ray Sampling"
+
+Add "LightHeadEd: Relightable & Editable Head Avatars from a Smartphone"
+
+Add "TextSplat: Text-Guided Semantic Fusion for Generalizable Gaussian Splatting"
+
+Add "EmbodiedOcc++: Boosting Embodied 3D Occupancy Prediction with Plane Regularization and Uncertainty Sampler"
+
+Add "DropoutGS: Dropping Out Gaussians for Better Sparse-view Rendering"
+
+Add "A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds"
+
+Add "BIGS: Bimanual Category-agnostic Interaction Reconstruction from Monocular Videos via 3D Gaussian Splatting"
+
+Add "You Need a Transition Plane: Bridging Continuous Panoramic 3D Reconstruction with Perspective Gaussian Splatting"
+
+Add "BlockGaussian: Efficient Large-Scale Scene Novel View Synthesis via Adaptive Block-Based Gaussian Splatting"
+
 ### 2025/04/11
 
 Add "FMLGS: Fast Multilevel Language Embedded Gaussians for Part-level Interactive Agents"
