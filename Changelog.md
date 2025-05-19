@@ -1,5 +1,65 @@
 # Changelog
 
+### 2025/05/19
+
+Add "GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field"
+
+Add "Rendering Anywhere You See: Renderability Field-guided Gaussian Splatting"
+
+Add "4DGS-CC: A Contextual Coding Framework for 4D Gaussian Splatting Data Compression"
+
+Add "TransparentGS: Fast Inverse Rendering of Transparent Objects with Gaussians"
+
+Add "RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects"
+
+Add "STP4D: Spatio-Temporal-Prompt Consistent Modeling for Text-to-4D Gaussian Splatting"
+
+Add "PerfCam: Digital Twinning for Production Lines Using 3D Gaussian Splatting and Vision Models"
+
+Add "iVR-GS: Inverse Volume Rendering for Explorable Visualization via Editable 3D Gaussian Splatting"
+
+Add "Visibility-Uncertainty-guided 3D Gaussian Inpainting via Scene Conceptional Learning"
+
+Add "SmallGS: Gaussian Splatting-based Camera Pose Estimation for Small-Baseline Videos"
+
+Add "CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos"
+
+Add "When Gaussian Meets Surfel: Ultra-fast High-fidelity Radiance Field Rendering"
+
+Add "Gaussian Splatting is an Effective Data Generator for 3D Object Detection"
+
+Add "PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation"
+
+Add "HUG: Hierarchical Urban Gaussian Splatting with Block-Based Reconstruction"
+
+Add "ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration"
+
+Add "StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians"
+
+Add "Immersive Teleoperation Framework for Locomanipulation Tasks"
+
+Add "MoBGS: Motion Deblurring Dynamic 3D Gaussian Splatting for Blurry Monocular Video"
+
+Add "IXGS-Intraoperative 3D Reconstruction from Sparse, Arbitrarily Posed Real X-rays"
+
+Add "NVSMask3D: Hard Visual Prompting with Camera Pose Interpolation for 3D Open Vocabulary Instance Segmentation"
+
+Add "VGNC: Reducing the Overfitting of Sparse-view 3DGS via Validation-guided Gaussian Number Control"
+
+Add "Metamon-GS: Enhancing Representability with Variance-Guided Densification and Light Encoding"
+
+Add "SEGA: Drivable 3D Gaussian Head Avatar from a Single Image"
+
+Add "Green Robotic Mixed Reality with Gaussian Splatting"
+
+Add "EG-Gaussian: Epipolar Geometry and Graph Network Enhanced 3D Gaussian Splatting"
+
+Add "Volume Encoding Gaussians: Transfer Function-Agnostic 3D Gaussians for Volume Rendering"
+
+Add "BEV-GS: Feed-forward Gaussian Splatting in Bird's-Eye-View for Road Reconstruction"
+
+Add "EDGS: Eliminating Densification for Efficient Convergence of 3DGS"
+
 ### 2025/04/20
 
 Add "Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation"
