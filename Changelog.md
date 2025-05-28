@@ -1,5 +1,71 @@
 # Changelog
 
+### 2025/05/28
+
+Add "3D Scene Generation: A Survey"
+
+Add "Virtualized 3D Gaussians: Flexible Cluster-based Level-of-Detail System for Real-Time Rendering of Composed Scenes"
+
+Add "TeGA: Texture Space Gaussian Avatars for High-Resolution Dynamic Head Modeling"
+
+Add "UltraGauss: Ultrafast Gaussian Reconstruction of 3D Ultrasound Volumes"
+
+Add "QuickSplat: Fast 3D Surface Reconstruction via Learned Gaussian Initialization"
+
+Add "Steepest Descent Density Control for Compact 3D Gaussian Splatting"
+
+Add "Apply Hierarchical-Chain-of-Generation to Complex Attributes Text-to-3D Generation"
+
+Add "SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation"
+
+Add "Time of the Flight of the Gaussians: Optimizing Depth Indirectly in Dynamic Radiance Fields"
+
+Add "MoRe-3DGSMR: Motion-resolved reconstruction framework for free-breathing pulmonary MRI based on 3D Gaussian representation"
+
+Add "SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction"
+
+Add "GSsplat: Generalizable Semantic Gaussian Splatting for Novel-view Synthesis in 3D Scenes"
+
+Add "Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting"
+
+Add "GUAVA: Generalizable Upper Body 3D Gaussian Avatar"
+
+Add "3D Gaussian Splatting Data Compression with Mixture of Priors"
+
+Add "Sparfels: Fast Reconstruction from Sparse Unposed Imagery"
+
+Add "SparSplat: Fast Multi-View Reconstruction with Generalizable 2D Gaussian Splatting"
+
+Add "GarmentGS: Point-Cloud Guided Gaussian Splatting for High-Fidelity Non-Watertight 3D Garment Reconstruction"
+
+Add "SignSplat: Rendering Sign Language via Gaussian Splatting"
+
+Add "HybridGS: High-Efficiency Gaussian Splatting Data Compression using Dual-Channel Sparse Representation and Point Cloud Encoder"
+
+Add "GenSync: A Generalized Talking Head Framework for Audio-driven Multi-Subject Lip-Sync using 3D Gaussian Splatting"
+
+Add "AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting"
+
+Add "FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors"
+
+Add "Compensating Spatiotemporally Inconsistent Observations for Online Dynamic 3D Gaussian Splatting"
+
+Add "Real-Time Animatable 2DGS-Avatars with Detail Enhancement from Monocular Videos"
+
+Add "HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation"
+
+Add "GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction"
+
+Add "GaussTrap: Stealthy Poisoning Attacks on 3D Gaussian Splatting for Targeted Scene Confusion"
+
+Add "EfficientHuman: Efficient Training and Reconstruction of Moving Human using Articulated 2D Gaussian"
+
+Add "Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting"
+
+Add "GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting"
+
+Add "Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views"
+
 ### 2025/05/19
 
 Add "GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field"
