@@ -3,7 +3,7 @@
 #### [1] MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar
 - **🧑‍🔬 作者**：Yufan Chen, Lizhen Wang, Qijing Li, Hongjiang Xiao, Shengping Zhang, Hongxun Yao, Yebin Liu
 - **🏫 单位**：Harbin Institute of Technology ⟐ Tsinghua University ⟐ Communication University of China
-- **🔗 链接**：[[中英摘要](./abs/2312.04558.md)] [[arXiv:2312.04558](https://arxiv.org/abs/2312.04558)] [[Code](https://github.com/yufan1012/MonoGaussianAvatar)]
+- **🔗 链接**：[[中英摘要](../abs/2312.04558.md)] [[arXiv:2312.04558](https://arxiv.org/abs/2312.04558)] [[Code](https://github.com/yufan1012/MonoGaussianAvatar)]
 - **📝 说明**：🏆 Accepted to SIGGRAPH 2024
 
 #### [2] VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality
@@ -81,13 +81,13 @@
 #### [14] GGHead: Fast and Generalizable 3D Gaussian Heads
 - **🧑‍🔬 作者**：Tobias Kirschstein, Simon Giebenhain, Jiapeng Tang, Markos Georgopoulos, Matthias Nießner
 - **🏫 单位**：Technical University of Munich
-- **🔗 链接**：[[中英摘要](./abs/2406.09377.md)] [[arXiv:2406.09377](https://arxiv.org/abs/2406.09377)] [[Code](https://github.com/tobias-kirschstein/gghead)]
+- **🔗 链接**：[[中英摘要](../abs/2406.09377.md)] [[arXiv:2406.09377](https://arxiv.org/abs/2406.09377)] [[Code](https://github.com/tobias-kirschstein/gghead)]
 - **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
 
 #### [15] Modeling Ambient Scene Dynamics for Free-view Synthesis
 - **🧑‍🔬 作者**：Meng-Li Shih, Jia-Bin Huang, Changil Kim, Rajvi Shah, Johannes Kopf, Chen Gao
 - **🏫 单位**：University of Washington ⟐ University of Maryland ⟐ Meta
-- **🔗 链接**：[[中英摘要](./abs/2406.09395.md)] [[arXiv:2406.09395](https://arxiv.org/abs/2406.09395)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2406.09395.md)] [[arXiv:2406.09395](https://arxiv.org/abs/2406.09395)] [Code]
 - **📝 说明**：🏆 Accepted to SIGGRAPH 2024
 
 #### [16] Projecting Radiance Fields to Mesh Surfaces

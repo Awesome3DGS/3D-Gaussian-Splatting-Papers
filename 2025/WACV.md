@@ -3,7 +3,7 @@
 #### [1] GauFRe: Gaussian Deformation Fields for Real-time Dynamic Novel View Synthesis
 - **🧑‍🔬 作者**：Yiqing Liang, Numair Khan, Zhengqin Li, Thu Nguyen-Phuoc, Douglas Lanman, James Tompkin, Lei Xiao
 - **🏫 单位**：Meta ⟐ Brown University
-- **🔗 链接**：[[中英摘要](./abs/2312.11458.md)] [[arXiv:2312.11458](https://arxiv.org/abs/2312.11458)] [[Supp](https://lynl7130.github.io/gaufre/static/pdfs/suppl.pdf)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2312.11458.md)] [[arXiv:2312.11458](https://arxiv.org/abs/2312.11458)] [[Supp](https://lynl7130.github.io/gaufre/static/pdfs/suppl.pdf)] [Code]
 - **📝 说明**：🏆 Accepted to WACV 2025
 
 #### [2] DN-Splatter: Depth and Normal Priors for Gaussian Splatting and Meshing
@@ -33,13 +33,13 @@
 #### [6] EdgeGaussians -- 3D Edge Mapping via Gaussian Splatting
 - **🧑‍🔬 作者**：Kunal Chelani, Assia Benbihi, Torsten Sattler, Fredrik Kahl
 - **🏫 单位**：Chalmers University of Technology ⟐  Czech Institute of Informatics, Robotics and Cybernetics, Czech Technical University in Prague
-- **🔗 链接**：[[中英摘要](./abs/2409.12886.md)] [[arXiv:2409.12886](https://arxiv.org/abs/2409.12886)] [[Code](https://github.com/kunalchelani/EdgeGaussians)]
+- **🔗 链接**：[[中英摘要](../abs/2409.12886.md)] [[arXiv:2409.12886](https://arxiv.org/abs/2409.12886)] [[Code](https://github.com/kunalchelani/EdgeGaussians)]
 - **📝 说明**：🏆 Accepted to WACV 2025
 
 #### [7] GStex: Per-Primitive Texturing of 2D Gaussian Splatting for Decoupled Appearance and Geometry Modeling
 - **🧑‍🔬 作者**：Victor Rong, Jingxiang Chen, Sherwin Bahmani, Kiriakos N. Kutulakos, David B. Lindell
 - **🏫 单位**：University of Toronto
-- **🔗 链接**：[[中英摘要](./abs/2409.12954.md)] [[arXiv:2409.12954](https://arxiv.org/abs/2409.12954)] [[Code](https://lessvrong.com/cs/gstex/)]
+- **🔗 链接**：[[中英摘要](../abs/2409.12954.md)] [[arXiv:2409.12954](https://arxiv.org/abs/2409.12954)] [[Code](https://lessvrong.com/cs/gstex/)]
 - **📝 说明**：🏆 Accepted to WACV 2025
 
 #### [8] Gaussian Deja-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities
@@ -51,7 +51,7 @@
 #### [9] UW-GS: Distractor-Aware 3D Gaussian Splatting for Enhanced Underwater Scene Reconstruction
 - **🧑‍🔬 作者**：Haoran Wang, Nantheera Anantrasirichai, Fan Zhang, David Bull
 - **🏫 单位**：School of Computer Science, University of Bristol, Bristol, UK
-- **🔗 链接**：[[中英摘要](./abs/2410.01517.md)] [[arXiv:2410.01517](https://arxiv.org/abs/2410.01517)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2410.01517.md)] [[arXiv:2410.01517](https://arxiv.org/abs/2410.01517)] [Code]
 - **📝 说明**：🏆 Accepted to WACV 2025
 
 #### [10] ELMGS: Enhancing memory and computation scaLability through coMpression for 3D Gaussian Splatting
@@ -63,7 +63,7 @@
 #### [11] Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction
 - **🧑‍🔬 作者**：Decai Chen, Brianne Oberson, Ingo Feldmann, Oliver Schreer, Anna Hilsmann, Peter Eisert
 - **🏫 单位**：Fraunhofer HHI ⟐ Humboldt University of Berlin ⟐ Technical University of Berlin
-- **🔗 链接**：[[中英摘要](./abs/2411.06602.md)] [[arXiv:2411.06602](https://arxiv.org/abs/2411.06602)] [[Code](https://github.com/fraunhoferhhi/AT-GS)]
+- **🔗 链接**：[[中英摘要](../abs/2411.06602.md)] [[arXiv:2411.06602](https://arxiv.org/abs/2411.06602)] [[Code](https://github.com/fraunhoferhhi/AT-GS)]
 - **📝 说明**：🏆 Accepted to WACV 2025
 
 #### [12] Planar Gaussian Splatting
@@ -75,11 +75,17 @@
 #### [13] BeSplat -- Gaussian Splatting from a Single Blurry Image and Event Stream
 - **🧑‍🔬 作者**：Gopi Raju Matta, Reddypalli Trisha, Kaushik Mitra
 - **🏫 单位**：IIT Madras ⟐ IIIT RGUKT RKValley
-- **🔗 链接**：[[中英摘要](./abs/2412.19370.md)] [[arXiv:2412.19370](https://arxiv.org/abs/2412.19370)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2412.19370.md)] [[arXiv:2412.19370](https://arxiv.org/abs/2412.19370)] [Code]
 - **📝 说明**：🏆 Accepted to WACV 2025 EVGEN Workshop
 
 #### [14] Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation
 - **🧑‍🔬 作者**：Rohan Chacko, Nicolai Haeni, Eldar Khaliullin, Lin Sun, Douglas Lee
 - **🏫 单位**：Magic Leap Inc.
-- **🔗 链接**：[[中英摘要](./abs/2502.00173.md)] [[arXiv:2502.00173](https://arxiv.org/abs/2502.00173)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2502.00173.md)] [[arXiv:2502.00173](https://arxiv.org/abs/2502.00173)] [Code]
 - **📝 说明**：🏆 Accepted to WACV 2025
+
+#### [15] Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis
+- **🧑‍🔬 作者**：Niluthpol Chowdhury Mithun, Tuan Pham, Qiao Wang, Ben Southall, Kshitij Minhas, Bogdan Matei, Stephan Mandt, Supun Samarasekera, Rakesh Kumar
+- **🏫 单位**：SRI International, Princeton, NJ, USA ⟐ University of California, Irvine, CA, USA
+- **🔗 链接**：[[中英摘要](../abs/2504.01960.md)] [[arXiv:2504.01960](https://arxiv.org/abs/2504.01960)] [Code]
+- **📝 说明**：🏆 Accepted to WACV 2025 ULTRRA Workshop

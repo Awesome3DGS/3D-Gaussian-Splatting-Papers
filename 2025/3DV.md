@@ -3,13 +3,13 @@
 #### [1] Drivable 3D Gaussian Avatars
 - **🧑‍🔬 作者**：Wojciech Zielonka, Timur Bagautdinov, Shunsuke Saito, Michael Zollhöfer, Justus Thies, Javier Romero
 - **🏫 单位**：Meta Reality Labs Research ⟐ Technical University of Darmstadt ⟐ Max Planck Institute for Intelligent Systems
-- **🔗 链接**：[[中英摘要](./abs/2311.08581.md)] [[arXiv:2311.08581](https://arxiv.org/abs/2311.08581)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2311.08581.md)] [[arXiv:2311.08581](https://arxiv.org/abs/2311.08581)] [Code]
 - **📝 说明**：🏆 Accepted to 3DV 2025
 
 #### [2] SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting
 - **🧑‍🔬 作者**：Haolin Xiong, Sairisheek Muttukuru, Rishi Upadhyay, Pradyumna Chari, Achuta Kadambi
 - **🏫 单位**：University of California, Los Angeles
-- **🔗 链接**：[[中英摘要](./abs/2312.00206.md)] [[arXiv:2312.00206](https://arxiv.org/abs/2312.00206)] [[Code](https://github.com/ForMyCat/SparseGS)]
+- **🔗 链接**：[[中英摘要](../abs/2312.00206.md)] [[arXiv:2312.00206](https://arxiv.org/abs/2312.00206)] [[Code](https://github.com/ForMyCat/SparseGS)]
 - **📝 说明**：🏆 Accepted to 3DV 2025
 
 #### [3] Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting
@@ -27,19 +27,19 @@
 #### [5] RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS
 - **🧑‍🔬 作者**：Michael Niemeyer, Fabian Manhardt, Marie-Julie Rakotosaona, Michael Oechsle, Daniel Duckworth, Rama Gosula, Keisuke Tateno, John Bates, Dominik Kaeser, Federico Tombari
 - **🏫 单位**：Google
-- **🔗 链接**：[[中英摘要](./abs/2403.13806.md)] [[arXiv:2403.13806](https://arxiv.org/abs/2403.13806)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2403.13806.md)] [[arXiv:2403.13806](https://arxiv.org/abs/2403.13806)] [Code]
 - **📝 说明**：🏆 Accepted to 3DV 2025
 
 #### [6] RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion
 - **🧑‍🔬 作者**：Jaidev Shriram, Alex Trevithick, Lingjie Liu, Ravi Ramamoorthi
 - **🏫 单位**：University of California, San Diego ⟐  AMAP ⟐ University of Pennsylvania
-- **🔗 链接**：[[中英摘要](./abs/2404.07199.md)] [[arXiv:2404.07199](https://arxiv.org/abs/2404.07199)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2404.07199.md)] [[arXiv:2404.07199](https://arxiv.org/abs/2404.07199)] [Code]
 - **📝 说明**：🏆 Accepted to 3DV 2025
 
 #### [7] GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details
 - **🧑‍🔬 作者**：Boqian Li, Xuan Li, Ying Jiang, Tianyi Xie, Feng Gao, Huamin Wang, Yin Yang, Chenfanfu Jiang
 - **🏫 单位**：UCLA ⟐ Utah ⟐ HKU ⟐ Amazon ⟐ Style3D Research
-- **🔗 链接**：[[中英摘要](./abs/2405.12420.md)] [[arXiv:2405.12420](https://arxiv.org/abs/2405.12420)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2405.12420.md)] [[arXiv:2405.12420](https://arxiv.org/abs/2405.12420)] [Code]
 - **📝 说明**：🏆 Accepted to 3DV 2025
 
 #### [8] HeadGAP: Few-shot 3D Head Avatar via Generalizable Gaussian Priors
@@ -51,7 +51,7 @@
 #### [9] WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting
 - **🧑‍🔬 作者**：Huapeng Li, Wenxuan Song, Tianao Xu, Alexandre Elsig, Jonas Kulhanek
 - **🏫 单位**：University of Zurich ⟐ ETH Zurich ⟐ CTU in Prague
-- **🔗 链接**：[[中英摘要](./abs/2408.08206.md)] [[arXiv:2408.08206](https://arxiv.org/abs/2408.08206)] [[Code](https://github.com/water-splatting/water-splatting)]
+- **🔗 链接**：[[中英摘要](../abs/2408.08206.md)] [[arXiv:2408.08206](https://arxiv.org/abs/2408.08206)] [[Code](https://github.com/water-splatting/water-splatting)]
 - **📝 说明**：🏆 Accepted to 3DV 2025
 
 #### [10] LoopSplat: Loop Closure by Registering 3D Gaussian Splats
@@ -63,19 +63,19 @@
 #### [11] DEGAS: Detailed Expressions on Full-Body Gaussian Avatars
 - **🧑‍🔬 作者**：Zhijing Shao, Duotun Wang, Qing-Yao Tian, Yao-Dong Yang, Hengyu Meng, Zeyu Cai, Bo Dong, Yu Zhang, Kang Zhang, Zeyu Wang
 - **🏫 单位**：The Hong Kong University of Science and Technology (Guangzhou) ⟐ Prometheus Vision Technology Co., Ltd. ⟐ The Hong Kong University of Science and Technology ⟐ Swinburne University of Technology
-- **🔗 链接**：[[中英摘要](./abs/2408.10588.md)] [[arXiv:2408.10588](https://arxiv.org/abs/2408.10588)] [[Code](https://github.com/initialneil/DEGAS)]
+- **🔗 链接**：[[中英摘要](../abs/2408.10588.md)] [[arXiv:2408.10588](https://arxiv.org/abs/2408.10588)] [[Code](https://github.com/initialneil/DEGAS)]
 - **📝 说明**：🏆 Accepted to 3DV 2025
 
 #### [12] LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming
 - **🧑‍🔬 作者**：Yuang Shi, Simone Gasparini, Géraldine Morin, Wei Tsang Ooi
 - **🏫 单位**：National University of Singapore ⟐ IRIT - University of Toulouse
-- **🔗 链接**：[[中英摘要](./abs/2408.14823.md)] [[arXiv:2408.14823](https://arxiv.org/abs/2408.14823)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2408.14823.md)] [[arXiv:2408.14823](https://arxiv.org/abs/2408.14823)] [Code]
 - **📝 说明**：🏆 Accepted to 3DV 2025
 
 #### [13] DynOMo: Online Point Tracking by Dynamic Online Monocular Gaussian Reconstruction
 - **🧑‍🔬 作者**：Jenny Seidenschwarz, Qunjie Zhou, Bardienus Duisterhof, Deva Ramanan, Laura Leal-Taixé
 - **🏫 单位**：Technical University of Munich ⟐ Carnegie Mellon University ⟐ NVIDIA
-- **🔗 链接**：[[中英摘要](./abs/2409.02104.md)] [[arXiv:2409.02104](https://arxiv.org/abs/2409.02104)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2409.02104.md)] [[arXiv:2409.02104](https://arxiv.org/abs/2409.02104)] [Code]
 - **📝 说明**：🏆 Accepted to 3DV 2025
 
 #### [14] Direct and Explicit 3D Generation from a Single Image
@@ -99,17 +99,17 @@
 #### [17] GaussianAvatar-Editor: Photorealistic Animatable Gaussian Head Avatar Editor
 - **🧑‍🔬 作者**：Xiangyue Liu, Kunming Luo, Heng Li, Qi Zhang, Yuan Liu, Li Yi, Ping Tan
 - **🏫 单位**： Hong Kong University of Science and Technology ⟐ Tencent AI Lab ⟐ Tsinghua University
-- **🔗 链接**：[[中英摘要](./abs/2501.09978.md)] [[arXiv:2501.09978](https://arxiv.org/abs/2501.09978)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2501.09978.md)] [[arXiv:2501.09978](https://arxiv.org/abs/2501.09978)] [Code]
 - **📝 说明**：🏆 Accepted to 3DV 2025
 
 #### [18] E-3DGS: Event-Based Novel View Rendering of Large-Scale Scenes Using 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Sohaib Zahid, Viktor Rudnev, Eddy Ilg, Vladislav Golyanik
 - **🏫 单位**：Saarland University ⟐ MPI for Informatics, SIC
-- **🔗 链接**：[[中英摘要](./abs/2502.10827.md)] [[arXiv:2502.10827](https://arxiv.org/abs/2502.10827)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2502.10827.md)] [[arXiv:2502.10827](https://arxiv.org/abs/2502.10827)] [Code]
 - **📝 说明**：🏆 Accepted to 3DV 2025
 
 #### [19] Open-Vocabulary Semantic Part Segmentation of 3D Human
 - **🧑‍🔬 作者**：Keito Suzuki, Bang Du, Girish Krishnan, Kunyao Chen, Runfa Blark Li, Truong Nguyen
 - **🏫 单位**: University of California, San Diego ⟐ Qualcomm
-- **🔗 链接**：[[中英摘要](./abs/2502.19782.md)] [[arXiv:2502.19782](https://arxiv.org/abs/2502.19782)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2502.19782.md)] [[arXiv:2502.19782](https://arxiv.org/abs/2502.19782)] [Code]
 - **📝 说明**：🏆 Accepted to 3DV 2025

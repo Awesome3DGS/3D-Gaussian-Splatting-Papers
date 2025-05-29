@@ -21,7 +21,7 @@
 #### [4] 3DGS-Calib: 3D Gaussian Splatting for Multimodal SpatioTemporal Calibration
 - **🧑‍🔬 作者**：Quentin Herau, Moussab Bennehar, Arthur Moreau, Nathan Piasco, Luis Roldao, Dzmitry Tsishkou, Cyrille Migniot, Pascal Vasseur, Cédric Demonceaux
 - **🏫 单位**：Noah’s Ark ⟐ Universite de Bourgogne ⟐ Universite de Picardie Jules Verne
-- **🔗 链接**：[[中英摘要](./abs/2403.11577.md)] [[arXiv:2403.11577](https://arxiv.org/abs/2403.11577)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2403.11577.md)] [[arXiv:2403.11577](https://arxiv.org/abs/2403.11577)] [Code]
 - **📝 说明**：🏆 Accepted to IROS 2024
 
 #### [5] High-Fidelity SLAM Using Gaussian Splatting with Rendering-Guided Densification and Regularized Optimization

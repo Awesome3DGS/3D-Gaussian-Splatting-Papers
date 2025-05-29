@@ -207,7 +207,7 @@
 #### [35] Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections
 - **🧑‍🔬 作者**：Dongbin Zhang, Chuming Wang, Weitao Wang, Peihao Li, Minghan Qin, Haoqian Wang
 - **🏫 单位**：Tsinghua University
-- **🔗 链接**：[[中英摘要](./abs/2403.15704.md)] [[arXiv:2403.15704](https://arxiv.org/abs/2403.15704)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2403.15704.md)] [[arXiv:2403.15704](https://arxiv.org/abs/2403.15704)] [Code]
 - **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [36] CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field

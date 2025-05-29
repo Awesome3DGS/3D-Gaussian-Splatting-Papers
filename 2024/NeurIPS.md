@@ -141,13 +141,13 @@
 #### [24] Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis
 - **🧑‍🔬 作者**：Xin Jin, Pengyi Jiao, Zheng-Peng Duan, Xingchao Yang, Chun-Le Guo, Bo Ren, Chongyi Li
 - **🏫 单位**：Nankai University ⟐ MEGVII Technology
-- **🔗 链接**：[[中英摘要](./abs/2406.06216.md)] [[arXiv:2406.06216](https://arxiv.org/abs/2406.06216)] [[Code](https://github.com/Srameo/LE3D)]
+- **🔗 链接**：[[中英摘要](../abs/2406.06216.md)] [[arXiv:2406.06216](https://arxiv.org/abs/2406.06216)] [[Code](https://github.com/Srameo/LE3D)]
 - **📝 说明**：🏆 Accepted to NeurIPS 2024
 
 #### [25] MVGamba: Unify 3D Content Generation as State Space Sequence Modeling
 - **🧑‍🔬 作者**：Xuanyu Yi, Zike Wu, Qiuhong Shen, Qingshan Xu, Pan Zhou, Joo-Hwee Lim, Shuicheng Yan, Xinchao Wang, Hanwang Zhang
 - **🏫 单位**：Nanyang Technological University ⟐ National University of Singapore ⟐ University of British Columbia ⟐ Singapore Management University ⟐ Institute for Infocomm Research ⟐ Skywork AI
-- **🔗 链接**：[[中英摘要](./abs/2406.06367.md)] [[arXiv:2406.06367](https://arxiv.org/abs/2406.06367)] [[Code](https://github.com/SkyworkAI/MVGamba)]
+- **🔗 链接**：[[中英摘要](../abs/2406.06367.md)] [[arXiv:2406.06367](https://arxiv.org/abs/2406.06367)] [[Code](https://github.com/SkyworkAI/MVGamba)]
 - **📝 说明**：🏆 Accepted to NeurIPS 2024
 
 #### [26] From Chaos to Clarity: 3DGS in the Dark
@@ -189,7 +189,7 @@
 #### [32] Gaussian-Informed Continuum for Physical Property Identification and Simulation
 - **🧑‍🔬 作者**：Junhao Cai, Yuji Yang, Weihao Yuan, Yisheng He, Zilong Dong, Liefeng Bo, Hui Cheng, Qifeng Chen
 - **🏫 单位**：The Hong Kong University of Science and Technology ⟐ Sun Yat-sen University ⟐ Alibaba Group
-- **🔗 链接**：[[中英摘要](./abs/2406.14927.md)] [[arXiv:2406.14927](https://arxiv.org/abs/2406.14927)] [[Code](https://github.com/Jukgei/gic)]
+- **🔗 链接**：[[中英摘要](../abs/2406.14927.md)] [[arXiv:2406.14927](https://arxiv.org/abs/2406.14927)] [[Code](https://github.com/Jukgei/gic)]
 - **📝 说明**：🏆 Accepted to NeurIPS 2024
 
 #### [33] GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation
@@ -411,11 +411,11 @@
 #### [69] Template-free Articulated Gaussian Splatting for Real-time Reposable Dynamic View Synthesis
 - **🧑‍🔬 作者**：Diwen Wan, Yuxiang Wang, Ruijie Lu, Gang Zeng
 - **🏫 单位**：National Key Laboratory of General Artificial Intelligence, School of IST, Peking University, China
-- **🔗 链接**：[[中英摘要](./abs/2412.05570.md)] [[arXiv:2412.05570](https://arxiv.org/abs/2412.05570)] [[Code](https://github.com/dnvtmf/SK_GS)]
+- **🔗 链接**：[[中英摘要](../abs/2412.05570.md)] [[arXiv:2412.05570](https://arxiv.org/abs/2412.05570)] [[Code](https://github.com/dnvtmf/SK_GS)]
 - **📝 说明**：🏆 Accepted to NeurIPS 2024
 
 #### [70] Gaussian Graph Network: Learning Efficient and Generalizable Gaussian Representations from Multi-view Images
 - **🧑‍🔬 作者**：Shengjun Zhang, Xin Fei, Fangfu Liu, Haixu Song, Yueqi Duan
 - **🏫 单位**: Tsinghua University
-- **🔗 链接**：[[中英摘要](./abs/2503.16338.md)] [[arXiv:2503.16338](https://arxiv.org/abs/2503.16338)] [[Code](https://github.com/shengjun-zhang/GGN)]
+- **🔗 链接**：[[中英摘要](../abs/2503.16338.md)] [[arXiv:2503.16338](https://arxiv.org/abs/2503.16338)] [[Code](https://github.com/shengjun-zhang/GGN)]
 - **📝 说明**：🏆 Accepted to NeurIPS 2024

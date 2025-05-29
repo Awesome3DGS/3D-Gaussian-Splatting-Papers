@@ -21,7 +21,7 @@
 #### [4] FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding
 - **🧑‍🔬 作者**：Xingxing Zuo, Pouya Samangouei, Yunwen Zhou, Yan Di, Mingyang Li
 - **🏫 单位**：Google
-- **🔗 链接**：[[中英摘要](./abs/2401.01970.md)] [[arXiv:2401.01970](https://arxiv.org/abs/2401.01970)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2401.01970.md)] [[arXiv:2401.01970](https://arxiv.org/abs/2401.01970)] [Code]
 - **📝 说明**：🏆 Accepted to IJCV 2024
 
 #### [5] TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering
@@ -81,7 +81,7 @@
 #### [14] PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction
 - **🧑‍🔬 作者**：Danpeng Chen, Hai Li, Weicai Ye, Yifan Wang, Weijian Xie, Shangjin Zhai, Nan Wang, Haomin Liu, Hujun Bao, Guofeng Zhang
 - **🏫 单位**：Zhejiang University ⟐ SenseTime Research ⟐ Shanghai AI Laboratory
-- **🔗 链接**：[[中英摘要](./abs/2406.06521.md)] [[arXiv:2406.06521](https://arxiv.org/abs/2406.06521)] [[Code](https://github.com/zju3dv/PGSR)]
+- **🔗 链接**：[[中英摘要](../abs/2406.06521.md)] [[arXiv:2406.06521](https://arxiv.org/abs/2406.06521)] [[Code](https://github.com/zju3dv/PGSR)]
 - **📝 说明**：🏆 Accepted to TVCG 2024
 
 #### [15] Reducing the Memory Footprint of 3D Gaussian Splatting

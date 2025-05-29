@@ -27,6 +27,6 @@
 #### [5] Cloth-Splatting: 3D Cloth State Estimation from RGB Supervision
 - **🧑‍🔬 作者**：Alberta Longhini, Marcel Büsching, Bardienus P. Duisterhof, Jens Lundell, Jeffrey Ichnowski, Mårten Björkman, Danica Kragic
 - **🏫 单位**: KTH Royal Institute of Technology ⟐ Carnegie Mellon University
-- **🔗 链接**：[[中英摘要](./abs/2501.01715.md)] [[arXiv:2501.01715](https://arxiv.org/abs/2501.01715)] [[Code](https://github.com/KTH-RPL/cloth-splatting)]
+- **🔗 链接**：[[中英摘要](../abs/2501.01715.md)] [[arXiv:2501.01715](https://arxiv.org/abs/2501.01715)] [[Code](https://github.com/KTH-RPL/cloth-splatting)]
 - **📝 说明**：🏆 Accepted to CoRL 2024
 
