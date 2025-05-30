@@ -39,7 +39,7 @@
 
 - [[Survey Papers](./Survey.md)] (11 篇)
 
-- [[Before 2024/06/01](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/tree/archive/202406)] (159 篇)
+- [[Before 2024/06/01](./archive/202406.md)] (152 篇)
 
     ---
 
