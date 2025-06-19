@@ -1,5 +1,77 @@
 # Changelog
 
+### 2025/06/19
+
+Add "Motion Matters: Compact Gaussian Streaming for Free-Viewpoint Video Reconstruction"
+
+Add "RUSplatting: Robust 3D Gaussian Splatting for Sparse-View Underwater Scene Reconstruction"
+
+Add "PlantDreamer: Achieving Realistic 3D Plant Models with Diffusion-Guided Gaussian Splatting"
+
+Add "EVA: Expressive Virtual Avatars from Multi-view Videos"
+
+Add "GS2E: Gaussian Splatting is an Effective Data Generator for Event Stream Generation"
+
+Add "X-GRM: Large Gaussian Reconstruction Model for Sparse-view X-rays to Computed Tomography"
+
+Add "GT^2-GS: Geometry-aware Texture Transfer for Gaussian Splatting"
+
+Add "MonoSplat: Generalizable 3D Gaussian Splatting from Monocular Depth Foundation Models"
+
+Add "Scan, Materialize, Simulate: A Generalizable Framework for Physically Grounded Robot Planning"
+
+Add "Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image"
+
+Add "MGStream: Motion-aware 3D Gaussian for Streamable Dynamic Scene Reconstruction"
+
+Add "Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos"
+
+Add "Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation"
+
+Add "3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy"
+
+Add "TACOcc:Target-Adaptive Cross-Modal Fusion with Volume Rendering for 3D Semantic Occupancy"
+
+Add "SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations"
+
+Add "iSegMan: Interactive Segment-and-Manipulate 3D Gaussians"
+
+Add "GTR: Gaussian Splatting Tracking and Reconstruction of Unknown Objects Based on Appearance and Geometric Complexity"
+
+Add "MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos"
+
+Add "GrowSplat: Constructing Temporal Digital Twins of Plants with Gaussian Splats"
+
+Add "EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes"
+
+Add "GaussianFormer3D: Multi-Modal Gaussian-based Semantic Occupancy Prediction with 3D Deformable Attention"
+
+Add "ExploreGS: a vision-based low overhead framework for 3D scene reconstruction"
+
+Add "Consistent Quantity-Quality Control across Scenes for Deployment-Aware Gaussian Splatting"
+
+Add "VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality"
+
+Add "ToonifyGB: StyleGAN-based Gaussian Blendshapes for 3D Stylized Head Avatars"
+
+Add "Large-Scale Gaussian Splatting SLAM"
+
+Add "Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware"
+
+Add "Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians"
+
+Add "Neural Video Compression using 2D Gaussian Splatting"
+
+Add "TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian"
+
+Add "DLO-Splatting: Tracking Deformable Linear Objects Using 3D Gaussian Splatting"
+
+Add "FOCI: Trajectory Optimization on Gaussian Splats"
+
+Add "SLAG: Scalable Language-Augmented Gaussian Splatting"
+
+Add "Monocular Online Reconstruction with Enhanced Detail Preservation"
+
 ### 2025/05/28
 
 Add "3D Scene Generation: A Survey"
