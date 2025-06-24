@@ -1,5 +1,55 @@
 # Changelog
 
+### 2025/06/24
+
+Add "3D-UIR: 3D Gaussian for Underwater 3D Scene Reconstruction via Physics Based Appearance-Medium Decoupling"
+
+Add "CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians"
+
+Add "ProBA: Probabilistic Bundle Adjustment with the Bhattacharyya Coefficient"
+
+Add "Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting"
+
+Add "Wideband RF Radiance Field Modeling Using Frequency-embedded 3D Gaussian Splatting"
+
+Add "OmniIndoor3D: Comprehensive Indoor 3D Reconstruction"
+
+Add "WeatherEdit: Controllable Weather Editing with 4D Gaussian Field"
+
+Add "CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting"
+
+Add "ParticleGS: Particle-Based Dynamics Modeling of 3D Gaussians for Prior-free Motion Extrapolation"
+
+Add "HaloGS: Loose Coupling of Compact Geometry and Gaussian Splats for 3D Scenes"
+
+Add "ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization"
+
+Add "Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud"
+
+Add "ADD-SLAM: Adaptive Dynamic Dense SLAM with Gaussian Splatting"
+
+Add "Improving Novel view synthesis of 360∘ Scenes in Extremely Sparse Views by Jointly Training Hemisphere Sampled Synthetic Images"
+
+Add "Triangle Splatting for Real-Time Radiance Field Rendering"
+
+Add "FHGS: Feature-Homogenized Gaussian Splatting"
+
+Add "Veta-GS: View-dependent deformable 3D Gaussian Splatting for thermal infrared Novel-view Synthesis"
+
+Add "VPGS-SLAM: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes"
+
+Add "Efficient Differentiable Hardware Rasterization for 3D Gaussian Splatting"
+
+Add "SuperGS: Consistent and Detailed 3D Super-Resolution Scene Reconstruction via Gaussian Splatting"
+
+Add "Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance"
+
+Add "CGS-GAN: 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis"
+
+Add "From Flight to Insight: Semantic 3D Reconstruction for Aerial Inspection via Gaussian Splatting and Language-Guided Segmentation"
+
+Add "Render-FM: A Foundation Model for Real-time Photorealistic Volumetric Rendering"
+
 ### 2025/06/19
 
 Add "Motion Matters: Compact Gaussian Streaming for Free-Viewpoint Video Reconstruction"
