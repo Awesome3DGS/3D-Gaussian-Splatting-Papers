@@ -1,5 +1,83 @@
 # Changelog
 
+### 2025/06/27
+
+Add "Robust Neural Rendering in the Wild with Asymmetric Dual 3D Gaussian Splatting"
+
+Add "Multi-Spectral Gaussian Splatting with Neural Color Representation"
+
+Add "LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM"
+
+Add "Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone"
+
+Add "RobustSplat: Decoupling Densification and Dynamics for Transient-Free 3DGS"
+
+Add "VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians"
+
+Add "EyeNavGS: A 6-DoF Navigation Dataset and Record-n-Replay Software for Real-World 3DGS Scenes in VR"
+
+Add "GSCodec Studio: A Modular Framework for Gaussian Splat Compression"
+
+Add "WorldExplorer: Towards Generating Fully Navigable 3D Scenes"
+
+Add "RadarSplat: Radar Gaussian Splatting for High-Fidelity Data Synthesis and 3D Reconstruction of Autonomous Driving Scenes"
+
+Add "CountingFruit: Real-Time 3D Fruit Counting with Language-Guided Semantic Gaussian Splatting"
+
+Add "PromptVFX: Text-Driven Fields for Open-World 3D Gaussian Animation"
+
+Add "Globally Consistent RGB-D SLAM with 2D Gaussian Splatting"
+
+Add "3D Gaussian Splat Vulnerabilities"
+
+Add "Adaptive Voxelization for Transform coding of 3D Gaussian splatting data"
+
+Add "Understanding while Exploring: Semantics-driven Active Mapping"
+
+Add "AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion"
+
+Add "TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores"
+
+Add "Tackling View-Dependent Semantics in 3D Language Gaussian Splatting"
+
+Add "GARLIC: GAussian Representation LearnIng for spaCe partitioning"
+
+Add "3DGEER: Exact and Efficient Volumetric Rendering with 3D Gaussians"
+
+Add "ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS"
+
+Add "AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views"
+
+Add "Holistic Large-Scale Scene Reconstruction via Mixed Gaussian Splatting"
+
+### 2025/06/25
+
+Add "LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering"
+
+Add "SpatialSplat: Efficient Semantic 3D from Sparse Unposed Images"
+
+Add "Pose-free 3D Gaussian splatting via shape-ray estimation"
+
+Add "3DGS Compression with Sparsity-guided Hierarchical Transform Coding"
+
+Add "4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians"
+
+Add "CLIPGaussian: Universal and Multimodal Style Transfer Based on Gaussian Splatting"
+
+Add "STDR: Spatio-Temporal Decoupling for Real-Time Dynamic Scene Rendering"
+
+Add "UP-SLAM: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments"
+
+Add "Learning Fine-Grained Geometry for Sparse-View Splatting via Cascade Depth Loss"
+
+Add "Hyperspectral Gaussian Splatting"
+
+Add "Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis"
+
+Add "MV-CoLight: Efficient Object Compositing with Consistent Lighting and Shadow Generation"
+
+Add "Plenodium: UnderWater 3D Scene Reconstruction with Plenoptic Medium Representation"
+
 ### 2025/06/24
 
 Add "3D-UIR: 3D Gaussian for Underwater 3D Scene Reconstruction via Physics Based Appearance-Medium Decoupling"
