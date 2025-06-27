@@ -2,6 +2,42 @@
 
 ### 2025/06/27
 
+Add "On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images"
+
+Add "ODE-GS: Latent ODEs for Dynamic Scene Extrapolation with 3D Gaussian Splatting"
+
+Add "S2GO: Streaming Sparse Gaussian Occupancy Prediction"
+
+Add "Gen4D: Synthesizing Humans and Scenes in the Wild"
+
+Add "FreeTimeGS: Free Gaussian Primitives at Anytime and Anywhere for Dynamic Scene Reconstruction"
+
+Add "Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting"
+
+Add "DSG-World: Learning a 3D Gaussian World Model from Dual State Videos"
+
+Add "OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View"
+
+Add "Synthetic Dataset Generation for Autonomous Mobile Robots Using 3D Gaussian Splatting for Vision Training"
+
+Add "UAV4D: Dynamic Neural Rendering of Human-Centric UAV Imagery using Gaussian Splatting"
+
+Add "Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting"
+
+Add "Generating Synthetic Stereo Datasets using 3D Gaussian Splatting and Expert Knowledge Transfer"
+
+Add "Object-X: Learning to Reconstruct Multi-Modal 3D Object Representations"
+
+Add "HuGeDiff: 3D Human Generation via Diffusion with Gaussian Splatting"
+
+Add "FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting"
+
+Add "Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data"
+
+Add "JointSplat: Probabilistic Joint Flow-Depth Optimization for Sparse-View Gaussian Splatting"
+
+Add "SplArt: Articulation Estimation and Part-Level Reconstruction with 3D Gaussian Splatting"
+
 Add "Robust Neural Rendering in the Wild with Asymmetric Dual 3D Gaussian Splatting"
 
 Add "Multi-Spectral Gaussian Splatting with Neural Color Representation"
