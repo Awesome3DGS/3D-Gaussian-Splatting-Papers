@@ -1,5 +1,45 @@
 # Changelog
 
+### 2025/07/31
+
+Add "FreeGave: 3D Physics Learning from Dynamic Videos by Gaussian Velocity"
+
+Add "R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation"
+
+Add "OpenSplat3D: Open-Vocabulary 3D Instance Segmentation using Gaussian Splatting"
+
+Add "ProSplat: Improved Feed-Forward 3D Gaussian Splatting for Wide-Baseline Sparse Views"
+
+Add "PIG: Physically-based Multi-Material Interaction with 3D Gaussians"
+
+Add "Hierarchical Scoring with 3D Gaussian Splatting for Instance Image-Goal Navigation"
+
+Add "Accelerating 3D Gaussian Splatting with Neural Sorting and Axis-Oriented Rasterization"
+
+Add "Hybrid Mesh-Gaussian Representation for Efficient Indoor Scene Reconstruction"
+
+Add "Gaussian Mapping for Evolving Scenes"
+
+Add "Multi-StyleGS: Stylizing Gaussian Splatting with Multiple Styles"
+
+Add "Hi-LSplat: Hierarchical 3D Language Gaussian Splatting"
+
+Add "Parametric Gaussian Human Model: Generalizable Prior for Efficient and Realistic Human Avatar Modeling"
+
+Add "GS4: Generalizable Sparse Splatting Semantic SLAM"
+
+Add "Splat and Replace: 3D Reconstruction with Repetitive Elements"
+
+Add "BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading"
+
+Add "Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments"
+
+Add "SurGSplat: Progressive Geometry-Constrained Gaussian Splatting for Surgical Scene Reconstruction"
+
+Add "Lumina: Real-Time Mobile Neural Rendering by Exploiting Computational Redundancy"
+
+Add "VoxelSplat: Dynamic Gaussian Splatting as an Effective Loss for Occupancy and Flow Prediction"
+
 ### 2025/06/27
 
 Add "On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images"
