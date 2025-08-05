@@ -1,5 +1,39 @@
 # Changelog
 
+### 2025/08/05
+
+Add "UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting"
+
+Add "Self-Supervised Multi-Part Articulated Objects Modeling via Deformable Gaussian Splatting and Progressive Primitive Segmentation"
+
+Add "SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields"
+
+Add "Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS"
+
+Add "HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene"
+
+Add "TinySplat: Feedforward Approach for Generating Compact 3D Scene Representation"
+
+Add "ODG: Occupancy Prediction Using Dual Gaussians"
+
+Add "UniForward: Unified 3D Scene and Semantic Field Reconstruction via Feed-Forward Gaussian Splatting from Only Sparse-View Images"
+
+Add "STREAMINGGS: Voxel-Based Streaming 3D Gaussian Splatting with Memory Optimization and Architectural Support"
+
+Add "StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams"
+
+Add "Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting"
+
+Add "SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting"
+
+Add "TraGraph-GS: Trajectory Graph-based Gaussian Splatting for Arbitrary Large-Scale Scene Rendering"
+
+Add "Complex-Valued Holographic Radiance Fields"
+
+Add "Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes"
+
+Add "GaussianVAE: Adaptive Learning Dynamics of 3D Gaussians for High-Fidelity Super-Resolution"
+
 ### 2025/07/31
 
 Add "FreeGave: 3D Physics Learning from Dynamic Videos by Gaussian Velocity"
