@@ -1,5 +1,35 @@
 # Changelog
 
+### 2025/08/06
+
+Add "HRGS: Hierarchical Gaussian Splatting for Memory-Efficient High-Resolution 3D Reconstruction"
+
+Add "GAF: Gaussian Action Field as a Dynamic World Model for Robotic Manipulation"
+
+Add "GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics"
+
+Add "PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images"
+
+Add "Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction"
+
+Add "Multiview Geometric Regularization of Gaussian Splatting for Accurate Radiance Fields"
+
+Add "GS-2DGS: Geometrically Supervised 2DGS for Reflective Object Reconstruction"
+
+Add "Metropolis-Hastings Sampling for 3D Gaussian Reconstruction"
+
+Add "SMPL Normal Map Is All You Need for Single-view Textured Human Reconstruction"
+
+Add "Efficient multi-view training for 3D Gaussian Splatting"
+
+Add "Generative 4D Scene Gaussian Splatting with Object View-Synthesis Priors"
+
+Add "Perceptual-GS: Scene-adaptive Perceptual Densification for Gaussian Splatting"
+
+Add "PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting"
+
+Add "DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos"
+
 ### 2025/08/05
 
 Add "UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting"
