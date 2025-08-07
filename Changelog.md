@@ -1,5 +1,71 @@
 # Changelog
 
+### 2025/08/07
+
+Add "SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting"
+
+Add "Endo-4DGX: Robust Endoscopic Scene Reconstruction and Illumination Correction with Gaussian Splatting"
+
+Add "TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints"
+
+Add "From Coarse to Fine: Learnable Discrete Wavelet Transforms for Efficient 3D Gaussian Splatting"
+
+Add "Confident Splatting: Confidence-Based Compression of 3D Gaussian Splatting via Learnable Beta Distributions"
+
+Add "RGE-GS: Reward-Guided Expansive Driving Scene Reconstruction via Diffusion Priors"
+
+Add "VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding"
+
+Add "RoboPearls: Editable Video Simulation for Robot Manipulation"
+
+Add "Part Segmentation and Motion Estimation for Articulated Objects with Dynamic 3D Gaussians"
+
+Add "DIGS: Dynamic CBCT Reconstruction using Deformation-Informed 4D Gaussian Splatting and a Low-Rank Free-Form Deformation Model"
+
+Add "Few-Shot Identity Adaptation for 3D Talking Heads via Global Gaussian Field"
+
+Add "SAR-GS: 3D Gaussian Splatting for Synthetic Aperture Radar Target Reconstruction"
+
+Add "ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes"
+
+Add "MADrive: Memory-Augmented Driving Scene Modeling"
+
+Add "GGTalker: Talking Head Systhesis with Generalizable Gaussian Priors and Identity-Specific Adaptation"
+
+Add "EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting"
+
+Add "Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction"
+
+Add "Geometry and Perception Guided Gaussians for Multiview-consistent 3D Generation from a Single Image"
+
+Add "CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization"
+
+Add "DBMovi-GS: Dynamic View Synthesis from Blurry Monocular Video via Sparse-Controlled Gaussian Splatting"
+
+Add "3DGH: 3D Head Generation with Composable Hair and Face"
+
+Add "Virtual Memory for 3D Gaussian Splatting"
+
+Add "SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction"
+
+Add "GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM"
+
+Add "4Real-Video-V2: Fused View-Time Attention and Feedforward Reconstruction for 4D Scene Generation"
+
+Add "BulletGen: Improving 4D Reconstruction with Bullet-Time Generation"
+
+Add "2D Triangle Splatting for Direct Differentiable Mesh Training"
+
+Add "3D Gaussian Splatting for Fine-Detailed Surface Reconstruction in Large-Scale Scene"
+
+Add "Part2GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting"
+
+Add "GraphGSOcc: Semantic-Geometric Graph Transformer with Dynamic-Static Decoupling for 3D Gaussian Splatting-based Occupancy Prediction"
+
+Add "SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting"
+
+Add "3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting"
+
 ### 2025/08/06
 
 Add "HRGS: Hierarchical Gaussian Splatting for Memory-Efficient High-Resolution 3D Reconstruction"
