@@ -1,5 +1,73 @@
 # Changelog
 
+### 2025/08/08
+
+Add "RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration"
+
+Add "RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection"
+
+Add "SD-GS: Structured Deformable 3D Gaussians for Efficient Dynamic Scene Reconstruction"
+
+Add "Seg-Wild: Interactive Segmentation based on 3D Gaussian Splatting for Unconstrained Image Collections"
+
+Add "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS"
+
+Add "FlexGaussian: Flexible and Cost-Effective Training-Free Compression for 3D Gaussian Splatting"
+
+Add "LighthouseGS: Indoor Structure-aware 3D Gaussian Splatting for Panorama-Style Mobile Captures"
+
+Add "Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering"
+
+Add "VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis"
+
+Add "D-FCGS: Feedforward Compression of Dynamic Gaussian Splatting for Free-Viewpoint Videos"
+
+Add "3DGS_LSR:Large_Scale Relocation for Autonomous Driving Based on 3D Gaussian Splatting"
+
+Add "Mastering Regional 3DGS: Locating, Initializing, and Editing with Diverse 2D Priors"
+
+Add "InterGSEdit: Interactive 3D Gaussian Splatting Editing with 3D Geometry-Consistent Attention Prior"
+
+Add "A3FR: Agile 3D Gaussian Splatting with Incremental Gaze Tracked Foveated Rendering in Virtual Reality"
+
+Add "Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM"
+
+Add "ArmGS: Composite Gaussian Appearance Refinement for Modeling Dynamic Urban Environments"
+
+Add "Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps"
+
+Add "HyperGaussians: High-Dimensional Gaussian Splatting for High-Fidelity Animatable Face Avatars"
+
+Add "ArtGS:3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects"
+
+Add "Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning"
+
+Add "AvatarMakeup: Realistic Makeup Transfer for 3D Animatable Head Avatars"
+
+Add "LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling"
+
+Add "Gbake: Baking 3D Gaussian Splats into Reflection Probes"
+
+Add "3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation"
+
+Add "VISTA: Open-Vocabulary, Task-Relevant Robot Exploration with Online Semantic Gaussian Splatting"
+
+Add "Masks make discriminative models great again!"
+
+Add "GaussianVLM: Scene-centric 3D Vision-Language Models using Language-aligned Gaussian Splats for Embodied Reasoning and Beyond"
+
+Add "LOD-GS: Level-of-Detail-Sensitive 3D Gaussian Splatting for Detail Conserved Anti-Aliasing"
+
+Add "Learning Dense Feature Matching via Lifting Single 2D Image to 3D Space"
+
+Add "GDGS: 3D Gaussian Splatting Via Geometry-Guided Initialization And Dynamic Density Control"
+
+Add "MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction"
+
+Add "GaVS: 3D-Grounded Video Stabilization via Temporally-Consistent Local Reconstruction and Rendering"
+
+Add "AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention"
+
 ### 2025/08/07
 
 Add "SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting"
