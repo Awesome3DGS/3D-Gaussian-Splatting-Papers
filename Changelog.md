@@ -1,5 +1,59 @@
 # Changelog
 
+### 2025/08/09
+
+Add "DWTGS: Rethinking Frequency Regularization for Sparse-view 3D Gaussian Splatting"
+
+Add "Hi^2-GSLoc: Dual-Hierarchical Gaussian-Specific Visual Relocalization for Remote Sensing"
+
+Add "Gaussian Splatting with Discretized SDF for Relightable Assets"
+
+Add "SurfaceSplat: Connecting Surface Reconstruction and Gaussian Splatting"
+
+Add "ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting"
+
+Add "Stereo-GS: Multi-View Stereo Vision Model for Generalizable 3D Gaussian Splatting Reconstruction"
+
+Add "DCHM: Depth-Consistent Human Modeling for Multiview Detection"
+
+Add "Adaptive 3D Gaussian Splatting Video Streaming: Visual Saliency-Aware Tiling and Meta-Learning-Based Bitrate Adaptation"
+
+Add "Adaptive 3D Gaussian Splatting Video Streaming"
+
+Add "DreamScene: 3D Gaussian-based End-to-end Text-to-3D Scene Generation"
+
+Add "PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations"
+
+Add "TexGS-VolVis: Expressive Scene Editing for Volume Visualization via Textured Gaussian Splatting"
+
+Add "VolSegGS: Segmentation and Tracking in Dynamic Volumetric Scenes via Deformable 3D Gaussians"
+
+Add "NLI4VolVis: Natural Language Interaction for Volume Visualization via LLM Multi-Agents and Editable 3D Gaussian Splatting"
+
+Add "Wavelet-GS: 3D Gaussian Splatting with Wavelet Decomposition"
+
+Add "BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images"
+
+Add "SGLoc: Semantic Localization System for Camera Pose Estimation from 3D Gaussian Splatting Representation"
+
+Add "Dark-EvGS: Event Camera as an Eye for Radiance Field in the Dark"
+
+Add "A Mixed-Primitive-based Gaussian Splatting Method for Surface Reconstruction"
+
+Add "TRAN-D: 2D Gaussian Splatting-based Sparse-view Transparent Object Depth Reconstruction via Physics Simulation for Scene Update"
+
+Add "Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling"
+
+Add "ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions"
+
+Add "MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second"
+
+Add "3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving"
+
+Add "RePaintGS: Reference-Guided Gaussian Splatting for Realistic and View-Consistent 3D Scene Inpainting"
+
+Add "Occlusion-Aware Temporally Consistent Amodal Completion for 3D Human-Object Interaction Reconstruction"
+
 ### 2025/08/08
 
 Add "RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration"
