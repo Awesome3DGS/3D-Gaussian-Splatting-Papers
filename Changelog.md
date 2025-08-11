@@ -1,5 +1,77 @@
 # Changelog
 
+### 2025/08/11
+
+Add "MoGA: 3D Generative Avatar Prior for Monocular Gaussian Avatar Reconstruction"
+
+Add "Gaussian Splatting Feature Fields for Privacy-Preserving Visual Localization"
+
+Add "NeRF Is a Valuable Assistant for 3D Gaussian Splatting"
+
+Add "iLRM: An Iterative Large 3D Reconstruction Model"
+
+Add "GSFusion:Globally Optimized LiDAR-Inertial-Visual Mapping for Gaussian Splatting"
+
+Add "Robust and Efficient 3D Gaussian Splatting for Urban Scene Reconstruction"
+
+Add "UFV-Splatter: Pose-Free Feed-Forward 3D Gaussian Splatting Adapted to Unfavorable Views"
+
+Add "MultiEditor: Controllable Multimodal Object Editing for Driving Scenarios Using 3D Gaussian Splatting Priors"
+
+Add "S3LAM: Surfel Splatting SLAM for Geometrically Accurate Tracking and Mapping"
+
+Add "GaRe: Relightable 3D Gaussian Splatting for Outdoor Scenes from Unconstrained Photo Collections"
+
+Add "Automated 3D-GS Registration and Fusion via Skeleton Alignment and Gaussian-Adaptive Features"
+
+Add "From Gallery to Wrist: Realistic 3D Bracelet Insertion in Videos"
+
+Add "Decomposing Densification in Gaussian Splatting for Faster 3D Scene Reconstruction"
+
+Add "RaGS: Unleashing 3D Gaussian Splatting from 4D Radar and Monocular Cues for 3D Object Detection"
+
+Add "SonicGauss: Position-Aware Physical Sound Synthesis for 3D Gaussian Representations"
+
+Add "Taking Language Embedded 3D Gaussian Splatting into the Wild"
+
+Add "GSCache: Real-Time Radiance Caching for Volume Path Tracing using 3D Gaussian Splatting"
+
+Add "HairCUP: Hair Compositional Universal Prior for 3D Gaussian Avatars"
+
+Add "DASH: 4D Hash Encoding with Self-Supervised Decomposition for Real-Time Dynamic Scene Rendering"
+
+Add " Gaussian Set Surface Reconstruction through Per-Gaussian Optimization"
+
+Add "Learning Efficient and Generalizable Human Representation with Human Gaussian Model"
+
+Add "Unposed 3DGS Reconstruction with Probabilistic Procrustes Mapping"
+
+Add "GaussianFusionOcc: A Seamless Sensor Fusion Approach for 3D Occupancy Prediction Using 3D Gaussians"
+
+Add "CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting"
+
+Add "MVG4D: Image Matrix-Based Multi-View and Motion Generation for 4D Content Creation from a Single Image"
+
+Add "G2S-ICP SLAM: Geometry-aware Gaussian Splatting ICP SLAM"
+
+Add "PS-GS: Gaussian Splatting for Multi-View Photometric Stereo"
+
+Add "GeoAvatar: Adaptive Geometrical Gaussian Splatting for 3D Head Avatar"
+
+Add "High-fidelity 3D Gaussian Inpainting: preserving multi-view consistency and photorealistic details"
+
+Add "Temporal Smoothness-Aware Rate-Distortion Optimized 4D Gaussian Splatting"
+
+Add "StreamME: Simplify 3D Gaussian Avatar within Live Stream"
+
+Add "Dyna3DGR: 4D Cardiac Motion Tracking with Dynamic 3D Gaussian Representation"
+
+Add "LongSplat: Online Generalizable 3D Gaussian Splatting from Long Sequence Images"
+
+Add "Dream, Lift, Animate: From Single Images to Animatable Gaussian Avatars"
+
+Add "Appearance Harmonization via Bilateral Grid Prediction with Transformers for 3DGS"
+
 ### 2025/08/09
 
 Add "DWTGS: Rethinking Frequency Regularization for Sparse-view 3D Gaussian Splatting"
