@@ -39,7 +39,7 @@
 #### [7] LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives
 - **🧑‍🔬 作者**：Jiadi Cui, Junming Cao, Yuhui Zhong, Liao Wang, Fuqiang Zhao, Penghao Wang, Yifan Chen, Zhipeng He, Lan Xu, Yujiao Shi, Yingliang Zhang, Jingyi Yu
 - **🏫 单位**：ShanghaiTech University ⟐ DGene ⟐ Stereye ⟐ NeuDim
-- **🔗 链接**：[[中英摘要](../abs/2404.09748.md)] [[arXiv:2404.09748](https://arxiv.org/abs/2404.09748)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2404.09748.md)] [[arXiv:2404.09748](https://arxiv.org/abs/2404.09748)] [[Code](https://github.com/zhaofuq/LOD-3DGS)]
 - **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
 
 #### [8] Gaussian Opacity Fields: Efficient and Compact Surface Reconstruction in Unbounded Scenes
@@ -63,7 +63,7 @@
 #### [11] A Construct-Optimize Approach to Sparse View Synthesis without Camera Pose
 - **🧑‍🔬 作者**：Kaiwen Jiang, Yang Fu, Mukund Varma T, Yash Belhe, Xiaolong Wang, Hao Su, Ravi Ramamoorthi
 - **🏫 单位**：University of California
-- **🔗 链接**：[[中英摘要](../abs/2405.03659.md)] [[arXiv:2405.03659](https://arxiv.org/abs/2405.03659)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2405.03659.md)] [[arXiv:2405.03659](https://arxiv.org/abs/2405.03659)] [[Code](https://github.com/RaymondJiangkw/COGS)]
 - **📝 说明**：🏆 Accepted to SIGGRAPH 2024
 
 #### [12] LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer
@@ -72,85 +72,91 @@
 - **🔗 链接**：[[中英摘要](../abs/2405.07319.md)] [[arXiv:2405.07319](https://arxiv.org/abs/2405.07319)] [Code]
 - **📝 说明**：🏆 Accepted to SIGGRAPH 2024
 
-#### [13] GaussianPrediction: Dynamic 3D Gaussian Prediction for Motion Extrapolation and Free View Synthesis
+#### [13] NPGA: Neural Parametric Gaussian Avatars
+- **🧑‍🔬 作者**：Simon Giebenhain, Tobias Kirschstein, Martin Rünz, Lourdes Agapito, Matthias Nießner
+- **🏫 单位**：Technical University of Munich ⟐ Synthesia ⟐ University College London
+- **🔗 链接**：[[中英摘要](./abs/2405.19331.md)] [[arXiv:2405.19331](https://arxiv.org/abs/2405.19331)] [Code]
+- **📝 说明**: 🏆 Accepted to SIGGRAPH Asia 2024
+
+#### [14] GaussianPrediction: Dynamic 3D Gaussian Prediction for Motion Extrapolation and Free View Synthesis
 - **🧑‍🔬 作者**：Boming Zhao, Yuan Li, Ziyu Sun, Lin Zeng, Yujun Shen, Rui Ma, Yinda Zhang, Hujun Bao, Zhaopeng Cui
 - **🏫 单位**：Zhejiang University ⟐ Jilin University ⟐ Ant Group ⟐ Google Inc.
 - **🔗 链接**：[[中英摘要](../abs/2405.19745.md)] [[arXiv:2405.19745](https://arxiv.org/abs/2405.19745)] [[Code](https://github.com/BoMingZhao/GaussianPrediction)]
 - **📝 说明**：🏆 Accepted to SIGGRAPH 2024
 
-#### [14] GGHead: Fast and Generalizable 3D Gaussian Heads
+#### [15] GGHead: Fast and Generalizable 3D Gaussian Heads
 - **🧑‍🔬 作者**：Tobias Kirschstein, Simon Giebenhain, Jiapeng Tang, Markos Georgopoulos, Matthias Nießner
 - **🏫 单位**：Technical University of Munich
 - **🔗 链接**：[[中英摘要](../abs/2406.09377.md)] [[arXiv:2406.09377](https://arxiv.org/abs/2406.09377)] [[Code](https://github.com/tobias-kirschstein/gghead)]
 - **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
 
-#### [15] Modeling Ambient Scene Dynamics for Free-view Synthesis
+#### [16] Modeling Ambient Scene Dynamics for Free-view Synthesis
 - **🧑‍🔬 作者**：Meng-Li Shih, Jia-Bin Huang, Changil Kim, Rajvi Shah, Johannes Kopf, Chen Gao
 - **🏫 单位**：University of Washington ⟐ University of Maryland ⟐ Meta
 - **🔗 链接**：[[中英摘要](../abs/2406.09395.md)] [[arXiv:2406.09395](https://arxiv.org/abs/2406.09395)] [Code]
 - **📝 说明**：🏆 Accepted to SIGGRAPH 2024
 
-#### [16] Projecting Radiance Fields to Mesh Surfaces
+#### [17] Projecting Radiance Fields to Mesh Surfaces
 - **🧑‍🔬 作者**：Adrian Xuan Wei Lim, Lynnette Hui Xian Ng, Nicholas Kyger, Tomo Michigami, Faraz Baghernezhad
 - **🏫 单位**：Roblox ⟐ Carnegie Mellon University
 - **🔗 链接**：[[中英摘要](../abs/2406.11570.md)] [[arXiv:2406.11570](https://arxiv.org/abs/2406.11570)] [Code]
 - **📝 说明**：🏆 Accepted to SIGGRAPH Posters 2024
 
-#### [17] A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets
+#### [18] A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets
 - **🧑‍🔬 作者**：Bernhard Kerbl, Andréas Meuleman, Georgios Kopanas, Michael Wimmer, Alexandre Lanvin, George Drettakis
 - **🏫 单位**：Inria ⟐ Université Côte d’Azur, France ⟐ TU Wien, Austria
-- **🔗 链接**：[[中英摘要](../abs/2406.12080.md)] [[arXiv:2406.12080](https://arxiv.org/abs/2406.12080)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2406.12080.md)] [[arXiv:2406.12080](https://arxiv.org/abs/2406.12080)] [[Code](https://github.com/graphdeco-inria/hierarchical-3d-gaussians)]
 - **📝 说明**：🏆 Accepted to SIGGRAPH 2024
 
-#### [18] Dynamic Gaussian Marbles for Novel View Synthesis of Casual Monocular Videos
+#### [19] Dynamic Gaussian Marbles for Novel View Synthesis of Casual Monocular Videos
 - **🧑‍🔬 作者**：Colton Stearns, Adam Harley, Mikaela Uy, Florian Dubost, Federico Tombari, Gordon Wetzstein, Leonidas Guibas
 - **🏫 单位**：Stanford University ⟐ Google
 - **🔗 链接**：[[中英摘要](../abs/2406.18717.md)] [[arXiv:2406.18717](https://arxiv.org/abs/2406.18717)] [[Code](https://github.com/coltonstearns/dynamic-gaussian-marbles)]
 - **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
 
-#### [19] 3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes
+#### [20] 3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes
 - **🧑‍🔬 作者**：Nicolas Moenne-Loccoz, Ashkan Mirzaei, Or Perel, Riccardo de Lutio, Janick Martinez Esturo, Gavriel State, Sanja Fidler, Nicholas Sharp, Zan Gojcic
 - **🏫 单位**：NVIDIA
 - **🔗 链接**：[[中英摘要](../abs/2407.07090.md)] [[arXiv:2407.07090](https://arxiv.org/abs/2407.07090)] [Code]
 - **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
 
-#### [20] Pano2Room: Novel View Synthesis from a Single Indoor Panorama
+#### [21] Pano2Room: Novel View Synthesis from a Single Indoor Panorama
 - **🧑‍🔬 作者**：Guo Pu, Yiming Zhao, Zhouhui Lian
 - **🏫 单位**：Peking University
 - **🔗 链接**：[[中英摘要](../abs/2408.11413.md)] [[arXiv:2408.11413](https://arxiv.org/abs/2408.11413)] [[Code](https://github.com/TrickyGo/Pano2Room)]
 - **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
 
-#### [21] Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos
+#### [22] Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos
 - **🧑‍🔬 作者**：Yuheng Jiang, Zhehao Shen, Yu Hong, Chengcheng Guo, Yize Wu, Yingliang Zhang, Jingyi Yu, Lan Xu
 - **🏫 单位**：ShanghaiTech University ⟐ NeuDim Digital Technology ⟐ DGene Digital Technology
-- **🔗 链接**：[[中英摘要](../abs/2409.08353.md)] [[arXiv:2409.08353](https://arxiv.org/abs/2409.08353)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2409.08353.md)] [[arXiv:2409.08353](https://arxiv.org/abs/2409.08353)] [[Code](https://github.com/HiFi-Human/DualGS)]
 - **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
 
-#### [22] AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius
+#### [23] AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius
 - **🧑‍🔬 作者**：Xinzhe Wang, Ran Yi, Lizhuang Ma
 - **🏫 单位**：Shanghai Jiao Tong University
 - **🔗 链接**：[[中英摘要](../abs/2409.08669.md)] [[arXiv:2409.08669](https://arxiv.org/abs/2409.08669)] [Code]
 - **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
 
-#### [23] SRIF: Semantic Shape Registration Empowered by Diffusion-based Image Morphing and Flow Estimation
+#### [24] SRIF: Semantic Shape Registration Empowered by Diffusion-based Image Morphing and Flow Estimation
 - **🧑‍🔬 作者**：Mingze Sun, Chen Guo, Puhua Jiang, Shiwei Mao, Yurun Chen, Ruqi Huang
-- **🏫 单位**：TsinghuaShenzhen International Graduate School, China ⟐ Peng Cheng Lab
-- **🔗 链接**：[[中英摘要](../abs/2409.11682.md)] [[arXiv:2409.11682](https://arxiv.org/abs/2409.11682)] [Code]
+- **🏫 单位**：TsinghuaShenzhen International Graduate School ⟐ Peng Cheng Lab
+- **🔗 链接**：[[中英摘要](../abs/2409.11682.md)] [[arXiv:2409.11682](https://arxiv.org/abs/2409.11682)] [[Code](https://github.com/rqhuang88/SRIF)]
 - **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
 
-#### [24] GS^3: Efficient Relighting with Triple Gaussian Splatting
+#### [25] GS^3: Efficient Relighting with Triple Gaussian Splatting
 - **🧑‍🔬 作者**：Zoubin Bi, Yixin Zeng, Chong Zeng, Fan Pei, Xiang Feng, Kun Zhou, Hongzhi Wu
 - **🏫 单位**：Zhejiang University
-- **🔗 链接**：[[中英摘要](../abs/2410.11419.md)] [[arXiv:2410.11419](https://arxiv.org/abs/2410.11419)] [Code]
+- **🔗 链接**：[[中英摘要](../abs/2410.11419.md)] [[arXiv:2410.11419](https://arxiv.org/abs/2410.11419)] [[Code](https://github.com/gsrelight/gs-relight)]
 - **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
 
-#### [25] L3DG: Latent 3D Gaussian Diffusion
+#### [26] L3DG: Latent 3D Gaussian Diffusion
 - **🧑‍🔬 作者**：Barbara Roessle, Norman Müller, Lorenzo Porzi, Samuel Rota Bulò, Peter Kontschieder, Angela Dai, Matthias Nießner
 - **🏫 单位**：Technical University of Munich ⟐ Meta Reality Labs Zurich
 - **🔗 链接**：[[中英摘要](../abs/2410.13530.md)] [[arXiv:2410.13295](https://arxiv.org/abs/2410.13530)] [Code]
 - **📝 说明**：🏆 Accepted to SIGGRAPH Asia 2024
 
-#### [26] URAvatar: Universal Relightable Gaussian Codec Avatars
+#### [27] URAvatar: Universal Relightable Gaussian Codec Avatars
 - **🧑‍🔬 作者**：Junxuan Li, Chen Cao, Gabriel Schwartz, Rawal Khirodkar, Christian Richardt, Tomas Simon, Yaser Sheikh, Shunsuke Saito
 - **🏫 单位**：Codec Avatars Lab, Meta
 - **🔗 链接**：[[中英摘要](../abs/2410.24223.md)] [[arXiv:2410.24223](https://arxiv.org/abs/2410.24223)] [Code]
