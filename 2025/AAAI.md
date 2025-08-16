@@ -66,73 +66,79 @@
 - **🔗 链接**：[[中英摘要](../abs/2412.15550.md)] [[arXiv:2412.15550](https://arxiv.org/abs/2412.15550)] [[Code](https://github.com/jiangxb98/EGSRAL)]
 - **📝 说明**：🏆 Accepted to AAAI 2025
 
-#### [12] GaussianPainter: Painting Point Cloud into 3D Gaussians with Normal Guidance
+#### [12] Topology-Aware 3D Gaussian Splatting: Leveraging Persistent Homology for Optimized Structural Integrity
+- **🧑‍🔬 作者**：Tianqi Shen, Shaohua Liu, Jiaqi Feng, Ziye Ma, Ning An
+- **🏫 单位**：City University of Hong Kong ⟐ Beihang University ⟐ China Coal Research Institute ⟐ State Key Laboratory of Intelligent Coal Mining and Strata Control
+- **🔗 链接**：[[中英摘要](./abs/2412.16619.md)] [[arXiv:2412.16619](https://arxiv.org/abs/2412.16619)] [Code]
+- **📝 说明**: 🏆 Accepted to AAAI 2025
+
+#### [13] GaussianPainter: Painting Point Cloud into 3D Gaussians with Normal Guidance
 - **🧑‍🔬 作者**：Jingqiu Zhou, Lue Fan, Xuesong Chen, Linjiang Huang, Si Liu, Hongsheng Li
 - **🏫 单位**：Beihang University ⟐ The Chinese University of Hong Kong ⟐ Chinese Academy of Sciences ⟐ Centre for Perceptual and Interactive Intelligence
 - **🔗 链接**：[[中英摘要](../abs/2412.17715.md)] [[arXiv:2412.17715](https://arxiv.org/abs/2412.17715)] [[Code](https://github.com/zhou745/GaussianPainter)]
 - **📝 说明**：🏆 Accepted to AAAI 2025
 
-#### [13] KeyGS: A Keyframe-Centric Gaussian Splatting Method for Monocular Image Sequences
+#### [14] KeyGS: A Keyframe-Centric Gaussian Splatting Method for Monocular Image Sequences
 - **🧑‍🔬 作者**：Keng-Wei Chang, Zi-Ming Wang, Shang-Hong Lai
 - **🏫 单位**: National Tsing Hua University
 - **🔗 链接**：[[中英摘要](../abs/2412.20767.md)] [[arXiv:2412.20767](https://arxiv.org/abs/2412.20767)] [Code]
 - **📝 说明**：🏆 Accepted to AAAI 2025
 
-#### [14] HOGSA: Bimanual Hand-Object Interaction Understanding with 3D Gaussian Splatting Based Data Augmentation
+#### [15] HOGSA: Bimanual Hand-Object Interaction Understanding with 3D Gaussian Splatting Based Data Augmentation
 - **🧑‍🔬 作者**：Wentian Qu, Jiahe Li, Jian Cheng, Jian Shi, Chenyu Meng, Cuixia Ma, Hongan Wang, Xiaoming Deng, Yinda Zhang
 - **🏫 单位**: Chinese Academy of Sciences ⟐ University of Chinese Academy of Sciences ⟐ Chinese Academy of Sciences ⟐ Google
 - **🔗 链接**：[[中英摘要](../abs/2501.02845.md)] [[arXiv:2501.02845](https://arxiv.org/abs/2501.02845)] [Code]
 - **📝 说明**：🏆 Accepted by AAAI 2025
 
-#### [15] FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency
+#### [16] FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency
 - **🧑‍🔬 作者**：Han Huang, Yulun Wu, Chao Deng, Ge Gao, Ming Gu, Yu-Shen Liu
 - **🏫 单位**: Tsinghua University
 - **🔗 链接**：[[中英摘要](../abs/2501.04628.md)] [[arXiv:2501.04628](https://arxiv.org/abs/2501.04628)] [[Code](https://github.com/yulunwu0108/FatesGS)]
 - **📝 说明**：🏆 Accepted by AAAI 2025
 
-#### [16] BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation
+#### [17] BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation
 - **🧑‍🔬 作者**：Xiaolu Hou, Mingcheng Li, Dingkang Yang, Jiawei Chen, Ziyun Qian, Xiao Zhao, Yue Jiang, Jinjie Wei, Qingyao Xu, Lihua Zhang
 - **🏫 单位**：Fudan University ⟐ Engineering Research Center of AI and Robotics, Ministry of Education ⟐ Jilin Provincial Key Laboratory of Intelligence Science and Engineering ⟐ Artificial Intelligence and Unmanned Systems Engineering Research Center of Jilin Province ⟐ ByteDance Inc
 - **🔗 链接**：[[中英摘要](../abs/2501.10462.md)] [[arXiv:2501.10462](https://arxiv.org/abs/2501.10462)] [[Code](https://github.com/SparklingH/BloomScene)]
 - **📝 说明**：🏆 Accepted to AAAI 2025
 
-#### [17] Decoupling Appearance Variations with 3D Consistent Features in Gaussian Splatting
+#### [18] Decoupling Appearance Variations with 3D Consistent Features in Gaussian Splatting
 - **🧑‍🔬 作者**：Jiaqi Lin, Zhihao Li, Binxiao Huang, Xiao Tang, Jianzhuang Liu, Shiyong Liu, Xiaofei Wu, Fenglong Song, Wenming Yang
 - **🏫 单位**：Tsinghua University ⟐ Huawei Noah’s Ark Lab ⟐ The University of Hong Kong ⟐ Shenzhen Institute of Advanced Technology
 - **🔗 链接**：[[中英摘要](../abs/2501.10788.md)] [[arXiv:2501.10788](https://arxiv.org/abs/2501.10788)] [Code]
 - **📝 说明**：🏆 Accepted to AAAI 2025
 
-#### [18] Micro-macro Wavelet-based Gaussian Splatting for 3D Reconstruction from Unconstrained Images
+#### [19] Micro-macro Wavelet-based Gaussian Splatting for 3D Reconstruction from Unconstrained Images
 - **🧑‍🔬 作者**：Yihui Li, Chengxin Lv, Hongyu Yang, Di Huang
 - **🏫 单位**：State Key Laboratory of Complex and Critical Software Environment, Beijing ⟐ Beihang University ⟐ Shanghai Artificial Intelligence Laboratory
 - **🔗 链接**：[[中英摘要](../abs/2501.14231.md)] [[arXiv:2501.14231](https://arxiv.org/abs/2501.14231)] [Code]
 - **📝 说明**：🏆 Accepted to AAAI 2025
 
-#### [19] Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting
+#### [20] Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting
 - **🧑‍🔬 作者**：Lingting Zhu, Guying Lin, Jinnan Chen, Xinjie Zhang, Zhenchao Jin, Zhao Wang, Lequan Yu
 - **🏫 单位**：The University of Hong Kong ⟐ Carnegie Mellon University ⟐ National University of Singapore ⟐ The Hong Kong University of Science and Technology ⟐ The Chinese University of Hong Kong
 - **🔗 链接**：[[中英摘要](../abs/2502.09039.md)] [[arXiv:2502.09039](https://arxiv.org/abs/2502.09039)] [[Code](https://github.com/HKU-MedAI/LIG)]
 - **📝 说明**：🏆 Accepted to AAAI 2025
 
-#### [20] Efficient Gaussian Splatting for Monocular Dynamic Scene Rendering via Sparse Time-Variant Attribute Modeling
+#### [21] Efficient Gaussian Splatting for Monocular Dynamic Scene Rendering via Sparse Time-Variant Attribute Modeling
 - **🧑‍🔬 作者**：Hanyang Kong, Xingyi Yang, Xinchao Wang
 - **🏫 单位**: National University of Singapore
 - **🔗 链接**：[[中英摘要](../abs/2502.20378.md)] [[arXiv:2502.20378](https://arxiv.org/abs/2502.20378)] [Code]
 - **📝 说明**：🏆 Accepted to AAAI 2025
 
-#### [21] ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting
+#### [22] ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting
 - **🧑‍🔬 作者**：Dexter Ong, Yuezhan Tao, Varun Murali, Igor Spasojevic, Vijay Kumar, Pratik Chaudhari
 - **🏫 单位**: GRASP Laboratory, University of Pennsylvania
 - **🔗 链接**：[[中英摘要](../abs/2502.20386.md)] [[arXiv:2502.20386](https://arxiv.org/abs/2502.20386)] [[Code](https://atlasnav.github.io/)]
 - **📝 说明**：🏆 Accepted to AAAI 2025
 
-#### [22] Frequency-Aware Density Control via Reparameterization for High-Quality Rendering of 3D Gaussian Splatting
+#### [23] Frequency-Aware Density Control via Reparameterization for High-Quality Rendering of 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Zhaojie Zeng, Yuesong Wang, Lili Ju, Tao Guan
 - **🏫 单位**: Huazhong University of Science and Technology ⟐ University of South Carolina
 - **🔗 链接**：[[中英摘要](../abs/2503.07000.md)] [[arXiv:2503.07000](https://arxiv.org/abs/2503.07000)] [[Code](https://github.com/whoiszzj/FDS-GS)]
 - **📝 说明**：🏆 Accepted to AAAI 2025
 
-#### [23] Enhancing Close-up Novel View Synthesis via Pseudo-labeling
+#### [24] Enhancing Close-up Novel View Synthesis via Pseudo-labeling
 - **🧑‍🔬 作者**：Jiatong Xia, Libo Sun, Lingqiao Liu
 - **🏫 单位**: Australian Institute for Machine Learning, The University of Adelaide
 - **🔗 链接**：[[中英摘要](../abs/2503.15908.md)] [[arXiv:2503.15908](https://arxiv.org/abs/2503.15908)] [Code]
