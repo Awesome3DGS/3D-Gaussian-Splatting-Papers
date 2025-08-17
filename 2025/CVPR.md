@@ -837,7 +837,7 @@
 #### [140] Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting
 - **🧑‍🔬 作者**：Daiwei Zhang, Joaquin Gajardo, Tomislav Medic, Isinsu Katircioglu, Mike Boss, Norbert Kirchgessner, Achim Walter, Lukas Roth
 - **🏫 单位**：ETH Zurich ⟐ Swiss Data Science Center
-- **🔗 链接**：[[中英摘要](./abs/2504.06978.md)] [[arXiv:2504.06978](https://arxiv.org/abs/2504.06978)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2504.06978.md)] [[arXiv:2504.06978](https://arxiv.org/abs/2504.06978)] [[Code](https://github.com/zdwww/Wheat-3DGS)]
 - **📝 说明**: 🏆 Accepted to CVPR 2025 Workshop
 
 #### [141] Apply Hierarchical-Chain-of-Generation to Complex Attributes Text-to-3D Generation
