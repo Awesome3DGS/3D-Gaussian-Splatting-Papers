@@ -1,5 +1,61 @@
 # Changelog
 
+### 2025/08/17
+
+Add "Multi-Sample Anti-Aliasing and Constrained Optimization for 3D Gaussian Splatting"
+
+Add "EntropyGS: An Efficient Entropy Coding on 3D Gaussian Splatting"
+
+Add "E-4DGS: High-Fidelity Dynamic Reconstruction from the Multi-view Event Cameras"
+
+Add "TRACE: Learning 3D Gaussian Physical Dynamics from Multi-view Videos"
+
+Add "GSFixer: Improving 3D Gaussian Splatting with Reference-Guided Video Diffusion Priors"
+
+Add "Semantic-aware DropSplat: Adaptive Pruning of Redundant Gaussians for 3D Aerial-View Segmentation"
+
+Add "DualPhys-GS: Dual Physically-Guided 3D Gaussian Splatting for Underwater Scene Reconstruction"
+
+Add "SVG-Head: Hybrid Surface-Volumetric Gaussians for High-Fidelity Head Reconstruction and Real-Time Editing"
+
+Add "SkySplat: Generalizable 3D Gaussian Splatting from Multi-Temporal Sparse Satellite Images"
+
+Add "Gradient-Direction-Aware Density Control for 3D Gaussian Splatting"
+
+Add "GaussianUpdate: Continual 3D Gaussian Splatting Update for Changing Environments"
+
+Add "Learning an Implicit Physics Model for Image-based Fluid Simulation"
+
+Add "ReferSplat: Referring Segmentation in 3D Gaussian Splatting"
+
+Add "SAGOnline: Segment Any Gaussians Online"
+
+Add "FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting"
+
+Add "NeeCo: Image Synthesis of Novel Instrument States Based on Dynamic and Deformable 3D Gaussian Reconstruction"
+
+Add "Touch-Augmented Gaussian Splatting for Enhanced 3D Scene Reconstruction"
+
+Add "Multi-view Normal and Distance Guidance Gaussian Splatting for Surface Reconstruction"
+
+Add "Novel View Synthesis with Gaussian Splatting: Impact on Photogrammetry Model Accuracy and Resolution"
+
+Add "DIP-GS: Deep Image Prior For Gaussian Splatting Sparse View Recovery"
+
+Add "GS4Buildings: Prior-Guided Gaussian Splatting for 3D Building Reconstruction"
+
+Add "Fading the Digital Ink: A Universal Black-Box Attack Framework for 3DGS Watermarking Systems"
+
+Add "3D Gaussian Representations with Motion Trajectory Field for Dynamic Scene Reconstruction"
+
+Add "3DGS-VBench: A Comprehensive Video Quality Evaluation Benchmark for 3DGS Compression"
+
+Add "EGS-SLAM: RGB-D Gaussian Splatting SLAM with Events"
+
+Add "Evaluating Fisheye-Compatible 3D Gaussian Splatting Methods on Real Images Beyond 180 Degree Field of View"
+
+Add "A Survey on 3D Gaussian Splatting Applications: Segmentation, Editing, and Generation"
+
 ### 2025/08/12
 
 Add "UW-3DGS: Underwater 3D Reconstruction with Physics-Aware Gaussian Splatting"
