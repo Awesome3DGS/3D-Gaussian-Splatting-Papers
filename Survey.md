@@ -65,3 +65,9 @@
 - **🏫 单位**： Nanyang Technological University
 - **🔗 链接**：[[中英摘要](./abs/2505.05474.md)] [[arXiv:2505.05474](https://arxiv.org/abs/2505.05474)] [[Code](https://github.com/hzxie/Awesome-3D-Scene-Generation)]
 - **📝 说明**：场景生成综述
+
+#### [12] A Survey on 3D Gaussian Splatting Applications: Segmentation, Editing, and Generation
+- **🧑‍🔬 作者**：Shuting He, Peilin Ji, Yitong Yang, Changshuo Wang, Jiayi Ji, Yinglin Wang, Henghui Ding
+- **🏫 单位**：Shanghai University of Finance and Economics ⟐ University College London ⟐ National University of Singapore ⟐ Fudan University
+- **🔗 链接**：[[中英摘要](./abs/2508.09977.md)] [[arXiv:2508.09977](https://arxiv.org/abs/2508.09977)] [[Code](https://github.com/heshuting555/Awesome-3DGS-Applications)]
+- **📝 说明**：应用综述，包括分割、编辑和生成
