@@ -342,3 +342,15 @@
 - **🏫 单位**：Beijing Institute of Technology
 - **🔗 链接**：[[中英摘要](./abs/2508.01704.md)] [[arXiv:2508.01704](https://arxiv.org/abs/2508.01704)] [[Code](https://github.com/ChengLuqi/LT-gaussian)]
 - **📝 说明**: 🏆 Accepted to IV 2025
+
+#### [58] EGS-SLAM: RGB-D Gaussian Splatting SLAM with Events
+- **🧑‍🔬 作者**：Siyu Chen, Shenghai Yuan, Thien-Minh Nguyen, Zhuyu Huang, Chenyang Shi, Jin Jing, Lihua Xie
+- **🏫 单位**：Nanyang Technological University ⟐ Beihang University
+- **🔗 链接**：[[中英摘要](./abs/2508.07003.md)] [[arXiv:2508.07003](https://arxiv.org/abs/2508.07003)] [[Code](https://github.com/Chensiyu00/EGS-SLAM)]
+- **📝 说明**: 🏆 Accepted to RAL 2025
+
+#### [59] GS4Buildings: Prior-Guided Gaussian Splatting for 3D Building Reconstruction
+- **🧑‍🔬 作者**：Qilin Zhang, Olaf Wysocki, Boris Jutzi
+- **🏫 单位**：Technical University of Munich
+- **🔗 链接**：[[中英摘要](./abs/2508.07355.md)] [[arXiv:2508.07355](https://arxiv.org/abs/2508.07355)] [[Code](https://github.com/zqlin0521/GS4Buildings)]
+- **📝 说明**: 🏆 Accepted to ISPRS 3D GeoInfo & Smart Data, Smart Cities 2025

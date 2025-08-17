@@ -455,3 +455,21 @@
 - **🏫 单位**：Yonsei University
 - **🔗 链接**：[[中英摘要](./abs/2508.06014.md)] [[arXiv:2508.06014](https://arxiv.org/abs/2508.06014)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
+
+#### [77] Learning an Implicit Physics Model for Image-based Fluid Simulation
+- **🧑‍🔬 作者**：Emily Yue-Ting Jia, Jiageng Mao, Zhiyuan Gao, Yajie Zhao, Yue Wang
+- **🏫 单位**：University of Southern California
+- **🔗 链接**：[[中英摘要](./abs/2508.08254.md)] [[arXiv:2508.08254](https://arxiv.org/abs/2508.08254)] [Code]
+- **📝 说明**: 🏆 Accepted to ICCV 2025
+
+#### [78] GaussianUpdate: Continual 3D Gaussian Splatting Update for Changing Environments
+- **🧑‍🔬 作者**：Lin Zeng, Boming Zhao, Jiarui Hu, Xujie Shen, Ziqiang Dang, Hujun Bao, Zhaopeng Cui
+- **🏫 单位**：Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2508.08867.md)] [[arXiv:2508.08867](https://arxiv.org/abs/2508.08867)] [Code]
+- **📝 说明**: 🏆 Accepted to ICCV 2025
+
+#### [79] TRACE: Learning 3D Gaussian Physical Dynamics from Multi-view Videos
+- **🧑‍🔬 作者**：Jinxi Li, Ziyang Song, Bo Yang
+- **🏫 单位**：The Hong Kong Polytechnic University
+- **🔗 链接**：[[中英摘要](./abs/2508.09811.md)] [[arXiv:2508.09811](https://arxiv.org/abs/2508.09811)] [Code]
+- **📝 说明**: 🏆 Accepted to ICCV 2025

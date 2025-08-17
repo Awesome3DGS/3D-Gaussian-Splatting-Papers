@@ -71,3 +71,9 @@
 - **🏫 单位**：Tsinghua University ⟐ Beijing University of Posts and Telecommunications
 - **🔗 链接**：[[中英摘要](./abs/2508.04597.md)] [[arXiv:2508.04597](https://arxiv.org/abs/2508.04597)] [[Code](https://github.com/wangyr22/DepthGS)]
 - **📝 说明**: 🏆 Accepted to IROS 2025
+
+#### [13] Multi-view Normal and Distance Guidance Gaussian Splatting for Surface Reconstruction
+- **🧑‍🔬 作者**：Bo Jia, Yanan Guo, Ying Chang, Benkui Zhang, Ying Xie, Kangning Du, Lin Cao
+- **🏫 单位**：Beijing Information Science and Technology University ⟐ CAS
+- **🔗 链接**：[[中英摘要](./abs/2508.07701.md)] [[arXiv:2508.07701](https://arxiv.org/abs/2508.07701)] [[Code](https://github.com/Bistu3DV/MND-GS)]
+- **📝 说明**: 🏆 Accepted to IROS 2025

@@ -35,3 +35,15 @@
 - **🏫 单位**：The Hong Kong University of Science and Technology (Guangzhou), China
 - **🔗 链接**：[[中英摘要](../abs/2504.01619.md)] [[arXiv:2504.01619](https://arxiv.org/abs/2504.01619)] [Code]
 - **📝 说明**：🏆 Accepted to ICME 2025
+
+#### [7] ContrastiveGaussian: High-Fidelity 3D Generation with Contrastive Learning and Gaussian Splatting
+- **🧑‍🔬 作者**：Junbang Liu, Enpei Huang, Dongxing Mao, Hui Zhang, Xinyuan Song, Yongxin Ni
+- **🏫 单位**：Beijing Normal-Hong Kong Baptist University ⟐ National University of Singapore ⟐ Emory University
+- **🔗 链接**：[[中英摘要](./abs/2504.08100.md)] [[arXiv:2504.08100](https://arxiv.org/abs/2504.08100)] [Code]
+- **📝 说明**: 🏆 Accepted to ICME 2025
+
+#### [8] SMPL Normal Map Is All You Need for Single-view Textured Human Reconstruction
+- **🧑‍🔬 作者**：Wenhao Shen, Gangjian Zhang, Jianfeng Zhang, Yu Feng, Nanjie Yao, Xuanmeng Zhang, Hao Wang
+- **🏫 单位**：Nanyang Technological University ⟐ The Hong Kong University of Science and Technology (Guangzhou) ⟐ National University of Singapore ⟐ Zhejiang University of Technology ⟐ University of Technology Sydney
+- **🔗 链接**：[[中英摘要](./abs/2506.12793.md)] [[arXiv:2506.12793](https://arxiv.org/abs/2506.12793)] [Code]
+- **📝 说明**: 🏆 Accepted to ICME 2025

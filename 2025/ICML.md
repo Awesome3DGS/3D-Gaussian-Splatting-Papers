@@ -36,3 +36,9 @@
 - **🏫 单位**：Tongji University
 - **🔗 链接**：[[中英摘要](./abs/2506.12400.md)] [[arXiv:2506.12400](https://arxiv.org/abs/2506.12400)] [[Code](https://github.com/eezkni/Perceptual-GS)]
 - **📝 说明**: 🏆 Accepted to ICML 2025
+
+#### [7] ReferSplat: Referring Segmentation in 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Shuting He, Guangquan Jie, Changshuo Wang, Yun Zhou, Shuming Hu, Guanbin Li, Henghui Ding
+- **🏫 单位**：Shanghai University of Finance and Economics ⟐ Fudan University ⟐ Nanyang Technological University ⟐ Sun Yat-sen University
+- **🔗 链接**：[[中英摘要](./abs/2508.08252.md)] [[arXiv:2508.08252](https://arxiv.org/abs/2508.08252)] [[Code](https://github.com/heshuting555/ReferSplat)]
+- **📝 说明**: 🏆 Accepted to ICML 2025 Oral
