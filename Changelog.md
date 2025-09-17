@@ -1,5 +1,53 @@
 # Changelog
 
+### 2025/09/17
+
+Add "GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects"
+
+Add "GSFix3D: Diffusion-Guided Repair of Novel Views in Gaussian Splatting"
+
+Add "GeMS: Efficient Gaussian Splatting for Extreme Motion Blur"
+
+Add "GOGS: High-Fidelity Geometry and Relighting for Glossy Objects via Gaussian Surfels"
+
+Add "From Slices to Structures: Unsupervised 3D Reconstruction of Female Pelvic Anatomy from Freehand Transvaginal Ultrasound"
+
+Add "D^3-Talker: Dual-Branch Decoupled Deformation Fields for Few-Shot 3D Talking Head Synthesis"
+
+Add "Reconstruction Using the Invisible: Intuition from NIR and Metadata for Enhanced 3D Gaussian Splatting"
+
+Add "GALA: Guided Attention with Language Alignment for Open Vocabulary Gaussian Splatting"
+
+Add "LongSplat: Robust Unposed 3D Gaussian Splatting for Casual Long Videos"
+
+Add "Distilled-3DGS:Distilled 3D Gaussian Splatting"
+
+Add "Online 3D Gaussian Splatting Modeling with Novel View Selection"
+
+Add "PhysGM: Large Physical Gaussian Model for Feed-Forward 4D Synthesis"
+
+Add "EAvatar: Expression-Aware Head Avatar Reconstruction with Generative Geometry Priors"
+
+Add "InnerGS: Internal Scenes Rendering via Factorized 3D Gaussian Splatting"
+
+Add "IGFuse: Interactive 3D Gaussian Scene Reconstruction via Multi-Scans Fusion"
+
+Add "IntelliCap: Intelligent Guidance for Consistent View Sampling"
+
+Add "Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting"
+
+Add "WIPES: Wavelet-based Visual Primitives"
+
+Add "TiP4GEN: Text to Immersive Panorama 4D Scene Generation"
+
+Add "Improving Densification in 3D Gaussian Splatting for High-Fidelity Rendering"
+
+Add "InstDrive: Instance-Aware 3D Gaussian Splatting for Driving Scenes"
+
+Add "ComplicitSplat: Downstream Models are Vulnerable to Blackbox Attacks by 3D Gaussian Splat Camouflages"
+
+Add "Vision-Only Gaussian Splatting for Collaborative Semantic Occupancy Prediction"
+
 ### 2025/08/17
 
 Add "Multi-Sample Anti-Aliasing and Constrained Optimization for 3D Gaussian Splatting"
