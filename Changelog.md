@@ -1,5 +1,37 @@
 # Changelog
 
+### 2025/09/25
+
+Add "GSVisLoc: Generalizable Visual Localization for Gaussian Splatting Scene Representations"
+
+Add "Camera Pose Refinement via 3D Gaussian Splatting"
+
+Add "MeshSplat: Generalizable Sparse-View Surface Reconstruction via Gaussian Splatting"
+
+Add "GWM: Towards Scalable Gaussian World Models for Robotic Manipulation"
+
+Add "IDU: Incremental Dynamic Update of Existing 3D Virtual Environments with New Imagery Data"
+
+Add "Pixie: Fast and Generalizable Supervised Learning of 3D Physics from Pixels"
+
+Add "Fiducial Marker Splatting for High-Fidelity Robotics Simulations"
+
+Add "Arbitrary-Scale 3D Gaussian Super-Resolution"
+
+Add "UnPose: Uncertainty-Guided Diffusion Priors for Zero-Shot Pose Estimation"
+
+Add "Enhancing Novel View Synthesis from extremely sparse views with SfM-free 3D Gaussian Splatting Framework"
+
+Add "DriveSplat: Decoupled Driving Scene Reconstruction with Geometry-enhanced Partitioned Neural Gaussians"
+
+Add "Image-Conditioned 3D Gaussian Splat Quantization"
+
+Add "MeSS: City Mesh-Guided Outdoor Scene Generation with Cross-View Consistent Diffusion"
+
+Add "Zero-shot Volumetric CT Super-Resolution using 3D Gaussian Splatting with Upsampled 2D X-ray Projection Priors"
+
+Add "Snap-Snap: Taking Two Images to Reconstruct 3D Human Gaussians in Milliseconds"
+
 ### 2025/09/17
 
 Add "GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects"
