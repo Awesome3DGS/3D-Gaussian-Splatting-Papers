@@ -1,5 +1,59 @@
 # Changelog
 
+### 2025/09/28
+
+Add "ContraGS: Codebook-Condensed and Trainable Gaussian Splatting for Fast, Memory-Efficient Reconstruction"
+
+Add "Efficient Geometry Compression and Communication for 3D Gaussian Splatting Point Clouds"
+
+Add "GRMM: Real-Time High-Fidelity Gaussian Morphable Head Model with Learned Residuals"
+
+Add "2D Gaussian Splatting with Semantic Alignment for Image Inpainting"
+
+Add "FGO-SLAM: Enhancing Gaussian SLAM with Globally Consistent Opacity Radiance Field"
+
+Add "Im2Haircut: Single-view Strand-based Hair Reconstruction for Human Avatars"
+
+Add "Towards Integrating Multi-Spectral Imaging with Gaussian Splatting"
+
+Add "GS-TG: 3D Gaussian Splatting Accelerator with Tile Grouping for Reducing Redundant Sorting while Preserving Rasterization Efficiency"
+
+Add "UPGS: Unified Pose-aware Gaussian Splatting for Dynamic Scene Deblurring"
+
+Add "SWAGSplatting: Semantic-guided Water-scene Augmented Gaussian Splatting"
+
+Add "MarkSplatter: Generalizable Watermarking for 3D Gaussian Splatting Model via Splatter Image Structure"
+
+Add "AGS: Accelerating 3D Gaussian Splatting SLAM via CODEC-Assisted Frame Covisibility Detection"
+
+Add "Complete Gaussian Splats from a Single Image with Denoising Diffusion Models"
+
+Add "Scale-GS: Efficient Scalable Gaussian Splatting via Redundancy-filtering Training on Streaming Content"
+
+Add "ARGS: Advanced Regularization on Aligning Gaussians over the Surface"
+
+Add "RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration"
+
+Add "DrivingGaussian++: Towards Realistic Reconstruction and Editable Simulation for Surrounding Dynamic Driving Scenes"
+
+Add "AvatarBack: Back-Head Generation for Complete 3D Avatars from Front-View Images"
+
+Add "Realistic and Controllable 3D Gaussian-Guided Object Editing for Driving Video Generation"
+
+Add "Seam360GS: Seamless 360° Gaussian Splatting from Real-World Omnidirectional Images"
+
+Add "MAPo: Motion-Aware Partitioning of Deformable 3D Gaussian Splatting for High-Fidelity Dynamic Scene Reconstruction"
+
+Add "FastAvatar: Towards Unified Fast High-Fidelity 3D Avatar Reconstruction with Large Gaussian Reconstruction Transformers"
+
+Add "LabelGS: Label-Aware 3D Gaussian Splatting for 3D Scene Segmentation"
+
+Add "Style4D-Bench: A Benchmark Suite for 4D Stylization"
+
+Add "ColorGS: High-fidelity Surgical Scene Reconstruction with Colored Gaussian Splatting"
+
+Add "FastAvatar: Instant 3D Gaussian Splatting for Faces from Single Unconstrained Poses"
+
 ### 2025/09/25
 
 Add "GSVisLoc: Generalizable Visual Localization for Gaussian Splatting Scene Representations"
