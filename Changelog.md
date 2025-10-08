@@ -1,5 +1,55 @@
 # Changelog
 
+### 2025/10/08
+
+Add "Beyond Averages: Open-Vocabulary 3D Scene Understanding with Gaussian Splatting and Bag of Embeddings"
+
+Add "4DRadar-GS: Self-Supervised Dynamic Driving Scene Reconstruction with 4D Radar"
+
+Add "Distributed 3D Gaussian Splatting for High-Resolution Isosurface Visualization"
+
+Add "E2-BKI: Evidential Ellipsoidal Bayesian Kernel Inference for Uncertainty-aware Gaussian Semantic Mapping"
+
+Add "Segmentation-Driven Initialization for Sparse-view 3D Gaussian Splatting"
+
+Add "A Controllable 3D Deepfake Generation Framework with Gaussian Splatting"
+
+Add "Gaussian-Plus-SDF SLAM: High-fidelity 3D Reconstruction at 150+ fps"
+
+Add "ROSGS: Relightable Outdoor Scenes With Gaussian Splatting"
+
+Add "SPHERE: Semantic-PHysical Engaged REpresentation for 3D Semantic Scene Completion"
+
+Add "SVR-GS: Spatially Variant Regularization for Probabilistic Masks in 3D Gaussian Splatting"
+
+Add "AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting"
+
+Add "T2Bs: Text-to-Character Blendshapes via Video Generation"
+
+Add "On the Geometric Accuracy of Implicit and Primitive-based Representations Derived from View Rendering Constraints"
+
+Add "SplatFill: 3D Scene Inpainting via Depth-Guided Gaussian Splatting"
+
+Add "HairGS: Hair Strand Reconstruction based on 3D Gaussian Splatting"
+
+Add "PanoLAM: Large Avatar Model for Gaussian Full-Head Synthesis from One-shot Unposed Image"
+
+Add "Accurate and Complete Surface Reconstruction from 3D Gaussians via Direct SDF Learning"
+
+Add "DreamLifting: A Plug-in Module Lifting MV Diffusion Models for 3D Asset Generation"
+
+Add "MEGS2: Memory-Efficient Gaussian Splatting via Spherical Gaussians and Unified Pruning"
+
+Add "3DOF+Quantization: 3DGS quantization for large scenes with limited Degrees of Freedom"
+
+Add "Reconstruction and Reenactment Separated Method for Realistic Gaussian Head"
+
+Add "Visibility-Aware Language Aggregation for Open-Vocabulary Segmentation in 3D Gaussian Splatting"
+
+Add "GeoSplat: A Deep Dive into Geometry-Constrained Gaussian Splatting"
+
+Add "SSGaussian: Semantic-Aware and Structure-Preserving 3D Style Transfer"
+
 ### 2025/09/28
 
 Add "ContraGS: Codebook-Condensed and Trainable Gaussian Splatting for Fast, Memory-Efficient Reconstruction"
