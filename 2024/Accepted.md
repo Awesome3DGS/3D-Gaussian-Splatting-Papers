@@ -156,3 +156,8 @@
 - **🔗 链接**：[[中英摘要](../abs/2411.10033.md)] [[arXiv:2411.10033](https://arxiv.org/abs/2411.10033)] [Code]
 - **📝 说明**：🏆 Accepted to Pacific Graphics 2024
 
+#### [27] 2DGS-Avatar: Animatable High-fidelity Clothed Avatar via 2D Gaussian Splatting
+- **🧑‍🔬 作者**：Qipeng Yan, Mingyang Sun, Lihua Zhang
+- **🏫 单位**：Academy for Engineering and Technology Fudan University
+- **🔗 链接**：[[中英摘要](../abs/2503.02452.md)] [[arXiv:2503.02452](https://arxiv.org/abs/2503.02452)] [Code]
+- **📝 说明**：🏆 Accepted to ICVRV 2024

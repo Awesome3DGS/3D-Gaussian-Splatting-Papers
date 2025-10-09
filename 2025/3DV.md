@@ -72,49 +72,55 @@
 - **🔗 链接**：[[中英摘要](../abs/2408.10588.md)] [[arXiv:2408.10588](https://arxiv.org/abs/2408.10588)] [[Code](https://github.com/initialneil/DEGAS)]
 - **📝 说明**：🏆 Accepted to 3DV 2025
 
-#### [13] LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming
+#### [13] ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining
+- **🧑‍🔬 作者**：Qi Ma, Yue Li, Bin Ren, Nicu Sebe, Ender Konukoglu, Theo Gevers, Luc Van Gool, Danda Pani Paudel
+- **🏫 单位**：Computer Vision Lab, ETH Zurich ⟐ INSAIT, Sofia University ⟐ University of Amsterdam ⟐ University of Pisa ⟐ University of Trento
+- **🔗 链接**：[[中英摘要](./abs/2408.10906.md)] [[arXiv:2408.10906](https://arxiv.org/abs/2408.10906)] [[Code](https://github.com/qimaqi/ShapeSplat-Gaussian_MAE)]
+- **📝 说明**: 🏆 Accepted to 3DV 2025
+
+#### [14] LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming
 - **🧑‍🔬 作者**：Yuang Shi, Simone Gasparini, Géraldine Morin, Wei Tsang Ooi
 - **🏫 单位**：National University of Singapore ⟐ IRIT - University of Toulouse
 - **🔗 链接**：[[中英摘要](../abs/2408.14823.md)] [[arXiv:2408.14823](https://arxiv.org/abs/2408.14823)] [Code]
 - **📝 说明**：🏆 Accepted to 3DV 2025
 
-#### [14] DynOMo: Online Point Tracking by Dynamic Online Monocular Gaussian Reconstruction
+#### [15] DynOMo: Online Point Tracking by Dynamic Online Monocular Gaussian Reconstruction
 - **🧑‍🔬 作者**：Jenny Seidenschwarz, Qunjie Zhou, Bardienus Duisterhof, Deva Ramanan, Laura Leal-Taixé
 - **🏫 单位**：Technical University of Munich ⟐ Carnegie Mellon University ⟐ NVIDIA
 - **🔗 链接**：[[中英摘要](../abs/2409.02104.md)] [[arXiv:2409.02104](https://arxiv.org/abs/2409.02104)] [Code]
 - **📝 说明**：🏆 Accepted to 3DV 2025
 
-#### [15] Direct and Explicit 3D Generation from a Single Image
+#### [16] Direct and Explicit 3D Generation from a Single Image
 - **🧑‍🔬 作者**：Haoyu Wu, Meher Gitika Karumuri, Chuhang Zou, Seungbae Bang, Yuelong Li, Dimitris Samaras, Sunil Hadap
 - **🏫 单位**：Stony Brook University ⟐ Amazon Inc.
 - **🔗 链接**：[[中英摘要](../abs/2411.10947.md)] [[arXiv:2411.10947](https://arxiv.org/abs/2411.10947)] [Code]
 - **📝 说明**：🏆 Accepted to 3DV 2025
 
-#### [16] Gaussians-to-Life: Text-Driven Animation of 3D Gaussian Splatting Scenes
+#### [17] Gaussians-to-Life: Text-Driven Animation of 3D Gaussian Splatting Scenes
 - **🧑‍🔬 作者**：Thomas Wimmer, Michael Oechsle, Michael Niemeyer, Federico Tombari
 - **🏫 单位**：Technical University of Munich ⟐ Google
 - **🔗 链接**：[[中英摘要](../abs/2411.19233.md)] [[arXiv:2411.19233](https://arxiv.org/abs/2411.19233)] [Code]
 - **📝 说明**：🏆 Accepted to 3DV 2025
 
-#### [17] AGS-Mesh: Adaptive Gaussian Splatting and Meshing with Geometric Priors for Indoor Room Reconstruction Using Smartphones
+#### [18] AGS-Mesh: Adaptive Gaussian Splatting and Meshing with Geometric Priors for Indoor Room Reconstruction Using Smartphones
 - **🧑‍🔬 作者**：Xuqian Ren, Matias Turkulainen, Jiepeng Wang, Otto Seiskari, Iaroslav Melekhov, Juho Kannala, Esa Rahtu
 - **🏫 单位**：Tampere University ⟐ Aalto University ⟐ University of Hong Kong ⟐ Spectacular AI ⟐ University of Oulu
 - **🔗 链接**：[[中英摘要](../abs/2411.19271.md)] [[arXiv:2411.19271](https://arxiv.org/abs/2411.19271)] [[Code](https://github.com/maturk/dn-splatter)]
 - **📝 说明**：🏆 Accepted to 3DV 2025
 
-#### [18] GaussianAvatar-Editor: Photorealistic Animatable Gaussian Head Avatar Editor
+#### [19] GaussianAvatar-Editor: Photorealistic Animatable Gaussian Head Avatar Editor
 - **🧑‍🔬 作者**：Xiangyue Liu, Kunming Luo, Heng Li, Qi Zhang, Yuan Liu, Li Yi, Ping Tan
 - **🏫 单位**： Hong Kong University of Science and Technology ⟐ Tencent AI Lab ⟐ Tsinghua University
 - **🔗 链接**：[[中英摘要](../abs/2501.09978.md)] [[arXiv:2501.09978](https://arxiv.org/abs/2501.09978)] [Code]
 - **📝 说明**：🏆 Accepted to 3DV 2025
 
-#### [19] E-3DGS: Event-Based Novel View Rendering of Large-Scale Scenes Using 3D Gaussian Splatting
+#### [20] E-3DGS: Event-Based Novel View Rendering of Large-Scale Scenes Using 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Sohaib Zahid, Viktor Rudnev, Eddy Ilg, Vladislav Golyanik
 - **🏫 单位**：Saarland University ⟐ MPI for Informatics, SIC
 - **🔗 链接**：[[中英摘要](../abs/2502.10827.md)] [[arXiv:2502.10827](https://arxiv.org/abs/2502.10827)] [Code]
 - **📝 说明**：🏆 Accepted to 3DV 2025
 
-#### [20] Open-Vocabulary Semantic Part Segmentation of 3D Human
+#### [21] Open-Vocabulary Semantic Part Segmentation of 3D Human
 - **🧑‍🔬 作者**：Keito Suzuki, Bang Du, Girish Krishnan, Kunyao Chen, Runfa Blark Li, Truong Nguyen
 - **🏫 单位**: University of California, San Diego ⟐ Qualcomm
 - **🔗 链接**：[[中英摘要](../abs/2502.19782.md)] [[arXiv:2502.19782](https://arxiv.org/abs/2502.19782)] [Code]

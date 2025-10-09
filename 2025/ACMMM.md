@@ -18,56 +18,86 @@
 - **🔗 链接**：[[中英摘要](./abs/2504.09540.md)] [[arXiv:2504.09540](https://arxiv.org/abs/2504.09540)] [[Code](https://github.com/PKUHaoWang/EmbodiedOcc2)]
 - **📝 说明**: 🏆 Accepted to ACM MM 2025
 
-#### [4] CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos
+#### [4] TSGS: Improving Gaussian Splatting for Transparent Surface Reconstruction via Normal and De-lighting Priors
+- **🧑‍🔬 作者**：Mingwei Li, Pu Pang, Hehe Fan, Hua Huang, Yi Yang
+- **🏫 单位**：Zhejiang University ⟐ Zhongguancun Academy, Beijing ⟐ Xi'an Jiaotong University ⟐ Beijing Normal University
+- **🔗 链接**：[[中英摘要](./abs/2504.12799.md)] [[arXiv:2504.12799](https://arxiv.org/abs/2504.12799)] [[Code](https://github.com/longxiang-ai/TSGS)]
+- **📝 说明**: 🏆 Accepted to ACM MM 2025
+
+#### [5] CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos
 - **🧑‍🔬 作者**：Keyang Ye, Tianjia Shao, Kun Zhou
 - **🏫 单位**：Westlake University ⟐ Wuhan University ⟐ ETH Zürich ⟐ Zhejiang University
 - **🔗 链接**：[[中英摘要](./abs/2504.17728.md)] [[arXiv:2504.17728](https://arxiv.org/abs/2504.17728)] [[Code](https://github.com/WU-CVGL/CasualHDRSplat)]
 - **📝 说明**: 🏆 Accepted to ACM MM 2025
 
-#### [5] FlexGaussian: Flexible and Cost-Effective Training-Free Compression for 3D Gaussian Splatting
+#### [6] FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors
+- **🧑‍🔬 作者**：Chenxi Li, Weijie Wang, Qiang Li, Bruno Lepri, Nicu Sebe, Weizhi Nie
+- **🏫 单位**：Tianjin University ⟐ University of Trento ⟐ Fondazione Bruno Kessler ⟐ Tsinghua University
+- **🔗 链接**：[[中英摘要](./abs/2505.01322.md)] [[arXiv:2505.01322](https://arxiv.org/abs/2505.01322)] [Code]
+- **📝 说明**: 🏆 Accepted to ACM MM 2025
+
+#### [7] FlexGaussian: Flexible and Cost-Effective Training-Free Compression for 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Boyuan Tian, Qizhe Gao, Siran Xianyu, Xiaotong Cui, Minjia Zhang
 - **🏫 单位**：UIUC
 - **🔗 链接**：[[中英摘要](./abs/2507.06671.md)] [[arXiv:2507.06671](https://arxiv.org/abs/2507.06671)] [[Code](https://github.com/Supercomputing-System-AI-Lab/FlexGaussian)]
 - **📝 说明**: 🏆 Accepted to ACM MM 2025
 
-#### [6] Seg-Wild: Interactive Segmentation based on 3D Gaussian Splatting for Unconstrained Image Collections
+#### [8] Seg-Wild: Interactive Segmentation based on 3D Gaussian Splatting for Unconstrained Image Collections
 - **🧑‍🔬 作者**：Yongtang Bao, Chengjie Tang, Yuze Wang, Haojie Li
 - **🏫 单位**：University of Science and Technology ⟐ Beihang University
 - **🔗 链接**：[[中英摘要](./abs/2507.07395.md)] [[arXiv:2507.07395](https://arxiv.org/abs/2507.07395)] [[Code](https://github.com/Sugar0725/Seg-Wild)]
 - **📝 说明**: 🏆 Accepted to ACM MM 2025
 
-#### [7] Occlusion-Aware Temporally Consistent Amodal Completion for 3D Human-Object Interaction Reconstruction
+#### [9] Occlusion-Aware Temporally Consistent Amodal Completion for 3D Human-Object Interaction Reconstruction
 - **🧑‍🔬 作者**：Hyungjun Doh, Dong In Lee, Seunggeun Chi, Pin-Hao Huang, Kwonjoon Lee, Sangpil Kim, Karthik Ramani
 - **🏫 单位**：Purdue University ⟐ Korea University ⟐ Honda Research Institute USA
 - **🔗 链接**：[[中英摘要](./abs/2507.08137.md)] [[arXiv:2507.08137](https://arxiv.org/abs/2507.08137)] [Code]
 - **📝 说明**: 🏆 Accepted to ACM MM 2025
 
-#### [8] Stereo-GS: Multi-View Stereo Vision Model for Generalizable 3D Gaussian Splatting Reconstruction
+#### [10] Stereo-GS: Multi-View Stereo Vision Model for Generalizable 3D Gaussian Splatting Reconstruction
 - **🧑‍🔬 作者**：Xiufeng Huang, Ka Chun Cheung, Runmin Cong, Simon See, Renjie Wan
 - **🏫 单位**：Hong Kong Baptist University ⟐ NVIDIA ⟐ Shandong University
 - **🔗 链接**：[[中英摘要](./abs/2507.14921.md)] [[arXiv:2507.14921](https://arxiv.org/abs/2507.14921)] [Code]
 - **📝 说明**: 🏆 Accepted to ACM MM 2025
 
-#### [9] SonicGauss: Position-Aware Physical Sound Synthesis for 3D Gaussian Representations
+#### [11] SonicGauss: Position-Aware Physical Sound Synthesis for 3D Gaussian Representations
 - **🧑‍🔬 作者**：Chunshi Wang, Hongxing Li, Yawei Luo
 - **🏫 单位**：Zhejiang University
 - **🔗 链接**：[[中英摘要](./abs/2507.19835.md)] [[arXiv:2507.19835](https://arxiv.org/abs/2507.19835)] [Code]
 - **📝 说明**: 🏆 Accepted to ACM MM 2025
 
-#### [10] GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting
+#### [12] GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting
 - **🧑‍🔬 作者**：Lei Yao, Yi Wang, Yi Zhang, Moyun Liu, Lap-Pui Chau
 - **🏫 单位**：Hong Kong Polytechnic University ⟐ Huazhong University of Science and Technology
 - **🔗 链接**：[[中英摘要](./abs/2508.02172.md)] [[arXiv:2508.02172](https://arxiv.org/abs/2508.02172)] [[Code](https://github.com/RayYoh/GaussianCross)]
 - **📝 说明**: 🏆 Accepted to ACM MM 2025
 
-#### [11] 3DGabSplat: 3D Gabor Splatting for Frequency-adaptive Radiance Field Rendering
+#### [13] 3DGabSplat: 3D Gabor Splatting for Frequency-adaptive Radiance Field Rendering
 - **🧑‍🔬 作者**：Junyu Zhou, Yuyang Huang, Wenrui Dai, Junni Zou, Ziyang Zheng, Nuowen Kan, Chenglin Li, Hongkai Xiong
 - **🏫 单位**：Shanghai Jiao Tong University
 - **🔗 链接**：[[中英摘要](./abs/2508.05343.md)] [[arXiv:2508.05343](https://arxiv.org/abs/2508.05343)] [Code]
 - **📝 说明**: 🏆 Accepted to ACM MM 2025
 
-#### [12] Roll Your Eyes: Gaze Redirection via Explicit 3D Eyeball Rotation
+#### [14] Roll Your Eyes: Gaze Redirection via Explicit 3D Eyeball Rotation
 - **🧑‍🔬 作者**：YoungChan Choi, HengFei Wang, YiHua Cheng, Boeun Kim, Hyung Jin Chang, YoungGeun Choi, Sang-Il Choi
 - **🏫 单位**：Dankook University ⟐ University of Birmingham
 - **🔗 链接**：[[中英摘要](./abs/2508.06136.md)] [[arXiv:2508.06136](https://arxiv.org/abs/2508.06136)] [Code]
+- **📝 说明**: 🏆 Accepted to ACM MM 2025
+
+#### [15] E-4DGS: High-Fidelity Dynamic Reconstruction from the Multi-view Event Cameras
+- **🧑‍🔬 作者**：Chaoran Feng, Zhenyu Tang, Wangbo Yu, Yatian Pang, Yian Zhao, Jianbin Zhao, Li Yuan, Yonghong Tian
+- **🏫 单位**：Peking University ⟐ National University of Singapore ⟐ Dalian University of Technology
+- **🔗 链接**：[[中英摘要](./abs/2508.09912.md)] [[arXiv:2508.09912](https://arxiv.org/abs/2508.09912)] [Code]
+- **📝 说明**: 🏆 Accepted to ACM MM 2025
+
+#### [16] TiP4GEN: Text to Immersive Panorama 4D Scene Generation
+- **🧑‍🔬 作者**：Ke Xing, Hanwen Liang, Dejia Xu, Yuyang Yin, Konstantinos N. Plataniotis, Yao Zhao, Yunchao Wei
+- **🏫 单位**：Beijing Jiaotong University ⟐ University of Toronto ⟐ The University of Texas at Austin
+- **🔗 链接**：[[中英摘要](./abs/2508.12415.md)] [[arXiv:2508.12415](https://arxiv.org/abs/2508.12415)] [Code]
+- **📝 说明**: 🏆 Accepted to ACM MM 2025
+
+#### [17] SPHERE: Semantic-PHysical Engaged REpresentation for 3D Semantic Scene Completion
+- **🧑‍🔬 作者**：Zhiwen Yang, Yuxin Peng
+- **🏫 单位**：Peking University
+- **🔗 链接**：[[中英摘要](./abs/2509.11171.md)] [[arXiv:2509.11171](https://arxiv.org/abs/2509.11171)] [[Code](https://github.com/PKU-ICST-MIPL/SPHERE_ACMMM2025)]
 - **📝 说明**: 🏆 Accepted to ACM MM 2025
