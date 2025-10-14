@@ -1,5 +1,61 @@
 # Changelog
 
+### 2025/10/14
+
+Add "FGGS-LiDAR: Ultra-Fast, GPU-Accelerated Simulation from General 3DGS Models to LiDAR"
+
+Add "SmokeSeer: 3D Gaussian Splatting for Smoke Removal and Scene Reconstruction"
+
+Add "SPFSplatV2: Efficient Self-Supervised Pose-Free 3D Gaussian Splatting from Sparse Views"
+
+Add "HyRF: Hybrid Radiance Fields for Memory-efficient and High-quality Novel View Synthesis"
+
+Add "Efficient 3D Scene Reconstruction and Simulation from Sparse Endoscopic Views"
+
+Add "SemanticGarment: Semantic-Controlled Generation and Editing of 3D Gaussian Garments"
+
+Add "PGSTalker: Real-Time Audio-Driven Talking Head Generation via 3D Gaussian Splatting with Pixel-Aware Density Control"
+
+Add "ConfidentSplat: Confidence-Weighted Depth Fusion for Accurate 3D Gaussian Splatting SLAM"
+
+Add "MedGS: Gaussian Splatting for Multi-Modal 3D Medical Imaging"
+
+Add "SQS: Enhancing Sparse Perception Models via Query-based Splatting in Autonomous Driving"
+
+Add "ST-GS: Vision-Based 3D Semantic Occupancy Prediction with Spatial-Temporal Gaussian Splatting"
+
+Add "3D Gaussian Flats: Hybrid 2D/3D Photometric Scene Reconstruction"
+
+Add "RadarGaussianDet3D: An Efficient and Effective Gaussian-based 3D Detector with 4D Automotive Radars"
+
+Add "Zero-Shot Visual Grounding in 3D Gaussians via View Retrieval"
+
+Add "Camera Splatting for Continuous View Optimization"
+
+Add "FingerSplat: Contactless Fingerprint 3D Reconstruction and Generation based on 3D Gaussian Splatting"
+
+Add "GS-Scale: Unlocking Large-Scale 3D Gaussian Splatting Training via Host Offloading"
+
+Add "MS-GS: Multi-Appearance Sparse-View 3D Gaussian Splatting in the Wild"
+
+Add "Causal Reasoning Elicits Controllable 3D Scene Generation"
+
+Add "FMGS-Avatar: Mesh-Guided 2D Gaussian Splatting with Foundation Model Priors for 3D Monocular Avatar Reconstruction"
+
+Add "RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI"
+
+Add "Perception-Integrated Safety Critical Control via Analytic Collision Cone Barrier Functions on 3D Gaussian Splatting"
+
+Add "MCGS-SLAM: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping"
+
+Add "Plug-and-Play PDE Optimization for 3D Gaussian Splatting: Toward High-Quality Rendering and Reconstruction"
+
+Add "MemGS: Memory-Efficient Gaussian Splatting for Real-Time SLAM"
+
+Add "Improving 3D Gaussian Splatting Compression by Scene-Adaptive Lattice Vector Quantization"
+
+Add "Dream3DAvatar: Text-Controlled 3D Avatar Reconstruction from a Single Image"
+
 ### 2025/10/08
 
 Add "Beyond Averages: Open-Vocabulary 3D Scene Understanding with Gaussian Splatting and Bag of Embeddings"
