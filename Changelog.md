@@ -1,5 +1,43 @@
 # Changelog
 
+### 2025/10/23
+
+Add "SeHDR: Single-Exposure HDR Novel View Synthesis via 3D Gaussian Bracketing"
+
+Add "4D Driving Scene Generation With Stereo Forcing"
+
+Add "PU-Gaussian: Point Cloud Upsampling using 3D Gaussian Representation"
+
+Add "GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes"
+
+Add "Aerial-Ground Image Feature Matching via 3D Gaussian Splatting-based Intermediate View Rendering"
+
+Add "BiTAA: A Bi-Task Adversarial Attack for Object Detection and Depth Estimation via 3D Gaussian Splatting"
+
+Add "PolGS: Polarimetric Gaussian Splatting for Fast Reflective Surface Reconstruction"
+
+Add "VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction"
+
+Add "Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation"
+
+Add "WaveletGaussian: Wavelet-domain Diffusion for Sparse-view 3D Gaussian Object Reconstruction"
+
+Add "Seeing Through Reflections: Advancing 3D Scene Reconstruction in Mirror-Containing Environments with Gaussian Splatting"
+
+Add "DeblurSplat: SfM-free 3D Gaussian Splatting with Event Camera for Robust Deblurring"
+
+Add "FixingGS: Enhancing 3D Gaussian Splatting via Training-Free Score Distillation"
+
+Add "Event-guided 3D Gaussian Splatting for Dynamic Human and Scene Reconstruction"
+
+Add "BridgeSplat: Bidirectionally Coupled CT and Non-Rigid Gaussian Splatting for Deformable Intraoperative Surgical Navigation"
+
+Add "ProDyG: Progressive Dynamic Scene Reconstruction via Gaussian Splatting from Monocular Videos"
+
+Add "From Restoration to Reconstruction: Rethinking 3D Gaussian Splatting for Underwater Scenes"
+
+Add "EmbodiedSplat: Personalized Real-to-Sim-to-Real Navigation with Gaussian Splats from a Mobile Device"
+
 ### 2025/10/14
 
 Add "FGGS-LiDAR: Ultra-Fast, GPU-Accelerated Simulation from General 3DGS Models to LiDAR"
