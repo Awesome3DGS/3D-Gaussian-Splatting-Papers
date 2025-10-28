@@ -1,5 +1,59 @@
 # Changelog
 
+### 2025/10/28
+
+Add "Stylos: Multi-View 3D Stylization with Single-Forward Gaussian Splatting"
+
+Add "GaussEdit: Adaptive 3D Scene Editing with Text and Image Prompts"
+
+Add "PFDepth: Heterogeneous Pinhole-Fisheye Joint Depth Estimation via Distortion-aware Gaussian-Splatted Volumetric Fusion"
+
+Add "LLM-Powered Code Analysis and Optimization for Gaussian Splatting Kernels"
+
+Add "GaussianLens: Localized High-Resolution Reconstruction via On-Demand Gaussian Densification"
+
+Add "PAD3R: Pose-Aware Dynamic 3D Reconstruction from Casual Videos"
+
+Add "Triangle Splatting+: Differentiable Rendering with Opaque Triangles"
+
+Add "UniLat3D: Geometry-Appearance Unified Latents for Single-Stage 3D Generation"
+
+Add "GEM: 3D Gaussian Splatting for Efficient and Accurate Cryo-EM Reconstruction"
+
+Add "LVT: Large-Scale Scene Reconstruction via Local View Transformers"
+
+Add "HBSplat: Robust Sparse-View Gaussian Reconstruction with Hybrid-Loss Guided Depth and Bidirectional Warping"
+
+Add "ExGS: Extreme 3D Gaussian Compression with Diffusion Priors"
+
+Add "Proxy-GS: Efficient 3D Gaussian Splatting via Proxy Mesh"
+
+Add "Forge4D: Feed-Forward 4D Human Reconstruction and Interpolation from Uncalibrated Sparse-view Videos"
+
+Add "CrashSplat: 2D to 3D Vehicle Damage Segmentation in Gaussian Splatting"
+
+Add "Orientation-anchored Hyper-Gaussian for 4D Reconstruction from Casual Videos"
+
+Add "WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving"
+
+Add "OracleGS: Grounding Generative Priors for Sparse-View Gaussian Splatting"
+
+Add "Learning Unified Representation of 3D Gaussian Splatting"
+
+Add "HELIOS: Hierarchical Exploration for Language-grounded Interaction in Open Scenes"
+
+Add "GS-2M: Gaussian Splatting for Joint Mesh Reconstruction and Material Decomposition"
+
+Add "Polysemous Language Gaussian Splatting via Matching-based Mask Lifting"
+
+Add "Rigidity-Aware 3D Gaussian Deformation from a Single Image"
+
+Add "Large Material Gaussian Model for Relightable 3D Generation"
+
+Add "Dynamic Novel View Synthesis in High Dynamic Range"
+
+Add "PowerGS: Display-Rendering Power Co-Optimization for Neural Rendering in Power-Constrained XR Systems"
+
 ### 2025/10/23
 
 Add "SeHDR: Single-Exposure HDR Novel View Synthesis via 3D Gaussian Bracketing"
