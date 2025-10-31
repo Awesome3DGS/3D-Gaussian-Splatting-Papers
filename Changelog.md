@@ -1,5 +1,57 @@
 # Changelog
 
+### 2025/10/31
+
+Add "ReSplat: Learning Recurrent Gaussian Splats"
+
+Add "D2GS: Depth-and-Density Guided Gaussian Splatting for Stable and Accurate Sparse-View Reconstruction"
+
+Add "ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D Reconstruction with Structured Scene Representation"
+
+Add "Splat the Net: Radiance Fields with Splattable Neural Primitives"
+
+Add "Efficient Label Refinement for Face Parsing Under Extreme Poses Using 3D Gaussian Splatting"
+
+Add "CVD-STORM: Cross-View Video Diffusion with Spatial-Temporal Reconstruction Model for Autonomous Driving"
+
+Add "PrismGS: Physically-Grounded Anti-Aliasing for High-Fidelity Large-Scale 3D Gaussian Splatting"
+
+Add "DEGS: Deformable Event-based 3D Gaussian Splatting from RGB and Event Stream"
+
+Add "ComGS: Efficient 3D Object-Scene Composition via Surface Octahedral Probes"
+
+Add "Generating Surface for Text-to-3D using 2D Gaussian Splatting"
+
+Add "Capture and Interact: Rapid 3D Object Acquisition and Rendering with Gaussian Splatting in Unity"
+
+Add "SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D Novel View Synthesis"
+
+Add "RTGS: Real-Time 3D Gaussian Splatting SLAM via Multi-Level Redundancy Reduction"
+
+Add "ArchitectHead: Continuous Level of Detail Control for 3D Gaussian Head Avatars"
+
+Add "Progressive Gaussian Transformer with Anisotropy-aware Sampling for Open Vocabulary Occupancy Prediction"
+
+Add "SketchPlan: Diffusion Based Drone Planning From Human Sketches"
+
+Add "Universal Beta Splatting"
+
+Add "GS-Share: Enabling High-fidelity Map Sharing with Incremental Gaussian Splatting"
+
+Add "From Tokens to Nodes: Semantic-Guided Motion Control for Dynamic 3D Gaussian Splatting"
+
+Add "StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided Illusions"
+
+Add "GaussianMorphing: Mesh-Guided 3D Gaussians for Semantic-Aware Object Morphing"
+
+Add "ROI-GS: Interest-based Local Quality 3D Gaussian Splatting"
+
+Add "LOBE-GS: Load-Balanced and Efficient 3D Gaussian Splatting for Large-Scale Scene Reconstruction"
+
+Add "MPMAvatar: Learning 3D Gaussian Avatars with Accurate and Robust Physics-Based Dynamics"
+
+Add "HART: Human Aligned Reconstruction Transformer"
+
 ### 2025/10/28
 
 Add "Stylos: Multi-View 3D Stylization with Single-Forward Gaussian Splatting"
