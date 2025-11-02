@@ -1,5 +1,39 @@
 # Changelog
 
+### 2025/11/02
+
+Add "Phys2Real: Fusing VLM Priors with Interactive Online Adaptation for Uncertainty-Aware Sim-to-Real Manipulation"
+
+Add "VA-GS: Enhancing the Geometric Representation of Gaussian Splatting via View Alignment"
+
+Add "Perspective-aware 3D Gaussian Inpainting with Multi-view Consistency"
+
+Add "WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting"
+
+Add "High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic Manipulation Learning with Gaussian Splatting"
+
+Add "Towards Efficient 3D Gaussian Human Avatar Compression: A Prior-Guided Framework"
+
+Add "Opacity-Gradient Driven Density Control for Compact and Efficient Few-Shot 3D Gaussian Splatting"
+
+Add "Color3D: Controllable and Consistent 3D Colorization with Personalized Colorizer"
+
+Add "Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting"
+
+Add "P-4DGS: Predictive 4D Gaussian Splatting with 90× Compression"
+
+Add "CLoD-GS: Continuous Level-of-Detail via 3D Gaussian Splatting"
+
+Add "VG-Mapping: Variation-Aware 3D Gaussians for Online Semi-static Scene Mapping"
+
+Add "LTGS: Long-Term Gaussian Scene Chronology From Sparse View Updates"
+
+Add "Mono4DEditor: Text-Driven 4D Scene Editing from Monocular Video via Point-Level Localization of Language-Embedded Gaussians"
+
+Add "Visibility-Aware Densification for 3D Gaussian Splatting in Dynamic Urban Scenes"
+
+Add "EGSTalker: Real-Time Audio-Driven Talking Head Generation with Efficient Gaussian Deformation"
+
 ### 2025/10/31
 
 Add "ReSplat: Learning Recurrent Gaussian Splats"
