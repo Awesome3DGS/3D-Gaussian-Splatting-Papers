@@ -1,5 +1,53 @@
 # Changelog
 
+### 2025/11/03
+
+Add "GaussGym: An open-source real-to-sim framework for learning locomotion from pixels"
+
+Add "DriveGen3D: Boosting Feed-Forward Driving Scene Generation with Efficient Video Diffusion"
+
+Add "SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images"
+
+Add "Terra: Explorable Native 3D World Model with Point Latents"
+
+Add "Leveraging Learned Image Prior for 3D Gaussian Compression"
+
+Add "BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU"
+
+Add "GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering"
+
+Add "Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures"
+
+Add "Capture, Canonicalize, Splat: Zero-Shot 3D Gaussian Avatars from Unstructured Phone Images"
+
+Add "Instant Skinned Gaussian Avatars for Web, Mobile and VR Applications"
+
+Add "FlashWorld: High-quality 3D Scene Generation within Seconds"
+
+Add "VIST3A: Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator"
+
+Add "Leveraging 2D Priors and SDF Guidance for Dynamic Urban Scene Rendering"
+
+Add "SimULi: Real-Time LiDAR and Camera Simulation with Unscented Transforms"
+
+Add "Uncertainty Matters in Dynamic Gaussian Splatting for Monocular 4D Reconstruction"
+
+Add "BSGS: Bi-stage 3D Gaussian Splatting for Camera Motion Deblurring"
+
+Add "Hybrid Gaussian Splatting for Novel Urban View Synthesis"
+
+Add "PAGS: Priority-Adaptive Gaussian Splatting for Dynamic Driving Scenes"
+
+Add "UniGS: Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering"
+
+Add "Gaussian Semantic Field for One-shot LiDAR Global Localization"
+
+Add "G4Splat: Geometry-Guided Gaussian Splatting with Generative Prior"
+
+Add "GS-Verse: Mesh-based Gaussian Splatting for Physics-aware Interaction in Virtual Reality"
+
+Add "Ev4DGS: Novel-view Rendering of Non-Rigid Objects from Monocular Event Streams"
+
 ### 2025/11/02
 
 Add "Phys2Real: Fusing VLM Priors with Interactive Online Adaptation for Uncertainty-Aware Sim-to-Real Manipulation"
