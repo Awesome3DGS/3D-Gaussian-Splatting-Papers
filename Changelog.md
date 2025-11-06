@@ -1,5 +1,31 @@
 # Changelog
 
+### 2025/11/06
+
+Add "HouseTour: A Virtual Real Estate A(I)gent"
+
+Add "InsideOut: Integrated RGB-Radiative Gaussian Splatting for Comprehensive 3D Object Representation"
+
+Add "Botany-Bot: Digital Twin Monitoring of Occluded and Underleaf Plant Structures with Gaussian Splats"
+
+Add "Raindrop GS: A Benchmark for 3D Gaussian Splatting under Raindrop Conditions"
+
+Add "Initialize to Generalize: A Stronger Initialization Pipeline for Sparse-View 3DGS"
+
+Add "GSPlane: Concise and Accurate Planar Reconstruction via Structured Representation"
+
+Add "2DGS-R: Revisiting the Normal Consistency Regularization in 2D Gaussian Splatting"
+
+Add "GS2POSE: Marry Gaussian Splatting to 6D Object Pose Estimation"
+
+Add "HGC-Avatar: Hierarchical Gaussian Compression for Streamable Dynamic 3D Avatars"
+
+Add "REALM: An MLLM-Agent Framework for Open World 3D Reasoning Segmentation and Editing on Gaussian Splatting"
+
+Add "Fix False Transparency by Noise Guided Splatting"
+
+Add "PFGS: Pose-Fused 3D Gaussian Splatting for Complete Multi-Pose Object Reconstruction"
+
 ### 2025/11/03
 
 Add "GaussGym: An open-source real-to-sim framework for learning locomotion from pixels"
