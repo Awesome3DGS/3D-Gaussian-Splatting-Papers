@@ -1,5 +1,27 @@
 # Changelog
 
+### 2025/11/10
+
+Add "GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation"
+
+Add "OnlineSplatter: Pose-Free Online 3D Reconstruction for Free-Moving Objects"
+
+Add "COS3D: Collaborative Open-Vocabulary 3D Segmentation"
+
+Add "Extreme Views: 3DGS Filter for Novel View Synthesis from Out-of-Distribution Camera Poses"
+
+Add "Re-Activating Frozen Primitives for 3D Gaussian Splatting"
+
+Add "MoE-GS: Mixture of Experts for Dynamic Gaussian Splatting"
+
+Add "GRASPLAT: Enabling dexterous grasping through novel view synthesis"
+
+Add "Moving Light Adaptive Colonoscopy Reconstruction via Illumination-Attenuation-Aware 3D Gaussian Splatting"
+
+Add "OpenInsGaussian: Open-vocabulary Instance Gaussian Segmentation with Context-aware Cross-view Fusion"
+
+Add "From Volume Rendering to 3D Gaussian Splatting: Theory and Applications"
+
 ### 2025/11/06
 
 Add "HouseTour: A Virtual Real Estate A(I)gent"
