@@ -1,5 +1,53 @@
 # Changelog
 
+### 2025/11/18
+
+Add "DC4GS: Directional Consistency-Driven Adaptive Density Control for 3D Gaussian Splatting"
+
+Add "HEIR: Learning Graph-Based Motion Hierarchies"
+
+Add "AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM"
+
+Add "6D Channel Knowledge Map Construction via Bidirectional Wireless Gaussian Splatting"
+
+Add "JOGS: Joint Optimization of Pose Estimation and 3D Gaussian Splatting"
+
+Add "Learning Disentangled Speech- and Expression-Driven Blendshapes for 3D Talking Face Animation"
+
+Add "EA3D: Online Open-World 3D Object Extraction from Streaming Videos"
+
+Add "AtlasGS: Atlanta-world Guided Surface Reconstruction with Implicit Structured Gaussians"
+
+Add "DrivingScene: A Multi-Task Online Feed-Forward 3D Gaussian Splatting Method for Dynamic Driving Scenes"
+
+Add "NVSim: Novel View Synthesis Simulator for Large Scale Indoor Navigation"
+
+Add "LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation"
+
+Add "PlanarGS: High-Fidelity Indoor 3D Gaussian Splatting Guided by Vision-Language Planar Priors"
+
+Add "Explicit Memory through Online 3D Gaussian Splatting Improves Class-Agnostic Video Segmentation"
+
+Add "VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting"
+
+Add "EndoWave: Rational-Wavelet 4D Gaussian Splatting for Endoscopic Reconstruction"
+
+Add "Gen-LangSplat: Generalized Language Gaussian Splatting with Pre-Trained Feature Compression"
+
+Add "Region-Adaptive Learned Hierarchical Encoding for 3D Gaussian Splatting Data"
+
+Add "LVD-GS: Gaussian Splatting SLAM for Dynamic Scenes via Hierarchical Explicit-Implicit Representation Collaboration Rendering"
+
+Add "RoGER-SLAM: A Robust Gaussian Splatting SLAM System for Noisy and Low-light Environment Resilience"
+
+Add "DynaPose4D: High-Quality 4D Dynamic Content Generation via Pose Alignment Loss"
+
+Add "DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum"
+
+Add "STG-Avatar: Animatable Human Avatars via Spacetime Gaussian"
+
+Add "Towards Physically Executable 3D Gaussian for Embodied Navigation"
+
 ### 2025/11/10
 
 Add "GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation"
