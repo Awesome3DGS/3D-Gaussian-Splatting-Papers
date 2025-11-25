@@ -1,5 +1,41 @@
 # Changelog
 
+### 2025/11/25
+
+Add "Efficient representation of 3D spatial data for defense-related applications"
+
+Add "CLM: Removing the GPU Memory Barrier for 3D Gaussian Splatting"
+
+Add "3D Gaussian Point Encoders"
+
+Add "Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions"
+
+Add "UniSplat: Unified Spatio-Temporal Fusion via 3D Latent Scaffolds for Dynamic Driving Scene Reconstruction"
+
+Add "FastGS: Training 3D Gaussian Splatting in 100 Seconds"
+
+Add "CaRF: Enhancing Multi-View Consistency in Referring 3D Gaussian Splatting Segmentation"
+
+Add "Improving Multi-View Reconstruction via Texture-Guided Gaussian-Mesh Joint Optimization"
+
+Add "DentalSplat: Dental Occlusion Novel View Synthesis from Sparse Intra-Oral Photographs"
+
+Add "PercHead: Perceptual Head Model for Single-Image 3D Head Reconstruction & Editing"
+
+Add "Object-Centric 3D Gaussian Splatting for Strawberry Plant Reconstruction and Phenotyping"
+
+Add "3D Gaussian Radiation Field Modeling for Integrated RIS-FAS Systems: Analysis and Optimization"
+
+Add "GauDP: Reinventing Multi-Agent Collaboration through Gaussian-Image Synergy in Diffusion Policies"
+
+Add "4D Neural Voxel Splatting: Dynamic Scene Rendering with Voxelized Guassian Splatting"
+
+Add "Diff4Splat: Controllable 4D Scene Generation with Latent Dynamic Reconstruction Models"
+
+Add "Object-Aware 4D Human Motion Generation"
+
+Add "SAGS: Self-Adaptive Alias-Free Gaussian Splatting for Dynamic Surgical Endoscopic Reconstruction"
+
 ### 2025/11/18
 
 Add "DC4GS: Directional Consistency-Driven Adaptive Density Control for 3D Gaussian Splatting"
