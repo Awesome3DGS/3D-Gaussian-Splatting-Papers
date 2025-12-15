@@ -1,5 +1,73 @@
 # Changelog
 
+### 2025/12/15
+
+Add "Beyond Darkness: Thermal-Supervised 3D Gaussian Splatting for Low-Light Novel View Synthesis"
+
+Add "TR-Gaussians: High-fidelity Real-time Rendering of Planar Transmission and Reflection with 3D Gaussian Splatting"
+
+Add "SplatSearch: Instance Image Goal Navigation for Mobile Robots using 3D Gaussian Splatting and Diffusion Models"
+
+Add "GUIDE: Gaussian Unified Instance Detection for Enhanced Obstacle Perception in Autonomous Driving"
+
+Add "Neo: Real-Time On-Device 3D Gaussian Splatting with Reuse-and-Update Sorting Acceleration"
+
+Add "Reconstructing 3D Scenes in Native High Dynamic Range"
+
+Add "Changes in Real Time: Online Scene Change Detection with Multi-View Fusion"
+
+Add "SRSplat: Feed-Forward Super-Resolution Gaussian Splatting from Sparse Multi-View Images"
+
+Add "3D Gaussian and Diffusion-Based Gaze Redirection"
+
+Add "RealisticDreamer: Guidance Score Distillation for Few-shot Gaussian Splatting"
+
+Add "PINGS-X: Physics-Informed Normalized Gaussian Splatting with Axes Alignment for Efficient Super-Resolution of 4D Flow MRI"
+
+Add "Depth-Consistent 3D Gaussian Splatting via Physical Defocus Modeling and Multi-View Geometric Supervision"
+
+Add "Multivariate Gaussian Representation Learning for Medical Action Evaluation"
+
+Add "TSPE-GS: Probabilistic Depth Extraction for Semi-Transparent Surface Reconstruction via 3D Gaussian Splatting"
+
+Add "AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting"
+
+Add "Lumos3D: A Single-Forward Framework for Low-Light 3D Scene Restoration"
+
+Add "A Shared-Autonomy Construction Robotic System for Overhead Works"
+
+Add "OUGS: Active View Selection via Object-aware Uncertainty Estimation in 3DGS"
+
+Add "SkelSplat: Robust Multi-view 3D Human Pose Estimation with Differentiable Gaussian Rendering"
+
+Add "Perceptual Quality Assessment of 3D Gaussian Splatting: A Subjective Dataset and Prediction Metric"
+
+Add "DIMO: Diverse 3D Motion Generation for Arbitrary Objects"
+
+Add "YoNoSplat: You Only Need One Model for Feedforward 3D Gaussian Splatting"
+
+Add "4DSTR: Advancing Generative 4D Gaussians with Spatial-Temporal Rectification for High-Quality and Consistent 4D Generation"
+
+Add "GFix: Perceptually Enhanced Gaussian Splatting Video Compression"
+
+Add "MUGSQA: Novel Multi-Uncertainty-Based Gaussian Splatting Quality Assessment Method, Dataset, and Benchmarks"
+
+Add "ConeGS: Error-Guided Densification Using Pixel Cones for Improved Reconstruction with Fewer Primitives"
+
+Add "Robust and High-Fidelity 3D Gaussian Splatting: Fusing Pose Priors and Geometry Constraints for Texture-Deficient Outdoor Scenes"
+
+Add "Rethinking Rainy 3D Scene Reconstruction via Perspective Transforming and Brightness Tuning"
+
+Add "DIAL-GS: Dynamic Instance Aware Reconstruction for Label-free Street Scenes with 4D Gaussian Splatting"
+
+Add "Inpaint360GS: Efficient Object-Aware 3D Inpainting via Gaussian Splatting for 360° Scenes"
+
+Add "Physics-Informed Deformable Gaussian Splatting: Towards Unified Constitutive Laws for Time-Evolving Material Field"
+
+Add "StreamSTGS: Streaming Spatial and Temporal Gaussian Grids for Real-Time Free-Viewpoint Video"
+
+Add "4D3R: Motion-Aware Neural Reconstruction and Rendering of Dynamic Scenes from Monocular Videos"
+
 ### 2025/11/25
 
 Add "Efficient representation of 3D spatial data for defense-related applications"
