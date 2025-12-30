@@ -90,56 +90,80 @@
 - **🔗 链接**：[[中英摘要](../abs/2501.02845.md)] [[arXiv:2501.02845](https://arxiv.org/abs/2501.02845)] [Code]
 - **📝 说明**：🏆 Accepted by AAAI 2025
 
-#### [16] FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency
+#### [16] DehazeGS: Seeing Through Fog with 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Jinze Yu, Yiqun Wang, Zhengda Lu, Jianwei Guo, Yong Li, Hongxing Qin, Xiaopeng Zhang
+- **🏫 单位**：Chongqing University ⟐ University of Chinese Academy of Sciences ⟐ Beijing Normal University ⟐ Chinese Academy of Sciences
+- **🔗 链接**：[[中英摘要](./abs/2501.03659.md)] [[arXiv:2501.03659](https://arxiv.org/abs/2501.03659)] [Code]
+- **📝 说明**: 🏆 Accepted to AAAI 2025
+
+#### [17] FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency
 - **🧑‍🔬 作者**：Han Huang, Yulun Wu, Chao Deng, Ge Gao, Ming Gu, Yu-Shen Liu
 - **🏫 单位**: Tsinghua University
 - **🔗 链接**：[[中英摘要](../abs/2501.04628.md)] [[arXiv:2501.04628](https://arxiv.org/abs/2501.04628)] [[Code](https://github.com/yulunwu0108/FatesGS)]
 - **📝 说明**：🏆 Accepted by AAAI 2025
 
-#### [17] BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation
+#### [18] BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation
 - **🧑‍🔬 作者**：Xiaolu Hou, Mingcheng Li, Dingkang Yang, Jiawei Chen, Ziyun Qian, Xiao Zhao, Yue Jiang, Jinjie Wei, Qingyao Xu, Lihua Zhang
 - **🏫 单位**：Fudan University ⟐ Engineering Research Center of AI and Robotics, Ministry of Education ⟐ Jilin Provincial Key Laboratory of Intelligence Science and Engineering ⟐ Artificial Intelligence and Unmanned Systems Engineering Research Center of Jilin Province ⟐ ByteDance Inc
 - **🔗 链接**：[[中英摘要](../abs/2501.10462.md)] [[arXiv:2501.10462](https://arxiv.org/abs/2501.10462)] [[Code](https://github.com/SparklingH/BloomScene)]
 - **📝 说明**：🏆 Accepted to AAAI 2025
 
-#### [18] Decoupling Appearance Variations with 3D Consistent Features in Gaussian Splatting
+#### [19] Decoupling Appearance Variations with 3D Consistent Features in Gaussian Splatting
 - **🧑‍🔬 作者**：Jiaqi Lin, Zhihao Li, Binxiao Huang, Xiao Tang, Jianzhuang Liu, Shiyong Liu, Xiaofei Wu, Fenglong Song, Wenming Yang
 - **🏫 单位**：Tsinghua University ⟐ Huawei Noah’s Ark Lab ⟐ The University of Hong Kong ⟐ Shenzhen Institute of Advanced Technology
 - **🔗 链接**：[[中英摘要](../abs/2501.10788.md)] [[arXiv:2501.10788](https://arxiv.org/abs/2501.10788)] [Code]
 - **📝 说明**：🏆 Accepted to AAAI 2025
 
-#### [19] Micro-macro Wavelet-based Gaussian Splatting for 3D Reconstruction from Unconstrained Images
+#### [20] Micro-macro Wavelet-based Gaussian Splatting for 3D Reconstruction from Unconstrained Images
 - **🧑‍🔬 作者**：Yihui Li, Chengxin Lv, Hongyu Yang, Di Huang
 - **🏫 单位**：State Key Laboratory of Complex and Critical Software Environment, Beijing ⟐ Beihang University ⟐ Shanghai Artificial Intelligence Laboratory
 - **🔗 链接**：[[中英摘要](../abs/2501.14231.md)] [[arXiv:2501.14231](https://arxiv.org/abs/2501.14231)] [Code]
 - **📝 说明**：🏆 Accepted to AAAI 2025
 
-#### [20] Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting
+#### [21] Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting
 - **🧑‍🔬 作者**：Lingting Zhu, Guying Lin, Jinnan Chen, Xinjie Zhang, Zhenchao Jin, Zhao Wang, Lequan Yu
 - **🏫 单位**：The University of Hong Kong ⟐ Carnegie Mellon University ⟐ National University of Singapore ⟐ The Hong Kong University of Science and Technology ⟐ The Chinese University of Hong Kong
 - **🔗 链接**：[[中英摘要](../abs/2502.09039.md)] [[arXiv:2502.09039](https://arxiv.org/abs/2502.09039)] [[Code](https://github.com/HKU-MedAI/LIG)]
 - **📝 说明**：🏆 Accepted to AAAI 2025
 
-#### [21] Efficient Gaussian Splatting for Monocular Dynamic Scene Rendering via Sparse Time-Variant Attribute Modeling
+#### [22] Efficient Gaussian Splatting for Monocular Dynamic Scene Rendering via Sparse Time-Variant Attribute Modeling
 - **🧑‍🔬 作者**：Hanyang Kong, Xingyi Yang, Xinchao Wang
 - **🏫 单位**: National University of Singapore
 - **🔗 链接**：[[中英摘要](../abs/2502.20378.md)] [[arXiv:2502.20378](https://arxiv.org/abs/2502.20378)] [Code]
 - **📝 说明**：🏆 Accepted to AAAI 2025
 
-#### [22] ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting
+#### [23] ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting
 - **🧑‍🔬 作者**：Dexter Ong, Yuezhan Tao, Varun Murali, Igor Spasojevic, Vijay Kumar, Pratik Chaudhari
 - **🏫 单位**: GRASP Laboratory, University of Pennsylvania
 - **🔗 链接**：[[中英摘要](../abs/2502.20386.md)] [[arXiv:2502.20386](https://arxiv.org/abs/2502.20386)] [[Code](https://atlasnav.github.io/)]
 - **📝 说明**：🏆 Accepted to AAAI 2025
 
-#### [23] Frequency-Aware Density Control via Reparameterization for High-Quality Rendering of 3D Gaussian Splatting
+#### [24] Frequency-Aware Density Control via Reparameterization for High-Quality Rendering of 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Zhaojie Zeng, Yuesong Wang, Lili Ju, Tao Guan
 - **🏫 单位**: Huazhong University of Science and Technology ⟐ University of South Carolina
 - **🔗 链接**：[[中英摘要](../abs/2503.07000.md)] [[arXiv:2503.07000](https://arxiv.org/abs/2503.07000)] [[Code](https://github.com/whoiszzj/FDS-GS)]
 - **📝 说明**：🏆 Accepted to AAAI 2025
 
-#### [24] Enhancing Close-up Novel View Synthesis via Pseudo-labeling
+#### [25] CHROME: Clothed Human Reconstruction with Occlusion-Resilience and Multiview-Consistency from a Single Image
+- **🧑‍🔬 作者**：Arindam Dutta, Meng Zheng, Zhongpai Gao, Benjamin Planche, Anwesha Choudhuri, Terrence Chen, Amit K. Roy-Chowdhury, Ziyan Wu
+- **🏫 单位**：University of California, Riverside ⟐ United Imaging Intelligence, Boston
+- **🔗 链接**：[[中英摘要](./abs/2503.15671.md)] [[arXiv:2503.15671](https://arxiv.org/abs/2503.15671)] [Code]
+- **📝 说明**: 🏆 Accepted to AAAI 2025
+
+#### [26] Uncertainty-Aware Diffusion Guided Refinement of 3D Scenes
+- **🧑‍🔬 作者**：Sarosij Bose, Arindam Dutta, Sayak Nag, Junge Zhang, Jiachen Li, Konstantinos Karydis, Amit K. Roy Chowdhury
+- **🏫 单位**：University of California
+- **🔗 链接**：[[中英摘要](./abs/2503.15742.md)] [[arXiv:2503.15742](https://arxiv.org/abs/2503.15742)] [Code]
+- **📝 说明**: 🏆 Accepted to AAAI 2025
+
+#### [27] Enhancing Close-up Novel View Synthesis via Pseudo-labeling
 - **🧑‍🔬 作者**：Jiatong Xia, Libo Sun, Lingqiao Liu
 - **🏫 单位**: Australian Institute for Machine Learning, The University of Adelaide
 - **🔗 链接**：[[中英摘要](../abs/2503.15908.md)] [[arXiv:2503.15908](https://arxiv.org/abs/2503.15908)] [Code]
 - **📝 说明**：🏆 Accepted to AAAI 2025
+
+#### [28] Multi-StyleGS: Stylizing Gaussian Splatting with Multiple Styles
+- **🧑‍🔬 作者**：Yangkai Lin, Jiabao Lei, Kui jia
+- **🏫 单位**：South China University of Technology ⟐ The Chinese University of Hong Kong, Shenzhen
+- **🔗 链接**：[[中英摘要](./abs/2506.06846.md)] [[arXiv:2506.06846](https://arxiv.org/abs/2506.06846)] [Code]
+- **📝 说明**: 🏆 Accepted to AAAI 2025

@@ -125,3 +125,15 @@
 - **🏫 单位**：Zhejiang University ⟐ MBZUAI
 - **🔗 链接**：[[中英摘要](./abs/2507.04004.md)] [[arXiv:2507.04004](https://arxiv.org/abs/2507.04004)] [[Code](https://github.com/APRIL-ZJU/Gaussian-LIC)]
 - **📝 说明**: 🏆 Accepted to ICRA 2025
+
+#### [22] FGO-SLAM: Enhancing Gaussian SLAM with Globally Consistent Opacity Radiance Field
+- **🧑‍🔬 作者**：Fan Zhu, Yifan Zhao, Ziyu Chen, Biao Yu, Hui Zhu
+- **🏫 单位**：Chinese Academy of Sciences ⟐ University of Science and Technology of China
+- **🔗 链接**：[[中英摘要](./abs/2509.01547.md)] [[arXiv:2509.01547](https://arxiv.org/abs/2509.01547)] [Code]
+- **📝 说明**: 🏆 Accepted to ICRA 2025
+
+#### [23] A Shared-Autonomy Construction Robotic System for Overhead Works
+- **🧑‍🔬 作者**：David Minkwan Kim, K. M. Brian Lee, Yong Hyeok Seo, Nikola Raicevic, Runfa Blark Li, Kehan Long, Chan Seon Yoon, Dong Min Kang, Byeong Jo Lim, Young Pyoung Kim, Nikolay Atanasov, Truong Nguyen, Se Woong Jun, Young Wook Kim
+- **🏫 单位**：Korea Electronics Technology Institute (KETI) ⟐ University of California ⟐ ITONE Inc.
+- **🔗 链接**：[[中英摘要](./abs/2511.09695.md)] [[arXiv:2511.09695](https://arxiv.org/abs/2511.09695)] [Code]
+- **📝 说明**: 🏆 Accepted to ICRA 2025 Construction Workshop

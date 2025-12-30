@@ -66,10 +66,10 @@
 - **🔗 链接**：[[中英摘要](./abs/2411.12981.md)] [[arXiv:2411.12981](https://arxiv.org/abs/2411.12981)] [[Code](https://github.com/ucwxb/GazeGaussian)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [12] Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation
-- **🧑‍🔬 作者**：Yuanhao Cai, He Zhang, Kai Zhang, Yixun Liang, Mengwei Ren, Fujun Luan, Qing Liu, Soo Ye Kim, Jianming Zhang, Zhifei Zhang, Yuqian Zhou, Zhe Lin, Alan Yuille
+#### [12] Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation and Reconstruction
+- **🧑‍🔬 作者**：Yuanhao Cai, He Zhang, Kai Zhang, Yixun Liang, Mengwei Ren, Fujun Luan, Qing Liu, Soo Ye Kim, Jianming Zhang, Zhifei Zhang, Yuqian Zhou, Yulun Zhang, Xiaokang Yang, Zhe Lin, Alan Yuille
 - **🏫 单位**：Johns Hopkins University ⟐ Adobe Research ⟐ Hong Kong University of Science and Technology
-- **🔗 链接**：[[中英摘要](./abs/2411.14384.md)] [[arXiv:2411.14384](https://arxiv.org/abs/2411.14384)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2411.14384.md)] [[arXiv:2411.14384](https://arxiv.org/abs/2411.14384)] [[Code](https://github.com/caiyuanhao1998/Open-DiffusionGS)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
 #### [13] EMD: Explicit Motion Modeling for High-Quality Street Gaussian Splatting
@@ -264,296 +264,374 @@
 - **🔗 链接**：[[中英摘要](./abs/2505.20469.md)] [[arXiv:2505.20469](https://arxiv.org/abs/2505.20469)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [45] AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion
+#### [45] SpatialSplat: Efficient Semantic 3D from Sparse Unposed Images
+- **🧑‍🔬 作者**：Yu Sheng, Jiajun Deng, Xinran Zhang, Yu Zhang, Bei Hua, Yanyong Zhang, Jianmin Ji
+- **🏫 单位**：University of Science and Technology of China ⟐ The University of Adelaide
+- **🔗 链接**：[[中英摘要](./abs/2505.23044.md)] [[arXiv:2505.23044](https://arxiv.org/abs/2505.23044)] [Code]
+- **📝 说明**: 🏆 Accepted to ICCV 2025
+
+#### [46] AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion
 - **🧑‍🔬 作者**：Yangyi Huang, Ye Yuan, Xueting Li, Jan Kautz, Umar Iqbal
 - **🏫 单位**：NVIDIA
 - **🔗 链接**：[[中英摘要](./abs/2505.24877.md)] [[arXiv:2505.24877](https://arxiv.org/abs/2505.24877)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [46] RobustSplat: Decoupling Densification and Dynamics for Transient-Free 3DGS
+#### [47] RobustSplat: Decoupling Densification and Dynamics for Transient-Free 3DGS
 - **🧑‍🔬 作者**：Chuanyu Fu, Yuqi Zhang, Kunbin Yao, Guanying Chen, Yuan Xiong, Chuan Huang, Shuguang Cui, Xiaochun Cao
 - **🏫 单位**：Sun Yat-sen University ⟐ FNii-Shenzhen ⟐ CUHKSZ
 - **🔗 链接**：[[中英摘要](./abs/2506.02751.md)] [[arXiv:2506.02751](https://arxiv.org/abs/2506.02751)] [[Code](https://github.com/fcyycf/RobustSplat)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [47] CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization
+#### [48] CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization
 - **🧑‍🔬 作者**：Jan Ackermann, Jonas Kulhanek, Shengqu Cai, Haofei Xu, Marc Pollefeys, Gordon Wetzstein, Leonidas Guibas, Songyou Peng
 - **🏫 单位**：ETH Zurich ⟐ Stanford University ⟐ CTU Prague ⟐ Google DeepMind
 - **🔗 链接**：[[中英摘要](./abs/2506.21117.md)] [[arXiv:2506.21117](https://arxiv.org/abs/2506.21117)] [[Code](https://github.com/jan-ackermann/cl-splats)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [48] Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction
+#### [49] Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction
 - **🧑‍🔬 作者**：Zhirui Gao, Renjiao Yi, Yaqiao Dai, Xuening Zhu, Wei Chen, Chenyang Zhu, Kai Xu
 - **🏫 单位**：National University of Defense Technology
 - **🔗 链接**：[[中英摘要](./abs/2506.21401.md)] [[arXiv:2506.21401](https://arxiv.org/abs/2506.21401)] [[Code](https://github.com/zhirui-gao/Curve-Gaussian)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [49] GGTalker: Talking Head Systhesis with Generalizable Gaussian Priors and Identity-Specific Adaptation
+#### [50] GGTalker: Talking Head Systhesis with Generalizable Gaussian Priors and Identity-Specific Adaptation
 - **🧑‍🔬 作者**：Wentao Hu, Shunkai Li, Ziqiao Peng, Haoxian Zhang, Fan Shi, Xiaoqiang Liu, Pengfei Wan, Di Zhang, Hui Tian
 - **🏫 单位**：Beijing University of Posts and Telecommunications ⟐ Kuaishou Technology ⟐ Renmin University of China
 - **🔗 链接**：[[中英摘要](./abs/2506.21513.md)] [[arXiv:2506.21513](https://arxiv.org/abs/2506.21513)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [50] RoboPearls: Editable Video Simulation for Robot Manipulation
+#### [51] RoboPearls: Editable Video Simulation for Robot Manipulation
 - **🧑‍🔬 作者**：Tao Tang, Likui Zhang, Youpeng Wen, Kaidong Zhang, Jia-Wang Bian, xia zhou, Tianyi Yan, Kun Zhan, Peng Jia, Hefeng Wu, Liang Lin, Xiaodan Liang
 - **🏫 单位**：Shenzhen Campus of Sun Yat-sen University ⟐ Sun Yat-sen University ⟐ Bytedance Seed ⟐ Li Auto Inc.
 - **🔗 链接**：[[中英摘要](./abs/2506.22756.md)] [[arXiv:2506.22756](https://arxiv.org/abs/2506.22756)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [51] VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding
+#### [52] VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding
 - **🧑‍🔬 作者**：Minchao Jiang, Shunyu Jia, Jiaming Gu, Xiaoyuan Lu, Guangming Zhu, Anqi Dong, Liang Zhang
 - **🏫 单位**：Xidian University ⟐ Algorithm R&D Center ⟐ Shanghai Pudong Cryptography Research Institute ⟐ KTH Royal Institute of Technology
 - **🔗 链接**：[[中英摘要](./abs/2506.22799.md)] [[arXiv:2506.22799](https://arxiv.org/abs/2506.22799)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [52] RGE-GS: Reward-Guided Expansive Driving Scene Reconstruction via Diffusion Priors
+#### [53] RGE-GS: Reward-Guided Expansive Driving Scene Reconstruction via Diffusion Priors
 - **🧑‍🔬 作者**：Sicong Du, Jiarun Liu, Qifeng Chen, Hao-Xiang Chen, Tai-Jiang Mu, Sheng Yang
 - **🏫 单位**：CaiNiao Inc. ⟐ Zhejiang University ⟐ Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2506.22800.md)] [[arXiv:2506.22800](https://arxiv.org/abs/2506.22800)] [[Code](https://github.com/CN-ADLab/RGE-GS)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [53] From Coarse to Fine: Learnable Discrete Wavelet Transforms for Efficient 3D Gaussian Splatting
+#### [54] From Coarse to Fine: Learnable Discrete Wavelet Transforms for Efficient 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Hung Nguyen, An Le, Runfa Li, Truong Nguyen
 - **🏫 单位**：UC San Diego
 - **🔗 链接**：[[中英摘要](./abs/2506.23042.md)] [[arXiv:2506.23042](https://arxiv.org/abs/2506.23042)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025 Workshop
 
-#### [54] Learning Dense Feature Matching via Lifting Single 2D Image to 3D Space
+#### [55] Learning Dense Feature Matching via Lifting Single 2D Image to 3D Space
 - **🧑‍🔬 作者**：Yingping Liang, Yutao Hu, Wenqi Shao, Ying Fu
 - **🏫 单位**：Beijing Institute of Technology ⟐ Southeast University ⟐ Shanghai Al Laboratory
 - **🔗 链接**：[[中英摘要](./abs/2507.00392.md)] [[arXiv:2507.00392](https://arxiv.org/abs/2507.00392)] [[Code](https://github.com/Sharpiless/L2M)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [55] 3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation
+#### [56] 3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation
 - **🧑‍🔬 作者**：Tianrui Lou, Xiaojun Jia, Siyuan Liang, Jiawei Liang, Ming Zhang, Yanjun Xiao, Xiaochun Cao
 - **🏫 单位**：Sun Yat-Sen University ⟐ Peng Cheng Laboratory ⟐ Nanyang Technological University ⟐ National University of Singapore ⟐ National Key Laboratory of Science and Technology on Information System Security ⟐ Nsfocus
 - **🔗 链接**：[[中英摘要](./abs/2507.01367.md)] [[arXiv:2507.01367](https://arxiv.org/abs/2507.01367)] [[Code](https://github.com/TRLou/PGA)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [56] LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling
+#### [57] LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling
 - **🧑‍🔬 作者**：Jiahao Wu, Rui Peng, Jianbo Jiao, Jiayu Yang, Luyang Tang, Kaiqiang Xiong, Jie Liang, Jinbo Yan, Runling Liu, Ronggang Wang
 - **🏫 单位**：Peking University ⟐ Pengcheng Lab ⟐ University of Birmingham
 - **🔗 链接**：[[中英摘要](./abs/2507.02363.md)] [[arXiv:2507.02363](https://arxiv.org/abs/2507.02363)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [57] Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps
+#### [58] Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps
 - **🧑‍🔬 作者**：Chong Cheng, Sicheng Yu, Zijian Wang, Yifan Zhou, Hao Wang
 - **🏫 单位**：The Hong Kong University of Science and Technology (Guangzhou)
 - **🔗 链接**：[[中英摘要](./abs/2507.03737.md)] [[arXiv:2507.03737](https://arxiv.org/abs/2507.03737)] [[Code](https://github.com/3DAgentWorld/S3PO-GS)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [58] VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis
+#### [59] VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis
 - **🧑‍🔬 作者**：Alexandre Symeonidis-Herzig, Özge Mercanoğlu Sincan, Richard Bowden
 - **🏫 单位**：University of Surrey
 - **🔗 链接**：[[中英摘要](./abs/2507.06060.md)] [[arXiv:2507.06060](https://arxiv.org/abs/2507.06060)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025 Workshop
 
-#### [59] RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration
+#### [60] RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration
 - **🧑‍🔬 作者**：Chong Cheng, Yu Hu, Sicheng Yu, Beizhen Zhao, Zijian Wang, Hao Wang
 - **🏫 单位**：The Hong Kong University of Science and Technology (Guangzhou)
 - **🔗 链接**：[[中英摘要](./abs/2507.08136.md)] [[arXiv:2507.08136](https://arxiv.org/abs/2507.08136)] [[Code](https://3dagentworld.github.io/reggs/)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [60] Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling
+#### [61] Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling
 - **🧑‍🔬 作者**：Hayeon Kim, Ji Ha Jang, Se Young Chun
 - **🏫 单位**：Seoul National University
 - **🔗 链接**：[[中英摘要](./abs/2507.11061.md)] [[arXiv:2507.11061](https://arxiv.org/abs/2507.11061)] [[Code](https://github.com/janeyeon/romap-code)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [61] TRAN-D: 2D Gaussian Splatting-based Sparse-view Transparent Object Depth Reconstruction via Physics Simulation for Scene Update
+#### [62] TRAN-D: 2D Gaussian Splatting-based Sparse-view Transparent Object Depth Reconstruction via Physics Simulation for Scene Update
 - **🧑‍🔬 作者**：Jeongyun Kim, Seunghoon Jeong, Giseop Kim, Myung-Hwan Jeon, Eunji Jun, Ayoung Kim
 - **🏫 单位**：Seoul National University ⟐ DGIST ⟐ University of Illinois Urbana-Champaign ⟐ Hyundai Motor Group
 - **🔗 链接**：[[中英摘要](./abs/2507.11069.md)] [[arXiv:2507.11069](https://arxiv.org/abs/2507.11069)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [62] DCHM: Depth-Consistent Human Modeling for Multiview Detection
+#### [63] DCHM: Depth-Consistent Human Modeling for Multiview Detection
 - **🧑‍🔬 作者**：Jiahao Ma, Tianyu Wang, Miaomiao Liu, David Ahmedt-Aristizabal, Chuong Nguyen
 - **🏫 单位**：Australian National University ⟐ CSIRO Data61
 - **🔗 链接**：[[中英摘要](./abs/2507.14505.md)] [[arXiv:2507.14505](https://arxiv.org/abs/2507.14505)] [[Code](https://github.com/Jiahao-Ma/DCHM-code)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [63] ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting
+#### [64] ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting
 - **🧑‍🔬 作者**：Ruijie Zhu, Mulin Yu, Linning Xu, Lihan Jiang, Yixuan Li, Tianzhu Zhang, Jiangmiao Pang, Bo Dai
 - **🏫 单位**：University of Science and Technology of China ⟐ Shanghai Artificial Intelligence Laboratory ⟐ The Chinese University of Hong Kong ⟐ The University of Hong Kong
 - **🔗 链接**：[[中英摘要](./abs/2507.15454.md)] [[arXiv:2507.15454](https://arxiv.org/abs/2507.15454)] [[Code](https://github.com/RuijieZhu94/ObjectGS)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [64] SurfaceSplat: Connecting Surface Reconstruction and Gaussian Splatting
+#### [65] SurfaceSplat: Connecting Surface Reconstruction and Gaussian Splatting
 - **🧑‍🔬 作者**：Zihui Gao, Jia-Wang Bian, Guosheng Lin, Hao Chen, Chunhua Shen
 - **🏫 单位**：Zhejiang University ⟐ ByteDance Seed ⟐ Nanyang Technological University
 - **🔗 链接**：[[中英摘要](./abs/2507.15602.md)] [[arXiv:2507.15602](https://arxiv.org/abs/2507.15602)] [[Code](https://github.com/aim-uofa/SurfaceSplat)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [65] Gaussian Splatting with Discretized SDF for Relightable Assets
+#### [66] Gaussian Splatting with Discretized SDF for Relightable Assets
 - **🧑‍🔬 作者**：Zuo-Liang Zhu, Jian Yang, Beibei Wang
 - **🏫 单位**：Nankai University ⟐ Nanjing University
 - **🔗 链接**：[[中英摘要](./abs/2507.15629.md)] [[arXiv:2507.15629](https://arxiv.org/abs/2507.15629)] [[Code](https://github.com/NK-CS-ZZL/DiscretizedSDF)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [66] GeoAvatar: Adaptive Geometrical Gaussian Splatting for 3D Head Avatar
+#### [67] GeoAvatar: Adaptive Geometrical Gaussian Splatting for 3D Head Avatar
 - **🧑‍🔬 作者**：SeungJun Moon, Hah Min Lew, Seungeun Lee, Ji-Su Kang, Gyeong-Moon Park
 - **🏫 单位**：Klleon AI Research ⟐ Korea University
 - **🔗 链接**：[[中英摘要](./abs/2507.18155.md)] [[arXiv:2507.18155](https://arxiv.org/abs/2507.18155)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [67] DASH: 4D Hash Encoding with Self-Supervised Decomposition for Real-Time Dynamic Scene Rendering
+#### [68] DASH: 4D Hash Encoding with Self-Supervised Decomposition for Real-Time Dynamic Scene Rendering
 - **🧑‍🔬 作者**：Jie Chen, Zhangchi Hu, Peixi Wu, Huyue Zhu, Hebei Li, Xiaoyan Sun
 - **🏫 单位**：University of Science and Technology of China ⟐ Hefei Comprehensive National Science Center
 - **🔗 链接**：[[中英摘要](./abs/2507.19141.md)] [[arXiv:2507.19141](https://arxiv.org/abs/2507.19141)] [[Code](https://github.com/chenj02/DASH)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [68] HairCUP: Hair Compositional Universal Prior for 3D Gaussian Avatars
+#### [69] HairCUP: Hair Compositional Universal Prior for 3D Gaussian Avatars
 - **🧑‍🔬 作者**：Byungjun Kim, Shunsuke Saito, Giljoo Nam, Tomas Simon, Jason Saragih, Hanbyul Joo, Junxuan Li
 - **🏫 单位**：Seoul National University ⟐ Codec Avatars Lab, Meta
 - **🔗 链接**：[[中英摘要](./abs/2507.19481.md)] [[arXiv:2507.19481](https://arxiv.org/abs/2507.19481)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [69] GaRe: Relightable 3D Gaussian Splatting for Outdoor Scenes from Unconstrained Photo Collections
+#### [70] GaRe: Relightable 3D Gaussian Splatting for Outdoor Scenes from Unconstrained Photo Collections
 - **🧑‍🔬 作者**：Haiyang Bai, Jiaqi Zhu, Songru Jiang, Wei Huang, Tao Lu, Yuanqi Li, Jie Guo, Runze Fu, Yanwen Guo, Lijun Chen
 - **🏫 单位**：Nanjing University ⟐ Brown University ⟐ JSTI Group
 - **🔗 链接**：[[中英摘要](./abs/2507.20512.md)] [[arXiv:2507.20512](https://arxiv.org/abs/2507.20512)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [70] Robust and Efficient 3D Gaussian Splatting for Urban Scene Reconstruction
+#### [71] Robust and Efficient 3D Gaussian Splatting for Urban Scene Reconstruction
 - **🧑‍🔬 作者**：Zhensheng Yuan, Haozhi Huang, Zhen Xiong, Di Wang, Guanghua Yang
 - **🏫 单位**：Jinan University ⟐ University of Macau
 - **🔗 链接**：[[中英摘要](./abs/2507.23006.md)] [[arXiv:2507.23006](https://arxiv.org/abs/2507.23006)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [71] NeRF Is a Valuable Assistant for 3D Gaussian Splatting
+#### [72] NeRF Is a Valuable Assistant for 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Shuangkang Fang, I-Chao Shen, Takeo Igarashi, Yufeng Wang, ZeSheng Wang, Yi Yang, Wenrui Ding, Shuchang Zhou
 - **🏫 单位**：Beihang University ⟐ The University of Toky ⟐ StepFun
 - **🔗 链接**：[[中英摘要](./abs/2507.23374.md)] [[arXiv:2507.23374](https://arxiv.org/abs/2507.23374)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [72] MoGA: 3D Generative Avatar Prior for Monocular Gaussian Avatar Reconstruction
+#### [73] MoGA: 3D Generative Avatar Prior for Monocular Gaussian Avatar Reconstruction
 - **🧑‍🔬 作者**：Zijian Dong, Longteng Duan, Jie Song, Michael J. Black, Andreas Geiger
 - **🏫 单位**：ETH Zurich ⟐ University of Tubingen ⟐ HKUST ⟐ Max Planck Institute for Intelligent Systems
 - **🔗 链接**：[[中英摘要](./abs/2507.23597.md)] [[arXiv:2507.23597](https://arxiv.org/abs/2507.23597)] [[Code](https://github.com/zj-dong/MoGA)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [73] Gaussian Variation Field Diffusion for High-fidelity Video-to-4D Synthesis
+#### [74] Gaussian Variation Field Diffusion for High-fidelity Video-to-4D Synthesis
 - **🧑‍🔬 作者**：Bowen Zhang, Sicheng Xu, Chuxin Wang, Jiaolong Yang, Feng Zhao, Dong Chen, Baining Guo
 - **🏫 单位**：University of Science and Technology of China ⟐ Microsoft Research Asia
 - **🔗 链接**：[[中英摘要](./abs/2507.23785.md)] [[arXiv:2507.23785](https://arxiv.org/abs/2507.23785)] [[Code](https://github.com/ForeverFancy/gvfdiffusion)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [74] IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation
+#### [75] IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation
 - **🧑‍🔬 作者**：Wenxuan Guo, Xiuwei Xu, Hang Yin, Ziwei Wang, Jianjiang Feng, Jie Zhou, Jiwen Lu
 - **🏫 单位**：Tsinghua University ⟐ Nanyang Technological University
 - **🔗 链接**：[[中英摘要](./abs/2508.00823.md)] [[arXiv:2508.00823](https://arxiv.org/abs/2508.00823)] [[Code](https://github.com/GWxuan/IGL-Nav)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [75] No Pose at All: Self-Supervised Pose-Free 3D Gaussian Splatting from Sparse Views
+#### [76] No Pose at All: Self-Supervised Pose-Free 3D Gaussian Splatting from Sparse Views
 - **🧑‍🔬 作者**：Ranran Huang, Krystian Mikolajczyk
 - **🏫 单位**：Imperial College London
 - **🔗 链接**：[[中英摘要](./abs/2508.01171.md)] [[arXiv:2508.01171](https://arxiv.org/abs/2508.01171)] [[Code](https://github.com/ranrhuang/SPFSplat)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [76] Can3Tok: Canonical 3D Tokenization and Latent Modeling of Scene-Level 3D Gaussians
+#### [77] Can3Tok: Canonical 3D Tokenization and Latent Modeling of Scene-Level 3D Gaussians
 - **🧑‍🔬 作者**：Quankai Gao, Iliyan Georgiev, Tuanfeng Y. Wang, Krishna Kumar Singh, Ulrich Neumann, Jae Shin Yoon
 - **🏫 单位**：University of Southern California ⟐ Adobe Research
 - **🔗 链接**：[[中英摘要](./abs/2508.01464.md)] [[arXiv:2508.01464](https://arxiv.org/abs/2508.01464)] [[Code](https://github.com/Zerg-Overmind/Can3Tok)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [77] Trace3D: Consistent Segmentation Lifting via Gaussian Instance Tracing
+#### [78] Trace3D: Consistent Segmentation Lifting via Gaussian Instance Tracing
 - **🧑‍🔬 作者**：Hongyu Shen, Junfeng Ni, Yixin Chen, Weishuo Li, Mingtao Pei, Siyuan Huang
 - **🏫 单位**：Beijing Institute of Technoloy ⟐ BIGAI ⟐ Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2508.03227.md)] [[arXiv:2508.03227](https://arxiv.org/abs/2508.03227)] [[Code](https://github.com/trace-3d/Trace3D)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [78] Bridging Diffusion Models and 3D Representations: A 3D Consistent Super-Resolution Framework
+#### [79] Bridging Diffusion Models and 3D Representations: A 3D Consistent Super-Resolution Framework
 - **🧑‍🔬 作者**：Yi-Ting Chen, Ting-Hsuan Liao, Pengsheng Guo, Alexander Schwing, Jia-Bin Huang
 - **🏫 单位**：University of Maryland, College Park ⟐ Carnegie Mellon University ⟐ University of Illinois Urbana-Champaign
 - **🔗 链接**：[[中英摘要](./abs/2508.04090.md)] [[arXiv:2508.04090](https://arxiv.org/abs/2508.04090)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [79] MuGS: Multi-Baseline Generalizable Gaussian Splatting Reconstruction
+#### [80] MuGS: Multi-Baseline Generalizable Gaussian Splatting Reconstruction
 - **🧑‍🔬 作者**：Yaopeng Lou, Liao Shen, Tianqi Liu, Jiaqi Li, Zihao Huang, Huiqiang Sun, Zhiguo Cao
 - **🏫 单位**：Huazhong University of Science and Technology
 - **🔗 链接**：[[中英摘要](./abs/2508.04297.md)] [[arXiv:2508.04297](https://arxiv.org/abs/2508.04297)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [80] CF3: Compact and Fast 3D Feature Fields
+#### [81] CF3: Compact and Fast 3D Feature Fields
 - **🧑‍🔬 作者**：Hyunjoon Lee, Joonkyu Min, Jaesik Park
 - **🏫 单位**：Seoul National University
 - **🔗 链接**：[[中英摘要](./abs/2508.05254.md)] [[arXiv:2508.05254](https://arxiv.org/abs/2508.05254)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [81] GAP: Gaussianize Any Point Clouds with Text Guidance
+#### [82] GAP: Gaussianize Any Point Clouds with Text Guidance
 - **🧑‍🔬 作者**：Weiqi Zhang, Junsheng Zhou, Haotian Geng, Wenyuan Zhang, Yu-Shen Liu
 - **🏫 单位**：Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2508.05631.md)] [[arXiv:2508.05631](https://arxiv.org/abs/2508.05631)] [[Code](https://github.com/weiqi-zhang/GAP)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [82] ExploreGS: Explorable 3D Scene Reconstruction with Virtual Camera Samplings and Diffusion Priors
+#### [83] ExploreGS: Explorable 3D Scene Reconstruction with Virtual Camera Samplings and Diffusion Priors
 - **🧑‍🔬 作者**：Minsu Kim, Subin Jeon, In Cho, Mijin Yoo, Seon Joo Kim
 - **🏫 单位**：Yonsei University
 - **🔗 链接**：[[中英摘要](./abs/2508.06014.md)] [[arXiv:2508.06014](https://arxiv.org/abs/2508.06014)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [83] Learning an Implicit Physics Model for Image-based Fluid Simulation
+#### [84] Learning an Implicit Physics Model for Image-based Fluid Simulation
 - **🧑‍🔬 作者**：Emily Yue-Ting Jia, Jiageng Mao, Zhiyuan Gao, Yajie Zhao, Yue Wang
 - **🏫 单位**：University of Southern California
 - **🔗 链接**：[[中英摘要](./abs/2508.08254.md)] [[arXiv:2508.08254](https://arxiv.org/abs/2508.08254)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [84] GaussianUpdate: Continual 3D Gaussian Splatting Update for Changing Environments
+#### [85] GaussianUpdate: Continual 3D Gaussian Splatting Update for Changing Environments
 - **🧑‍🔬 作者**：Lin Zeng, Boming Zhao, Jiarui Hu, Xujie Shen, Ziqiang Dang, Hujun Bao, Zhaopeng Cui
 - **🏫 单位**：Zhejiang University
 - **🔗 链接**：[[中英摘要](./abs/2508.08867.md)] [[arXiv:2508.08867](https://arxiv.org/abs/2508.08867)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [85] SVG-Head: Hybrid Surface-Volumetric Gaussians for High-Fidelity Head Reconstruction and Real-Time Editing
+#### [86] SVG-Head: Hybrid Surface-Volumetric Gaussians for High-Fidelity Head Reconstruction and Real-Time Editing
 - **🧑‍🔬 作者**：Heyi Sun, Cong Wang, Tian-Xing Xu, Jingwei Huang, Di Kang, Chunchao Guo, Song-Hai Zhang
 - **🏫 单位**：Tsinghua University ⟐ Tencent Hunyuan
 - **🔗 链接**：[[中英摘要](./abs/2508.09597.md)] [[arXiv:2508.09597](https://arxiv.org/abs/2508.09597)] [[Code](https://github.com/heyy-sun/SVG-Head)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [86] TRACE: Learning 3D Gaussian Physical Dynamics from Multi-view Videos
+#### [87] TRACE: Learning 3D Gaussian Physical Dynamics from Multi-view Videos
 - **🧑‍🔬 作者**：Jinxi Li, Ziyang Song, Bo Yang
 - **🏫 单位**：The Hong Kong Polytechnic University
 - **🔗 链接**：[[中英摘要](./abs/2508.09811.md)] [[arXiv:2508.09811](https://arxiv.org/abs/2508.09811)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [87] WIPES: Wavelet-based Visual Primitives
+#### [88] WIPES: Wavelet-based Visual Primitives
 - **🧑‍🔬 作者**：Wenhao Zhang, Hao Zhu, Delong Wu, Di Kang, Linchao Bao, Xun Cao, Zhan Ma
 - **🏫 单位**：Nanjing University ⟐ Tencent
 - **🔗 链接**：[[中英摘要](./abs/2508.12615.md)] [[arXiv:2508.12615](https://arxiv.org/abs/2508.12615)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [88] LongSplat: Robust Unposed 3D Gaussian Splatting for Casual Long Videos
+#### [89] LongSplat: Robust Unposed 3D Gaussian Splatting for Casual Long Videos
 - **🧑‍🔬 作者**：Chin-Yang Lin, Cheng Sun, Fu-En Yang, Min-Hung Chen, Yen-Yu Lin, Yu-Lun Liu
 - **🏫 单位**：National Yang Ming Chiao Tung University ⟐ NVIDIA Research
 - **🔗 链接**：[[中英摘要](./abs/2508.14041.md)] [[arXiv:2508.14041](https://arxiv.org/abs/2508.14041)] [[Code](https://github.com/NVlabs/LongSplat)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [89] GWM: Towards Scalable Gaussian World Models for Robotic Manipulation
+#### [90] GWM: Towards Scalable Gaussian World Models for Robotic Manipulation
 - **🧑‍🔬 作者**：Guanxing Lu, Baoxiong Jia, Puhao Li, Yixin Chen, Ziwei Wang, Yansong Tang, Siyuan Huang
 - **🏫 单位**：Tsinghua University ⟐ BIGAI ⟐ Nanyang Technological University
 - **🔗 链接**：[[中英摘要](./abs/2508.17600.md)] [[arXiv:2508.17600](https://arxiv.org/abs/2508.17600)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [90] GSVisLoc: Generalizable Visual Localization for Gaussian Splatting Scene Representations
+#### [91] GSVisLoc: Generalizable Visual Localization for Gaussian Splatting Scene Representations
 - **🧑‍🔬 作者**：Fadi Khatib, Dror Moran, Guy Trostianetsky, Yoni Kasten, Meirav Galun, Ronen Basri
 - **🏫 单位**：Weizmann Institute of Science ⟐ NVIDIA
 - **🔗 链接**：[[中英摘要](./abs/2508.18242.md)] [[arXiv:2508.18242](https://arxiv.org/abs/2508.18242)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025 CALIPOSE workshop
 
-#### [91] Seam360GS: Seamless 360° Gaussian Splatting from Real-World Omnidirectional Images
+#### [92] Seam360GS: Seamless 360° Gaussian Splatting from Real-World Omnidirectional Images
 - **🧑‍🔬 作者**：Changha Shin, Woong Oh Cho, Seon Joo Kim
 - **🏫 单位**：Yonsei University
 - **🔗 链接**：[[中英摘要](./abs/2508.20080.md)] [[arXiv:2508.20080](https://arxiv.org/abs/2508.20080)] [Code]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [92] Im2Haircut: Single-view Strand-based Hair Reconstruction for Human Avatars
+#### [93] Im2Haircut: Single-view Strand-based Hair Reconstruction for Human Avatars
 - **🧑‍🔬 作者**：Vanessa Sklyarova, Egor Zakharov, Malte Prinzler, Giorgio Becherini, Michael J. Black, Justus Thies
 - **🏫 单位**：Max Planck Institute for Intelligent Systems ⟐ ETH Zurich ⟐ Technical University of Darmstadt
 - **🔗 链接**：[[中英摘要](./abs/2509.01469.md)] [[arXiv:2509.01469](https://arxiv.org/abs/2509.01469)] [[Code](https://github.com/Vanessik/Im2Haircut)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025
 
-#### [93] T2Bs: Text-to-Character Blendshapes via Video Generation
+#### [94] T2Bs: Text-to-Character Blendshapes via Video Generation
 - **🧑‍🔬 作者**：Jiahao Luo, Chaoyang Wang, Michael Vasilkovsky, Vladislav Shakhrai, Di Liu, Peiye Zhuang, Sergey Tulyakov, Peter Wonka, Hsin-Ying Lee, James Davis, Jian Wang
 - **🏫 单位**：University of Californi ⟐ Snap Inc. ⟐ Rutgers University ⟐ KAUST
 - **🔗 链接**：[[中英摘要](./abs/2509.10678.md)] [[arXiv:2509.10678](https://arxiv.org/abs/2509.10678)] [Code]
+- **📝 说明**: 🏆 Accepted to ICCV 2025
+
+#### [95] EmbodiedSplat: Personalized Real-to-Sim-to-Real Navigation with Gaussian Splats from a Mobile Device
+- **🧑‍🔬 作者**：Gunjan Chhablani, Xiaomeng Ye, Muhammad Zubair Irshad, Zsolt Kira
+- **🏫 单位**：Georgia Tech ⟐ Toyota Research Institute
+- **🔗 链接**：[[中英摘要](./abs/2509.17430.md)] [[arXiv:2509.17430](https://arxiv.org/abs/2509.17430)] [[Code](https://github.com/gchhablani/embodied-splat-v1)]
+- **📝 说明**: 🏆 Accepted to ICCV 2025
+
+#### [96] PolGS: Polarimetric Gaussian Splatting for Fast Reflective Surface Reconstruction
+- **🧑‍🔬 作者**：Yufei Han, Bowen Tie, Heng Guo, Youwei Lyu, Si Li, Boxin Shi, Yunpeng Jia, Zhanyu Ma
+- **🏫 单位**：Beijing University of Posts and Telecommunications ⟐ Xiong’an Aerospace Information Research Institute ⟐ Peking University
+- **🔗 链接**：[[中英摘要](./abs/2509.19726.md)] [[arXiv:2509.19726](https://arxiv.org/abs/2509.19726)] [[Code](https://github.com/PRIS-CV/PolGS)]
+- **📝 说明**: 🏆 Accepted to ICCV 2025
+
+#### [97] PU-Gaussian: Point Cloud Upsampling using 3D Gaussian Representation
+- **🧑‍🔬 作者**：Mahmoud Khater, Mona Strauss, Philipp von Olshausen, Alexander Reiterer
+- **🏫 单位**：University of Freiburg ⟐ Fraunhofer IPM
+- **🔗 链接**：[[中英摘要](./abs/2509.20207.md)] [[arXiv:2509.20207](https://arxiv.org/abs/2509.20207)] [[Code](https://github.com/mvg-inatech/PU-Gaussian)]
+- **📝 说明**: 🏆 Accepted to ICCV 2025 e2e3D Workshop
+
+#### [98] SeHDR: Single-Exposure HDR Novel View Synthesis via 3D Gaussian Bracketing
+- **🧑‍🔬 作者**：Yiyu Li, Haoyuan Wang, Ke Xu, Gerhard Petrus Hancke, Rynson W.H. Lau
+- **🏫 单位**：City University of Hong Kong
+- **🔗 链接**：[[中英摘要](./abs/2509.20400.md)] [[arXiv:2509.20400](https://arxiv.org/abs/2509.20400)] [[Code](https://github.com/yiyulics/SeHDR)]
+- **📝 说明**: 🏆 Accepted to ICCV 2025
+
+#### [99] StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided Illusions
+- **🧑‍🔬 作者**：Bo-Hsu Ke, You-Zhe Xie, Yu-Lun Liu, Wei-Chen Chiu
+- **🏫 单位**：National Yang Ming Chiao Tung University
+- **🔗 链接**：[[中英摘要](./abs/2510.02314.md)] [[arXiv:2510.02314](https://arxiv.org/abs/2510.02314)] [[Code](https://github.com/Hentci/StealthAttack_official)]
+- **📝 说明**: 🏆 Accepted to ICCV 2025
+
+#### [100] Hybrid Gaussian Splatting for Novel Urban View Synthesis
+- **🧑‍🔬 作者**：Mohamed Omran, Farhad Zanjani, Davide Abati, Jens Petersen, Amirhossein Habibian
+- **🏫 单位**：Qualcomm AI Research
+- **🔗 链接**：[[中英摘要](./abs/2510.12308.md)] [[arXiv:2510.12308](https://arxiv.org/abs/2510.12308)] [Code]
+- **📝 说明**: 🏆 Accepted to ICCV 2025 RealADSim Workshop
+
+#### [101] Leveraging 2D Priors and SDF Guidance for Dynamic Urban Scene Rendering
+- **🧑‍🔬 作者**：Siddharth Tourani, Jayaram Reddy, Akash Kumbar, Satyajit Tourani, Nishant Goyal, Madhava Krishna, N. Dinesh Reddy, Muhammad Haris Khan
+- **🏫 单位**：IIIT Hyderabad ⟐ MBZUAI ⟐ University of Heidelberg ⟐ VLM Run ⟐ IIT Kharagpur
+- **🔗 链接**：[[中英摘要](./abs/2510.13381.md)] [[arXiv:2510.13381](https://arxiv.org/abs/2510.13381)] [Code]
+- **📝 说明**: 🏆 Accepted to ICCV 2025
+
+#### [102] Capture, Canonicalize, Splat: Zero-Shot 3D Gaussian Avatars from Unstructured Phone Images
+- **🧑‍🔬 作者**：Emanuel Garbin, Guy Adam, Oded Krams, Zohar Barzelay, Eran Guendelman, Michael Schwarz, Matteo Presutto, Moran Vatelmacher, Yigal Shenkman, Eli Peker, Itai Druker, Uri Patish, Yoav Blum, Max Bluvstein, Junxuan Li, Rawal Khirodkar, Shunsuke Saito
+- **🏫 单位**：Meta
+- **🔗 链接**：[[中英摘要](./abs/2510.14081.md)] [[arXiv:2510.14081](https://arxiv.org/abs/2510.14081)] [Code]
+- **📝 说明**: 🏆 Accepted to ICCV 2025 AMFG Workshop
+
+#### [103] Leveraging Learned Image Prior for 3D Gaussian Compression
+- **🧑‍🔬 作者**：Seungjoo Shin, Jaesik Park, Sunghyun Cho
+- **🏫 单位**：POSTECH ⟐ Seoul National University
+- **🔗 链接**：[[中英摘要](./abs/2510.14705.md)] [[arXiv:2510.14705](https://arxiv.org/abs/2510.14705)] [Code]
+- **📝 说明**: 🏆 Accepted to ICCV 2025 Workshop on ECLR
+
+#### [104] InsideOut: Integrated RGB-Radiative Gaussian Splatting for Comprehensive 3D Object Representation
+- **🧑‍🔬 作者**：Jungmin Lee, Seonghyuk Hong, Juyong Lee, Jaeyoon Lee, Jongwon Choi
+- **🏫 单位**：Chung-Ang University ⟐ National Research Institute of Cultural Heritage, Republic of Korea
+- **🔗 链接**：[[中英摘要](./abs/2510.17864.md)] [[arXiv:2510.17864](https://arxiv.org/abs/2510.17864)] [Code]
+- **📝 说明**: 🏆 Accepted to ICCV 2025
+
+#### [105] HouseTour: A Virtual Real Estate A(I)gent
+- **🧑‍🔬 作者**：Ata Çelen, Marc Pollefeys, Daniel Barath, Iro Armeni
+- **🏫 单位**：ETH Zurich ⟐ Stanford University ⟐ Microsoft Spatial AI Lab ⟐ HUN-REN SZTAKI
+- **🔗 链接**：[[中英摘要](./abs/2510.18054.md)] [[arXiv:2510.18054](https://arxiv.org/abs/2510.18054)] [[Code](https://github.com/GradientSpaces/HouseTour)]
+- **📝 说明**: 🏆 Accepted to ICCV 2025
+
+#### [106] DIMO: Diverse 3D Motion Generation for Arbitrary Objects
+- **🧑‍🔬 作者**：Linzhan Mou, Jiahui Lei, Chen Wang, Lingjie Liu, Kostas Daniilidis
+- **🏫 单位**：University of Pennsylvania ⟐ Archimedes, Athena RC
+- **🔗 链接**：[[中英摘要](./abs/2511.07409.md)] [[arXiv:2511.07409](https://arxiv.org/abs/2511.07409)] [[Code](https://github.com/Friedrich-M/DIMO)]
 - **📝 说明**: 🏆 Accepted to ICCV 2025

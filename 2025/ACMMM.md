@@ -101,3 +101,27 @@
 - **🏫 单位**：Peking University
 - **🔗 链接**：[[中英摘要](./abs/2509.11171.md)] [[arXiv:2509.11171](https://arxiv.org/abs/2509.11171)] [[Code](https://github.com/PKU-ICST-MIPL/SPHERE_ACMMM2025)]
 - **📝 说明**: 🏆 Accepted to ACM MM 2025
+
+#### [18] SemanticGarment: Semantic-Controlled Generation and Editing of 3D Gaussian Garments
+- **🧑‍🔬 作者**：Ruiyan Wang, Zhengxue Cheng, Zonghao Lin, Jun Ling, Yuzhou Liu, Yanru An, Rong Xie, Li Song
+- **🏫 单位**：Shanghai Jiao Tong University
+- **🔗 链接**：[[中英摘要](./abs/2509.16960.md)] [[arXiv:2509.16960](https://arxiv.org/abs/2509.16960)] [Code]
+- **📝 说明**: 🏆 Accepted to ACM MM 2025 AECAI Workshop
+
+#### [19] PFDepth: Heterogeneous Pinhole-Fisheye Joint Depth Estimation via Distortion-aware Gaussian-Splatted Volumetric Fusion
+- **🧑‍🔬 作者**：Zhiwei Zhang, Ruikai Xu, Weijian Zhang, Zhizhong Zhang, Xin Tan, Jingyu Gong, Yuan Xie, Lizhuang Ma
+- **🏫 单位**：Shanghai Jiao Tong University ⟐ East China Normal University ⟐ Shanghai Key Laboratory of Computer Software Evaluating and Testing
+- **🔗 链接**：[[中英摘要](./abs/2509.26008.md)] [[arXiv:2509.26008](https://arxiv.org/abs/2509.26008)] [Code]
+- **📝 说明**: 🏆 Accepted to ACM MM 2025
+
+#### [20] BSGS: Bi-stage 3D Gaussian Splatting for Camera Motion Deblurring
+- **🧑‍🔬 作者**：An Zhao, Piaopiao Yu, Zhe Zhu, Mingqiang Wei
+- **🏫 单位**：Nanjing University of Aeronautics and Astronautics
+- **🔗 链接**：[[中英摘要](./abs/2510.12493.md)] [[arXiv:2510.12493](https://arxiv.org/abs/2510.12493)] [[Code](https://github.com/wsxujm/bsgs)]
+- **📝 说明**: 🏆 Accepted to ACM MM 2025
+
+#### [21] HGC-Avatar: Hierarchical Gaussian Compression for Streamable Dynamic 3D Avatars
+- **🧑‍🔬 作者**：Haocheng Tang, Ruoke Yan, Xinhui Yin, Qi Zhang, Xinfeng Zhang, Siwei Ma, Wen Gao, Chuanmin Jia
+- **🏫 单位**：Peking University ⟐ University of Chinese Academy of Sciences
+- **🔗 链接**：[[中英摘要](./abs/2510.16463.md)] [[arXiv:2510.16463](https://arxiv.org/abs/2510.16463)] [Code]
+- **📝 说明**: 🏆 Accepted to ACM MM 2025

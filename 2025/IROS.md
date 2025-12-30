@@ -77,3 +77,28 @@
 - **🏫 单位**：Beijing Information Science and Technology University ⟐ CAS
 - **🔗 链接**：[[中英摘要](./abs/2508.07701.md)] [[arXiv:2508.07701](https://arxiv.org/abs/2508.07701)] [[Code](https://github.com/Bistu3DV/MND-GS)]
 - **📝 说明**: 🏆 Accepted to IROS 2025
+
+#### [14] Botany-Bot: Digital Twin Monitoring of Occluded and Underleaf Plant Structures with Gaussian Splats
+- **🧑‍🔬 作者**：Simeon Adebola, Chung Min Kim, Justin Kerr, Shuangyu Xie, Prithvi Akella, Jose Luis Susa Rincon, Eugen Solowjow, Ken Goldberg
+- **🏫 单位**：UC Berkeley ⟐ Siemens Research Lab
+- **🔗 链接**：[[中英摘要](./abs/2510.17783.md)] [[arXiv:2510.17783](https://arxiv.org/abs/2510.17783)] [Code]
+- **📝 说明**: 🏆 Accepted to IROS 2025
+
+#### [15] GRASPLAT: Enabling dexterous grasping through novel view synthesis
+- **🧑‍🔬 作者**：Matteo Bortolon, Nuno Ferreira Duarte, Plinio Moreno, Fabio Poiesi, José Santos-Victor, Alessio Del Bue
+- **🏫 单位**：Fondazione Bruno Kessler ⟐ Fondazione Istituto Italiano di Tecnologia ⟐ Universidade de Lisboa ⟐ University of Trento
+- **🔗 链接**：[[中英摘要](./abs/2510.19200.md)] [[arXiv:2510.19200](https://arxiv.org/abs/2510.19200)] [Code]
+- **📝 说明**: 🏆 Accepted to IROS 2025
+
+#### [16] STG-Avatar: Animatable Human Avatars via Spacetime Gaussian
+- **🧑‍🔬 作者**：Guangan Jiang, Tianzi Zhang, Dong Li, Zhenjun Zhao, Haoang Li, Mingrui Li, Hongyu Wang
+- **🏫 单位**：Dalian University of Technology ⟐ Fudan University ⟐ University of Macau ⟐ University of Zaragoz ⟐ Hong Kong University of Science and Technology
+(Guangzhou)
+- **🔗 链接**：[[中英摘要](./abs/2510.22140.md)] [[arXiv:2510.22140](https://arxiv.org/abs/2510.22140)] [[Code](https://github.com/jiangguangan/STG-Avatar)]
+- **📝 说明**: 🏆 Accepted to IROS 2025
+
+#### [17] Robust and High-Fidelity 3D Gaussian Splatting: Fusing Pose Priors and Geometry Constraints for Texture-Deficient Outdoor Scenes
+- **🧑‍🔬 作者**：Meijun Guo, Yongliang Shi, Caiyun Liu, Yixiao Feng, Ming Ma, Tinghai Yan, Weining Lu, Bin Liang
+- **🏫 单位**：Beijing Institute of Technology ⟐ Beiing National Research Center for Information Science and Technology ⟐ Qiyuan Lab ⟐ Peking University
+- **🔗 链接**：[[中英摘要](./abs/2511.06765.md)] [[arXiv:2511.06765](https://arxiv.org/abs/2511.06765)] [Code]
+- **📝 说明**: 🏆 Accepted to IROS 2025

@@ -29,3 +29,15 @@
 - **🏫 单位**：USTC ⟐ Jiangsu Provincial Key Laboratory of Multimodal Digital Twin Technology ⟐ Southeast University
 - **🔗 链接**：[[中英摘要](./abs/2507.16608.md)] [[arXiv:2507.16608](https://arxiv.org/abs/2507.16608)] [[Code](https://github.com/windrise/Dyna3DGR)]
 - **📝 说明**: 🏆 Accepted to MICCAI 2025
+
+#### [6] Efficient 3D Scene Reconstruction and Simulation from Sparse Endoscopic Views
+- **🧑‍🔬 作者**：Zhenya Yang
+- **🏫 单位**：The Chinese University of Hong Kong
+- **🔗 链接**：[[中英摘要](./abs/2509.17027.md)] [[arXiv:2509.17027](https://arxiv.org/abs/2509.17027)] [Code]
+- **📝 说明**: 🏆 Accepted to MICCAI 2025 AECAI Workshop
+
+#### [7] BridgeSplat: Bidirectionally Coupled CT and Non-Rigid Gaussian Splatting for Deformable Intraoperative Surgical Navigation
+- **🧑‍🔬 作者**：Maximilian Fehrentz, Alexander Winkler, Thomas Heiliger, Nazim Haouchine, Christian Heiliger, Nassir Navab
+- **🏫 单位**：TU Munic ⟐ Hospital of the LMU Munich, Ludwig-Maximilians-Universität (LMU) ⟐ Harvard Medical School, Brigham and Women’s Hospital
+- **🔗 链接**：[[中英摘要](./abs/2509.18501.md)] [[arXiv:2509.18501](https://arxiv.org/abs/2509.18501)] [Code]
+- **📝 说明**: 🏆 Accepted to MICCAI 2025
