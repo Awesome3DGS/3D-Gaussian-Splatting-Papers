@@ -1,5 +1,39 @@
 # Changelog
 
+### 2026/01/20
+
+Add "Clustered Error Correction with Grouped 4D Gaussian Splatting"
+
+Add "Rad-GS: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments"
+
+Add "CuriGS: Curriculum-Guided Gaussian Splatting for Sparse View Synthesis"
+
+Add "Gaussian Blending: Rethinking Alpha Blending in 3D Gaussian Splatting"
+
+Add "Gaussian See, Gaussian Do: Semantic 3D Motion Transfer from Multiview Video"
+
+Add "SparseSurf: Sparse-View 3D Gaussian Splatting for Surface Reconstruction"
+
+Add "Interaction-Aware 4D Gaussian Splatting for Dynamic Hand-Object Interaction Reconstruction"
+
+Add "IBGS: Image-Based Gaussian Splatting"
+
+Add "Dental3R: Geometry-Aware Pairing for Intraoral 3D Reconstruction from Sparse-View Photographs"
+
+Add "GEN3D: Generating Domain-Free 3D Scenes from a Single Image"
+
+Add "iGaussian: Real-Time Camera Pose Estimation via Feed-Forward 3D Gaussian Splatting Inversion"
+
+Add "Training-Free Multi-View Extension of IC-Light for Textual Position-Aware Scene Relighting"
+
+Add "Opt3DGS: Optimizing 3D Gaussian Splatting with Adaptive Exploration and Curvature-Aware Exploitation"
+
+Add "SF-Recon: Simplification-Free Lightweight Building Reconstruction via 3D Gaussian Splatting"
+
+Add "SymGS : Leveraging Local Symmetries for 3D Gaussian Splatting Compression"
+
+Add "Monocular 3D Lane Detection via Structure Uncertainty-Aware Network with Curve-Point Queries"
+
 ### 2025/12/15
 
 Add "Beyond Darkness: Thermal-Supervised 3D Gaussian Splatting for Low-Light Novel View Synthesis"
