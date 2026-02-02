@@ -1,5 +1,77 @@
 # Changelog
 
+### 2026/02/02
+
+Add "GS-Checker: Tampering Localization for 3D Gaussian Splatting"
+
+Add "Material-informed Gaussian Splatting for 3D World Reconstruction in a Digital Twin"
+
+Add "Active3D: Active High-Fidelity 3D Reconstruction via Hierarchical Uncertainty Quantification"
+
+Add "GigaWorld-0: World Models as Data Engine to Empower Embodied AI"
+
+Add "STAvatar: Soft Binding and Temporal Density Control for Monocular 3D Head Avatars Reconstruction"
+
+Add "Proxy-Free Gaussian Splats Deformation with Splat-Based Surface Estimation"
+
+Add "DensifyBeforehand: LiDAR-assisted Content-aware Densification for Efficient and Quality 3D Gaussian Splatting"
+
+Add "IDSplat: Instance-Decomposed 3D Gaussian Splatting for Driving Scenes"
+
+Add "NVGS: Neural Visibility for Occlusion Culling in 3D Gaussian Splatting"
+
+Add "MetroGS: Efficient and Stable Reconstruction of Geometrically Accurate High-Fidelity Large-Scale Scenes"
+
+Add "Neural Texture Splatting: Expressive 3D Gaussian Splatting for View Synthesis, Geometry, and Dynamic Reconstruction"
+
+Add "Splatonic: Architecture Support for 3D Gaussian Splatting SLAM via Sparse Processing"
+
+Add "NeAR: Coupled Neural Asset-Renderer Stack"
+
+Add "PhysGS: Bayesian-Inferred Gaussian Splatting for Physical Property Estimation"
+
+Add "ReCoGS: Real-time ReColoring for Gaussian Splatting scenes"
+
+Add "SegSplat: Feed-forward Gaussian Splatting and Open-Set Semantic Segmentation"
+
+Add "Observer Actor: Active Vision Imitation Learning with Sparse View Gaussian Splatting"
+
+Add "RoboArmGS: High-Quality Robotic Arm Splatting via Bézier Curve Refinement"
+
+Add "Novel View Synthesis from A Few Glimpses via Test-Time Natural Video Completion"
+
+Add "Frequency-Adaptive Sharpness Regularization for Improving 3D Gaussian Splatting Generalization"
+
+Add "CUS-GS: A Compact Unified Structured Gaussian Splatting Framework for Multimodal Scene Representation"
+
+Add "AEGIS: Preserving privacy of 3D Facial Avatars with Adversarial Perturbations"
+
+Add "FisheyeGaussianLift: BEV Feature Lifting for Surround-View Fisheye Camera Perception"
+
+Add "SING3R-SLAM: Submap-based Indoor Monocular Gaussian SLAM with 3D Reconstruction Priors"
+
+Add "PEGS: Physics-Event Enhanced Large Spatiotemporal Motion Reconstruction via 3D Gaussian Splatting"
+
+Add "SPAGS: Sparse-View Articulated Object Reconstruction from Single State via Planar Gaussian Splatting"
+
+Add "RoomPlanner: Explicit Layout Planner for Easier LLM-Driven 3D Room Generation"
+
+Add "PhysMorph-GS: Differentiable Shape Morphing via Joint Optimization of Physics and Rendering Objectives"
+
+Add "Gradient-Driven Natural Selection for Compact 3D Gaussian Splatting"
+
+Add "One Walk is All You Need: Data-Efficient 3D RF Scene Reconstruction with Human Movements"
+
+Add "Vorion: A RISC-V GPU with Hardware-Accelerated 3D Gaussian Rendering and Training"
+
+Add "TRIM: Scalable 3D Gaussian Diffusion Inference with Temporal and Spatial Trimming"
+
+Add "EOGS++: Earth Observation Gaussian Splatting with Internal Camera Refinement and Direct Panchromatic Rendering"
+
+Add "Optimizing 3D Gaussian Splattering for Mobile GPUs"
+
+Add "LEGO-SLAM: Language-Embedded Gaussian Optimization SLAM"
+
 ### 2026/01/20
 
 Add "Clustered Error Correction with Grouped 4D Gaussian Splatting"
