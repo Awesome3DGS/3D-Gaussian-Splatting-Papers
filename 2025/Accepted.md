@@ -1,6 +1,5 @@
 # 3D Gaussian Splatting Papers Accepted in 2025
 
-
 #### [1] GaussianHead: Impressive 3D Gaussian-based Head Avatars with Dynamic Hybrid Neural Field
 - **🧑‍🔬 作者**：Jie Wang, Xianyan Li, Jiucheng Xie, Feng Xu, Hao Gao
 - **🏫 单位**：Nanjing University of Posts and Telecommunications ⟐ Tsinghua University
@@ -475,92 +474,122 @@
 - **🔗 链接**：[[中英摘要](./abs/2509.11624.md)] [[arXiv:2509.11624](https://arxiv.org/abs/2509.11624)] [Code]
 - **📝 说明**: 🏆 Accepted to IJCB 2025
 
-#### [80] Perception-Integrated Safety Critical Control via Analytic Collision Cone Barrier Functions on 3D Gaussian Splatting
+#### [80] E2-BKI: Evidential Ellipsoidal Bayesian Kernel Inference for Uncertainty-aware Gaussian Semantic Mapping
+- **🧑‍🔬 作者**：Junyoung Kim, Minsik Jeon, Jihong Min, Kiho Kwak, Junwon Seo
+- **🏫 单位**：Agency for Defense Development ⟐ Carnegie Mellon University
+- **🔗 链接**：[[中英摘要](../abs/2509.11964.md)] [[arXiv:2509.11964](https://arxiv.org/abs/2509.11964)] [Code]
+- **📝 说明**: 🏆 Accepted to IEEE RA-L 2025
+
+#### [81] Perception-Integrated Safety Critical Control via Analytic Collision Cone Barrier Functions on 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Dario Tscholl, Yashwanth Nakka, Brian Gunter
 - **🏫 单位**： Georgia Institute of Technology
 - **🔗 链接**：[[中英摘要](./abs/2509.14421.md)] [[arXiv:2509.14421](https://arxiv.org/abs/2509.14421)] [Code]
 - **📝 说明**: 🏆 Accepted to IEEE L-CSS 2025
 
-#### [81] ConfidentSplat: Confidence-Weighted Depth Fusion for Accurate 3D Gaussian Splatting SLAM
+#### [82] ConfidentSplat: Confidence-Weighted Depth Fusion for Accurate 3D Gaussian Splatting SLAM
 - **🧑‍🔬 作者**：Amanuel T. Dufera, Yuan-Li Cai
 - **🏫 单位**：Xi’an Jiaotong University
 - **🔗 链接**：[[中英摘要](./abs/2509.16863.md)] [[arXiv:2509.16863](https://arxiv.org/abs/2509.16863)] [Code]
 - **📝 说明**: 🏆 Accepted to CCSSTA 2025
 
-#### [82] PGSTalker: Real-Time Audio-Driven Talking Head Generation via 3D Gaussian Splatting with Pixel-Aware Density Control
+#### [83] PGSTalker: Real-Time Audio-Driven Talking Head Generation via 3D Gaussian Splatting with Pixel-Aware Density Control
 - **🧑‍🔬 作者**：Tianheng Zhu, Yinfeng Yu, Liejun Wang, Fuchun Sun, Wendong Zheng
 - **🏫 单位**：Xinjiang University ⟐ Tsinghua University ⟐ Tianjin University of Technology
 - **🔗 链接**：[[中英摘要](./abs/2509.16922.md)] [[arXiv:2509.16922](https://arxiv.org/abs/2509.16922)] [Code]
 - **📝 说明**: 🏆 Accepted to ICONIP 2025
 
-#### [83] GaussEdit: Adaptive 3D Scene Editing with Text and Image Prompts
+#### [84] GaussEdit: Adaptive 3D Scene Editing with Text and Image Prompts
 - **🧑‍🔬 作者**：Zhenyu Shu, Junlong Yu, Kai Chao, Shiqing Xin, Ligang Liu
 - **🏫 单位**：NingboTech University ⟐ Zhejiang University ⟐ Xi’an Jiaotong University ⟐ ShanDong University ⟐ University of Science and Technology of China
 - **🔗 链接**：[[中英摘要](./abs/2509.26055.md)] [[arXiv:2509.26055](https://arxiv.org/abs/2509.26055)] [Code]
 - **📝 说明**: 🏆 Accepted to TVCG 2025
 
-#### [84] RTGS: Real-Time 3D Gaussian Splatting SLAM via Multi-Level Redundancy Reduction
+#### [85] RTGS: Real-Time 3D Gaussian Splatting SLAM via Multi-Level Redundancy Reduction
 - **🧑‍🔬 作者**：Leshu Li, Jiayin Qin, Jie Peng, Zishen Wan, Huaizhi Qu, Ye Han, Pingqing Zheng, Hongsen Zhang, Yu Cao, Tianlong Chen, Yang Katie Zhao
 - **🏫 单位**：University of Minnesot ⟐ University of North Carolina at Chapel Hill ⟐ Georgia Institute of Technology
 - **🔗 链接**：[[中英摘要](./abs/2510.06644.md)] [[arXiv:2510.06644](https://arxiv.org/abs/2510.06644)] [[Code](https://github.com/UMN-ZhaoLab/RTGS)]
 - **📝 说明**: 🏆 Accepted to MICRO 2025
 
-#### [85] SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D Novel View Synthesis
+#### [86] SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D Novel View Synthesis
 - **🧑‍🔬 作者**：Jipeng Lyu, Jiahua Dong, Yu-Xiong Wang
 - **🏫 单位**：University of Illinois Urbana-Champaign
 - **🔗 链接**：[[中英摘要](./abs/2510.06694.md)] [[arXiv:2510.06694](https://arxiv.org/abs/2510.06694)] [Code]
 - **📝 说明**: 🏆 Accepted to TMLR 2025
 
-#### [86] DEGS: Deformable Event-based 3D Gaussian Splatting from RGB and Event Stream
+#### [87] DEGS: Deformable Event-based 3D Gaussian Splatting from RGB and Event Stream
 - **🧑‍🔬 作者**：Junhao He, Jiaxu Wang, Jia Li, Mingyuan Sun, Qiang Zhang, Jiahang Cao, Ziyi Zhang, Yi Gu, Jingkai Sun, Renjing Xu
 - **🏫 单位**：Hong Kong University of Science and Technology (Guangzhou) ⟐ Hong Kong University of Science and Technology ⟐ University of Hong Kong ⟐ Northeastern University
 - **🔗 链接**：[[中英摘要](./abs/2510.07752.md)] [[arXiv:2510.07752](https://arxiv.org/abs/2510.07752)] [Code]
 - **📝 说明**: 🏆 Accepted to TVCG 2025
 
-#### [87] Efficient Label Refinement for Face Parsing Under Extreme Poses Using 3D Gaussian Splatting
+#### [88] Efficient Label Refinement for Face Parsing Under Extreme Poses Using 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Ankit Gahlawat, Anirban Mukherjee, Dinesh Babu Jayagopi
 - **🏫 单位**：International Institute of Information Technology
 - **🔗 链接**：[[中英摘要](./abs/2510.08096.md)] [[arXiv:2510.08096](https://arxiv.org/abs/2510.08096)] [Code]
 - **📝 说明**: 🏆 Accepted to VCIP 2025
 
-#### [88] EGSTalker: Real-Time Audio-Driven Talking Head Generation with Efficient Gaussian Deformation
+#### [89] EGSTalker: Real-Time Audio-Driven Talking Head Generation with Efficient Gaussian Deformation
 - **🧑‍🔬 作者**：Tianheng Zhu, Yinfeng Yu, Liejun Wang, Fuchun Sun, Wendong Zheng
 - **🏫 单位**：Xinjiang University ⟐ Tsinghua University ⟐ Tianjin University of Technology
 - **🔗 链接**：[[中英摘要](./abs/2510.08587.md)] [[arXiv:2510.08587](https://arxiv.org/abs/2510.08587)] [[Code](https://github.com/ZhuTianheng/EGSTalker)]
 - **📝 说明**: 🏆 Accepted to SMC 2025
 
-#### [89] Instant Skinned Gaussian Avatars for Web, Mobile and VR Applications
+#### [90] Instant Skinned Gaussian Avatars for Web, Mobile and VR Applications
 - **🧑‍🔬 作者**：Naruya Kondo, Yuto Asano, Yoichi Ochiai
 - **🏫 单位**：University of Tsukuba
 - **🔗 链接**：[[中英摘要](./abs/2510.13978.md)] [[arXiv:2510.13978](https://arxiv.org/abs/2510.13978)] [Code]
 - **📝 说明**: 🏆 Accepted to SUI 2025 Demo Track
 
-#### [90] BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU
+#### [91] BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU
 - **🧑‍🔬 作者**：Junyi Wu, Jiaming Xu, Jinhao Li, Yongkang Zhou, Jiayi Pan, Xingyang Li, Guohao Dai
 - **🏫 单位**：1Shanghai Jiao Tong University ⟐ Infinigence-AI ⟐ SII
 - **🔗 链接**：[[中英摘要](./abs/2510.14564.md)] [[arXiv:2510.14564](https://arxiv.org/abs/2510.14564)] [Code]
 - **📝 说明**: 🏆 Accepted to ASP-DAC 2026
 
-#### [91] From Volume Rendering to 3D Gaussian Splatting: Theory and Applications
+#### [92] From Volume Rendering to 3D Gaussian Splatting: Theory and Applications
 - **🧑‍🔬 作者**：Vitor Pereira Matias, Daniel Perazzo, Vinicius Silva, Alberto Raposo, Luiz Velho, Afonso Paiva, Tiago Novello
 - **🏫 单位**：ICMC-USP ⟐ IMPA ⟐ PUC-RIO
 - **🔗 链接**：[[中英摘要](./abs/2510.18101.md)] [[arXiv:2510.18101](https://arxiv.org/abs/2510.18101)] [Code]
 - **📝 说明**: 🏆 Accepted to SIBGRAPI 2025
 
-#### [92] Explicit Memory through Online 3D Gaussian Splatting Improves Class-Agnostic Video Segmentation
+#### [93] Explicit Memory through Online 3D Gaussian Splatting Improves Class-Agnostic Video Segmentation
 - **🧑‍🔬 作者**：Anthony Opipari, Aravindhan K Krishnan, Shreekant Gayaka, Min Sun, Cheng-Hao Kuo, Arnie Sen, Odest Chadwicke Jenkins
 - **🏫 单位**：University of Michigan ⟐ Amazon Inc.
 - **🔗 链接**：[[中英摘要](./abs/2510.23521.md)] [[arXiv:2510.23521](https://arxiv.org/abs/2510.23521)] [Code]
 - **📝 说明**: 🏆 Accepted to RAL 2025
 
-#### [93] Learning Disentangled Speech- and Expression-Driven Blendshapes for 3D Talking Face Animation
+#### [94] Learning Disentangled Speech- and Expression-Driven Blendshapes for 3D Talking Face Animation
 - **🧑‍🔬 作者**：Yuxiang Mao, Zhijie Zhang, Zhiheng Zhang, Jiawei Liu, Chen Zeng, Shihong Xia
 - **🏫 单位**：Chinese Academy of Sciences ⟐ University of Chinese Academy of Sciences ⟐ Huadian (Beijing) Co-Generation Co., Ltd.
 - **🔗 链接**：[[中英摘要](./abs/2510.25234.md)] [[arXiv:2510.25234](https://arxiv.org/abs/2510.25234)] [Code]
 - **📝 说明**: 🏆 Accepted to ICXR 2025
 
-#### [94] CLM: Removing the GPU Memory Barrier for 3D Gaussian Splatting
+#### [95] CLM: Removing the GPU Memory Barrier for 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Hexu Zhao, Xiwen Min, Xiaoteng Liu, Moonjun Gong, Yiming Li, Ang Li, Saining Xie, Jinyang Li, Aurojit Panda
 - **🏫 单位**：New York University ⟐ Pacific Northwest National Laboratory ⟐ University of Washington
 - **🔗 链接**：[[中英摘要](./abs/2511.04951.md)] [[arXiv:2511.04951](https://arxiv.org/abs/2511.04951)] [Code]
 - **📝 说明**: 🏆 Accepted to ASPLOS 2026
+
+#### [96] EOGS++: Earth Observation Gaussian Splatting with Internal Camera Refinement and Direct Panchromatic Rendering
+- **🧑‍🔬 作者**：Pierrick Bournez, Luca Savant Aira, Thibaud Ehret, Gabriele Facciolo
+- **🏫 单位**：Universite Paris-Saclay ⟐ Politecnico di Torino ⟐ AMIAD
+- **🔗 链接**：[[中英摘要](../abs/2511.16542.md)] [[arXiv:2511.16542](https://arxiv.org/abs/2511.16542)] [Code]
+- **📝 说明**: 🏆 Accepted to ISPRS 2025
+
+#### [97] FisheyeGaussianLift: BEV Feature Lifting for Surround-View Fisheye Camera Perception
+- **🧑‍🔬 作者**：Shubham Sonarghare, Prasad Deshpande, Ciaran Hogan, Deepika-Rani Kaliappan-Mahalingam, Ganesh Sistu
+- **🏫 单位**：Valeo Vision Systems
+- **🔗 链接**：[[中英摘要](../abs/2511.17210.md)] [[arXiv:2511.17210](https://arxiv.org/abs/2511.17210)] [Code]
+- **📝 说明**: 🏆 Accepted to IMVIP 2025
+
+#### [98] ReCoGS: Real-time ReColoring for Gaussian Splatting scenes
+- **🧑‍🔬 作者**：Lorenzo Rutayisire, Nicola Capodieci, Fabio Pellacini
+- **🏫 单位**： University of Modena and Reggio Emilia
+- **🔗 链接**：[[中英摘要](../abs/2511.18441.md)] [[arXiv:2511.18441](https://arxiv.org/abs/2511.18441)] [[Code](https://github.com/loryruta/recogs)]
+- **📝 说明**: 🏆 Accepted to STAG 2025
+
+#### [99] Dreamcrafter: Immersive Editing of 3D Radiance Fields Through Flexible, Generative Inputs and Outputs
+- **🧑‍🔬 作者**：Cyrus Vachha, Yixiao Kang, Zach Dive, Ashwat Chidambaram, Anik Gupta, Eunice Jun, Bjoern Hartmann
+- **🏫 单位**：UC Berkeley ⟐ UCLA
+- **🔗 链接**：[[中英摘要](../abs/2512.20129.md)] [[arXiv:2512.20129](https://arxiv.org/abs/2512.20129)] [Code]
+- **📝 说明**: 🏆 Accepted to CHI 2025

@@ -125,3 +125,9 @@
 - **🏫 单位**：Peking University ⟐ University of Chinese Academy of Sciences
 - **🔗 链接**：[[中英摘要](./abs/2510.16463.md)] [[arXiv:2510.16463](https://arxiv.org/abs/2510.16463)] [Code]
 - **📝 说明**: 🏆 Accepted to ACM MM 2025
+
+#### [22] Relightable and Dynamic Gaussian Avatar Reconstruction from Monocular Video
+- **🧑‍🔬 作者**：Seonghwa Choi, Moonkyeong Choi, Mingyu Jang, Jaekyung Kim, Jianfei Cai, Wen-Huang Cheng, Sanghoon Lee
+- **🏫 单位**：Yonsei University
+- **🔗 链接**：[[中英摘要](../abs/2512.09335.md)] [[arXiv:2512.09335](https://arxiv.org/abs/2512.09335)] [Code]
+- **📝 说明**: 🏆 Accepted to ACM MM 2025

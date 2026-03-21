@@ -1,6 +1,5 @@
 # 3D Gaussian Splatting Papers Accepted to ICML2025
 
-
 #### [1] PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Sunghwan Hong, Jaewoo Jung, Heeseong Shin, Jisang Han, Jiaolong Yang, Chong Luo, Seungryong Kim
 - **🏫 单位**：Korea University ⟐ KAIST ⟐ Microsoft Research Asia

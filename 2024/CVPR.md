@@ -78,7 +78,6 @@
 - **🔗 链接**：[[中英摘要](../abs/2311.16099.md)] [[arXiv:2311.16099](https://arxiv.org/abs/2311.16099)] [[Code](https://github.com/JiahuiLei/GART)]
 - **📝 说明**：🏆 Accepted to CVPR 2024
 
-
 #### [14] GS-IR: 3D Gaussian Splatting for Inverse Rendering
 - **🧑‍🔬 作者**：Zhihao Liang, Qi Zhang, Ying Feng, Ying Shan, Kui Jia
 - **🏫 单位**：South China University of Technology ⟐ Tencent AI Lab ⟐ The Chinese University of Hong Kong, Shenzhen

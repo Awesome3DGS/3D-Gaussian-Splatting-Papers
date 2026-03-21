@@ -102,3 +102,9 @@
 - **🏫 单位**：Beijing Institute of Technology ⟐ Beiing National Research Center for Information Science and Technology ⟐ Qiyuan Lab ⟐ Peking University
 - **🔗 链接**：[[中英摘要](./abs/2511.06765.md)] [[arXiv:2511.06765](https://arxiv.org/abs/2511.06765)] [Code]
 - **📝 说明**: 🏆 Accepted to IROS 2025
+
+#### [18] iGaussian: Real-Time Camera Pose Estimation via Feed-Forward 3D Gaussian Splatting Inversion
+- **🧑‍🔬 作者**：Hao Wang, Linqing Zhao, Xiuwei Xu, Jiwen Lu, Haibin Yan
+- **🏫 单位**：Beijing University of Posts and Telecommunications ⟐ Tsinghua University
+- **🔗 链接**：[[中英摘要](../abs/2511.14149.md)] [[arXiv:2511.14149](https://arxiv.org/abs/2511.14149)] [[Code](https://github.com/pythongod-exe/iGaussian)]
+- **📝 说明**: 🏆 Accepted to IROS 2025

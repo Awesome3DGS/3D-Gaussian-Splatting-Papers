@@ -1,4 +1,4 @@
-# 3D Gaussian Splatting Papers Accepted to ACM MM 2024
+# 3D Gaussian Splatting Papers Accepted to ACMMM2024
 
 #### [1] LoopGaussian: Creating 3D Cinemagraph with Multi-view Images via Eulerian Motion Field
 - **🧑‍🔬 作者**：Jiyang Li, Lechao Cheng, Zhangye Wang, Tingting Mu, Jingxuan He
@@ -59,4 +59,3 @@
 - **🏫 单位**：Peking University ⟐ Pengcheng Laboratory
 - **🔗 链接**：[[中英摘要](../abs/2412.06299.md)] [[arXiv:2412.06299](https://arxiv.org/abs/2412.06299)] [[Code](https://github.com/yjb6/SaRO-GS)]
 - **📝 说明**：🏆 Accepted to ACM MM 2024 Best Paper Candidate
-

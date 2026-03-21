@@ -1,4 +1,4 @@
-# 3D Gaussian Splatting Papers Accepted to NeurIPS 2024
+# 3D Gaussian Splatting Papers Accepted to NeurIPS2024
 
 #### [1] LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS
 - **🧑‍🔬 作者**：Zhiwen Fan, Kevin Wang, Kairun Wen, Zehao Zhu, Dejia Xu, Zhangyang Wang

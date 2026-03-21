@@ -138,28 +138,28 @@
 - **🔗 链接**：[[中英摘要](../abs/2403.10147.md)] [[arXiv:2403.10147](https://arxiv.org/abs/2403.10147)] [Code]
 - **📝 说明**：🏆 Accepted to ECCV 2024
 
-#### [24] BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting
-- **🧑‍🔬 作者**：Lingzhe Zhao, Peng Wang, Peidong Liu
-- **🏫 单位**：Westlake University ⟐ Zhejiang University
-- **🔗 链接**：[[中英摘要](../abs/2403.11831.md)] [[arXiv:2403.11831](https://arxiv.org/abs/2403.11831)] [[Code](https://github.com/WU-CVGL/BAD-Gaussians)]
-- **📝 说明**：🏆 Accepted to ECCV 2024
-
-#### [25] View-Consistent 3D Editing with Gaussian Splatting
-- **🧑‍🔬 作者**：Yuxuan Wang, Xuanyu Yi, Zike Wu, Na Zhao, Long Chen, Hanwang Zhang
-- **🏫 单位**：Nanyang Technological University ⟐ Singapore University of Technology and Design ⟐ Hong Kong University of Science and Technology ⟐ Skywork AI
-- **🔗 链接**：[[中英摘要](../abs/2403.11868.md)] [[arXiv:2403.11868](https://arxiv.org/abs/2403.11868)] [[Code](https://github.com/Yuxuan-W/VcEdit)]
-- **📝 说明**：🏆 Accepted to ECCV 2024
-
-#### [26] Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration
+#### [24] Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration
 - **🧑‍🔬 作者**：Zhihao Liang, Qi Zhang, Wenbo Hu, Ying Feng, Lei Zhu, Kui Jia
 - **🏫 单位**：South China University of Technology ⟐ Tencent AI Lab ⟐ City University of Hong Kong ⟐ The Chinese University of Hong Kong, Shenzhen
 - **🔗 链接**：[[中英摘要](../abs/2403.11056.md)] [[arXiv:2403.11056](https://arxiv.org/abs/2403.11056)] [[Code](https://github.com/lzhnb/Analytic-Splatting)]
 - **📝 说明**：🏆 Accepted to ECCV 2024
 
-#### [27] GeoGaussian: Geometry-aware Gaussian Splatting for Scene Rendering
+#### [25] GeoGaussian: Geometry-aware Gaussian Splatting for Scene Rendering
 - **🧑‍🔬 作者**：Yanyan Li, Chenyu Lyu, Yan Di, Guangyao Zhai, Gim Hee Lee, Federico Tombari
 - **🏫 单位**：Technical University of Munich ⟐ Tianjin University ⟐ National University of Singapore ⟐ Google
 - **🔗 链接**：[[中英摘要](../abs/2403.11324.md)] [[arXiv:2403.11324](https://arxiv.org/abs/2403.11324)] [Code]
+- **📝 说明**：🏆 Accepted to ECCV 2024
+
+#### [26] BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting
+- **🧑‍🔬 作者**：Lingzhe Zhao, Peng Wang, Peidong Liu
+- **🏫 单位**：Westlake University ⟐ Zhejiang University
+- **🔗 链接**：[[中英摘要](../abs/2403.11831.md)] [[arXiv:2403.11831](https://arxiv.org/abs/2403.11831)] [[Code](https://github.com/WU-CVGL/BAD-Gaussians)]
+- **📝 说明**：🏆 Accepted to ECCV 2024
+
+#### [27] View-Consistent 3D Editing with Gaussian Splatting
+- **🧑‍🔬 作者**：Yuxuan Wang, Xuanyu Yi, Zike Wu, Na Zhao, Long Chen, Hanwang Zhang
+- **🏫 单位**：Nanyang Technological University ⟐ Singapore University of Technology and Design ⟐ Hong Kong University of Science and Technology ⟐ Skywork AI
+- **🔗 链接**：[[中英摘要](../abs/2403.11868.md)] [[arXiv:2403.11868](https://arxiv.org/abs/2403.11868)] [[Code](https://github.com/Yuxuan-W/VcEdit)]
 - **📝 说明**：🏆 Accepted to ECCV 2024
 
 #### [28] RGBD GS-ICP SLAM

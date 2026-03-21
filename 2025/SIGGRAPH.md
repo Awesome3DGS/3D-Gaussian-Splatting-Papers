@@ -1,6 +1,5 @@
 # 3D Gaussian Splatting Papers Accepted to SIGGRAPH2025
 
-
 #### [1] SpotlessSplats: Ignoring Distractors in 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Sara Sabour, Lily Goli, George Kopanas, Mark Matthews, Dmitry Lagun, Leonidas Guibas, Alec Jacobson, David J. Fleet, Andrea Tagliasacchi
 - **🏫 单位**：Google DeepMind ⟐ University of Toronto ⟐ Stanford University ⟐ Simon Fraser University
@@ -185,4 +184,28 @@
 - **🧑‍🔬 作者**：Yuancheng Xu, Wenqi Xian, Li Ma, Julien Philip, Ahmet Levent Taşel, Yiwei Zhao, Ryan Burgert, Mingming He, Oliver Hermann, Oliver Pilarski, Rahul Garg, Paul Debevec, Ning Yu
 - **🏫 单位**：Eyeline Labs ⟐ Netflix
 - **🔗 链接**：[[中英摘要](./abs/2510.14179.md)] [[arXiv:2510.14179](https://arxiv.org/abs/2510.14179)] [Code]
+- **📝 说明**: 🏆 Accepted to SIGGRAPH Asia 2025
+
+#### [32] Gaussian See, Gaussian Do: Semantic 3D Motion Transfer from Multiview Video
+- **🧑‍🔬 作者**：Yarin Bekor, Gal Michael Harari, Or Perel, Or Litany
+- **🏫 单位**：Israel Institute of Technology ⟐ NVIDIA ⟐ University of Toronto ⟐ Vector Institute
+- **🔗 链接**：[[中英摘要](../abs/2511.14848.md)] [[arXiv:2511.14848](https://arxiv.org/abs/2511.14848)] [[Code](https://github.com/GSGD-MotionTransfer/GSGD)]
+- **📝 说明**: 🏆 Accepted to SIGGRAPH Asia 2025
+
+#### [33] Clustered Error Correction with Grouped 4D Gaussian Splatting
+- **🧑‍🔬 作者**：Taeho Kang, Jaeyeon Park, Kyungjin Lee, Youngki Lee
+- **🏫 单位**：Seoul National University
+- **🔗 链接**：[[中英摘要](../abs/2511.16112.md)] [[arXiv:2511.16112](https://arxiv.org/abs/2511.16112)] [[Code](https://github.com/tho-kn/cem-4dgs)]
+- **📝 说明**: 🏆 Accepted to SIGGRAPH Asia 2025
+
+#### [34] Neural Texture Splatting: Expressive 3D Gaussian Splatting for View Synthesis, Geometry, and Dynamic Reconstruction
+- **🧑‍🔬 作者**：Yiming Wang, Shaofei Wang, Marko Mihajlovic, Siyu Tang
+- **🏫 单位**：ETH Zurich
+- **🔗 链接**：[[中英摘要](../abs/2511.18873.md)] [[arXiv:2511.18873](https://arxiv.org/abs/2511.18873)] [[Code](https://github.com/19reborn/neural-texture-splatting)]
+- **📝 说明**: 🏆 Accepted to SIGGRAPH Asia 2025
+
+#### [35] DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting
+- **🧑‍🔬 作者**：Shuyi Zhou, Shengze Zhong, Kenshi Takayama, Takafumi Taketomi, Takeshi Oishi
+- **🏫 单位**：The University of Tokyo ⟐ CyberAgent
+- **🔗 链接**：[[中英摘要](../abs/2512.10572.md)] [[arXiv:2512.10572](https://arxiv.org/abs/2512.10572)] [[Code](https://github.com/CyberAgentAILab/DeMapGS)]
 - **📝 说明**: 🏆 Accepted to SIGGRAPH Asia 2025

@@ -774,76 +774,76 @@
 - **🔗 链接**：[[中英摘要](../abs/2504.06210.md)] [[arXiv:2504.06210](https://arxiv.org/abs/2504.06210)] [[Code](https://github.com/pfnet-research/himor)]
 - **📝 说明**：🏆 Accepted to CVPR 2025
 
-#### [130] BIGS: Bimanual Category-agnostic Interaction Reconstruction from Monocular Videos via 3D Gaussian Splatting
-- **🧑‍🔬 作者**：Jeongwan On, Kyeonghwan Gwak, Gunyoung Kang, Junuk Cha, Soohyun Hwang, Hyein Hwang, Seungryul Baek
-- **🏫 单位**：UNIST, South Korea
-- **🔗 链接**：[[中英摘要](../abs/2504.09097.md)] [[arXiv:2504.09097](https://arxiv.org/abs/2504.09097)] [Code]
-- **📝 说明**：🏆 Accepted to CVPR 2025
-
-#### [131] DropoutGS: Dropping Out Gaussians for Better Sparse-view Rendering
-- **🧑‍🔬 作者**：Yexing Xu, Longguang Wang, Minglin Chen, Sheng Ao, Li Li, Yulan Guo
-- **🏫 单位**：The Shenzhen Campus, Sun Yat-Sen University ⟐ Xiamen University ⟐ University of Macau
-- **🔗 链接**：[[中英摘要](../abs/2504.09491.md)] [[arXiv:2504.09491](https://arxiv.org/abs/2504.09491)] [[Code](https://github.com/xuyx55/DropoutGS)]
-- **📝 说明**：🏆 Accepted to CVPR 2025
-
-#### [132] ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos
-- **🧑‍🔬 作者**：Zetong Zhang, Manuel kaufmann, Lixin Xue, Jie Song, Martin R. Oswald
-- **🏫 单位**：ETH Z¨ urich ⟐ HKUST(GZ) ⟐ HKUST ⟐ University of Amsterdam
-- **🔗 链接**：[[中英摘要](../abs/2504.13167.md)] [[arXiv:2504.13167](https://arxiv.org/abs/2504.13167)] [[Code](https://github.com/eth-ait/ODHSR)]
-- **📝 说明**：🏆 Accepted to CVPR 2025
-
-#### [133] SmallGS: Gaussian Splatting-based Camera Pose Estimation for Small-Baseline Videos
-- **🧑‍🔬 作者**：Yuxin Yao, Yan Zhang, Zhening Huang, Joan Lasenby
-- **🏫 单位**：University of Cambridge ⟐ Meshcapade
-- **🔗 链接**：[[中英摘要](../abs/2504.17810.md)] [[arXiv:2504.17810](https://arxiv.org/abs/2504.17810)] [[Code](https://github.com/YuxinYao620/SmallGS-release)]
-- **📝 说明**: 🏆 Accepted to CVPR 2025 PBVS Workshop
-
-#### [134] Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views
-- **🧑‍🔬 作者**：Jiang Wu, Rui Li, Yu Zhu, Rong Guo, Jinqiu Sun, Yanning Zhang
-- **🏫 单位**：Northwestern Polytechnical University
-- **🔗 链接**：[[中英摘要](../abs/2504.20378.md)] [[arXiv:2504.20378](https://arxiv.org/abs/2504.20378)] [Code]
-- **📝 说明**: 🏆 Accepted to CVPR 2025
-
-#### [135] SparSplat: Fast Multi-View Reconstruction with Generalizable 2D Gaussian Splatting
-- **🧑‍🔬 作者**：Shubhendu Jena, Shishir Reddy Vutukur, Adnane Boukhayma
-- **🏫 单位**：INRIA ⟐ TUM
-- **🔗 链接**：[[中英摘要](../abs/2505.02175.md)] [[arXiv:2505.02175](https://arxiv.org/abs/2505.02175)] [Code]
-- **📝 说明**: 🏆 Accepted to CVPR 2025 Workshop
-
-#### [136] SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction
-- **🧑‍🔬 作者**：Xinran Yang, Donghao Ji, Yuanqi Li, Jie Guo, Yanwen Guo, Junyuan Xie
-- **🏫 单位**：Nanjing University, Nanjing, China
-- **🔗 链接**：[[中英摘要](../abs/2505.04668.md)] [[arXiv:2505.04668](https://arxiv.org/abs/2505.04668)] [Code]
-- **📝 说明**: 🏆 Accepted to CVPR 2025
-
-#### [137] Time of the Flight of the Gaussians: Optimizing Depth Indirectly in Dynamic Radiance Fields
-- **🧑‍🔬 作者**：Xinran Yang, Donghao Ji, Yuanqi Li, Jie Guo, Yanwen Guo, Junyuan Xie
-- **🏫 单位**：Brown University ⟐ Meta Reality Labs ⟐ Carnegie Mellon University
-- **🔗 链接**：[[中英摘要](../abs/2505.05356.md)] [[arXiv:2505.05356](https://arxiv.org/abs/2505.05356)] [Code]
-- **📝 说明**: 🏆 Accepted to CVPR 2025
-
-#### [138] SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation
-- **🧑‍🔬 作者**：Yonwoo Choi
-- **🏫 单位**：SECERNAI
-- **🔗 链接**：[[中英摘要](../abs/2505.05475.md)] [[arXiv:2505.05475](https://arxiv.org/abs/2505.05475)] [[Code](https://github.com/yc4ny/SVAD)]
-- **📝 说明**: 🏆 Accepted to CVPR 2025 SyntaGen Workshop
-
-#### [139] Steepest Descent Density Control for Compact 3D Gaussian Splatting
-- **🧑‍🔬 作者**：Peihao Wang, Yuehao Wang, Dilin Wang, Sreyas Mohan, Zhiwen Fan, Lemeng Wu, Ruisi Cai, Yu-Ying Yeh, Zhangyang Wang, Qiang Liu, Rakesh Ranjan
-- **🏫 单位**：The University of Texas at Austin ⟐ Meta Reality Labs
-- **🔗 链接**：[[中英摘要](../abs/2505.05587.md)] [[arXiv:2505.05587](https://arxiv.org/abs/2505.05587)] [[Code](https://github.com/facebookresearch/SteepGS)]
-- **📝 说明**: 🏆 Accepted to CVPR 2025
-
-#### [140] Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting
+#### [130] Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting
 - **🧑‍🔬 作者**：Daiwei Zhang, Joaquin Gajardo, Tomislav Medic, Isinsu Katircioglu, Mike Boss, Norbert Kirchgessner, Achim Walter, Lukas Roth
 - **🏫 单位**：ETH Zurich ⟐ Swiss Data Science Center
 - **🔗 链接**：[[中英摘要](./abs/2504.06978.md)] [[arXiv:2504.06978](https://arxiv.org/abs/2504.06978)] [[Code](https://github.com/zdwww/Wheat-3DGS)]
 - **📝 说明**: 🏆 Accepted to CVPR 2025 Workshop
 
-#### [141] Apply Hierarchical-Chain-of-Generation to Complex Attributes Text-to-3D Generation
+#### [131] BIGS: Bimanual Category-agnostic Interaction Reconstruction from Monocular Videos via 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Jeongwan On, Kyeonghwan Gwak, Gunyoung Kang, Junuk Cha, Soohyun Hwang, Hyein Hwang, Seungryul Baek
+- **🏫 单位**：UNIST, South Korea
+- **🔗 链接**：[[中英摘要](../abs/2504.09097.md)] [[arXiv:2504.09097](https://arxiv.org/abs/2504.09097)] [Code]
+- **📝 说明**：🏆 Accepted to CVPR 2025
+
+#### [132] DropoutGS: Dropping Out Gaussians for Better Sparse-view Rendering
+- **🧑‍🔬 作者**：Yexing Xu, Longguang Wang, Minglin Chen, Sheng Ao, Li Li, Yulan Guo
+- **🏫 单位**：The Shenzhen Campus, Sun Yat-Sen University ⟐ Xiamen University ⟐ University of Macau
+- **🔗 链接**：[[中英摘要](../abs/2504.09491.md)] [[arXiv:2504.09491](https://arxiv.org/abs/2504.09491)] [[Code](https://github.com/xuyx55/DropoutGS)]
+- **📝 说明**：🏆 Accepted to CVPR 2025
+
+#### [133] ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos
+- **🧑‍🔬 作者**：Zetong Zhang, Manuel kaufmann, Lixin Xue, Jie Song, Martin R. Oswald
+- **🏫 单位**：ETH Z¨ urich ⟐ HKUST(GZ) ⟐ HKUST ⟐ University of Amsterdam
+- **🔗 链接**：[[中英摘要](../abs/2504.13167.md)] [[arXiv:2504.13167](https://arxiv.org/abs/2504.13167)] [[Code](https://github.com/eth-ait/ODHSR)]
+- **📝 说明**：🏆 Accepted to CVPR 2025
+
+#### [134] SmallGS: Gaussian Splatting-based Camera Pose Estimation for Small-Baseline Videos
+- **🧑‍🔬 作者**：Yuxin Yao, Yan Zhang, Zhening Huang, Joan Lasenby
+- **🏫 单位**：University of Cambridge ⟐ Meshcapade
+- **🔗 链接**：[[中英摘要](../abs/2504.17810.md)] [[arXiv:2504.17810](https://arxiv.org/abs/2504.17810)] [[Code](https://github.com/YuxinYao620/SmallGS-release)]
+- **📝 说明**: 🏆 Accepted to CVPR 2025 PBVS Workshop
+
+#### [135] Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views
+- **🧑‍🔬 作者**：Jiang Wu, Rui Li, Yu Zhu, Rong Guo, Jinqiu Sun, Yanning Zhang
+- **🏫 单位**：Northwestern Polytechnical University
+- **🔗 链接**：[[中英摘要](../abs/2504.20378.md)] [[arXiv:2504.20378](https://arxiv.org/abs/2504.20378)] [Code]
+- **📝 说明**: 🏆 Accepted to CVPR 2025
+
+#### [136] SparSplat: Fast Multi-View Reconstruction with Generalizable 2D Gaussian Splatting
+- **🧑‍🔬 作者**：Shubhendu Jena, Shishir Reddy Vutukur, Adnane Boukhayma
+- **🏫 单位**：INRIA ⟐ TUM
+- **🔗 链接**：[[中英摘要](../abs/2505.02175.md)] [[arXiv:2505.02175](https://arxiv.org/abs/2505.02175)] [Code]
+- **📝 说明**: 🏆 Accepted to CVPR 2025 Workshop
+
+#### [137] SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction
+- **🧑‍🔬 作者**：Xinran Yang, Donghao Ji, Yuanqi Li, Jie Guo, Yanwen Guo, Junyuan Xie
+- **🏫 单位**：Nanjing University, Nanjing, China
+- **🔗 链接**：[[中英摘要](../abs/2505.04668.md)] [[arXiv:2505.04668](https://arxiv.org/abs/2505.04668)] [Code]
+- **📝 说明**: 🏆 Accepted to CVPR 2025
+
+#### [138] Time of the Flight of the Gaussians: Optimizing Depth Indirectly in Dynamic Radiance Fields
+- **🧑‍🔬 作者**：Xinran Yang, Donghao Ji, Yuanqi Li, Jie Guo, Yanwen Guo, Junyuan Xie
+- **🏫 单位**：Brown University ⟐ Meta Reality Labs ⟐ Carnegie Mellon University
+- **🔗 链接**：[[中英摘要](../abs/2505.05356.md)] [[arXiv:2505.05356](https://arxiv.org/abs/2505.05356)] [Code]
+- **📝 说明**: 🏆 Accepted to CVPR 2025
+
+#### [139] SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation
+- **🧑‍🔬 作者**：Yonwoo Choi
+- **🏫 单位**：SECERNAI
+- **🔗 链接**：[[中英摘要](../abs/2505.05475.md)] [[arXiv:2505.05475](https://arxiv.org/abs/2505.05475)] [[Code](https://github.com/yc4ny/SVAD)]
+- **📝 说明**: 🏆 Accepted to CVPR 2025 SyntaGen Workshop
+
+#### [140] Apply Hierarchical-Chain-of-Generation to Complex Attributes Text-to-3D Generation
 - **🧑‍🔬 作者**：Yiming Qin, Zhu Xu, Yang Liu
 - **🏫 单位**：Peking University
 - **🔗 链接**：[[中英摘要](./abs/2505.05505.md)] [[arXiv:2505.05505](https://arxiv.org/abs/2505.05505)] [[Code](https://github.com/Wakals/GASCOL)]
+- **📝 说明**: 🏆 Accepted to CVPR 2025
+
+#### [141] Steepest Descent Density Control for Compact 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Peihao Wang, Yuehao Wang, Dilin Wang, Sreyas Mohan, Zhiwen Fan, Lemeng Wu, Ruisi Cai, Yu-Ying Yeh, Zhangyang Wang, Qiang Liu, Rakesh Ranjan
+- **🏫 单位**：The University of Texas at Austin ⟐ Meta Reality Labs
+- **🔗 链接**：[[中英摘要](../abs/2505.05587.md)] [[arXiv:2505.05587](https://arxiv.org/abs/2505.05587)] [[Code](https://github.com/facebookresearch/SteepGS)]
 - **📝 说明**: 🏆 Accepted to CVPR 2025
 
 #### [142] Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians
