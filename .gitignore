@@ -1,0 +1,5 @@
+.ai/tmp/
+.PROXY
+CLAUDE.md
+**/__pycache__/
+*.pyc
