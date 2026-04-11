@@ -4,7 +4,7 @@
 - **🧑‍🔬 作者**：Guikun Chen, Wenguan Wang
 - **🏫 单位**：Zhejiang University
 - **🔗 链接**：[[中英摘要](./abs/2401.03890.md)] [[arXiv:2401.03890](https://arxiv.org/abs/2401.03890)]
-- **📝 说明**：🔥 首篇综述；Accepted to ACM Computing Surveys 2026
+- **📝 说明**：🔥 首篇综述；🏆 Accepted to ACM Computing Surveys 2026
 
 #### [2] 3D Gaussian as a New Vision Era: A Survey
 - **🧑‍🔬 作者**：Ben Fei, Jingyi Xu, Rui Zhang, Qingyuan Zhou, Weidong Yang, Ying He
