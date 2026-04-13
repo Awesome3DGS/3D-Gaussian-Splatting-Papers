@@ -12,127 +12,139 @@
 - **🔗 链接**：[[中英摘要](../abs/2407.02598.md)] [[arXiv:2407.02598](https://arxiv.org/abs/2407.02598)] [Code]
 - **📝 说明**：🏆 Accepted to ICRA 2025
 
-#### [3] SAFER-Splat: A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps
+#### [3] Robo-GS: A Physics Consistent Spatial-Temporal Model for Robotic Arm with Hybrid Representation
+- **🧑‍🔬 作者**：Haozhe Lou, Yurong Liu, Yike Pan, Yiran Geng, Jianteng Chen, Wenlong Ma, Chenglong Li, Lin Wang, Hengzhen Feng, Lu Shi, Liyi Luo, Yongliang Shi
+- **🏫 单位**：University of Southern California ⟐ National University of Singapore ⟐ University of Michigan ⟐ Peking University ⟐ Hong Kong University of Science and Technology ⟐ Beijing Institute of Technology ⟐ Tsinghua University ⟐ Xiaomi Robotics Lab
+- **🔗 链接**：[[中英摘要](../abs/2408.14873.md)] [[arXiv:2408.14873](https://arxiv.org/abs/2408.14873)] [Code]
+- **📝 说明**： 🏆 Accepted to ICRA 2025
+
+#### [4] SAFER-Splat: A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps
 - **🧑‍🔬 作者**：Timothy Chen, Aiden Swann, Javier Yu, Ola Shorinwa, Riku Murai, Monroe Kennedy III, Mac Schwager
 - **🏫 单位**：Stanford University, Stanford, CA, USA ⟐ Imperial College London, London, UK
 - **🔗 链接**：[[中英摘要](../abs/2409.09868.md)] [[arXiv:2409.09868](https://arxiv.org/abs/2409.09868)] [[Code](https://chengine.github.io/safer-splat/)]
 - **📝 说明**：🏆 Accepted to ICRA 2025
 
-#### [4] RenderWorld: World Model with Self-Supervised 3D Label
+#### [5] RenderWorld: World Model with Self-Supervised 3D Label
 - **🧑‍🔬 作者**：Ziyang Yan, Wenzhen Dong, Yihua Shao, Yuhang Lu, Liu Haiyang, Jingwen Liu, Haozhe Wang, Zhe Wang, Yan Wang, Fabio Remondino, Yuexin Ma
 - **🏫 单位**：ShanghaiTech University ⟐ Fondazione Bruno Kessler ⟐ University of Trento ⟐ Tsinghua University ⟐ The University of Science and Technology Beijing ⟐ The Hong Kong University of Science and Technology
 - **🔗 链接**：[[中英摘要](../abs/2409.11356.md)] [[arXiv:2409.11356](https://arxiv.org/abs/2409.11356)] [Code]
 - **📝 说明**：🏆 Accepted to ICRA 2025
 
-#### [5] Hier-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting
+#### [6] Hier-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting
 - **🧑‍🔬 作者**：Boying Li, Zhixi Cai, Yuan-Fang Li, Ian Reid, Hamid Rezatofighi
 - **🏫 单位**：Faculty of Information Technology, Monash University, Australia ⟐ Mohamed bin Zayed University of Artificial Intelligence, United Arab Emirates
 - **🔗 链接**：[[中英摘要](../abs/2409.12518.md)] [[arXiv:2409.12518](https://arxiv.org/abs/2409.12518)] [[Code](https://github.com/LeeBY68/Hier-SLAM)]
 - **📝 说明**：🏆 Accepted to ICRA 2025
 
-#### [6] MGSO: Monocular Real-time Photometric SLAM with Efficient 3D Gaussian Splatting
+#### [7] MGSO: Monocular Real-time Photometric SLAM with Efficient 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Yan Song Hu, Nicolas Abboud, Muhammad Qasim Ali, Adam Srebrnjak Yang, Imad Elhajj, Daniel Asmar, Yuhao Chen, John S. Zelek
 - **🏫 单位**：University of Waterloo ⟐ University of Beirut
 - **🔗 链接**：[[中英摘要](./abs/2409.13055.md)] [[arXiv:2409.13055](https://arxiv.org/abs/2409.13055)] [Code]
 - **📝 说明**: 🏆 Accepted to ICRA 2025
 
-#### [7] SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model
+#### [8] SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model
 - **🧑‍🔬 作者**：Daniel Yang, John J. Leonard, Yogesh Girdhar
 - **🏫 单位**：MIT CSAIL ⟐ Woods Hole Oceanographic Institution
 - **🔗 链接**：[[中英摘要](./abs/2409.17345.md)] [[arXiv:2409.17345](https://arxiv.org/abs/2409.17345)] [[Code](https://github.com/dxyang/seasplat)]
 - **📝 说明**：🏆 Accepted to ICRA 2025
 
-#### [8] RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning
+#### [9] RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning
 - **🧑‍🔬 作者**：Yuxuan Wu, Lei Pan, Wenhua Wu, Guangming Wang, Yanzi Miao, Hesheng Wang
 - **🏫 单位**：Department of Automation, Shanghai Jiao Tong University ⟐ School of Information and Control Engineering, China University of Mining and Technology ⟐ MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University ⟐ Department of Engineering, University of Cambridge
 - **🔗 链接**：[[中英摘要](./abs/2409.20291.md)] [[arXiv:2409.20291](https://arxiv.org/abs/2409.20291)] [[Code](https://github.com/FurryGreen/RL-GS-Bridge)]
 - **📝 说明**: 🏆 Accepted to ICRA 2025
 
-#### [9] Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting
+#### [10] Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Matthew Strong, Boshu Lei, Aiden Swann, Wen Jiang, Kostas Daniilidis, Monroe Kennedy III
 - **🏫 单位**：Stanford University ⟐ University of Pennsylvania
 - **🔗 链接**：[[中英摘要](../abs/2410.04680.md)] [[arXiv:2410.04680](https://arxiv.org/abs/2410.04680)] [[Code](https://github.com/armlabstanford/NextBestSense)]
 - **📝 说明**：🏆 Accepted to ICRA 2025
 
-#### [10] DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes
+#### [11] DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes
 - **🧑‍🔬 作者**：Hao Li, Yuanyuan Gao, Haosong Peng, Chenming Wu, Weicai Ye, Yufeng Zhan, Chen Zhao, Dingwen Zhang, Jingdong Wang, Junwei Han
 - **🏫 单位**：NWPU ⟐ Baidu VIS ⟐ Beijing Institute of Technology ⟐ Zhejiang University
 - **🔗 链接**：[[中英摘要](../abs/2411.12309.md)] [[arXiv:2411.12309](https://arxiv.org/abs/2411.12309)] [Code]
 - **📝 说明**：🏆 Accepted to ICRA 2025
 
-#### [11] WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting
+#### [12] WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting
 - **🧑‍🔬 作者**：Chenghao Qian, Yuhu Guo, Wenjing Li, Gustav Markkula
 - **🏫 单位**：University of Leeds ⟐ Carnegie Mellon University ⟐ 42dot ⟐  School of Computing, KAIST
 - **🔗 链接**：[[中英摘要](./abs/2412.18862.md)] [[arXiv:2412.18862](https://arxiv.org/abs/2412.18862)] [[Code](https://github.com/Jumponthemoon/WeatherGS)]
 - **📝 说明**：🏆 Accepted to ICRA 2025
 
-#### [12] Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping
+#### [13] Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping
 - **🧑‍🔬 作者**：Yiming Huang, Beilei Cui, Long Bai, Zhen Chen, Jinlin Wu, Zhen Li, Hongbin Liu, Hongliang Ren
 - **🏫 单位**：CUHK
 - **🔗 链接**：[[中英摘要](../abs/2501.19319.md)] [[arXiv:2501.19319](https://arxiv.org/abs/2501.19319)] [[Code](https://github.com/lastbasket/Endo-2DTAM)]
 - **📝 说明**：🏆 Accepted to ICRA 2025
 
-#### [13] GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM
+#### [14] GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM
 - **🧑‍🔬 作者**：Mingrui Li, Weijian Chen, Na Cheng, Jingyuan Xu, Dong Li, Hongyu Wang
 - **🏫 单位**：Dalian University of Technology ⟐ Sun Yat-sen University ⟐ University of Macau
 - **🔗 链接**：[[中英摘要](../abs/2502.03228.md)] [[arXiv:2502.03228](https://arxiv.org/abs/2502.03228)] [Code]
 - **📝 说明**：🏆 Accepted to ICRA 2025
 
-#### [14] PUGS: Zero-shot Physical Understanding with Gaussian Splatting
+#### [15] PUGS: Zero-shot Physical Understanding with Gaussian Splatting
 - **🧑‍🔬 作者**：Yinghao Shuai, Ran Yu, Yuantao Chen, Zijian Jiang, Xiaowei Song, Nan Wang, Jv Zheng, Jianzhu Ma, Meng Yang, Zhicheng Wang, Wenbo Ding, Hao Zhao
 - **🏫 单位**: CAD Research Center, Tongji University ⟐ Shenzhen Ubiquitous Data Enabling Key Lab, Shenzhen International Graduate School, Tsinghua University ⟐ The Chinese University of Hong Kong, Shenzhen ⟐ MGI Tech ⟐ Chulalongkorn University ⟐ Institute for AI Industry Research (AIR), Tsinghua University ⟐ Beijing Academy of Artificial Intelligence(BAAI) ⟐ Lightwheel AI
 - **🔗 链接**：[[中英摘要](../abs/2502.12231.md)] [[arXiv:2502.12231](https://arxiv.org/abs/2502.12231)] [[Code](https://github.com/EverNorif/PUGS)]
 - **📝 说明**：🏆 Accepted to ICRA 2025
 
-#### [15] RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes
+#### [16] RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes
 - **🧑‍🔬 作者**：Sicheng Yu, Chong Cheng, Yifan Zhou, Xiaojun Yang, Hao Wang
 - **🏫 单位**: The Hong Kong University of Science and Technology (GuangZhou)
 - **🔗 链接**：[[中英摘要](../abs/2502.15633.md)] [[arXiv:2502.15633](https://arxiv.org/abs/2502.15633)] [[Code](https://github.com/3DAgentWorld/OpenGS-SLAM)]
 - **📝 说明**：🏆 Accepted to ICRA 2025
 
-#### [16] OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding
+#### [17] OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding
 - **🧑‍🔬 作者**：Dianyi Yang, Yu Gao, Xihan Wang, Yufeng Yue, Yi Yang, Mengyin Fu
 - **🏫 单位**: Beijing Institute of Technology
 - **🔗 链接**：[[中英摘要](../abs/2503.01646.md)] [[arXiv:2503.01646](https://arxiv.org/abs/2503.01646)] [[Code](https://young-bit.github.io/opengs-github.github.io/)]
 - **📝 说明**：🏆 Accepted to ICRA 2025
 
-#### [17] Persistent Object Gaussian Splat (POGS) for Tracking Human and Robot Manipulation of Irregularly Shaped Objects
+#### [18] Persistent Object Gaussian Splat (POGS) for Tracking Human and Robot Manipulation of Irregularly Shaped Objects
 - **🧑‍🔬 作者**：Justin Yu, Kush Hari, Karim El-Refai, Arnav Dalal, Justin Kerr, Chung Min Kim, Richard Cheng, Muhammad Zubair Irshad, Ken Goldberg
 - **🏫 单位**: University of California, Berkeley ⟐ Toyota Research Institute
 - **🔗 链接**：[[中英摘要](../abs/2503.05189.md)] [[arXiv:2503.05189](https://arxiv.org/abs/2503.05189)] [[Code](https://github.com/uynitsuj/pogs)]
 - **📝 说明**：🏆 Accepted to ICRA 2025
 
-#### [18] LiDAR-enhanced 3D Gaussian Splatting Mapping
+#### [19] LiDAR-enhanced 3D Gaussian Splatting Mapping
 - **🧑‍🔬 作者**：Jian Shen, Huai Yu, Ji Wu, Wen Yang, Gui-Song Xia
 - **🏫 单位**: School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou, Guangdong, China
 - **🔗 链接**：[[中英摘要](../abs/2503.05425.md)] [[arXiv:2503.05425](https://arxiv.org/abs/2503.05425)] [Code]
 - **📝 说明**：🏆 Accepted to ICRA 2025
 
-#### [19] DLO-Splatting: Tracking Deformable Linear Objects Using 3D Gaussian Splatting
+#### [20] VizFlyt: Perception-centric Pedagogical Framework For Autonomous Aerial Robots
+- **🧑‍🔬 作者**：Kushagra Srivastava, Rutwik Kulkarni, Manoj Velmurugan, Nitin J. Sanket
+- **🏫 单位**：Perception and Autonomous Robotics Group (PeAR)
+- **🔗 链接**：[[中英摘要](../abs/2503.22876.md)] [[arXiv:2503.22876](https://arxiv.org/abs/2503.22876)] [[Code](https://github.com/pearwpi/VizFlyt)]
+- **📝 说明**：🏆 Accepted to ICRA 2025
+
+#### [21] DLO-Splatting: Tracking Deformable Linear Objects Using 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Holly Dinkel, Marcel Büsching, Alberta Longhini, Brian Coltin, Trey Smith, Danica Kragic, Mårten Björkman, Timothy Bretl
 - **🏫 单位**：University of Illinois Urbana-Champaign ⟐ KTH Royal Institute of Technology ⟐ NASA Ames Research Center
 - **🔗 链接**：[[中英摘要](./abs/2505.08644.md)] [[arXiv:2505.08644](https://arxiv.org/abs/2505.08644)] [Code]
 - **📝 说明**: 🏆 Accepted to ICRA 2025 RMDO workshop
 
-#### [20] Large-Scale Gaussian Splatting SLAM
+#### [22] Large-Scale Gaussian Splatting SLAM
 - **🧑‍🔬 作者**：Zhe Xin, Chenyang Wu, Penghui Huang, Yanyong Zhang, Yinian Mao, Guoquan Huang
 - **🏫 单位**：Meituan ⟐ University of Science and Technology of China ⟐ University of Delaware
 - **🔗 链接**：[[中英摘要](./abs/2505.09915.md)] [[arXiv:2505.09915](https://arxiv.org/abs/2505.09915)] [[Code](https://github.com/lsg-slam/LSG-SLAM)]
 - **📝 说明**: 🏆 Accepted to ICRA 2025
 
-#### [21] Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM
+#### [23] Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM
 - **🧑‍🔬 作者**：Xiaolei Lang, Jiajun Lv, Kai Tang, Laijian Li, Jianxin Huang, Lina Liu, Yong Liu, Xingxing Zuo
 - **🏫 单位**：Zhejiang University ⟐ MBZUAI
 - **🔗 链接**：[[中英摘要](./abs/2507.04004.md)] [[arXiv:2507.04004](https://arxiv.org/abs/2507.04004)] [[Code](https://github.com/APRIL-ZJU/Gaussian-LIC)]
 - **📝 说明**: 🏆 Accepted to ICRA 2025
 
-#### [22] FGO-SLAM: Enhancing Gaussian SLAM with Globally Consistent Opacity Radiance Field
+#### [24] FGO-SLAM: Enhancing Gaussian SLAM with Globally Consistent Opacity Radiance Field
 - **🧑‍🔬 作者**：Fan Zhu, Yifan Zhao, Ziyu Chen, Biao Yu, Hui Zhu
 - **🏫 单位**：Chinese Academy of Sciences ⟐ University of Science and Technology of China
 - **🔗 链接**：[[中英摘要](./abs/2509.01547.md)] [[arXiv:2509.01547](https://arxiv.org/abs/2509.01547)] [Code]
 - **📝 说明**: 🏆 Accepted to ICRA 2025
 
-#### [23] A Shared-Autonomy Construction Robotic System for Overhead Works
+#### [25] A Shared-Autonomy Construction Robotic System for Overhead Works
 - **🧑‍🔬 作者**：David Minkwan Kim, K. M. Brian Lee, Yong Hyeok Seo, Nikola Raicevic, Runfa Blark Li, Kehan Long, Chan Seon Yoon, Dong Min Kang, Byeong Jo Lim, Young Pyoung Kim, Nikolay Atanasov, Truong Nguyen, Se Woong Jun, Young Wook Kim
 - **🏫 单位**：Korea Electronics Technology Institute (KETI) ⟐ University of California ⟐ ITONE Inc.
 - **🔗 链接**：[[中英摘要](./abs/2511.09695.md)] [[arXiv:2511.09695](https://arxiv.org/abs/2511.09695)] [Code]

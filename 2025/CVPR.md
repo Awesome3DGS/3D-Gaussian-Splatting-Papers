@@ -906,38 +906,45 @@
 - **🔗 链接**：[[中英摘要](./abs/2506.07865.md)] [[arXiv:2506.07865](https://arxiv.org/abs/2506.07865)] [[Code](https://github.com/vLAR-group/FreeGave)]
 - **📝 说明**: 🏆 Accepted to CVPR 2025
 
-#### [152] UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting
+#### [152] GaussianVAE: Adaptive Learning Dynamics of 3D Gaussians for High-Fidelity Super-Resolution
+- **🧑‍🔬 作者**：Shuja Khalid, Mohamed Ibrahim, Yang Liu
+- **🏫 单位**：Huawei Canada
+- **🔗 链接**：[[中英摘要](../abs/2506.07897.md)] [[arXiv:2506.07897](https://arxiv.org/abs/2506.07897)] [Code]
+- **📝 说明**： 🏆 Accepted to CVPR 2025 Visual Concepts Workshop
+
+#### [153] UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting
 - **🧑‍🔬 作者**：Ziyi Wang, Yanran Zhang, Jie Zhou, Jiwen Lu
 - **🏫 单位**：Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2506.09952.md)] [[arXiv:2506.09952](https://arxiv.org/abs/2506.09952)] [[Code](https://github.com/wangzy22/UniPre3D)]
 - **📝 说明**: 🏆 Accepted to CVPR 2025
 
-#### [153] GS-2DGS: Geometrically Supervised 2DGS for Reflective Object Reconstruction
+#### [154] GS-2DGS: Geometrically Supervised 2DGS for Reflective Object Reconstruction
 - **🧑‍🔬 作者**：Jinguang Tong, Xuesong li, Fahira Afzal Maken, Sundaram Muthu, Lars Petersson, Chuong Nguyen, Hongdong Li
 - **🏫 单位**：Australian National University ⟐ CSIRO ⟐ Indian Institute of Technology Madras
 - **🔗 链接**：[[中英摘要](./abs/2506.13110.md)] [[arXiv:2506.13110](https://arxiv.org/abs/2506.13110)] [[Code](https://github.com/hirotong/GS2DGS)]
 - **📝 说明**: 🏆 Accepted to CVPR 2025
 
-#### [154] SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting
+#### [155] SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting
 - **🧑‍🔬 作者**：Ziqiao Peng, Wentao Hu, Junyuan Ma, Xiangyu Zhu, Xiaomei Zhang, Hao Zhao, Hui Tian, Jun He, Hongyan Liu, Zhaoxin Fan
 - **🏫 单位**：Renmin University of China ⟐ Beijing University of Posts and Telecommunications ⟐ Chinese Academy of Sciences ⟐ Tsinghua University ⟐ Beihang University
 - **🔗 链接**：[[中英摘要](./abs/2506.14742.md)] [[arXiv:2506.14742](https://arxiv.org/abs/2506.14742)] [[Code](https://github.com/ziqiaopeng/SyncTalk)]
 - **📝 说明**: 🏆 Accepted to CVPR 2025
 
-#### [155] DBMovi-GS: Dynamic View Synthesis from Blurry Monocular Video via Sparse-Controlled Gaussian Splatting
+#### [156] DBMovi-GS: Dynamic View Synthesis from Blurry Monocular Video via Sparse-Controlled Gaussian Splatting
 - **🧑‍🔬 作者**：Yeon-Ji Song, Jaein Kim, Byung-Ju Kim, Byoung-Tak Zhang
 - **🏫 单位**：Interdisciplinary Program in Neuroscience ⟐ IPAI ⟐ Seoul National University
 - **🔗 链接**：[[中英摘要](./abs/2506.20998.md)] [[arXiv:2506.20998](https://arxiv.org/abs/2506.20998)] [Code]
 - **📝 说明**: 🏆 Accepted to CVPR 2025 Neural Fields Beyond Conventional Cameras Workshop
 
-#### [156] Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning
+#### [157] Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning
 - **🧑‍🔬 作者**：Buzhen Huang, Chen Li, Chongyang Xu, Dongyue Lu, Jinnan Chen, Yangang Wang, Gim Hee Lee
 - **🏫 单位**：Southeast University ⟐ National University of Singapore ⟐ Sichuan University ⟐ Agency for Science, Technology and Research, Singapore
 - **🔗 链接**：[[中英摘要](./abs/2507.02565.md)] [[arXiv:2507.02565](https://arxiv.org/abs/2507.02565)] [[Code](https://github.com/boycehbz/CloseApp)]
 - **📝 说明**: 🏆 Accepted to CVPR 2025
 
-#### [157] Gaussian Splatting Feature Fields for Privacy-Preserving Visual Localization
+#### [158] Gaussian Splatting Feature Fields for Privacy-Preserving Visual Localization
 - **🧑‍🔬 作者**：Maxime Pietrantoni, Gabriela Csurka, Torsten Sattler
 - **🏫 单位**：Czech Technical University in Prague ⟐ NAVER LABS Europe
 - **🔗 链接**：[[中英摘要](./abs/2507.23569.md)] [[arXiv:2507.23569](https://arxiv.org/abs/2507.23569)] [Code]
 - **📝 说明**: 🏆 Accepted to CVPR 2025
+

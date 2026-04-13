@@ -209,3 +209,9 @@
 - **🏫 单位**：The University of Tokyo ⟐ CyberAgent
 - **🔗 链接**：[[中英摘要](../abs/2512.10572.md)] [[arXiv:2512.10572](https://arxiv.org/abs/2512.10572)] [[Code](https://github.com/CyberAgentAILab/DeMapGS)]
 - **📝 说明**: 🏆 Accepted to SIGGRAPH Asia 2025
+
+#### [36] SketchRodGS: Sketch-based Extraction of Slender Geometries for Animating Gaussian Splatting Scenes
+- **🧑‍🔬 作者**：Haato Watanabe, Nobuyuki Umetani
+- **🏫 单位**：The University of Tokyo
+- **🔗 链接**：[[中英摘要](../abs/2601.02072.md)] [[arXiv:2601.02072](https://arxiv.org/abs/2601.02072)] [Code]
+- **📝 说明**： 🏆 Accepted to SIGGRAPH 2025

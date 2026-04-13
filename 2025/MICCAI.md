@@ -30,13 +30,19 @@
 - **🔗 链接**：[[中英摘要](./abs/2507.16608.md)] [[arXiv:2507.16608](https://arxiv.org/abs/2507.16608)] [[Code](https://github.com/windrise/Dyna3DGR)]
 - **📝 说明**: 🏆 Accepted to MICCAI 2025
 
-#### [6] Efficient 3D Scene Reconstruction and Simulation from Sparse Endoscopic Views
+#### [6] RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration
+- **🧑‍🔬 作者**：Ao Shen, Xueming Fu, Junfeng Jiang, Qiang Zeng, Ye Tang, Zhengming Chen, Luming Nong, Feng Wang, S. Kevin Zhou
+- **🏫 单位**：Hohai University ⟐ University of Science and Technology of China ⟐ The Third Affiliated Hospital of Nanjing Medical University ⟐ Tuodao Medical Technology Co., Ltd.
+- **🔗 链接**：[[中英摘要](../abs/2508.21154.md)] [[arXiv:2508.21154](https://arxiv.org/abs/2508.21154)] [[Code](https://github.com/shenao1995/RadGS_Reg)]
+- **📝 说明**： 🏆 Accepted to MICCAI 2025
+
+#### [7] Efficient 3D Scene Reconstruction and Simulation from Sparse Endoscopic Views
 - **🧑‍🔬 作者**：Zhenya Yang
 - **🏫 单位**：The Chinese University of Hong Kong
 - **🔗 链接**：[[中英摘要](./abs/2509.17027.md)] [[arXiv:2509.17027](https://arxiv.org/abs/2509.17027)] [Code]
 - **📝 说明**: 🏆 Accepted to MICCAI 2025 AECAI Workshop
 
-#### [7] BridgeSplat: Bidirectionally Coupled CT and Non-Rigid Gaussian Splatting for Deformable Intraoperative Surgical Navigation
+#### [8] BridgeSplat: Bidirectionally Coupled CT and Non-Rigid Gaussian Splatting for Deformable Intraoperative Surgical Navigation
 - **🧑‍🔬 作者**：Maximilian Fehrentz, Alexander Winkler, Thomas Heiliger, Nazim Haouchine, Christian Heiliger, Nassir Navab
 - **🏫 单位**：TU Munic ⟐ Hospital of the LMU Munich, Ludwig-Maximilians-Universität (LMU) ⟐ Harvard Medical School, Brigham and Women’s Hospital
 - **🔗 链接**：[[中英摘要](./abs/2509.18501.md)] [[arXiv:2509.18501](https://arxiv.org/abs/2509.18501)] [Code]

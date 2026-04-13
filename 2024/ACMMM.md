@@ -59,3 +59,9 @@
 - **🏫 单位**：Peking University ⟐ Pengcheng Laboratory
 - **🔗 链接**：[[中英摘要](../abs/2412.06299.md)] [[arXiv:2412.06299](https://arxiv.org/abs/2412.06299)] [[Code](https://github.com/yjb6/SaRO-GS)]
 - **📝 说明**：🏆 Accepted to ACM MM 2024 Best Paper Candidate
+
+#### [11] GS3LAM: Gaussian Semantic Splatting SLAM
+- **🧑‍🔬 作者**：Linfei Li, Lin Zhang, Zhong Wang, Ying Shen
+- **🏫 单位**：Tongji University
+- **🔗 链接**：[[中英摘要](../abs/2603.27781.md)] [[arXiv:2603.27781](https://arxiv.org/abs/2603.27781)] [[Code](https://github.com/lif314/GS3LAM)]
+- **📝 说明**：🏆 Accepted to ACM MM 2024
