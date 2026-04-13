@@ -20,7 +20,16 @@ ARXIV_ID_RE = re.compile(r"^(\d{4}\.\d{5})$")
 ARXIV_ID_WITH_VERSION_RE = re.compile(r"^(?P<base>\d{4}\.\d{5})(?:v\d+)?$")
 ATOM_NS = {"atom": "http://www.w3.org/2005/Atom"}
 HEADERS = {"User-Agent": "3dgs-papers-pipeline/1.0"}
-PROXY_FILE = Path(__file__).parent.parent / ".PROXY"
+
+
+def project_root() -> Path:
+    for parent in Path(__file__).resolve().parents:
+        if (parent / "README.md").exists():
+            return parent
+    return Path.cwd()
+
+
+PROXY_FILE = project_root() / ".PROXY"
 
 
 def _install_proxy() -> None:

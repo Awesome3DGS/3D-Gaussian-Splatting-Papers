@@ -18,7 +18,16 @@ from bs4 import BeautifulSoup
 
 
 HEADERS = {"User-Agent": "Mozilla/5.0"}
-PROXY_FILE = Path(__file__).parent.parent / ".PROXY"
+
+
+def project_root() -> Path:
+    for parent in Path(__file__).resolve().parents:
+        if (parent / "README.md").exists():
+            return parent
+    return Path.cwd()
+
+
+PROXY_FILE = project_root() / ".PROXY"
 
 
 def _install_proxy() -> None:
@@ -459,7 +468,7 @@ def update_readme(readme_path: Path, target_ids: set[str], results: dict[str, di
 def main() -> None:
     _install_proxy()
     parser = argparse.ArgumentParser()
-    parser.add_argument("--base-rev", default="b208cbc")
+    parser.add_argument("--base-rev", required=True, help="Git rev marking the start of the patch window.")
     parser.add_argument("--baseline-rev", default="HEAD")
     parser.add_argument("--readme", default="README.md")
     parser.add_argument("--report", default="/tmp/recent_sync_metadata_report.json")

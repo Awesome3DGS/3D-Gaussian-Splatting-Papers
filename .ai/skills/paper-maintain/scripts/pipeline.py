@@ -4,10 +4,10 @@
 Steps: fetch → diff → slice → download → curate → validate
 
 Usage:
-    python3 scripts/pipeline.py                  # auto-detect --since from README
-    python3 scripts/pipeline.py --since 2604.05908
-    python3 scripts/pipeline.py --batch 20       # papers per run (default: 20)
-    python3 scripts/pipeline.py --skip-fetch     # reuse existing tmp/fetch.json + tmp/diff.json
+    python3 .ai/skills/paper-maintain/scripts/paper.py run                  # auto-detect --since from README
+    python3 .ai/skills/paper-maintain/scripts/paper.py run --since 2604.05908
+    python3 .ai/skills/paper-maintain/scripts/paper.py run --batch 20       # papers per run (default: 20)
+    python3 .ai/skills/paper-maintain/scripts/paper.py run --skip-fetch     # reuse existing tmp/fetch.json + tmp/diff.json
 """
 
 from __future__ import annotations
@@ -135,7 +135,10 @@ def main() -> None:
     if remaining > 0:
         next_since = sliced["new"][-1]["arxiv_id"]
         print(f"\n{remaining} papers remaining. Next run:")
-        print(f"  python3 scripts/pipeline.py --since {next_since} --skip-fetch")
+        print(
+            "  python3 .ai/skills/paper-maintain/scripts/paper.py run "
+            f"--since {next_since} --skip-fetch"
+        )
         print("  (or just say 「继续」)")
     else:
         print("\n✓ All new papers processed.")

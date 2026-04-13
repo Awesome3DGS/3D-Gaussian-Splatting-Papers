@@ -7,7 +7,7 @@ Converts common LaTeX patterns to plain Unicode text:
   $\sim$     → ~     \emph{x}   → x    \mathcal{L} → ℒ
 
 Usage:
-    python3 scripts/clean_latex.py [--dry-run] [--readme README] [--abs-dir ABS]
+    python3 .ai/skills/paper-maintain/scripts/paper.py clean-latex [--dry-run] [--readme README] [--abs-dir ABS]
 """
 
 from __future__ import annotations

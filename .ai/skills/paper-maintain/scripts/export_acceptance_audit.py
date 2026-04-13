@@ -5,12 +5,14 @@ from __future__ import annotations
 import csv
 import json
 from dataclasses import asdict, dataclass
+from datetime import date
 from pathlib import Path
 
 from sync import README_PATH, classify_note
 
 
-AUDIT_DIR = Path("tmp/acceptance-audit-2026-03-16")
+def default_audit_dir() -> Path:
+    return Path(f"tmp/acceptance-audit-{date.today()}")
 
 
 @dataclass(frozen=True)
@@ -292,6 +294,11 @@ def write_summary(path: Path, entries: list[AuditEntry]) -> None:
 
 
 def main() -> None:
+    import argparse
+    parser = argparse.ArgumentParser(description="Export acceptance audit tables.")
+    parser.add_argument("--output-dir", type=Path, default=None, help="Output directory (default: tmp/acceptance-audit-YYYY-MM-DD).")
+    args = parser.parse_args()
+    AUDIT_DIR = args.output_dir or default_audit_dir()
     AUDIT_DIR.mkdir(parents=True, exist_ok=True)
     entries = build_entries()
     pending_entries = [

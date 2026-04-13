@@ -34,15 +34,34 @@ Worker 执行前读角色文件获取完整操作规范。
 
 ## Git 工作流
 
-- 日常开发在 `dev` 分支，合并到 `main` 前需压缩（squash）成一个提交
-- **提交只在用户明确要求时执行**
-- 提交标题格式：`Update README.md`（论文内容变更）或 `chore: ...` / `feat: ...`（基础设施变更）
-- 正文逐条列出新增论文：`Add "论文标题"`
-- 论文提交无 `Co-Authored-By`；基础设施提交可加
-- 论文提交前运行 `python scripts/changelog.py`，将 `Changelog.md` 一并 amend 进提交
-- 归档（`python scripts/sync.py`）只在用户明确要求时执行，单独提交，不与论文入库提交混合
-- Orchestrator 负责 commit，不做 push；用户自行 push
-- `.ai/plan/` 在 dev 上正常提交，但 dev 不推远程；squash 到 main 时只含论文内容变更，plan 文件实际上永远不会到达远程；关闭 dev 周期前运行 `dotai snapshot` 将 plan 知识吸收进 memory
+### 分支策略
+
+- 所有操作在 `dev` 分支进行，dev 上可多次提交修复，不要求一步到位
+- 合并到 `main` 前需整理提交历史（rebase/squash），梳理成下述三种规范提交
+- **提交只在用户明确要求时执行**；Orchestrator 负责 commit，不做 push，用户自行 push
+- `.ai/plan/` 在 dev 上正常提交，但 dev 不推远程；squash 到 main 时只含论文内容变更
+
+### 三种提交类型
+
+**1. 基础设施 / 工作流变更**
+
+- 标题：`feat: ...` 或 `chore: ...`
+- 必须单独提交，不与论文相关变更混合
+- 可加 `Co-Authored-By`
+
+**2. 新增论文**
+
+- 标题：`Update README.md`
+- 正文每行一条：`Add "论文标题"`
+- 提交前运行 `python scripts/changelog.py`，将 `Changelog.md` 一并 amend 进提交
+- 无 `Co-Authored-By`
+
+**3. 补充信息并重新归档**
+
+- 标题：`Update README.md`
+- 正文每行一条：`Archive papers accepted to {VenueYear}`
+- **所有被修改的 venue 文件都要有对应一行**，包括从 `Accepted` 兜底池重新归类到具体 venue 的情况
+- 不更新 `Changelog.md`；无 `Co-Authored-By`
 
 ## 参考
 

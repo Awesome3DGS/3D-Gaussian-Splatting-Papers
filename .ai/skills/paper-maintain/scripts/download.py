@@ -16,7 +16,14 @@ from fill_affiliations import get_pdf_first_page_text, html_source_text
 from patch import extract_note, project_page_scan, scan_arxiv_page, validate_github
 
 
-PROXY_FILE = Path(__file__).parent.parent / ".PROXY"
+def project_root() -> Path:
+    for parent in Path(__file__).resolve().parents:
+        if (parent / "README.md").exists():
+            return parent
+    return Path.cwd()
+
+
+PROXY_FILE = project_root() / ".PROXY"
 ARXIV_ID_RE = re.compile(r"^\d{4}\.\d{5}$")
 PDF_STOP_LINE_RE = re.compile(
     r"^(abstract|introduction|1[\s.]*introduction|keywords?|index terms?)\b",

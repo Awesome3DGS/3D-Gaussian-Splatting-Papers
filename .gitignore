@@ -1,4 +1,7 @@
 .ai/tmp/
+tmp/
+MEMORY.md
+MEMORY.local.md
 .PROXY
 CLAUDE.md
 **/__pycache__/
