@@ -2,7 +2,9 @@
 tmp/
 MEMORY.md
 MEMORY.local.md
+memory
 .PROXY
 CLAUDE.md
+.DS_Store
 **/__pycache__/
 *.pyc

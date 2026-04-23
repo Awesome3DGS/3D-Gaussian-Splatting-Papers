@@ -4,10 +4,10 @@
 Steps: fetch → diff → slice → download → curate → validate
 
 Usage:
-    python3 .ai/skills/paper-maintain/scripts/paper.py run                  # auto-detect --since from README
-    python3 .ai/skills/paper-maintain/scripts/paper.py run --since 2604.05908
-    python3 .ai/skills/paper-maintain/scripts/paper.py run --batch 20       # papers per run (default: 20)
-    python3 .ai/skills/paper-maintain/scripts/paper.py run --skip-fetch     # reuse existing tmp/fetch.json + tmp/diff.json
+    uv run .ai/skills/paper-maintain/scripts/paper.py run                  # auto-detect --since from README
+    uv run .ai/skills/paper-maintain/scripts/paper.py run --since 2604.05908
+    uv run .ai/skills/paper-maintain/scripts/paper.py run --batch 20       # papers per run (default: 20)
+    uv run .ai/skills/paper-maintain/scripts/paper.py run --skip-fetch     # reuse existing tmp/fetch.json + tmp/diff.json
 """
 
 from __future__ import annotations
@@ -79,10 +79,10 @@ def main() -> None:
     else:
         since = args.since or detect_since(readme)
         print(f"\n[1/5] fetch  (since {since})")
-        run(["python3", str(SCRIPTS / "fetch.py"), "--since", since, "--output", str(fetch_json)])
+        run(["uv", "run", str(SCRIPTS / "fetch.py"), "--since", since, "--output", str(fetch_json)])
 
         print("\n[2/5] diff")
-        run(["python3", str(SCRIPTS / "diff.py"), str(fetch_json), "--output", str(diff_json)])
+        run(["uv", "run", str(SCRIPTS / "diff.py"), str(fetch_json), "--output", str(diff_json)])
 
     # ── Step 3: slice to batch ──────────────────────────────────────────────
     data = json.loads(diff_json.read_text())
@@ -106,16 +106,16 @@ def main() -> None:
 
     # ── Step 4: download ────────────────────────────────────────────────────
     print("\n[4/5] download")
-    run(["python3", str(SCRIPTS / "download.py")])
+    run(["uv", "run", str(SCRIPTS / "download.py")])
 
     # ── Step 5: curate ──────────────────────────────────────────────────────
     print("\n[5/5] curate")
-    run(["python3", str(SCRIPTS / "curate.py")])
+    run(["uv", "run", str(SCRIPTS / "curate.py")])
 
     # ── Step 6: validate ────────────────────────────────────────────────────
     print("\n[6/6] validate")
     run(
-        ["python3", str(SCRIPTS / "validate.py")],
+        ["uv", "run", str(SCRIPTS / "validate.py")],
         check=False,
     )
 
@@ -136,7 +136,7 @@ def main() -> None:
         next_since = sliced["new"][-1]["arxiv_id"]
         print(f"\n{remaining} papers remaining. Next run:")
         print(
-            "  python3 .ai/skills/paper-maintain/scripts/paper.py run "
+            "  uv run .ai/skills/paper-maintain/scripts/paper.py run "
             f"--since {next_since} --skip-fetch"
         )
         print("  (or just say 「继续」)")

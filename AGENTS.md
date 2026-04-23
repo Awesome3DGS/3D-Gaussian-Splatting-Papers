@@ -17,11 +17,7 @@
 
 ## Roles
 
-| Role | 文件 | 负责 |
-|------|------|------|
-| `paper-maintainer` | `.ai/roles/paper-maintainer.md` | 论文条目增删改、摘要页维护、归类核证、计数同步 |
-
-Worker 执行前读角色文件获取完整操作规范。
+> ⚠️ `.ai/roles/paper-maintainer.md` 已删除。操作规范统一由 `.ai/skills/paper-maintain/SKILL.md` 承载。Worker 执行前读该 SKILL.md 获取完整操作规范。
 
 ## Orchestrator 核心约束
 
@@ -66,4 +62,4 @@ Worker 执行前读角色文件获取完整操作规范。
 ## 参考
 
 - 历史同步与政策记录见 `.ai/plan/`
-- 操作细则见 `.ai/roles/paper-maintainer.md`
+- 操作细则见 `.ai/skills/paper-maintain/SKILL.md`

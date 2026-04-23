@@ -7,10 +7,10 @@ metadata:
 
 # paper-maintain
 
-统一入口：`python3 .ai/skills/paper-maintain/scripts/paper.py`
+统一入口：`uv run .ai/skills/paper-maintain/scripts/paper.py`
 
 ```bash
-alias paper='python3 .ai/skills/paper-maintain/scripts/paper.py'
+alias paper='uv run .ai/skills/paper-maintain/scripts/paper.py'
 ```
 
 以下命令均使用 `paper` 简写。
