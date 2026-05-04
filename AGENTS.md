@@ -48,8 +48,8 @@
 **2. 新增论文**
 
 - 标题：`Update README.md`
-- 正文每行一条：`Add "论文标题"`
-- 提交前运行 `python scripts/changelog.py`，将 `Changelog.md` 一并 amend 进提交
+- 正文每行一条：`Add "论文标题"`，**顺序与 README 列表一致（即 arXiv ID 降序，最新条目在最上）**；多次抓取 squash 时同样按降序合并，不分批
+- 提交后运行 `paper changelog`（即 `.ai/skills/paper-maintain/scripts/changelog.py`），将 `Changelog.md` 一并 amend 进提交（Changelog 由 commit message 的 Add 行顺序生成，因此 message 顺序变更后必须重生）
 - 无 `Co-Authored-By`
 
 **3. 补充信息并重新归档**

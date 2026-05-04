@@ -163,7 +163,7 @@ All scripts consolidated under `.ai/skills/paper-maintain/scripts/` as internal 
 - Skill entry: `python3 .ai/skills/paper-maintain/scripts/paper.py` with subcommands
 - Subcommands: `fetch`, `diff`, `download`, `curate`, `patch`, `check`, `archive`, `sync`, `validate`, `run`, `changelog`
 - All execution rules (SOP, README, abs, affiliations, acceptance, validation) now live in `.ai/skills/paper-maintain/SKILL.md`
-- `changelog` integration (2026-04-14): `scripts/changelog.py` callable via `paper changelog` subcommand; Workflow 1 step 6 documents running after commit
+- `changelog` integration (2026-04-14): callable via `paper changelog` subcommand; Workflow 1 step 6 documents running after commit. (2026-05-04: 脚本由根 `scripts/changelog.py` 迁入 `.ai/skills/paper-maintain/scripts/changelog.py`，与其它子命令统一在 skill 内)
 
 **AGENTS.md structure (2026-04-08)**:
 - Lean dispatch layer (38 lines); full execution rules now in skill SKILL.md

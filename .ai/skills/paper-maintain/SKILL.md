@@ -221,7 +221,10 @@ paper validate
 
 ### 8) 提交说明规范
 
-见 `AGENTS.md` — Git 工作流 · 三种提交类型。
+见 `AGENTS.md` — Git 工作流 · 三种提交类型。要点强调：
+
+- 新增论文（type 2）的 `Add` 行**必须按 README 顺序排列**（arXiv ID 降序，最新条目在最上），多次抓取 squash 后同样降序合并
+- `Changelog.md` 由 commit message 的 `Add` 行顺序逐条生成（`paper changelog` → `.ai/skills/paper-maintain/scripts/changelog.py`），message 顺序若被 amend 调整，必须重新跑 `paper changelog` 再 amend
 
 ### 9) 工作习惯
 

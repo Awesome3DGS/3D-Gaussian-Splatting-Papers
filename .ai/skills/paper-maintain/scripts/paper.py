@@ -150,11 +150,7 @@ def cmd_sync(_: argparse.Namespace) -> None:
 
 
 def cmd_changelog(_: argparse.Namespace) -> None:
-    script_path = SCRIPT_DIR.parent.parent.parent.parent / "scripts" / "changelog.py"
-    cmd = [sys.executable, str(script_path)]
-    result = subprocess.run(cmd)
-    if result.returncode != 0:
-        raise SystemExit(result.returncode)
+    run_script("changelog.py", [])
 
 
 def cmd_validate(args: argparse.Namespace) -> None:
