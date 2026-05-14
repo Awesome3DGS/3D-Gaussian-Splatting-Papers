@@ -1,5 +1,85 @@
 # Changelog
 
+### 2026/05/14
+
+Add "AdaptSplat: Adapting Vision Foundation Models for Feed-Forward 3D Gaussian Splatting"
+
+Add "SDTalk: Structured Facial Priors and Dual-Branch Motion Fields for Generalizable Gaussian Talking Head Synthesis"
+
+Add "ConFixGS: Learning to Fix Feedforward 3D Gaussian Splatting with Confidence-Aware Diffusion Priors in Driving Scenes"
+
+Add "BEA-GS: BEyond RAdiance Supervision in 3DGS for Precise Object Extraction"
+
+Add "FrameTwin: Curve-Anchored Gaussian Alignment from Sparse Views for Adaptive Wireframe 3D Printing"
+
+Add "LagrangianSplats: Divergence-Free Transport of Gaussian Primitives for Fluid Reconstruction"
+
+Add "CAGS: Color-Adaptive Volumetric Video Streaming with Dynamic 3D Gaussian Splatting"
+
+Add "Relightable Gaussian Splatting for Virtual Production Using Image-Based Illumination"
+
+Add "ReorgGS: Equivalent Distribution Reorganization for 3D Gaussian Splatting"
+
+Add "REAP: Reinforcement-Learning End-to-End Autonomous Parking with Gaussian Splatting Simulator for Real2Sim2Real Transfer"
+
+Add "Thin-Client Interactive Gaussian Adaptive Streaming over HTTP/3"
+
+Add "PropSplat: Map-Free RF Field Reconstruction via 3D Gaussian Propagation Splatting"
+
+Add "Differentiable Ray Tracing with Gaussians for Unified Radio Propagation Simulation and View Synthesis"
+
+Add "Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization"
+
+Add "SplatWeaver: Learning to Allocate Gaussian Primitives for Generalizable Novel View Synthesis"
+
+Add "High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images"
+
+Add "From Pixels to Primitives: Scene Change Detection in 3D Gaussian Splatting"
+
+Add "AsyncEvGS: Asynchronous Event-Assisted Gaussian Splatting for Handheld Motion-Blurred Scenes"
+
+Add "SatSurfGS: Generalizable 2D Gaussian Splatting for Sparse-View Satellite Surface Reconstruction"
+
+Add "AdpSplit: Error-Driven Adaptive Splitting for Faster Geometry Discovery in 3D Gaussian Splatting"
+
+Add "OpenGaFF: Open-Vocabulary Gaussian Feature Field with Codebook Attention"
+
+Add "3DSS: 3D Surface Splatting for Inverse Rendering"
+
+Add "Sparse-to-Complete: From Sparse Image Captures to Complete 3D Scenes"
+
+Add "Aes3D: Aesthetic Assessment in 3D Gaussian Splatting"
+
+Add "QuadBox: Accelerating 3D Gaussian Splatting with Geometry-Aware Boxes"
+
+Add "ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting"
+
+Add "Velox: Learning Representations of 4D Geometry and Appearance"
+
+Add "CoherentRaster: Efficient 3D Gaussian Splatting for Light Field Displays"
+
+Add "Ilov3Splat: Instance-Level Open-Vocabulary 3D Scene Understanding in Gaussian Splatting"
+
+Add "Ground4D: Spatially-Grounded Feedforward 4D Reconstruction for Unstructured Off-Road Scenes"
+
+Add "Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures"
+
+Add "FreeTimeGS++: Secrets of Dynamic Gaussian Splatting and Their Principles"
+
+Add "HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar"
+
+Add "GETA-3DGS: Automatic Joint Structured Pruning and Quantization for 3D Gaussian Splatting"
+
+Add "From Concept to Capability: Evaluating 3D Gaussian Splatting for Synthetic Scene Editing in Autonomous Driving"
+
+Add "Multi-Scale Gaussian-Language Map for Zero-shot Embodied Navigation and Reasoning"
+
+Add "SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion"
+
+Add "A Principled Approach for Creating High-fidelity Synthetic Demonstrations for Imitation Learning"
+
+Add "TAIL-Safe: Task-Agnostic Safety Monitoring for Imitation Learning Policies"
+
 ### 2026/05/04
 
 Add "2D-SuGaR: Surface-Aware Gaussian Splatting for Geometrically Accurate Mesh Reconstruction"
