@@ -90,112 +90,112 @@
 - **🔗 链接**：[[中英摘要](./abs/2507.17336.md)] [[arXiv:2507.17336](https://arxiv.org/abs/2507.17336)] [Code]
 - **📝 说明**: 🏆 Accepted to NeurIPS 2025
 
-#### [16] Omni-Scan: Creating Visually-Accurate Digital Twin Object Models Using a Bimanual Robot with Handover and Gaussian Splat Merging
-- **🧑‍🔬 作者**：Tianshuang Qiu, Zehan Ma, Karim El-Refai, Hiya Shah, Chung Min Kim, Justin Kerr, Ken Goldberg
-- **🏫 单位**：University of California, Berkeley
-- **🔗 链接**：[[中英摘要](./abs/2508.00354.md)] [[arXiv:2508.00354](https://arxiv.org/abs/2508.00354)] [Code]
-- **📝 说明**: 🏆 Accepted to IROS 2025
-
-#### [17] Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting
+#### [16] Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Kangjie Chen, Yingji Zhong, Zhihao Li, Jiaqi Lin, Youyu Chen, Minghan Qin, Haoqian Wang
 - **🏫 单位**：Tsinghua University ⟐ HKUST ⟐ Huawei Noah’s Ark Lab ⟐ Harbin Institute of Technology
 - **🔗 链接**：[[中英摘要](./abs/2508.12720.md)] [[arXiv:2508.12720](https://arxiv.org/abs/2508.12720)] [Code]
 - **📝 说明**: 🏆 Accepted to NeurIPS 2025
 
-#### [18] SQS: Enhancing Sparse Perception Models via Query-based Splatting in Autonomous Driving
+#### [17] SQS: Enhancing Sparse Perception Models via Query-based Splatting in Autonomous Driving
 - **🧑‍🔬 作者**：Haiming Zhang, Yiyao Zhu, Wending Zhou, Xu Yan, Yingjie Cai, Bingbing Liu, Shuguang Cui, Zhen Li
 - **🏫 单位**：FNii, Shenzhen ⟐ CUHK-Shenzhen ⟐ HKUST ⟐ Huawei Noah’s Ark Lab
 - **🔗 链接**：[[中英摘要](./abs/2509.16588.md)] [[arXiv:2509.16588](https://arxiv.org/abs/2509.16588)] [Code]
 - **📝 说明**: 🏆 Accepted to NeurIPS 2025
 
-#### [19] HyRF: Hybrid Radiance Fields for Memory-efficient and High-quality Novel View Synthesis
+#### [18] HyRF: Hybrid Radiance Fields for Memory-efficient and High-quality Novel View Synthesis
 - **🧑‍🔬 作者**：Zipeng Wang, Dan Xu
 - **🏫 单位**：The Hong Kong University of Science and Technology
 - **🔗 链接**：[[中英摘要](./abs/2509.17083.md)] [[arXiv:2509.17083](https://arxiv.org/abs/2509.17083)] [[Code](https://github.com/wzpscott/hybrid-radiance-fields)]
 - **📝 说明**: 🏆 Accepted to NeurIPS 2025
 
-#### [20] Orientation-anchored Hyper-Gaussian for 4D Reconstruction from Casual Videos
+#### [19] Orientation-anchored Hyper-Gaussian for 4D Reconstruction from Casual Videos
 - **🧑‍🔬 作者**：Junyi Wu, Jiachen Tao, Haoxuan Wang, Gaowen Liu, Ramana Rao Kompella, Yan Yan
 - **🏫 单位**：University of Illinois Chicago ⟐ Cisco Research
 - **🔗 链接**：[[中英摘要](./abs/2509.23492.md)] [[arXiv:2509.23492](https://arxiv.org/abs/2509.23492)] [[Code](https://github.com/adreamwu/OriGS)]
 - **📝 说明**: 🏆 Accepted to NeurIPS 2025
 
-#### [21] MPMAvatar: Learning 3D Gaussian Avatars with Accurate and Robust Physics-Based Dynamics
+#### [20] MPMAvatar: Learning 3D Gaussian Avatars with Accurate and Robust Physics-Based Dynamics
 - **🧑‍🔬 作者**：Changmin Lee, Jihyun Lee, Tae-Kyun Kim
 - **🏫 单位**：KAIST
 - **🔗 链接**：[[中英摘要](./abs/2510.01619.md)] [[arXiv:2510.01619](https://arxiv.org/abs/2510.01619)] [[Code](https://github.com/KAISTChangmin/MPMAvatar)]
 - **📝 说明**: 🏆 Accepted to NeurIPS 2025
 
-#### [22] VA-GS: Enhancing the Geometric Representation of Gaussian Splatting via View Alignment
+#### [21] VA-GS: Enhancing the Geometric Representation of Gaussian Splatting via View Alignment
 - **🧑‍🔬 作者**：Qing Li, Huifang Feng, Xun Gong, Yu-Shen Liu
 - **🏫 单位**：Southwest Jiaotong University ⟐ Xihua University ⟐ Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2510.11473.md)] [[arXiv:2510.11473](https://arxiv.org/abs/2510.11473)] [[Code](https://github.com/LeoQLi/VA-GS)]
 - **📝 说明**: 🏆 Accepted to NeurIPS 2025
 
-#### [23] DriveGen3D: Boosting Feed-Forward Driving Scene Generation with Efficient Video Diffusion
+#### [22] DriveGen3D: Boosting Feed-Forward Driving Scene Generation with Efficient Video Diffusion
 - **🧑‍🔬 作者**：Weijie Wang, Jiagang Zhu, Zeyu Zhang, Xiaofeng Wang, Zheng Zhu, Guosheng Zhao, Chaojun Ni, Haoxiao Wang, Guan Huang, Xinze Chen, Yukun Zhou, Wenkang Qin, Duochao Shi, Haoyun Li, Guanghong Jia, Jiwen Lu
 - **🏫 单位**：GigaAI ⟐ Zhejiang University ⟐ Tsinghua University ⟐ Chinese Academy of Sciences ⟐ Peking University
 - **🔗 链接**：[[中英摘要](./abs/2510.15264.md)] [[arXiv:2510.15264](https://arxiv.org/abs/2510.15264)] [Code]
 - **📝 说明**: 🏆 Accepted to NeurIPS 2025 Workshop on Next Practices in Video Generation and Evaluation (Short Paper Track)
 
-#### [24] Fix False Transparency by Noise Guided Splatting
+#### [23] Fix False Transparency by Noise Guided Splatting
 - **🧑‍🔬 作者**：Aly El Hakie, Yiren Lu, Yu Yin, Michael Jenkins, Yehe Liu
 - **🏫 单位**：OpsiClear LLC ⟐ Case Western Reserve University
 - **🔗 链接**：[[中英摘要](./abs/2510.15736.md)] [[arXiv:2510.15736](https://arxiv.org/abs/2510.15736)] [[Code](https://github.com/OpsiClear/noise_guided_splatting)]
 - **📝 说明**: 🏆 Accepted to NeurIPS 2025
 
-#### [25] COS3D: Collaborative Open-Vocabulary 3D Segmentation
+#### [24] COS3D: Collaborative Open-Vocabulary 3D Segmentation
 - **🧑‍🔬 作者**：Runsong Zhu, Ka-Hei Hui, Zhengzhe Liu, Qianyi Wu, Weiliang Tang, Shi Qiu, Pheng-Ann Heng, Chi-Wing Fu
 - **🏫 单位**：The Chinese University of Hong Kong ⟐ Autodesk AI Lab ⟐ Lingnan University ⟐ Monash University
 - **🔗 链接**：[[中英摘要](./abs/2510.20238.md)] [[arXiv:2510.20238](https://arxiv.org/abs/2510.20238)] [[Code](https://github.com/Runsong123/COS3D)]
 - **📝 说明**: 🏆 Accepted to NeurIPS 2025
 
-#### [26] OnlineSplatter: Pose-Free Online 3D Reconstruction for Free-Moving Objects
+#### [25] OnlineSplatter: Pose-Free Online 3D Reconstruction for Free-Moving Objects
 - **🧑‍🔬 作者**：Mark He Huang, Lin Geng Foo, Christian Theobalt, Ying Sun, De Wen Soh
 - **🏫 单位**：Singapore University of Technology and Design ⟐ Max Planck Institute for Informatics ⟐ A*STAR
 - **🔗 链接**：[[中英摘要](./abs/2510.20605.md)] [[arXiv:2510.20605](https://arxiv.org/abs/2510.20605)] [Code]
 - **📝 说明**: 🏆 Accepted to NeurIPS 2025
 
-#### [27] VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting
+#### [26] VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Hoonhee Cho, Jae-Young Kang, Giwon Lee, Hyemin Yang, Heejun Park, Seokwoo Jung, Kuk-Jin Yoon
 - **🏫 单位**：KAIST ⟐ 42dot
 - **🔗 链接**：[[中英摘要](./abs/2510.23205.md)] [[arXiv:2510.23205](https://arxiv.org/abs/2510.23205)] [[Code](https://github.com/mickeykang16/VR-Drive)]
 - **📝 说明**: 🏆 Accepted to NeurIPS 2025
 
-#### [28] PlanarGS: High-Fidelity Indoor 3D Gaussian Splatting Guided by Vision-Language Planar Priors
+#### [27] PlanarGS: High-Fidelity Indoor 3D Gaussian Splatting Guided by Vision-Language Planar Priors
 - **🧑‍🔬 作者**：Xirui Jin, Renbiao Jin, Boying Li, Danping Zou, Wenxian Yu
 - **🏫 单位**：Monash University ⟐ Shanghai Jiao Tong University
 - **🔗 链接**：[[中英摘要](./abs/2510.23930.md)] [[arXiv:2510.23930](https://arxiv.org/abs/2510.23930)] [[Code](https://github.com/SJTU-ViSYS-team/PlanarGS)]
 - **📝 说明**: 🏆 Accepted to NeurIPS 2025
 
-#### [29] AtlasGS: Atlanta-world Guided Surface Reconstruction with Implicit Structured Gaussians
+#### [28] AtlasGS: Atlanta-world Guided Surface Reconstruction with Implicit Structured Gaussians
 - **🧑‍🔬 作者**：Xiyu Zhang, Chong Bao, Yipeng Chen, Hongjia Zhai, Yitong Dong, Hujun Bao, Zhaopeng Cui, Guofeng Zhang
 - **🏫 单位**：Zhejiang University
 - **🔗 链接**：[[中英摘要](./abs/2510.25129.md)] [[arXiv:2510.25129](https://arxiv.org/abs/2510.25129)] [Code]
 - **📝 说明**: 🏆 Accepted to NeurIPS 2025
 
-#### [30] EA3D: Online Open-World 3D Object Extraction from Streaming Videos
+#### [29] EA3D: Online Open-World 3D Object Extraction from Streaming Videos
 - **🧑‍🔬 作者**：Xiaoyu Zhou, Jingqi Wang, Yuang Jia, Yongtao Wang, Deqing Sun, Ming-Hsuan Yang
 - **🏫 单位**： Peking University ⟐ Google DeepMind ⟐ University of California
 - **🔗 链接**：[[中英摘要](./abs/2510.25146.md)] [[arXiv:2510.25146](https://arxiv.org/abs/2510.25146)] [[Code](https://github.com/VDIGPKU/EA3D)]
 - **📝 说明**: 🏆 Accepted to NeurIPS 2025
 
-#### [31] HEIR: Learning Graph-Based Motion Hierarchies
+#### [30] HEIR: Learning Graph-Based Motion Hierarchies
 - **🧑‍🔬 作者**：Cheng Zheng, William Koch, Baiang Li, Felix Heide
 - **🏫 单位**：Princeton University ⟐ Torc Robotics
 - **🔗 链接**：[[中英摘要](./abs/2510.26786.md)] [[arXiv:2510.26786](https://arxiv.org/abs/2510.26786)] [Code]
 - **📝 说明**: 🏆 Accepted to NeurIPS 2025
 
-#### [32] DC4GS: Directional Consistency-Driven Adaptive Density Control for 3D Gaussian Splatting
+#### [31] DC4GS: Directional Consistency-Driven Adaptive Density Control for 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Moonsoo Jeong, Dongbeen Kim, Minseong Kim, Sungkil Lee
 - **🏫 单位**：Sungkyunkwan University
 - **🔗 链接**：[[中英摘要](./abs/2510.26921.md)] [[arXiv:2510.26921](https://arxiv.org/abs/2510.26921)] [[Code](https://github.com/cgskku/dc4gs)]
 - **📝 说明**: 🏆 Accepted to NeurIPS 2025
 
-#### [33] GauDP: Reinventing Multi-Agent Collaboration through Gaussian-Image Synergy in Diffusion Policies
+#### [32] GauDP: Reinventing Multi-Agent Collaboration through Gaussian-Image Synergy in Diffusion Policies
 - **🧑‍🔬 作者**：Ziye Wang, Li Kang, Yiran Qin, Jiahua Ma, Zhanglin Peng, Lei Bai, Ruimao Zhang
 - **🏫 单位**：Sun Yat-sen University ⟐ The University of Hong Kong ⟐ Shanghai Jiao Tong University ⟐ The Chinese University of Hong Kong, Shenzhen ⟐ Shanghai AI Laboratory
 - **🔗 链接**：[[中英摘要](./abs/2511.00998.md)] [[arXiv:2511.00998](https://arxiv.org/abs/2511.00998)] [Code]
+- **📝 说明**: 🏆 Accepted to NeurIPS 2025
+
+#### [33] 4D3R: Motion-Aware Neural Reconstruction and Rendering of Dynamic Scenes from Monocular Videos
+- **🧑‍🔬 作者**：Mengqi Guo, Bo Xu, Yanyan Li, Gim Hee Lee
+- **🏫 单位**：National University of Singapore ⟐ Wuhan University
+- **🔗 链接**：[[中英摘要](./abs/2511.05229.md)] [[arXiv:2511.05229](https://arxiv.org/abs/2511.05229)] [Code]
 - **📝 说明**: 🏆 Accepted to NeurIPS 2025
 
 #### [34] IBGS: Image-Based Gaussian Splatting

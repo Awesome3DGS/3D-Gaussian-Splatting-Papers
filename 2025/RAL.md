@@ -54,8 +54,20 @@
 - **🔗 链接**：[[中英摘要](./abs/2508.07003.md)] [[arXiv:2508.07003](https://arxiv.org/abs/2508.07003)] [[Code](https://github.com/Chensiyu00/EGS-SLAM)]
 - **📝 说明**： 🏆 Accepted to RAL 2025
 
-#### [10] Explicit Memory through Online 3D Gaussian Splatting Improves Class-Agnostic Video Segmentation
+#### [10] E2-BKI: Evidential Ellipsoidal Bayesian Kernel Inference for Uncertainty-aware Gaussian Semantic Mapping
+- **🧑‍🔬 作者**：Junyoung Kim, Minsik Jeon, Jihong Min, Kiho Kwak, Junwon Seo
+- **🏫 单位**：Agency for Defense Development ⟐ Carnegie Mellon University
+- **🔗 链接**：[[中英摘要](../abs/2509.11964.md)] [[arXiv:2509.11964](https://arxiv.org/abs/2509.11964)] [Code]
+- **📝 说明**： 🏆 Accepted to IEEE RA-L 2025
+
+#### [11] Explicit Memory through Online 3D Gaussian Splatting Improves Class-Agnostic Video Segmentation
 - **🧑‍🔬 作者**：Anthony Opipari, Aravindhan K Krishnan, Shreekant Gayaka, Min Sun, Cheng-Hao Kuo, Arnie Sen, Odest Chadwicke Jenkins
 - **🏫 单位**：University of Michigan ⟐ Amazon Inc.
 - **🔗 链接**：[[中英摘要](./abs/2510.23521.md)] [[arXiv:2510.23521](https://arxiv.org/abs/2510.23521)] [Code]
 - **📝 说明**： 🏆 Accepted to RAL 2025
+
+#### [12] Rad-GS: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments
+- **🧑‍🔬 作者**：Renxiang Xiao, Wei Liu, Yuanfan Zhang, Yushuai Chen, Jinming Chen, Zilu Wang, Liang Hu
+- **🏫 单位**：Harbin Institute of Technology, Shenzhen
+- **🔗 链接**：[[中英摘要](./abs/2511.16091.md)] [[arXiv:2511.16091](https://arxiv.org/abs/2511.16091)] [Code]
+- **📝 说明**: 🏆 Accepted to RA-L 2025

@@ -66,50 +66,56 @@
 - **🔗 链接**：[[中英摘要](./abs/2507.20480.md)] [[arXiv:2507.20480](https://arxiv.org/abs/2507.20480)] [Code]
 - **📝 说明**: 🏆 Accepted to IROS 2025
 
-#### [12] OpenGS-Fusion: Open-Vocabulary Dense Mapping with Hybrid 3D Gaussian Splatting for Refined Object-Level Understanding
+#### [12] Omni-Scan: Creating Visually-Accurate Digital Twin Object Models Using a Bimanual Robot with Handover and Gaussian Splat Merging
+- **🧑‍🔬 作者**：Tianshuang Qiu, Zehan Ma, Karim El-Refai, Hiya Shah, Chung Min Kim, Justin Kerr, Ken Goldberg
+- **🏫 单位**：University of California, Berkeley
+- **🔗 链接**：[[中英摘要](./abs/2508.00354.md)] [[arXiv:2508.00354](https://arxiv.org/abs/2508.00354)] [Code]
+- **📝 说明**: 🏆 Accepted to IROS 2025
+
+#### [13] OpenGS-Fusion: Open-Vocabulary Dense Mapping with Hybrid 3D Gaussian Splatting for Refined Object-Level Understanding
 - **🧑‍🔬 作者**：Dianyi Yang, Xihan Wang, Yu Gao, Shiyang Liu, Bohan Ren, Yufeng Yue, Yi Yang
 - **🏫 单位**：Beijing Institute of Technology
 - **🔗 链接**：[[中英摘要](./abs/2508.01150.md)] [[arXiv:2508.01150](https://arxiv.org/abs/2508.01150)] [[Code](https://github.com/YOUNG-bit/OpenGS-Fusion)]
 - **📝 说明**: 🏆 Accepted to IROS 2025
 
-#### [13] Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline
+#### [14] Pseudo Depth Meets Gaussian: A Feed-forward RGB SLAM Baseline
 - **🧑‍🔬 作者**：Linqing Zhao, Xiuwei Xu, Yirui Wang, Hao Wang, Wenzhao Zheng, Yansong Tang, Haibin Yan, Jiwen Lu
 - **🏫 单位**：Tsinghua University ⟐ Beijing University of Posts and Telecommunications
 - **🔗 链接**：[[中英摘要](./abs/2508.04597.md)] [[arXiv:2508.04597](https://arxiv.org/abs/2508.04597)] [[Code](https://github.com/wangyr22/DepthGS)]
 - **📝 说明**: 🏆 Accepted to IROS 2025
 
-#### [14] Multi-view Normal and Distance Guidance Gaussian Splatting for Surface Reconstruction
+#### [15] Multi-view Normal and Distance Guidance Gaussian Splatting for Surface Reconstruction
 - **🧑‍🔬 作者**：Bo Jia, Yanan Guo, Ying Chang, Benkui Zhang, Ying Xie, Kangning Du, Lin Cao
 - **🏫 单位**：Beijing Information Science and Technology University ⟐ CAS
 - **🔗 链接**：[[中英摘要](./abs/2508.07701.md)] [[arXiv:2508.07701](https://arxiv.org/abs/2508.07701)] [[Code](https://github.com/Bistu3DV/MND-GS)]
 - **📝 说明**: 🏆 Accepted to IROS 2025
 
-#### [15] Botany-Bot: Digital Twin Monitoring of Occluded and Underleaf Plant Structures with Gaussian Splats
+#### [16] Botany-Bot: Digital Twin Monitoring of Occluded and Underleaf Plant Structures with Gaussian Splats
 - **🧑‍🔬 作者**：Simeon Adebola, Chung Min Kim, Justin Kerr, Shuangyu Xie, Prithvi Akella, Jose Luis Susa Rincon, Eugen Solowjow, Ken Goldberg
 - **🏫 单位**：UC Berkeley ⟐ Siemens Research Lab
 - **🔗 链接**：[[中英摘要](./abs/2510.17783.md)] [[arXiv:2510.17783](https://arxiv.org/abs/2510.17783)] [Code]
 - **📝 说明**: 🏆 Accepted to IROS 2025
 
-#### [16] GRASPLAT: Enabling dexterous grasping through novel view synthesis
+#### [17] GRASPLAT: Enabling dexterous grasping through novel view synthesis
 - **🧑‍🔬 作者**：Matteo Bortolon, Nuno Ferreira Duarte, Plinio Moreno, Fabio Poiesi, José Santos-Victor, Alessio Del Bue
 - **🏫 单位**：Fondazione Bruno Kessler ⟐ Fondazione Istituto Italiano di Tecnologia ⟐ Universidade de Lisboa ⟐ University of Trento
 - **🔗 链接**：[[中英摘要](./abs/2510.19200.md)] [[arXiv:2510.19200](https://arxiv.org/abs/2510.19200)] [Code]
 - **📝 说明**: 🏆 Accepted to IROS 2025
 
-#### [17] STG-Avatar: Animatable Human Avatars via Spacetime Gaussian
+#### [18] STG-Avatar: Animatable Human Avatars via Spacetime Gaussian
 - **🧑‍🔬 作者**：Guangan Jiang, Tianzi Zhang, Dong Li, Zhenjun Zhao, Haoang Li, Mingrui Li, Hongyu Wang
 - **🏫 单位**：Dalian University of Technology ⟐ Fudan University ⟐ University of Macau ⟐ University of Zaragoz ⟐ Hong Kong University of Science and Technology
 (Guangzhou)
 - **🔗 链接**：[[中英摘要](./abs/2510.22140.md)] [[arXiv:2510.22140](https://arxiv.org/abs/2510.22140)] [[Code](https://github.com/jiangguangan/STG-Avatar)]
 - **📝 说明**: 🏆 Accepted to IROS 2025
 
-#### [18] Robust and High-Fidelity 3D Gaussian Splatting: Fusing Pose Priors and Geometry Constraints for Texture-Deficient Outdoor Scenes
+#### [19] Robust and High-Fidelity 3D Gaussian Splatting: Fusing Pose Priors and Geometry Constraints for Texture-Deficient Outdoor Scenes
 - **🧑‍🔬 作者**：Meijun Guo, Yongliang Shi, Caiyun Liu, Yixiao Feng, Ming Ma, Tinghai Yan, Weining Lu, Bin Liang
 - **🏫 单位**：Beijing Institute of Technology ⟐ Beiing National Research Center for Information Science and Technology ⟐ Qiyuan Lab ⟐ Peking University
 - **🔗 链接**：[[中英摘要](./abs/2511.06765.md)] [[arXiv:2511.06765](https://arxiv.org/abs/2511.06765)] [Code]
 - **📝 说明**: 🏆 Accepted to IROS 2025
 
-#### [19] iGaussian: Real-Time Camera Pose Estimation via Feed-Forward 3D Gaussian Splatting Inversion
+#### [20] iGaussian: Real-Time Camera Pose Estimation via Feed-Forward 3D Gaussian Splatting Inversion
 - **🧑‍🔬 作者**：Hao Wang, Linqing Zhao, Xiuwei Xu, Jiwen Lu, Haibin Yan
 - **🏫 单位**：Beijing University of Posts and Telecommunications ⟐ Tsinghua University
 - **🔗 链接**：[[中英摘要](../abs/2511.14149.md)] [[arXiv:2511.14149](https://arxiv.org/abs/2511.14149)] [[Code](https://github.com/pythongod-exe/iGaussian)]

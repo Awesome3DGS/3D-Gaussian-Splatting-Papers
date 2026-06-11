@@ -23,3 +23,9 @@
 - **🏫 单位**：Keio University ⟐ Max Planck Institute for Informatics
 - **🔗 链接**：[[中英摘要](./abs/2510.11717.md)] [[arXiv:2510.11717](https://arxiv.org/abs/2510.11717)] [Code]
 - **📝 说明**: 🏆 Accepted to BMVC 2025
+
+#### [5] M2StyleGS: Multi-Modality 3D Style Transfer with Gaussian Splatting
+- **🧑‍🔬 作者**：Xingyu Miao, Xueqi Qiu, Haoran Duan, Yawen Huang, Xian Wu, Jingjing Deng, Yang Long
+- **🏫 单位**：Durham University ⟐ Tsinghua University ⟐ Tencent ⟐ Bristol University
+- **🔗 链接**：[[中英摘要](../abs/2604.03773.md)] [[arXiv:2604.03773](https://arxiv.org/abs/2604.03773)] [[Code](https://github.com/Nora202/MMStyleGS)]
+- **📝 说明**: 🏆 Accepted to BMVC 2025

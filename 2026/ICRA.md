@@ -101,3 +101,9 @@
 - **🏫 单位**：Zhejiang University ⟐ The Hong Kong University of Science and Technology
 - **🔗 链接**：[[中英摘要](./abs/2604.02996.md)] [[arXiv:2604.02996](https://arxiv.org/abs/2604.02996)] [Code]
 - **📝 说明**： 🏆 Accepted to ICRA 2026
+
+#### [18] GGD-SLAM: Monocular 3DGS SLAM Powered by Generalizable Motion Model for Dynamic Environments
+- **🧑‍🔬 作者**：Yi Liu, Haoxuan Xu, Hongbo Duan, Keyu Fan, Zhengyang Zhang, Peiyu Zhuang, Pengting Luo, Houde Liu
+- **🏫 单位**：Tsinghua University ⟐ The Hong Kong University of Science and Technology (Guangzhou) ⟐ Sun Yat-sen University ⟐ Huawei Incorporated Company
+- **🔗 链接**：[[中英摘要](./abs/2604.12837.md)] [[arXiv:2604.12837](https://arxiv.org/abs/2604.12837)] [Code]
+- **📝 说明**: 🏆 Accepted to ICRA 2026

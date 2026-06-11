@@ -131,3 +131,9 @@
 - **🏫 单位**：Yonsei University
 - **🔗 链接**：[[中英摘要](../abs/2512.09335.md)] [[arXiv:2512.09335](https://arxiv.org/abs/2512.09335)] [Code]
 - **📝 说明**: 🏆 Accepted to ACM MM 2025
+
+#### [23] Spatiotemporal Degradation-Aware 3D Gaussian Splatting for Realistic Underwater Scene Reconstruction
+- **🧑‍🔬 作者**：Shaohua Liu, Ning Gao, Zuoya Gu, Hongkun Dou, Yue Deng, Hongjue Li
+- **🏫 单位**：Beihang University
+- **🔗 链接**：[[中英摘要](./abs/2604.23551.md)] [[arXiv:2604.23551](https://arxiv.org/abs/2604.23551)] [Code]
+- **📝 说明**: 🏆 Accepted to ACM MM 2025

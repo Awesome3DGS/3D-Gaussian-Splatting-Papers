@@ -90,74 +90,86 @@
 - **🔗 链接**：[[中英摘要](../abs/2406.06521.md)] [[arXiv:2406.06521](https://arxiv.org/abs/2406.06521)] [[Code](https://github.com/zju3dv/PGSR)]
 - **📝 说明**：🏆 Accepted to TVCG 2024
 
-#### [16] Reducing the Memory Footprint of 3D Gaussian Splatting
+#### [16] E2GS: Event Enhanced Gaussian Splatting
+- **🧑‍🔬 作者**：Hiroyuki Deguchi, Mana Masuda, Takuya Nakabayashi, Hideo Saito
+- **🏫 单位**：Keio University
+- **🔗 链接**：[[中英摘要](./abs/2406.14978.md)] [[arXiv:2406.14978](https://arxiv.org/abs/2406.14978)] [[Code](https://github.com/deguchihiroyuki/E2GS)]
+- **📝 说明**： 🏆 Accepted to ICIP 2024
+
+#### [17] Reducing the Memory Footprint of 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Panagiotis Papantonakis, Georgios Kopanas, Bernhard Kerbl, Alexandre Lanvin, George Drettakis
 - **🏫 单位**：Inria, Université Côte d’Azur
 - **🔗 链接**：[[中英摘要](../abs/2406.17074.md)] [[arXiv:2406.17074](https://arxiv.org/abs/2406.17074)] [Code]
 - **📝 说明**：🏆 Accepted to I3D 2024
 
-#### [17] RTGS: Enabling Real-Time Gaussian Splatting on Mobile Devices Using Efficiency-Guided Pruning and Foveated Rendering
+#### [18] RTGS: Enabling Real-Time Gaussian Splatting on Mobile Devices Using Efficiency-Guided Pruning and Foveated Rendering
 - **🧑‍🔬 作者**：Weikai Lin, Yu Feng, Yuhao Zhu
 - **🏫 单位**：University of Rochester ⟐ Shanghai Jiao Tong University
 - **🔗 链接**：[[中英摘要](../abs/2407.00435.md)] [[arXiv:2407.00435](https://arxiv.org/abs/2407.00435)] [[Code](https://github.com/horizon-research/Fov-3DGS)]
 - **📝 说明**：🏆 Accepted to ASPLOS 2025
 
-#### [18] DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction
+#### [19] DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction
 - **🧑‍🔬 作者**：Yujin Ham, Mateusz Michalkiewicz, Guha Balakrishnan
 - **🏫 单位**：Rice University
 - **🔗 链接**：[[中英摘要](../abs/2407.01761.md)] [[arXiv:2407.01761](https://arxiv.org/abs/2407.01761)] [Code]
 - **📝 说明**：🏆 Accepted to ICCP 2024
 
-#### [19] Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting
+#### [20] Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting
 - **🧑‍🔬 作者**：Sheng Ye, Zhen-Hui Dong, Yubin Hu, Yu-Hui Wen, Yong-Jin Liu
 - **🏫 单位**：MOE-Key Laboratory of Pervasive Computing, the Department of Computer Science and Technology, Tsinghua University ⟐ Beijing Key Laboratory of Traffic Data Analysis and Mining, School of Computer and Information Technology, Beijing Jiaotong University
 - **🔗 链接**：[[中英摘要](../abs/2408.09130.md)] [[arXiv:2408.09130](https://arxiv.org/abs/2408.09130)] [[Code](https://github.com/yec22/Gaussian-DK)]
 - **📝 说明**：🏆 Accepted to Pacific Graphics 2024
 
-#### [20] Robust 3D Gaussian Splatting for Novel View Synthesis in Presence of Distractors
+#### [21] Robust 3D Gaussian Splatting for Novel View Synthesis in Presence of Distractors
 - **🧑‍🔬 作者**：Paul Ungermann, Armin Ettenhofer, Matthias Nießner, Barbara Roessle
 - **🏫 单位**：Technical University of Munich
 - **🔗 链接**：[[中英摘要](../abs/2408.11697.md)] [[arXiv:2408.11697](https://arxiv.org/abs/2408.11697)] [Code]
 - **📝 说明**：🏆 Accepted to GCPR 2024
 
-#### [21] Single-View 3D Reconstruction via SO(2)-Equivariant Gaussian Sculpting Networks
+#### [22] Single-View 3D Reconstruction via SO(2)-Equivariant Gaussian Sculpting Networks
 - **🧑‍🔬 作者**：Ruihan Xu, Anthony Opipari, Joshua Mah, Stanley Lewis, Haoran Zhang, Hanzhe Guo, Odest Chadwicke Jenkins
 - **🏫 单位**：University of Michigan
 - **🔗 链接**：[[中英摘要](../abs/2409.07245.md)] [[arXiv:2409.07245](https://arxiv.org/abs/2409.07245)] [Code]
 - **📝 说明**：🏆 Accepted to RSS 2024 Workshop on Geometric and Algebraic Structure in Robot Learning
 
-#### [22] A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis
+#### [23] A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis
 - **🧑‍🔬 作者**：Yohan Poirier-Ginter, Alban Gauthier, Julien Philip, Jean-Francois Lalonde, George Drettakis
 - **🏫 单位**：Inria, Université Côte d'Azur ⟐ Université Laval ⟐ Adobe Research
 - **🔗 链接**：[[中英摘要](../abs/2409.08947.md)] [[arXiv:2409.08947](https://arxiv.org/abs/2409.08947)] [[Code](https://repo-sam.inria.fr/fungraph/generative-radiance-field-relighting/)]
 - **📝 说明**：🏆 Accepted to EGSR 2024
 
-#### [23] MeshGS: Adaptive Mesh-Aligned Gaussian Splatting for High-Quality Rendering
+#### [24] MeshGS: Adaptive Mesh-Aligned Gaussian Splatting for High-Quality Rendering
 - **🧑‍🔬 作者**：Jaehoon Choi, Yonghan Lee, Hyungtae Lee, Heesung Kwon, Dinesh Manocha
 - **🏫 单位**：University of Maryland ⟐ DEVCOM Army Research Laboratory ⟐ BlueHalo, Rockville
 - **🔗 链接**：[[中英摘要](../abs/2410.08941.md)] [[arXiv:2410.08941](https://arxiv.org/abs/2410.08941)] [Code]
 - **📝 说明**：🏆 Accepted to ACCV 2024
 
-#### [24] Hybrid bundle-adjusting 3D Gaussians for view consistent rendering with pose optimization
+#### [25] Hybrid bundle-adjusting 3D Gaussians for view consistent rendering with pose optimization
 - **🧑‍🔬 作者**：Yanan Guo, Ying Xie, Ying Chang, Benkui Zhang, Bo Jia, Lin Cao
 - **🏫 单位**：Beijing Information Science and Technology University ⟐ Aerospace Information Research Institute
 - **🔗 链接**：[[中英摘要](../abs/2410.13280.md)] [[arXiv:2410.13280](https://arxiv.org/abs/2410.13280)] [[Code](https://github.com/Bistu3DV/hybridBA)]
 - **📝 说明**：🏆 Accepted to Photonics Asia 2024
 
-#### [25] GGAvatar: Reconstructing Garment-Separated 3D Gaussian Splatting Avatars from Monocular Video
+#### [26] GGAvatar: Reconstructing Garment-Separated 3D Gaussian Splatting Avatars from Monocular Video
 - **🧑‍🔬 作者**：Jingxuan Chen
 - **🏫 单位**：Jinan University-University of Birmingham Joint Institute
 - **🔗 链接**：[[中英摘要](../abs/2411.09952.md)] [[arXiv:2411.09952](https://arxiv.org/abs/2411.09952)] [[Code](https://github.com/J-X-Chen/GGAvatar/)]
 - **📝 说明**：🏆 Accepted to MMAsia 2024
 
-#### [26] GSEditPro: 3D Gaussian Splatting Editing with Attention-based Progressive Localization
+#### [27] GSEditPro: 3D Gaussian Splatting Editing with Attention-based Progressive Localization
 - **🧑‍🔬 作者**：Yanhao Sun, RunZe Tian, Xiao Han, XinYao Liu, Yan Zhang, Kai Xu
 - **🏫 单位**：State Key Laboratory for Novel Software Technology of Nanjing University, China ⟐ National University of Defense Technology, China
 - **🔗 链接**：[[中英摘要](../abs/2411.10033.md)] [[arXiv:2411.10033](https://arxiv.org/abs/2411.10033)] [Code]
 - **📝 说明**：🏆 Accepted to Pacific Graphics 2024
 
-#### [27] 2DGS-Avatar: Animatable High-fidelity Clothed Avatar via 2D Gaussian Splatting
+#### [28] 2DGS-Avatar: Animatable High-fidelity Clothed Avatar via 2D Gaussian Splatting
 - **🧑‍🔬 作者**：Qipeng Yan, Mingyang Sun, Lihua Zhang
 - **🏫 单位**：Academy for Engineering and Technology Fudan University
 - **🔗 链接**：[[中英摘要](../abs/2503.02452.md)] [[arXiv:2503.02452](https://arxiv.org/abs/2503.02452)] [Code]
 - **📝 说明**：🏆 Accepted to ICVRV 2024
+
+#### [29] 3DOF+Quantization: 3DGS quantization for large scenes with limited Degrees of Freedom
+- **🧑‍🔬 作者**：Matthieu Gendrin, Stéphane Pateux, Théo Ladune
+- **🏫 单位**：Orange Innovation
+- **🔗 链接**：[[中英摘要](./abs/2509.06400.md)] [[arXiv:2509.06400](https://arxiv.org/abs/2509.06400)] [Code]
+- **📝 说明**: 🏆 Accepted to CORESA 2024
