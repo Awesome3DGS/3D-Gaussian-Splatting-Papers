@@ -1,5 +1,9 @@
 # Changelog
 
+### 2026/10/03
+
+Add "Splaxel: Efficient Distributed Training of 3D Gaussian Splatting for Large-scale Scene Reconstruction via Pixel-level Communication"
+
 ### 2026/05/14
 
 Add "AdaptSplat: Adapting Vision Foundation Models for Feed-Forward 3D Gaussian Splatting"
